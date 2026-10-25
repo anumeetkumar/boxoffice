@@ -1,0 +1,7 @@
+{
+  "image_url": "https://dl.google.com/android/repository/sys-img/google_apis/x86_64-35_r09.zip",
+  "image_sha1": "0103e6dab21290c4b9d16550a3ce99476f884eef",
+  "frida_asset": "https://github.com/frida/frida/releases/download/17.23.2/frida-server-17.23.2-android-x86_64.xz",
+  "frida_sha256": "sha256:05e05fe9a048c177eab63c9dc96d0d02b4d2294d3fbd98e91f477021601df02b",
+  "phone_modified": false
+}

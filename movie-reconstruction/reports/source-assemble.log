@@ -1,0 +1,38 @@
+To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/8.13/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Daemon will be stopped at the end of the build 
+> Task :bytecode-app:prepareRecovery UP-TO-DATE
+> Task :source-app:preBuild UP-TO-DATE
+> Task :source-app:preDebugBuild UP-TO-DATE
+> Task :source-app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :source-app:generateDebugBuildConfig
+> Task :source-app:javaPreCompileDebug
+> Task :source-app:checkDebugAarMetadata
+> Task :source-app:generateDebugResValues
+> Task :source-app:mapDebugSourceSetPaths
+> Task :source-app:generateDebugResources
+
+> Task :source-app:mergeDebugResources FAILED
+ERROR: C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\bytecode-app\apktool\res\drawable\$applovin_ic_mute_to_unmute__0.xml: Resource and asset merger: '$' is not a valid file-based resource name character: File-based resource names must contain only lowercase a-z, 0-9, or underscore
+
+[Incubating] Problems report is available at: file:///C:/Users/AlphaDell-60/Documents/code/personal/rea-test/movie-reconstruction/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':source-app:mergeDebugResources'.
+> C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\bytecode-app\apktool\res\drawable\$applovin_ic_mute_to_unmute__0.xml: Error: '$' is not a valid file-based resource name character: File-based resource names must contain only lowercase a-z, 0-9, or underscore
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.13/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 16s
+8 actionable tasks: 7 executed, 1 up-to-date

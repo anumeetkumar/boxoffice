@@ -1,0 +1,31 @@
+{
+  "project": "MovieRecovery",
+  "gradle_version": "8.13",
+  "android_gradle_plugin": "8.8.2",
+  "gradle_jdk": "Android Studio JBR 21.0.9",
+  "source_language_target": "Java 17",
+  "compile_sdk": 35,
+  "target_sdk": 33,
+  "minimum_sdk": 24,
+  "android_build_dependencies_resolved": true,
+  "gradle_wrapper_generated": true,
+  "gradle_wrapper_distribution_sha256": "20f1b1176237254a6fc204d8434196fa11a4cfb387567519c61556e8710aed78",
+  "preserved_bytecode_apk_build_passed": true,
+  "apk_signature_verified": true,
+  "apk_alignment_verified": true,
+  "unchanged_non_resource_payloads": 168,
+  "recovered_java_build_passed": false,
+  "java_diagnostics": {
+    "reported_error_limit": 200,
+    "error_limit_reached": true,
+    "first_error": "Reconstructed static initializers are not allowed in Java interfaces",
+    "log": "java-compilation.log"
+  },
+  "normal_android_source_build_passed": false,
+  "source_build_blocker": "Recovered resource filenames beginning with $ fail mergeDebugResources",
+  "source_build_log": "source-assemble.log",
+  "rebuilt_apk_uses_recovered_java_edits": false,
+  "runtime_tested": true,
+  "device_installation_performed": true,
+  "startup_smoke_passed": true
+}

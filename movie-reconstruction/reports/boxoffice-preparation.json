@@ -1,0 +1,50 @@
+{
+  "brand": "BoxOffice",
+  "package_unchanged": "com.fvvcl.flickverse",
+  "navigation": [
+    "Home",
+    "Streaming",
+    "Categories",
+    "Me"
+  ],
+  "ad_init_methods_disabled": 2,
+  "ad_providers_removed": [
+    "com.applovin.sdk.AppLovinInitProvider",
+    "com.facebook.ads.AudienceNetworkContentProvider",
+    "com.google.android.gms.ads.MobileAdsInitProvider",
+    "com.ironsource.lifecycle.IronsourceLifecycleProvider",
+    "com.ironsource.lifecycle.LevelPlayActivityLifecycleProvider",
+    "com.mbridge.msdk.config.component.status.MBComponentLifecycleProvider",
+    "com.vungle.ads.VungleProvider",
+    "com.yandex.mobile.ads.core.initializer.MobileAdsInitializeProvider",
+    "com.yandex.mobile.ads.features.debugpanel.data.local.DebugPanelFileProvider",
+    "com.yk.e.provider.MainProvider",
+    "io.bidmachine.BidMachineInitProvider",
+    "sg.bigo.ads.controller.provider.BigoAdsProvider"
+  ],
+  "collapsed_promotional_views": [
+    "res\\layout\\activity_video_play_detail.xml:vpLayout",
+    "res\\layout\\fragment_mine.xml:vipBg",
+    "res\\layout\\fragment_mine.xml:promotional-row",
+    "res\\layout\\simple_exo_barrage_view.xml:video_top_ad"
+  ],
+  "renamed_string_resources": [
+    "res\\values\\strings.xml",
+    "res\\values-ar-rAR\\strings.xml",
+    "res\\values-en-rUS\\strings.xml",
+    "res\\values-es-rES\\strings.xml",
+    "res\\values-es-rMX\\strings.xml",
+    "res\\values-fr-rFR\\strings.xml",
+    "res\\values-hi-rIN\\strings.xml",
+    "res\\values-in-rID\\strings.xml",
+    "res\\values-it-rIT\\strings.xml",
+    "res\\values-ml-rIN\\strings.xml",
+    "res\\values-pt-rPT\\strings.xml",
+    "res\\values-ru-rRU\\strings.xml",
+    "res\\values-ta-rIN\\strings.xml",
+    "res\\values-te-rIN\\strings.xml",
+    "res\\values-th-rTH\\strings.xml",
+    "res\\values-vi-rVN\\strings.xml"
+  ],
+  "generated_icon": "C:\\Users\\AlphaDell-60\\Documents\\code\\personal\\rea-test\\movie-reconstruction\\boxoffice\\assets\\boxoffice-icon.png"
+}

@@ -1,0 +1,22 @@
+{
+  "device_serial": "R5CNC1861HF",
+  "device_model": "Samsung SM-G998B",
+  "android_api": 35,
+  "abis": [
+    "arm64-v8a",
+    "armeabi-v7a",
+    "armeabi"
+  ],
+  "installed": true,
+  "launch_exit_code": 0,
+  "process_alive_after_8_seconds": true,
+  "process_ids": "3183",
+  "focused_window": [
+    "mCurrentFocus=Window{959988e u0 com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity}",
+    "mFocusedApp=ActivityRecord{f715201 u0 com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity t2750}"
+  ],
+  "scope": "Installation/startup smoke test only. Original DEX preserved; recovered Java not compiled.",
+  "primary_user_id": 0,
+  "app_uid": "10647",
+  "app_logcat_exit_code": 0
+}

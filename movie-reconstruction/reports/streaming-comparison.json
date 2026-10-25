@@ -1,0 +1,51 @@
+{
+  "tested_item": "Bigg Boss Season 20 Episode 1",
+  "catalog_id": 592351,
+  "environment": "same isolated emulator and host network; sequential installations",
+  "instrumentation": "read-only Java data-source observation, original return values and exceptions preserved",
+  "original": {
+    "locations": [
+      {
+        "host": "127.0.0.1",
+        "path": "/resource.mp4",
+        "scheme": "http",
+        "upstream": {
+          "has_query": false,
+          "host": "6rga.a0p3.com",
+          "path": "/vod/1/2026/09/07/3c25928291af/704196871.mp4",
+          "scheme": "http"
+        }
+      }
+    ],
+    "observed_open_attempts": 2,
+    "observed_open_errors": 1,
+    "mean_failed_open_ms": 7622
+  },
+  "rebuilt": {
+    "locations": [
+      {
+        "host": "127.0.0.1",
+        "path": "/resource.mp4",
+        "scheme": "http",
+        "upstream": {
+          "has_query": false,
+          "host": "6rga.a0p3.com",
+          "path": "/vod/1/2026/09/07/3c25928291af/704196871.mp4",
+          "scheme": "http"
+        }
+      }
+    ],
+    "observed_open_attempts": 6,
+    "observed_open_errors": 6,
+    "mean_failed_open_ms": 7026
+  },
+  "same_stream_resource": true,
+  "both_observed_http_open_failure": true,
+  "pc_bounded_origin_http_probe_status": 403,
+  "pc_bounded_origin_https_probe_status": 403,
+  "phone_origin_status_proven": false,
+  "phone_original_comparison_completed": true,
+  "streaming_issue_fixed": false,
+  "phone_original_same_episode_failed": true,
+  "phone_original_download_queue_empty": true
+}

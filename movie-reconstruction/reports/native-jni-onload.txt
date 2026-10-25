@@ -1,0 +1,153 @@
+
+bytecode-app\apktool\lib\arm64-v8a\libpp_hls.so:	file format elf64-littleaarch64
+
+Disassembly of section .text:
+
+00000000000e7c34 <JNI_OnLoad>:
+   e7c34: d10083ff     	sub	sp, sp, #0x20
+   e7c38: a9017bf3     	stp	x19, x30, [sp, #0x10]
+   e7c3c: d53bd053     	mrs	x19, TPIDR_EL0
+   e7c40: f9401668     	ldr	x8, [x19, #0x28]
+   e7c44: aa0003e3     	mov	x3, x0
+   e7c48: f0000080     	adrp	x0, 0xfa000 <_ZN9__arm_c_19__arm_c_0Ev+0x3b48>
+   e7c4c: b00003c2     	adrp	x2, 0x160000
+   e7c50: aa0103e4     	mov	x4, x1
+   e7c54: 913c8000     	add	x0, x0, #0xf20
+   e7c58: 911dc042     	add	x2, x2, #0x770
+   e7c5c: 52816b01     	mov	w1, #0xb58              // =2904
+   e7c60: f90007e8     	str	x8, [sp, #0x8]
+   e7c64: 97fe1573     	bl	0x6d230 <interpreter_wrap_int64_t@plt>
+   e7c68: f9401668     	ldr	x8, [x19, #0x28]
+   e7c6c: f94007e9     	ldr	x9, [sp, #0x8]
+   e7c70: eb09011f     	cmp	x8, x9
+   e7c74: 54000081     	b.ne	0xe7c84 <JNI_OnLoad+0x50>
+   e7c78: a9417bf3     	ldp	x19, x30, [sp, #0x10]
+   e7c7c: 910083ff     	add	sp, sp, #0x20
+   e7c80: d65f03c0     	ret
+   e7c84: 97fe152f     	bl	0x6d140 <__stack_chk_fail@plt>
+   e7c88: d10083ff     	sub	sp, sp, #0x20
+   e7c8c: a9017bf3     	stp	x19, x30, [sp, #0x10]
+   e7c90: d53bd053     	mrs	x19, TPIDR_EL0
+   e7c94: f9401668     	ldr	x8, [x19, #0x28]
+   e7c98: f90007e8     	str	x8, [sp, #0x8]
+   e7c9c: f9400008     	ldr	x8, [x0]
+   e7ca0: f9401908     	ldr	x8, [x8, #0x30]
+   e7ca4: d63f0100     	blr	x8
+   e7ca8: f9401668     	ldr	x8, [x19, #0x28]
+   e7cac: f94007e9     	ldr	x9, [sp, #0x8]
+   e7cb0: eb09011f     	cmp	x8, x9
+   e7cb4: 54000081     	b.ne	0xe7cc4 <JNI_OnLoad+0x90>
+   e7cb8: a9417bf3     	ldp	x19, x30, [sp, #0x10]
+   e7cbc: 910083ff     	add	sp, sp, #0x20
+   e7cc0: d65f03c0     	ret
+   e7cc4: 97fe151f     	bl	0x6d140 <__stack_chk_fail@plt>
+   e7cc8: f9400802     	ldr	x2, [x0, #0x10]
+   e7ccc: f0000381     	adrp	x1, 0x15a000
+   e7cd0: f9400403     	ldr	x3, [x0, #0x8]
+   e7cd4: 91224021     	add	x1, x1, #0x890
+   e7cd8: d1000442     	sub	x2, x2, #0x1
+   e7cdc: f9000001     	str	x1, [x0]
+   e7ce0: 8b020062     	add	x2, x3, x2
+   e7ce4: eb02007f     	cmp	x3, x2
+   e7ce8: 540000ac     	b.gt	0xe7cfc <JNI_OnLoad+0xc8>
+   e7cec: aa0303e1     	mov	x1, x3
+   e7cf0: 91000421     	add	x1, x1, #0x1
+   e7cf4: eb02003f     	cmp	x1, x2
+   e7cf8: 54ffffcd     	b.le	0xe7cf0 <JNI_OnLoad+0xbc>
+   e7cfc: b4000063     	cbz	x3, 0xe7d08 <JNI_OnLoad+0xd4>
+   e7d00: aa0303e0     	mov	x0, x3
+   e7d04: 17fe14ef     	b	0x6d0c0 <free@plt>
+   e7d08: d65f03c0     	ret
+   e7d0c: f9400802     	ldr	x2, [x0, #0x10]
+   e7d10: f0000381     	adrp	x1, 0x15a000
+   e7d14: f9400403     	ldr	x3, [x0, #0x8]
+   e7d18: 91224021     	add	x1, x1, #0x890
+   e7d1c: d1000442     	sub	x2, x2, #0x1
+   e7d20: f9000001     	str	x1, [x0]
+   e7d24: 8b020062     	add	x2, x3, x2
+   e7d28: eb02007f     	cmp	x3, x2
+   e7d2c: 540000ac     	b.gt	0xe7d40 <JNI_OnLoad+0x10c>
+   e7d30: aa0303e1     	mov	x1, x3
+   e7d34: 91000421     	add	x1, x1, #0x1
+   e7d38: eb02003f     	cmp	x1, x2
+   e7d3c: 54ffffcd     	b.le	0xe7d34 <JNI_OnLoad+0x100>
+   e7d40: b4000063     	cbz	x3, 0xe7d4c <JNI_OnLoad+0x118>
+   e7d44: aa0303e0     	mov	x0, x3
+   e7d48: 17fe14de     	b	0x6d0c0 <free@plt>
+   e7d4c: d65f03c0     	ret
+   e7d50: d10043ff     	sub	sp, sp, #0x10
+   e7d54: a9007bf3     	stp	x19, x30, [sp]
+   e7d58: aa0003f3     	mov	x19, x0
+   e7d5c: f9400802     	ldr	x2, [x0, #0x10]
+   e7d60: f9400403     	ldr	x3, [x0, #0x8]
+   e7d64: f0000380     	adrp	x0, 0x15a000
+   e7d68: d1000442     	sub	x2, x2, #0x1
+   e7d6c: 91224000     	add	x0, x0, #0x890
+   e7d70: 8b020062     	add	x2, x3, x2
+   e7d74: f9000260     	str	x0, [x19]
+   e7d78: eb02007f     	cmp	x3, x2
+   e7d7c: 540000ac     	b.gt	0xe7d90 <JNI_OnLoad+0x15c>
+   e7d80: aa0303e1     	mov	x1, x3
+   e7d84: 91000421     	add	x1, x1, #0x1
+   e7d88: eb02003f     	cmp	x1, x2
+   e7d8c: 54ffffcd     	b.le	0xe7d84 <JNI_OnLoad+0x150>
+   e7d90: b4000063     	cbz	x3, 0xe7d9c <JNI_OnLoad+0x168>
+   e7d94: aa0303e0     	mov	x0, x3
+   e7d98: 97fe14ca     	bl	0x6d0c0 <free@plt>
+   e7d9c: aa1303e0     	mov	x0, x19
+   e7da0: a9407bf3     	ldp	x19, x30, [sp]
+   e7da4: 910043ff     	add	sp, sp, #0x10
+   e7da8: 17fe14ae     	b	0x6d060 <_ZdlPv@plt>
+   e7dac: d10043ff     	sub	sp, sp, #0x10
+   e7db0: a9007bf3     	stp	x19, x30, [sp]
+   e7db4: aa0003f3     	mov	x19, x0
+   e7db8: f9400802     	ldr	x2, [x0, #0x10]
+   e7dbc: f9400403     	ldr	x3, [x0, #0x8]
+   e7dc0: f0000380     	adrp	x0, 0x15a000
+   e7dc4: d1000442     	sub	x2, x2, #0x1
+   e7dc8: 91224000     	add	x0, x0, #0x890
+   e7dcc: 8b020062     	add	x2, x3, x2
+   e7dd0: f9000260     	str	x0, [x19]
+   e7dd4: eb02007f     	cmp	x3, x2
+   e7dd8: 540000ac     	b.gt	0xe7dec <JNI_OnLoad+0x1b8>
+   e7ddc: aa0303e1     	mov	x1, x3
+   e7de0: 91000421     	add	x1, x1, #0x1
+   e7de4: eb02003f     	cmp	x1, x2
+   e7de8: 54ffffcd     	b.le	0xe7de0 <JNI_OnLoad+0x1ac>
+   e7dec: b4000063     	cbz	x3, 0xe7df8 <JNI_OnLoad+0x1c4>
+   e7df0: aa0303e0     	mov	x0, x3
+   e7df4: 97fe14b3     	bl	0x6d0c0 <free@plt>
+   e7df8: aa1303e0     	mov	x0, x19
+   e7dfc: a9407bf3     	ldp	x19, x30, [sp]
+   e7e00: 910043ff     	add	sp, sp, #0x10
+   e7e04: 17fe1497     	b	0x6d060 <_ZdlPv@plt>
+   e7e08: d11183ff     	sub	sp, sp, #0x460
+   e7e0c: d10183ff     	sub	sp, sp, #0x60
+   e7e10: fd002fe8     	str	d8, [sp, #0x58]
+   e7e14: a90263f7     	stp	x23, x24, [sp, #0x20]
+   e7e18: f0000398     	adrp	x24, 0x15a000
+   e7e1c: f9002bfe     	str	x30, [sp, #0x50]
+   e7e20: a90053f3     	stp	x19, x20, [sp]
+   e7e24: a9015bf5     	stp	x21, x22, [sp, #0x10]
+   e7e28: f947e708     	ldr	x8, [x24, #0xfc8]
+   e7e2c: 910243f6     	add	x22, sp, #0x90
+   e7e30: a9036bf9     	stp	x25, x26, [sp, #0x30]
+   e7e34: a90473fb     	stp	x27, x28, [sp, #0x40]
+   e7e38: 9101c3f4     	add	x20, sp, #0x70
+   e7e3c: aa0103fa     	mov	x26, x1
+   e7e40: a9401c46     	ldp	x6, x7, [x2]
+   e7e44: a9411444     	ldp	x4, x5, [x2, #0x10]
+   e7e48: f9400108     	ldr	x8, [x8]
+   e7e4c: 9102c3f3     	add	x19, sp, #0xb0
+   e7e50: f9025fe8     	str	x8, [sp, #0x4b8]
+   e7e54: aa0203f7     	mov	x23, x2
+   e7e58: a9001ec6     	stp	x6, x7, [x22]
+   e7e5c: a90116c4     	stp	x4, x5, [x22, #0x10]
+   e7e60: aa0003f9     	mov	x25, x0
+   e7e64: d2808001     	mov	x1, #0x400              // =1024
+   e7e68: aa1303e0     	mov	x0, x19
+   e7e6c: aa1a03e2     	mov	x2, x26
+   e7e70: aa1403e3     	mov	x3, x20
+   e7e74: a9001e86     	stp	x6, x7, [x20]
+   e7e78: a9011684     	stp	x4, x5, [x20, #0x10]
+   e7e7c: 97fe14d9     	bl	0x6d1e0 <vsnprintf@plt>

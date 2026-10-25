@@ -1,0 +1,853 @@
+﻿{
+    "original_apk_sha256":  "cdc0d88ebcd6ad10d04e9e09f8b75fdeabd91369b9a524827cabfcbb9e7ad4f9",
+    "rebuilt_apk":  "C:\\Users\\AlphaDell-60\\Documents\\code\\personal\\rea-test\\movie-reconstruction\\bytecode-app\\build\\outputs\\apk\\rebuilt-debug\\movie-rebuilt-debug.apk",
+    "rebuilt_apk_sha256":  "d2ca7847d1e575b2b12b8cb6179afcb6e633470118d5b7747b30c7cd757d079e",
+    "signature_verified":  true,
+    "zip_alignment_verified":  true,
+    "preserved_payload_files":  168,
+    "compared_payloads":  [
+                              {
+                                  "path":  "assets/dexopt/baseline.prof",
+                                  "bytes":  4768,
+                                  "sha256":  "7e1c6d5c8ded0e9c18b709b62cffda989fa18f594c5c525b3da22f337c227234"
+                              },
+                              {
+                                  "path":  "assets/dexopt/baseline.profm",
+                                  "bytes":  363,
+                                  "sha256":  "a4aab48a1ad9deb72a6de5624ff7aca103e5e4f295637d8d92dda994fc322611"
+                              },
+                              {
+                                  "path":  "classes.dex",
+                                  "bytes":  9658252,
+                                  "sha256":  "6531d89abf05f29608b74236c3e004d212d93d782737d700e53262a480915ccc"
+                              },
+                              {
+                                  "path":  "classes10.dex",
+                                  "bytes":  9861532,
+                                  "sha256":  "16a1fadfb0ee31dbbd4bbcdf99b9ff015487bb1931d893be4906c10c768acc18"
+                              },
+                              {
+                                  "path":  "classes11.dex",
+                                  "bytes":  10271212,
+                                  "sha256":  "333f455b52cc68fcf9e61c3a86cb680f44d5e062129220bf7e2b6925b9b1bbe9"
+                              },
+                              {
+                                  "path":  "classes2.dex",
+                                  "bytes":  10120324,
+                                  "sha256":  "c59ec9c66cbec75174eb00bc3c67a15ac7c6b44d86f83ebda252e37df76a50b2"
+                              },
+                              {
+                                  "path":  "classes3.dex",
+                                  "bytes":  2030672,
+                                  "sha256":  "d2706fdc0c9efd7616941f6d46a56ce4f919b9df9670f33932f81b45f47ed20b"
+                              },
+                              {
+                                  "path":  "classes4.dex",
+                                  "bytes":  9818960,
+                                  "sha256":  "0ecb3416026e33ab01d4468aaa526c5a849194c3015b00827bb1c4b388a4159c"
+                              },
+                              {
+                                  "path":  "classes5.dex",
+                                  "bytes":  10284072,
+                                  "sha256":  "552a6592cffe8845c3cafd94f6ab48ec5e5632726b8f24f87b954a064d06c124"
+                              },
+                              {
+                                  "path":  "classes6.dex",
+                                  "bytes":  10180740,
+                                  "sha256":  "b940a0d4453679323e8cf946bc091a3609bce8e47f8ffce7a73ec6465708fb81"
+                              },
+                              {
+                                  "path":  "classes7.dex",
+                                  "bytes":  10225724,
+                                  "sha256":  "21fa6af1cf85fa6fc0bfcd35c6b72149d27089b8e18904b427fe64cd09183c71"
+                              },
+                              {
+                                  "path":  "classes8.dex",
+                                  "bytes":  9844012,
+                                  "sha256":  "a7ee23e618080315daacb3676bc837fafbb17136bb46b48e6fa00c73edca085d"
+                              },
+                              {
+                                  "path":  "classes9.dex",
+                                  "bytes":  10281700,
+                                  "sha256":  "0bd10b4318f54c78ac863fafff278c95c89fc68620641ccd6a6c60bdb23421d5"
+                              },
+                              {
+                                  "path":  "lib/arm64-v8a/libapminsighta.so",
+                                  "bytes":  102256,
+                                  "sha256":  "b1a70dabf68e95e1910bb080dbe1c78ae628a0bf7332f7ba41db23d9bbe282c0"
+                              },
+                              {
+                                  "path":  "lib/arm64-v8a/libapminsightb.so",
+                                  "bytes":  124352,
+                                  "sha256":  "c36885b7189dc5173627ff9afb5a49cb94420b9b98341536b4476b792babab61"
+                              },
+                              {
+                                  "path":  "lib/arm64-v8a/libapplovin-native-crash-reporter.so",
+                                  "bytes":  860200,
+                                  "sha256":  "ecf2a7327be482870f4c791392a50cecfeaabb2c76a7224898e9713a18c4c36a"
+                              },
+                              {
+                                  "path":  "lib/arm64-v8a/libbuffer_pgl.so",
+                                  "bytes":  9000,
+                                  "sha256":  "d416381c202993e4a03fd6ae0c5b407f1531f61fc45f518ad5b7f4620d5a2133"
+                              },
+                              {
+                                  "path":  "lib/arm64-v8a/libfile_lock_pgl.so",
+                                  "bytes":  6312,
+                                  "sha256":  "d14096b150b4b2f21263fdb4f1c61eea3fcd76804c776de2395b13dfbe1d8ca0"
+                              },
+                              {
+                                  "path":  "lib/arm64-v8a/libjiagu_sdk_pp_hlsProtected.so",
+                                  "bytes":  759104,
+                                  "sha256":  "137b70530423379b1a6827b2e602c831ddfb1821e0d80e860281c1488ef77494"
+                              },
+                              {
+                                  "path":  "lib/arm64-v8a/libnms.so",
+                                  "bytes":  296712,
+                                  "sha256":  "1db1d9bcf347d38bd7b0fd7a2542d18b2069151f936bf115ff0728e5738a08c9"
+                              },
+                              {
+                                  "path":  "lib/arm64-v8a/libpglarmor.so",
+                                  "bytes":  68600,
+                                  "sha256":  "c590266c06f99a194ff209b9c32036191903f0cbe3421919df540851b3bb958c"
+                              },
+                              {
+                                  "path":  "lib/arm64-v8a/libpp_hls.so",
+                                  "bytes":  2913576,
+                                  "sha256":  "2c3b7daf4a319b23de259a9b18904ebf082f1690ba832ba954ddc0417b19e9b0"
+                              },
+                              {
+                                  "path":  "lib/arm64-v8a/libtt_ugen_layout.so",
+                                  "bytes":  440672,
+                                  "sha256":  "6356784adf27dac5d18cd14a052d4ab9c161fb74eb4df3d4107d00f2549edeb2"
+                              },
+                              {
+                                  "path":  "lib/armeabi-v7a/libapminsighta.so",
+                                  "bytes":  85512,
+                                  "sha256":  "bb08cd264170375bb94ac11ec08fb3c161b4ee72a376cf05aceb7c0f0a13db08"
+                              },
+                              {
+                                  "path":  "lib/armeabi-v7a/libapminsightb.so",
+                                  "bytes":  100368,
+                                  "sha256":  "ffae9546e59fc4e136dc9cfd54451a131c7e523454fba45e36299d4e3f60b0a5"
+                              },
+                              {
+                                  "path":  "lib/armeabi-v7a/libapplovin-native-crash-reporter.so",
+                                  "bytes":  500664,
+                                  "sha256":  "26814da52e1ed103b7adba975f5214b8f5fea21209efcd8dea1d0bb41e343d7c"
+                              },
+                              {
+                                  "path":  "lib/armeabi-v7a/libbuffer_pgl.so",
+                                  "bytes":  6580,
+                                  "sha256":  "1959f8616e7ed8ae3a4c4edc4bb557c55d1fea3de0096b3842e37f42e2e7222a"
+                              },
+                              {
+                                  "path":  "lib/armeabi-v7a/libfile_lock_pgl.so",
+                                  "bytes":  4704,
+                                  "sha256":  "f9e3402f0cff891a4dcf38e7c1876c889b97ab61daa426fe36ca28b28c1fed85"
+                              },
+                              {
+                                  "path":  "lib/armeabi-v7a/libjiagu_sdk_pp_hlsProtected.so",
+                                  "bytes":  619608,
+                                  "sha256":  "01ac2b74c2e180e1d3777bf5f748046932f2f9e7028f299574cae9b41a0202c0"
+                              },
+                              {
+                                  "path":  "lib/armeabi-v7a/libnms.so",
+                                  "bytes":  198264,
+                                  "sha256":  "d59389b3ea088f77dd6984548d1ea9a6e81ff2b48f03b3848c7a5d73c6849833"
+                              },
+                              {
+                                  "path":  "lib/armeabi-v7a/libpglarmor.so",
+                                  "bytes":  46972,
+                                  "sha256":  "4c6b307d2c0a500513c2051d0db21a432ce354617ce21c49588a11c18583dfe4"
+                              },
+                              {
+                                  "path":  "lib/armeabi-v7a/libpp_hls.so",
+                                  "bytes":  2096276,
+                                  "sha256":  "3e4c1289844e6d4a5e2621c35196b5d8bf8ce42635dbe801ba850b05f758fb53"
+                              },
+                              {
+                                  "path":  "lib/armeabi-v7a/libtt_ugen_layout.so",
+                                  "bytes":  342084,
+                                  "sha256":  "368f2e815971bcecb8804d23c8f1e54e758923630d247e9c2d54d090fb2495ed"
+                              },
+                              {
+                                  "path":  "assets/ad-viewer/omid-session-client-v1.js",
+                                  "bytes":  68100,
+                                  "sha256":  "f15e5ce012c87bd32c15d71d2fd0b954b9b2fd9d5818d817b3820af3d93d5a35"
+                              },
+                              {
+                                  "path":  "assets/ad-viewer/omsdk-v1.js",
+                                  "bytes":  43924,
+                                  "sha256":  "896cf905b2b562818da58e19e25b525083f18638f6b9b0d7c6aea411a9907585"
+                              },
+                              {
+                                  "path":  "assets/audience_network.dex",
+                                  "bytes":  5017908,
+                                  "sha256":  "07fef7ea41d84ccf44ef2e2a6de8d23e3d3dd5920c87979a1d501a9cb6272496"
+                              },
+                              {
+                                  "path":  "assets/bm_networks/gam.bmnetwork",
+                                  "bytes":  108,
+                                  "sha256":  "a99e210bc6fe39624188482feb9b95370c6d325ccd3c231aa4e18f0aaca31c5e"
+                              },
+                              {
+                                  "path":  "assets/bm_networks/gam_dynamic.bmnetwork",
+                                  "bytes":  124,
+                                  "sha256":  "5b55f4b6d60876c9149470004f1eeff57407bbed420a16e5512f38e5f11eefd3"
+                              },
+                              {
+                                  "path":  "assets/dic",
+                                  "bytes":  4016,
+                                  "sha256":  "08a598423c6747c3c23fffb2fb12c2c3cf611986436a367d99b5acca3e6590c7"
+                              },
+                              {
+                                  "path":  "assets/fyb_iframe_endcard_tmpl.html",
+                                  "bytes":  520,
+                                  "sha256":  "e042e304cecd19bb6816de0150d3895e2717e66dda91f7e189610687c049dae6"
+                              },
+                              {
+                                  "path":  "assets/fyb_static_endcard_tmpl.html",
+                                  "bytes":  3350,
+                                  "sha256":  "77d33780c591c0ce29a40b354ba6d7d68533702b8e4a558ff40e700f26adc4f6"
+                              },
+                              {
+                                  "path":  "assets/ia_js_load_monitor.txt",
+                                  "bytes":  968,
+                                  "sha256":  "7dd00d954c6e1a6f2dfbce3d84346ea97f4d760732c7f4d29e4179fe54c5b32c"
+                              },
+                              {
+                                  "path":  "assets/ia_mraid_bridge.txt",
+                                  "bytes":  28630,
+                                  "sha256":  "5bbfc33714217320d51e82609f4d07b0519fa60eba54ab6398952b5dc7bdd3a1"
+                              },
+                              {
+                                  "path":  "assets/iads/controllerVersion",
+                                  "bytes":  4,
+                                  "sha256":  "90e855751509be9e52994273c9fcd5326bb2588d3fe93e9c2e45ae542124ff2b"
+                              },
+                              {
+                                  "path":  "assets/iads/index.css",
+                                  "bytes":  22373,
+                                  "sha256":  "3718103d1ff40e2aed9f6f81325b1498c1e827b46784d3eb5bc7bba1b40db525"
+                              },
+                              {
+                                  "path":  "assets/iads/index.html",
+                                  "bytes":  599,
+                                  "sha256":  "e513631c4c38eb9b41dc775b773954f1a0bc2524b4609bc1f5b29a3b3c1583de"
+                              },
+                              {
+                                  "path":  "assets/iads/index.js",
+                                  "bytes":  861122,
+                                  "sha256":  "40407a81055c1901152e7ca35360e9fa439031f68fc87a815eead64a8706b24d"
+                              },
+                              {
+                                  "path":  "assets/iads/mobileController.html",
+                                  "bytes":  37282,
+                                  "sha256":  "2c2693229d5df4d4bd0136049c64d84969ebf6f94a32c00e1d1b4cc43b9c07e6"
+                              },
+                              {
+                                  "path":  "assets/iads/mobileController.min.css",
+                                  "bytes":  8108,
+                                  "sha256":  "900c64fe65c24f082c1f0c31f76cd456a83a92b7ffccd07e0597278dcc864ac3"
+                              },
+                              {
+                                  "path":  "assets/iads/sdk_controller.min.gz.js",
+                                  "bytes":  566126,
+                                  "sha256":  "4bdb1cb2b25dc6f413f141267d14f7619c14679f8f1439e041d2b389b02dd39a"
+                              },
+                              {
+                                  "path":  "assets/mbridge_download_dialog_view.xml",
+                                  "bytes":  25224,
+                                  "sha256":  "31697662a3a21ac12371f7e844e4495188dd94849cdb0500b28eb134802010e9"
+                              },
+                              {
+                                  "path":  "assets/okt_sdk_config",
+                                  "bytes":  109,
+                                  "sha256":  "f435728ca5edbc9b6e04893c667d2a2bfa9d72fe224721e475acccdc82e7ff98"
+                              },
+                              {
+                                  "path":  "assets/okt_sdk_preset_2243",
+                                  "bytes":  3748,
+                                  "sha256":  "ce2918eefa1bea390cb57faba882c70e1034afa46233c3d6fc5d94dbf57c4321"
+                              },
+                              {
+                                  "path":  "assets/rv_binddatas.xml",
+                                  "bytes":  2072,
+                                  "sha256":  "b1293a8346ac6472b151956167b3d83034db197a65a61d4f27f051acb87506d8"
+                              },
+                              {
+                                  "path":  "DebugProbesKt.bin",
+                                  "bytes":  1733,
+                                  "sha256":  "cd3da36122413f84be484c77cde4a77729f9e8f81a285408d073300c8385ca3a"
+                              },
+                              {
+                                  "path":  "androidsupportmultidexversion.txt",
+                                  "bytes":  53,
+                                  "sha256":  "a1c3b0007bcaecc29cb7b7fa4a2ace25036988d66a354c0fd6bdea6eb51568fa"
+                              },
+                              {
+                                  "path":  "assets/pp_hlsProtected.dat",
+                                  "bytes":  27097,
+                                  "sha256":  "a6de1af9a360a2915ff06ed4528c0998587f2cabcf35b95f6517ece63ea4dfec"
+                              },
+                              {
+                                  "path":  "com/applovin/shadow/okhttp3/internal/publicsuffix/NOTICE",
+                                  "bytes":  218,
+                                  "sha256":  "8a9c58fbded5ea3474315e4a9824ca8b1486098a1a03e897e0b19419d5e1876a"
+                              },
+                              {
+                                  "path":  "com/applovin/shadow/okhttp3/internal/publicsuffix/publicsuffixes.gz",
+                                  "bytes":  41394,
+                                  "sha256":  "9af43e9995ec749e7a30eec4e5a87770d7e2027847084a07cca82060eff0c791"
+                              },
+                              {
+                                  "path":  "com/liulishuo/filedownloader/i/IFileDownloadIPCCallback.aidl",
+                                  "bytes":  204,
+                                  "sha256":  "24d2098233cd70f00f17c1061e3dd0cba31fd9112119bc584cdfcd62c02cfb88"
+                              },
+                              {
+                                  "path":  "com/liulishuo/filedownloader/i/IFileDownloadIPCService.aidl",
+                                  "bytes":  1769,
+                                  "sha256":  "9eb89345aedd2194ce392f96a1804d927dbe2cac059f726b49c38a509ae17b8c"
+                              },
+                              {
+                                  "path":  "com/liulishuo/filedownloader/message/MessageSnapshot.aidl",
+                                  "bytes":  76,
+                                  "sha256":  "ea4061f72a531f3af48708cd4b9daaa78f244534c1213f78c8a35ae83ac4e2eb"
+                              },
+                              {
+                                  "path":  "com/liulishuo/filedownloader/model/FileDownloadHeader.aidl",
+                                  "bytes":  77,
+                                  "sha256":  "f4e51322cc9361dbd46b6344a88a6491f7408be4539a4656dd731fff60950ab6"
+                              },
+                              {
+                                  "path":  "com/liulishuo/filedownloader/model/FileDownloadTaskAtom.aidl",
+                                  "bytes":  79,
+                                  "sha256":  "3c56b9a5b4fd221a46fbce8f04229a93785746e67373c935955aa8f49aa38a26"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/any.proto",
+                                  "bytes":  5916,
+                                  "sha256":  "d7c79a05a5c7fae89f0aff26d112e0b60f082fc7fc424e8910be99c86b656260"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/api.proto",
+                                  "bytes":  7734,
+                                  "sha256":  "4d050ed6172b20717022f081e26ddaaa9e534c58fc7b4cf1e88bde62ebed3c9b"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/compiler/plugin.proto",
+                                  "bytes":  8754,
+                                  "sha256":  "cd2173be546c551d04a9d713821c0e00a82e83f8bc79ad585dc97e555571047f"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/descriptor.proto",
+                                  "bytes":  38043,
+                                  "sha256":  "9114125bf08a139ddd805247d7605a2e4f5662190a34089a2b3c6a9f58d0f55e"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/duration.proto",
+                                  "bytes":  4895,
+                                  "sha256":  "099047097e8fe73657b49ef67af914a7a686ac6154f9d872882708b5eb3db04c"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/empty.proto",
+                                  "bytes":  2429,
+                                  "sha256":  "23b75ded84bd2ee81f0098850ffaa0d5e1a6d881a9e1a760f730989e90534ec3"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/field_mask.proto",
+                                  "bytes":  8185,
+                                  "sha256":  "ed78e81d3f16618964b65692a02d229da6591bbec6eafc2ee4f052eaccf25b8a"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/source_context.proto",
+                                  "bytes":  2341,
+                                  "sha256":  "28377609fb1df35293d637112cb574879465a987d943cd5e6c8feb8845438793"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/struct.proto",
+                                  "bytes":  3778,
+                                  "sha256":  "7accb70d741132475ef30ac125dfef95835239c792b83ff453a5e132e235a68d"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/timestamp.proto",
+                                  "bytes":  6459,
+                                  "sha256":  "9489462cbd4eff7c013d10de596be38da1087c7824ea34357669bc21bf5c0800"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/type.proto",
+                                  "bytes":  6126,
+                                  "sha256":  "18e4e0335dd6a5cd0d52530d818496c954ad95a69b304f1c8103d7b2ca2d509a"
+                              },
+                              {
+                                  "path":  "explorestack/protobuf/wrappers.proto",
+                                  "bytes":  4042,
+                                  "sha256":  "020c88776e814647da13c1cd5675031a3ffd35b016e64f721c5e066d375d4f43"
+                              },
+                              {
+                                  "path":  "google/protobuf/any.proto",
+                                  "bytes":  6154,
+                                  "sha256":  "bcf5de6ce463b1a38ff76b77955aa7e580b4ec12af34a927b1d45c9efb0faf66"
+                              },
+                              {
+                                  "path":  "google/protobuf/api.proto",
+                                  "bytes":  7728,
+                                  "sha256":  "e1745f7d6e9953f624b027b37da29ffc6521c45bce9aa96f39666748879fc915"
+                              },
+                              {
+                                  "path":  "google/protobuf/duration.proto",
+                                  "bytes":  4892,
+                                  "sha256":  "a3f7301ff2956ec2e30c2241ece07197e4a86c752348d5607224819d4921c9fe"
+                              },
+                              {
+                                  "path":  "google/protobuf/empty.proto",
+                                  "bytes":  2363,
+                                  "sha256":  "ecef3d54cc9e079673b9816c67bac770f7f3bf6dada2d4596ba69d71daa971e6"
+                              },
+                              {
+                                  "path":  "google/protobuf/field_mask.proto",
+                                  "bytes":  8185,
+                                  "sha256":  "17b0f342cc3a262e317d56884f3f575afbfac512ad0579349cc7450e41f26891"
+                              },
+                              {
+                                  "path":  "google/protobuf/source_context.proto",
+                                  "bytes":  2341,
+                                  "sha256":  "37d3401de89af1d1496fc949924a5f2011bd2fadfbeb0da1caa277159a96776d"
+                              },
+                              {
+                                  "path":  "google/protobuf/struct.proto",
+                                  "bytes":  3778,
+                                  "sha256":  "1bf07ba8b9a24e3a0390dddac3ad0db41c63287d252788b02398220b9abc900f"
+                              },
+                              {
+                                  "path":  "google/protobuf/timestamp.proto",
+                                  "bytes":  6449,
+                                  "sha256":  "14052c6042c1dd2d0b50245f2812eaab6eaf82db0b6e8ce483eae527f73b6ee8"
+                              },
+                              {
+                                  "path":  "google/protobuf/type.proto",
+                                  "bytes":  6367,
+                                  "sha256":  "e230e0e4aeb87c95e9f1c6acbfc0c713db3f88094f149b154717a51d020f750b"
+                              },
+                              {
+                                  "path":  "google/protobuf/wrappers.proto",
+                                  "bytes":  4044,
+                                  "sha256":  "a26c1d6ec73a592ac31796289a61ceffe2db2453ff427dfdd7697aac50844280"
+                              },
+                              {
+                                  "path":  "javax/servlet/LocalStrings.properties",
+                                  "bytes":  2864,
+                                  "sha256":  "bbe56cf0e9068823372364afb3f87be80eef10e34884b12d96752331c3f95183"
+                              },
+                              {
+                                  "path":  "javax/servlet/LocalStrings_fr.properties",
+                                  "bytes":  2799,
+                                  "sha256":  "d0bdbf59fd5bb880c44b00326df94bec34a0e258f98dc246f773bd87d3d3a06c"
+                              },
+                              {
+                                  "path":  "javax/servlet/LocalStrings_ja.properties",
+                                  "bytes":  2834,
+                                  "sha256":  "e0d4b3a3818e901a8b811a53843053dec979ab5c48003a7b46cf5e7e79e2036b"
+                              },
+                              {
+                                  "path":  "javax/servlet/http/LocalStrings.properties",
+                                  "bytes":  3615,
+                                  "sha256":  "091f4cde1721df3944c68d84edb488c7ff7cc82cc6c3d35f4d2166cbe544c216"
+                              },
+                              {
+                                  "path":  "javax/servlet/http/LocalStrings_es.properties",
+                                  "bytes":  3401,
+                                  "sha256":  "da139c4bd5b3d1b2a00e24a00744319ae166e28cae8f9833e34a91cbe902c3cf"
+                              },
+                              {
+                                  "path":  "javax/servlet/http/LocalStrings_fr.properties",
+                                  "bytes":  3360,
+                                  "sha256":  "fa86a3bd15b80a5f70e82bc20fe19ca4c7a764e34f5434cb5ec93ad964109c10"
+                              },
+                              {
+                                  "path":  "javax/servlet/http/LocalStrings_ja.properties",
+                                  "bytes":  4062,
+                                  "sha256":  "07a502d2e4a8ecd2971cf01c7523d51eb432027d51a7d43852d0e0ba386b52be"
+                              },
+                              {
+                                  "path":  "jetty-dir.css",
+                                  "bytes":  319,
+                                  "sha256":  "9fedebd5428a855320fe33788776213f2524dc006dc0fa42e3d8751c1591ab62"
+                              },
+                              {
+                                  "path":  "kotlin-tooling-metadata.json",
+                                  "bytes":  626,
+                                  "sha256":  "1d3bfb0643e70f47bc2d6edf21fe8f77388592d88c4b5ad5b964bba96144aedb"
+                              },
+                              {
+                                  "path":  "kotlin/annotation/annotation.kotlin_builtins",
+                                  "bytes":  865,
+                                  "sha256":  "f6bf68d4798ece5071900772a4a87150314aed3788e042d9e30ab60a0857b211"
+                              },
+                              {
+                                  "path":  "kotlin/collections/collections.kotlin_builtins",
+                                  "bytes":  3635,
+                                  "sha256":  "91d6cd4138e850c100a2dec88a965453b0042bf7f6f51202fe4b1efba38e96c0"
+                              },
+                              {
+                                  "path":  "kotlin/concurrent/atomics/atomics.kotlin_builtins",
+                                  "bytes":  2471,
+                                  "sha256":  "ef8b50112968a5e1be21c9c03d68ce6a7a939a057b9bc5d3fab72c95470561bf"
+                              },
+                              {
+                                  "path":  "kotlin/coroutines/coroutines.kotlin_builtins",
+                                  "bytes":  137,
+                                  "sha256":  "98ab3a3c18fcb237528dd63fa489815c583e1d6c13debd2a27ac6d74ccf8717b"
+                              },
+                              {
+                                  "path":  "kotlin/internal/internal.kotlin_builtins",
+                                  "bytes":  583,
+                                  "sha256":  "7489c6bcec13d048a4ce9d9f3bafa1a11bfa08021bfa0e07166978d0bc5e450a"
+                              },
+                              {
+                                  "path":  "kotlin/kotlin.kotlin_builtins",
+                                  "bytes":  18653,
+                                  "sha256":  "d03111a486daaa503eb6c17aa6770daf744a9b668f54a75b419d1de3deb868a0"
+                              },
+                              {
+                                  "path":  "kotlin/ranges/ranges.kotlin_builtins",
+                                  "bytes":  3349,
+                                  "sha256":  "ecf5a840ebf529fd9d1fa8216febc191b8559412a1068554266f64bc3b6f8428"
+                              },
+                              {
+                                  "path":  "kotlin/reflect/reflect.kotlin_builtins",
+                                  "bytes":  2370,
+                                  "sha256":  "b549fbaa2455d8bd417f44e3df1af2ff6802693a5aa0bb6a740848467b53b69a"
+                              },
+                              {
+                                  "path":  "okhttp3/internal/publicsuffix/NOTICE",
+                                  "bytes":  218,
+                                  "sha256":  "8a9c58fbded5ea3474315e4a9824ca8b1486098a1a03e897e0b19419d5e1876a"
+                              },
+                              {
+                                  "path":  "okhttp3/internal/publicsuffix/publicsuffixes.gz",
+                                  "bytes":  41394,
+                                  "sha256":  "9af43e9995ec749e7a30eec4e5a87770d7e2027847084a07cca82060eff0c791"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/favicon.ico",
+                                  "bytes":  1150,
+                                  "sha256":  "981bbee0ea0e46529f52f67a286ffd8b74f9d6a364c46650ddba5902eb7b04c6"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/http/encoding.properties",
+                                  "bytes":  84,
+                                  "sha256":  "ab425d47c66066944e7c12294830882bb7b476759df38d5f44a5828f68810f80"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/http/mime.properties",
+                                  "bytes":  5167,
+                                  "sha256":  "d89f732e7df3ef844a65be476a915f05820d16def7bab4a177718f42045a7034"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/http/useragents",
+                                  "bytes":  0,
+                                  "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/handler/jmx/AbstractHandler-mbean.properties",
+                                  "bytes":  31,
+                                  "sha256":  "6fe581e0dd090f47ab7e195966c5906cbb12d3d9a63adcd097b85931b9ea7286"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/handler/jmx/ContextHandler-mbean.properties",
+                                  "bytes":  1583,
+                                  "sha256":  "6465103257258e8242146adf728e0737ff35d4de026a9d51039515013e92ad93"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/handler/jmx/ContextHandlerCollection-mbean.properties",
+                                  "bytes":  113,
+                                  "sha256":  "8f0cf579fb2a16d6f08af1361880567078955e7f6da51036e3de4fc24e6442c6"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/handler/jmx/HandlerCollection-mbean.properties",
+                                  "bytes":  83,
+                                  "sha256":  "7abbdf7bd66a7f38ef0f0f2d6f15de77fbe887fc0fdd645363ff2ab2505689c4"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/handler/jmx/HandlerWrapper-mbean.properties",
+                                  "bytes":  82,
+                                  "sha256":  "aca872a0b1dfe535d1cfd7f309f4973275e19ad285d68ca9d289612332659577"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/handler/jmx/StatisticsHandler-mbean.properties",
+                                  "bytes":  2222,
+                                  "sha256":  "fdbb3ed6462ed07f382e4d89d03c078ebb477fdfec60e6ea5ad408c3865db096"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/jmx/AbstractConnector-mbean.properties",
+                                  "bytes":  1511,
+                                  "sha256":  "ddf9ce45d1fbbe1513241730d7f9740b1fea366212d847298f7f840dc1ca7550"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/jmx/Connector-mbean.properties",
+                                  "bytes":  2403,
+                                  "sha256":  "e58cde69ad0b4b6925299a4b7a4efc28dc7ac2612194e446474ffee67d441665"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/jmx/Handler-mbean.properties",
+                                  "bytes":  127,
+                                  "sha256":  "d001b3cc43135cbc27150d73adc3500fb8652d924992749418ac31c45e6aaa67"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/jmx/HandlerContainer-mbean.properties",
+                                  "bytes":  144,
+                                  "sha256":  "bd33c657f1d019be1d0c83c1d961f9401ab0def9884758fae5b4358d2d1ae781"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/jmx/NCSARequestLog-mbean.properties",
+                                  "bytes":  256,
+                                  "sha256":  "498d497616aa0bda8a7ad0ea1d9995153d4c86c3256712007f056bcc0d71830e"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/jmx/Server-mbean.properties",
+                                  "bytes":  471,
+                                  "sha256":  "252d31e38e16ff859187c152b6dad94a03b1b2be692023c228c874dde3ac362e"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/nio/jmx/SelectChannelConnector-mbean.properties",
+                                  "bytes":  171,
+                                  "sha256":  "ffc1fae5fbe389f60ce157c9e4bbefd2588fff0f324b4dc7ff707bbf695bf0b5"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/server/session/jmx/AbstractSessionManager-mbean.properties",
+                                  "bytes":  1346,
+                                  "sha256":  "ec480496833b389883e5a9a91d26a74f9354e124f0314089f4d445f0cbfe9401"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/servlet/jmx/FilterMapping-mbean.properties",
+                                  "bytes":  115,
+                                  "sha256":  "fb4e7ae3a7d5f2399485564dc9001e0e60bf81322ce78fd4bc896a3bb84410b5"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/servlet/jmx/Holder-mbean.properties",
+                                  "bytes":  121,
+                                  "sha256":  "877f47cc37c67f16f687a0ba1619193c0a74c9ec6e01cd7768e89d6a7bb9868c"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/servlet/jmx/ServletContextHandler-mbean.properties",
+                                  "bytes":  214,
+                                  "sha256":  "9a4e4c986272db9579ac5e559bbbf4107550ef653308e8b1539f405aef83db4f"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/servlet/jmx/ServletHandler-mbean.properties",
+                                  "bytes":  186,
+                                  "sha256":  "f8266623999907cb9f7375c790b68c5db9cbb40cf23c4d8af745ff5e101172ae"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/servlet/jmx/ServletHolder-mbean.properties",
+                                  "bytes":  128,
+                                  "sha256":  "5caa24fc9e591dc7996bda0ca8f832400f6cc2d836d48e8ea112db3cfd2325a6"
+                              },
+                              {
+                                  "path":  "org/eclipse/jetty/servlet/jmx/ServletMapping-mbean.properties",
+                                  "bytes":  88,
+                                  "sha256":  "00cc3458ced2328d6599ef053398d55cfc8adc9b5ddfaf5ad657ce5b4e4d6fb8"
+                              },
+                              {
+                                  "path":  "org/fourthline/cling/support/avtransport/metadata-1.0-avt.xsd",
+                                  "bytes":  12782,
+                                  "sha256":  "2aea5b6e4eb4f60289bc4e9ff1978e5bf473c8d4b91bcb018e2c365f7cb8f7fb"
+                              },
+                              {
+                                  "path":  "org/fourthline/cling/support/avtransport/metadata-1.01-avt.xsd",
+                                  "bytes":  14458,
+                                  "sha256":  "cfa2e0a95b1b3fd6878f7544ccfa78a65b3efe50c19b72be54e90856ea19e08e"
+                              },
+                              {
+                                  "path":  "org/fourthline/cling/support/contentdirectory/descriptor/dc-elements-1.1.xsd",
+                                  "bytes":  2328,
+                                  "sha256":  "3bdf6e20379cc40c296e8acf7900274f3f8be1539a78c64143bc1bd4055ffd65"
+                              },
+                              {
+                                  "path":  "org/fourthline/cling/support/contentdirectory/descriptor/didl-lite-1.0.xsd",
+                                  "bytes":  15318,
+                                  "sha256":  "4ab6717994dd660eb004060944b2f38447c3b5937f17bcd71f1976748498002e"
+                              },
+                              {
+                                  "path":  "org/fourthline/cling/support/contentdirectory/descriptor/upnp-cds-1.0.xsd",
+                                  "bytes":  8723,
+                                  "sha256":  "69ef86d79bd8afee9461c10fc2467523fb37928fb3c15bb390e0f975047345b0"
+                              },
+                              {
+                                  "path":  "org/fourthline/cling/support/renderingcontrol/metadata-1.0-rcs.xsd",
+                                  "bytes":  10092,
+                                  "sha256":  "0fd90edb824f8c7156b998c361a304f851028b838fd6edd11108db7b71fcb14e"
+                              },
+                              {
+                                  "path":  "org/jacoco/core/jacoco.properties",
+                                  "bytes":  166,
+                                  "sha256":  "50405229dd77d8f5df08c1bb347f604e45af7fa5c512ee79bd3872a74ac784f8"
+                              },
+                              {
+                                  "path":  "org/seamless/schemas/xhtml1-strict.xsd",
+                                  "bytes":  66218,
+                                  "sha256":  "c7f44631b6a1a4e4ec7bd65ad0427350805ab0910e1312299c72b0af3eba80be"
+                              },
+                              {
+                                  "path":  "org/seamless/schemas/xml.xsd",
+                                  "bytes":  8835,
+                                  "sha256":  "7140553b0674689cdfb94af80f46ea6b0ec241f6f43dba20a882d3ab720fd7fc"
+                              },
+                              {
+                                  "path":  "org/seamless/swing/logging/img/configure.png",
+                                  "bytes":  825,
+                                  "sha256":  "0def612e22ada773e38949d07b44ac95a2653cdbf060f3a646ccbb6f51e9c4f7"
+                              },
+                              {
+                                  "path":  "org/seamless/swing/logging/img/copyclipboard.png",
+                                  "bytes":  3356,
+                                  "sha256":  "3937d051b807fb891919b52977b9fc8c90206eaa0752d1faa5dc89e257140472"
+                              },
+                              {
+                                  "path":  "org/seamless/swing/logging/img/debug.png",
+                                  "bytes":  1090,
+                                  "sha256":  "a8abca11968e20a4265cd83ffac2a23e80564522d2bccdb93909d7a6ae7efe98"
+                              },
+                              {
+                                  "path":  "org/seamless/swing/logging/img/info.png",
+                                  "bytes":  3632,
+                                  "sha256":  "d56fa0e50ebd9ce66dd11a5b35c741a8eee6a3b972163e86ed16840097f88312"
+                              },
+                              {
+                                  "path":  "org/seamless/swing/logging/img/pause.png",
+                                  "bytes":  827,
+                                  "sha256":  "87786a17f4d9f2fd2e71d71615dafbd67b661d1f52e6faf33a82fbc3b49e3a8f"
+                              },
+                              {
+                                  "path":  "org/seamless/swing/logging/img/removetext.png",
+                                  "bytes":  3230,
+                                  "sha256":  "7541f3b69467c0000b7189b937dd65d36223aa950f4a06deb0f4e820a7324f7c"
+                              },
+                              {
+                                  "path":  "org/seamless/swing/logging/img/trace.png",
+                                  "bytes":  1045,
+                                  "sha256":  "4db9f993466ac1cd0835b49c26710a8ed62322c5620d27ff8f8031cd50ee299b"
+                              },
+                              {
+                                  "path":  "org/seamless/swing/logging/img/viewtext.png",
+                                  "bytes":  484,
+                                  "sha256":  "73a46e5e8f66f2bb1ad778235ecf8bf7de1abaff7afe6f0fd53e9719a9cd14b9"
+                              },
+                              {
+                                  "path":  "org/seamless/swing/logging/img/warn.png",
+                                  "bytes":  3459,
+                                  "sha256":  "e10e0e589f88eba48d36e81996d9e112ebe8f1a155f9e8d6c090079ed25552b5"
+                              },
+                              {
+                                  "path":  "play-services-ads-api.properties",
+                                  "bytes":  80,
+                                  "sha256":  "6c05cd2472ae0802fbb703010edb26e20f9f1c73d3a70583927a6ac02e51badc"
+                              },
+                              {
+                                  "path":  "play-services-ads-identifier.properties",
+                                  "bytes":  94,
+                                  "sha256":  "f3c4b9cce6375d8b1b275d4b6066777db4bad465962a7eca86fc1d695cbcb2f7"
+                              },
+                              {
+                                  "path":  "play-services-ads.properties",
+                                  "bytes":  72,
+                                  "sha256":  "20c07d68fc15c4373974888fbb1f864b0a6da43528b18b462981c271fd7ef9d6"
+                              },
+                              {
+                                  "path":  "play-services-appset.properties",
+                                  "bytes":  78,
+                                  "sha256":  "6439ca4f71d95013dbeec8f7f973699df1f33c215ebb52d41c5d0cb9c4567a38"
+                              },
+                              {
+                                  "path":  "play-services-base.properties",
+                                  "bytes":  74,
+                                  "sha256":  "8d3f6754abfac37a2cd34b08b4c528baa8754ec9ff59878ef3d4ac6b01f4d58f"
+                              },
+                              {
+                                  "path":  "play-services-basement.properties",
+                                  "bytes":  82,
+                                  "sha256":  "f104c265304c046ad9ba4807df8a0537204caf35dae11cc090cd8a34be6ee1da"
+                              },
+                              {
+                                  "path":  "play-services-cronet.properties",
+                                  "bytes":  78,
+                                  "sha256":  "b9a56ed44fbcff953fbe59e6cf18acd1a17f4b7dcfc5556e91d2c31d5b400d7a"
+                              },
+                              {
+                                  "path":  "play-services-measurement-base.properties",
+                                  "bytes":  98,
+                                  "sha256":  "844201e577d48fea2d8216daef1a892bb0824aeca7664af75eb40eb067796bd4"
+                              },
+                              {
+                                  "path":  "play-services-measurement-sdk-api.properties",
+                                  "bytes":  104,
+                                  "sha256":  "123b3ed623216fd86c4ae7064d28bb5f183312a439190fa84e21df147faa56a5"
+                              },
+                              {
+                                  "path":  "play-services-tasks.properties",
+                                  "bytes":  76,
+                                  "sha256":  "e82b1e7f5fbe3788895488f92aee879f1c431fc100fc7f337d429f213971dd88"
+                              },
+                              {
+                                  "path":  "src/google/protobuf/any.proto",
+                                  "bytes":  6154,
+                                  "sha256":  "bcf5de6ce463b1a38ff76b77955aa7e580b4ec12af34a927b1d45c9efb0faf66"
+                              },
+                              {
+                                  "path":  "src/google/protobuf/api.proto",
+                                  "bytes":  7728,
+                                  "sha256":  "e1745f7d6e9953f624b027b37da29ffc6521c45bce9aa96f39666748879fc915"
+                              },
+                              {
+                                  "path":  "src/google/protobuf/duration.proto",
+                                  "bytes":  4892,
+                                  "sha256":  "a3f7301ff2956ec2e30c2241ece07197e4a86c752348d5607224819d4921c9fe"
+                              },
+                              {
+                                  "path":  "src/google/protobuf/empty.proto",
+                                  "bytes":  2363,
+                                  "sha256":  "ecef3d54cc9e079673b9816c67bac770f7f3bf6dada2d4596ba69d71daa971e6"
+                              },
+                              {
+                                  "path":  "src/google/protobuf/field_mask.proto",
+                                  "bytes":  8185,
+                                  "sha256":  "17b0f342cc3a262e317d56884f3f575afbfac512ad0579349cc7450e41f26891"
+                              },
+                              {
+                                  "path":  "src/google/protobuf/source_context.proto",
+                                  "bytes":  2341,
+                                  "sha256":  "37d3401de89af1d1496fc949924a5f2011bd2fadfbeb0da1caa277159a96776d"
+                              },
+                              {
+                                  "path":  "src/google/protobuf/struct.proto",
+                                  "bytes":  3778,
+                                  "sha256":  "1bf07ba8b9a24e3a0390dddac3ad0db41c63287d252788b02398220b9abc900f"
+                              },
+                              {
+                                  "path":  "src/google/protobuf/timestamp.proto",
+                                  "bytes":  6449,
+                                  "sha256":  "14052c6042c1dd2d0b50245f2812eaab6eaf82db0b6e8ce483eae527f73b6ee8"
+                              },
+                              {
+                                  "path":  "src/google/protobuf/type.proto",
+                                  "bytes":  6367,
+                                  "sha256":  "e230e0e4aeb87c95e9f1c6acbfc0c713db3f88094f149b154717a51d020f750b"
+                              },
+                              {
+                                  "path":  "src/google/protobuf/wrappers.proto",
+                                  "bytes":  4044,
+                                  "sha256":  "a26c1d6ec73a592ac31796289a61ceffe2db2453ff427dfdd7697aac50844280"
+                              },
+                              {
+                                  "path":  "user-messaging-platform.properties",
+                                  "bytes":  82,
+                                  "sha256":  "70052037178e7a16f254ecb3508d31821eb8a9c983d93882136c484067a9d3ff"
+                              }
+                          ],
+    "source_java_compiled":  false,
+    "signing_identity":  "Local Android debug key; differs from the original publisher key",
+    "runtime_verified":  false
+}

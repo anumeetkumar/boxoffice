@@ -1,0 +1,58 @@
+plugins { id 'com.android.application' version '8.8.2' }
+
+android {
+    namespace 'com.fvvcl.flickverse'
+    compileSdk 35
+    buildToolsVersion '35.0.0'
+    defaultConfig {
+        applicationId 'com.fvvcl.flickverse'
+        minSdk 24
+        targetSdk 33
+        versionCode 40000
+        versionName 'V4.0.0-recovery'
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    buildFeatures { buildConfig = true; dataBinding = false; viewBinding = false }
+    sourceSets {
+        main {
+            // A working copy is populated by tools/PrepareSource.ps1; evidence stays untouched.
+            java.srcDirs = ['src/main/java']
+            java.exclude 'com/fvvcl/flickverse/R.java', 'com/fvvcl/flickverse/BuildConfig.java'
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            res.srcDirs = ['../bytecode-app/apktool/res']
+            assets.srcDirs = ['../bytecode-app/apktool/assets']
+            jniLibs.srcDirs = ['../bytecode-app/apktool/lib']
+        }
+    }
+    packaging {
+        jniLibs { useLegacyPackaging = true }
+        resources.excludes += ['META-INF/DEPENDENCIES', 'META-INF/LICENSE*', 'META-INF/NOTICE*']
+    }
+    lint { abortOnError = false }
+}
+// The recovered tree already contains the bundled third-party classes. Adding their
+// Maven AAR/JARs here would introduce duplicate classes and incompatible obfuscated APIs.
+// Missing original build metadata and Java decompiler errors must be restored explicitly.
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.compilerArgs += ['-Xmaxerrs', '200']
+}
+tasks.named('preBuild').configure { dependsOn ':bytecode-app:prepareRecovery' }
+
+tasks.register('diagnoseRecoveredJava', JavaCompile) {
+    group = 'verification'
+    description = 'Run javac on the recovered Java with original R classes, independent of resource rebuilding.'
+    source fileTree('src/main/java') { include '**/*.java' }
+    classpath = files(android.bootClasspath)
+    destinationDirectory = layout.buildDirectory.dir('diagnostics/java-classes')
+    sourceCompatibility = '17'
+    targetCompatibility = '17'
+    options.encoding = 'UTF-8'
+    options.incremental = false
+    options.fork = true
+    options.forkOptions.memoryMaximumSize = '2048m'
+    options.compilerArgs += ['-proc:none', '-Xmaxerrs', '200']
+}

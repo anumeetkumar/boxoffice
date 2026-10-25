@@ -1,0 +1,2 @@
+mCurrentFocus=Window{959988e u0 com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity}
+mFocusedApp=ActivityRecord{f715201 u0 com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity t2750}

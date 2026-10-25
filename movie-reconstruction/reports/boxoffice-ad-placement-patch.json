@@ -1,0 +1,157 @@
+{
+  "existing_empty_list_field": 27827,
+  "patched_getters": [
+    {
+      "method": "getAd_position_1",
+      "code_offset": 8145940,
+      "original_instructions": "5410c14c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_10",
+      "code_offset": 8145964,
+      "original_instructions": "5410c24c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_11",
+      "code_offset": 8145988,
+      "original_instructions": "5410c34c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_12",
+      "code_offset": 8146012,
+      "original_instructions": "5410c44c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_13",
+      "code_offset": 8146036,
+      "original_instructions": "5410c54c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_15",
+      "code_offset": 8146060,
+      "original_instructions": "5410c64c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_16",
+      "code_offset": 8146084,
+      "original_instructions": "5410c74c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_17",
+      "code_offset": 8146108,
+      "original_instructions": "5410d14c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_18",
+      "code_offset": 8146132,
+      "original_instructions": "5410c94c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_19",
+      "code_offset": 8146156,
+      "original_instructions": "5410d04c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_2",
+      "code_offset": 8146180,
+      "original_instructions": "5410cb4c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_20",
+      "code_offset": 8146204,
+      "original_instructions": "5410ce4c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_21",
+      "code_offset": 8146228,
+      "original_instructions": "5410cd4c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_22",
+      "code_offset": 8146252,
+      "original_instructions": "5410ce4c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_23",
+      "code_offset": 8146276,
+      "original_instructions": "5410cf4c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_24",
+      "code_offset": 8146300,
+      "original_instructions": "5410d04c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_25",
+      "code_offset": 8146324,
+      "original_instructions": "5410d14c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_26",
+      "code_offset": 8146348,
+      "original_instructions": "5410d24c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_3",
+      "code_offset": 8146372,
+      "original_instructions": "5410cf4c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_4",
+      "code_offset": 8146396,
+      "original_instructions": "5410d44c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_5",
+      "code_offset": 8146420,
+      "original_instructions": "5410d54c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_6",
+      "code_offset": 8146444,
+      "original_instructions": "5410d64c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_7",
+      "code_offset": 8146468,
+      "original_instructions": "5410d74c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_8",
+      "code_offset": 8146492,
+      "original_instructions": "5410d84c1100",
+      "replacement_instructions": "6200b36c1100"
+    },
+    {
+      "method": "getAd_position_9",
+      "code_offset": 8146516,
+      "original_instructions": "5410d94c1100",
+      "replacement_instructions": "6200b36c1100"
+    }
+  ],
+  "all_indexes_and_code_sizes_preserved": true,
+  "sha256": "32493c472e0615f6068812af3460f87541b5358398e9eeb43da195a616a2824d"
+}

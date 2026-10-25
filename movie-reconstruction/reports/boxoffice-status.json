@@ -1,0 +1,25 @@
+{
+  "brand": "BoxOffice",
+  "generated_icon": "boxoffice/assets/boxoffice-icon.png",
+  "ad_placements_disabled": 25,
+  "ad_auto_initializers_removed": 12,
+  "navigation": [
+    "Home",
+    "Streaming",
+    "Categories",
+    "Me"
+  ],
+  "vip_banner_absent_in_phone_player": true,
+  "account_promotion_removed": true,
+  "phone_update_installed": true,
+  "phone_uid": 10206,
+  "phone_data_preserved": true,
+  "phone_history_checked": true,
+  "playback_sample": "Epic - First Semester",
+  "phone_playback_start_observed": true,
+  "phone_sdk_port_7000": true,
+  "observed_phone_ad_sdk_logs": 0,
+  "delivery_apk": "C:\\Users\\AlphaDell-60\\Documents\\code\\personal\\rea-test\\BoxOffice.apk",
+  "sha256": "983170b637179f7c83eeeaf7cece6ce2cfb763e7e883c9a674615ad9d400c30f",
+  "source_java_build_restored": false
+}

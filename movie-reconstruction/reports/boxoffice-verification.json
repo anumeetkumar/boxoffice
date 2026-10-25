@@ -1,0 +1,96 @@
+{
+  "apk": "C:\\Users\\AlphaDell-60\\Documents\\code\\personal\\rea-test\\movie-reconstruction\\boxoffice\\build\\BoxOffice.apk",
+  "sha256": "983170b637179f7c83eeeaf7cece6ce2cfb763e7e883c9a674615ad9d400c30f",
+  "label": "BoxOffice",
+  "package": "com.fvvcl.flickverse",
+  "changed_dex": [
+    "classes10.dex",
+    "classes11.dex",
+    "classes5.dex"
+  ],
+  "unchanged_non_resource_payloads": 165,
+  "unchanged_native_libraries": [
+    {
+      "entry": "lib/arm64-v8a/libapminsighta.so",
+      "sha256": "b1a70dabf68e95e1910bb080dbe1c78ae628a0bf7332f7ba41db23d9bbe282c0"
+    },
+    {
+      "entry": "lib/arm64-v8a/libapminsightb.so",
+      "sha256": "c36885b7189dc5173627ff9afb5a49cb94420b9b98341536b4476b792babab61"
+    },
+    {
+      "entry": "lib/arm64-v8a/libapplovin-native-crash-reporter.so",
+      "sha256": "ecf2a7327be482870f4c791392a50cecfeaabb2c76a7224898e9713a18c4c36a"
+    },
+    {
+      "entry": "lib/arm64-v8a/libbuffer_pgl.so",
+      "sha256": "d416381c202993e4a03fd6ae0c5b407f1531f61fc45f518ad5b7f4620d5a2133"
+    },
+    {
+      "entry": "lib/arm64-v8a/libfile_lock_pgl.so",
+      "sha256": "d14096b150b4b2f21263fdb4f1c61eea3fcd76804c776de2395b13dfbe1d8ca0"
+    },
+    {
+      "entry": "lib/arm64-v8a/libjiagu_sdk_pp_hlsProtected.so",
+      "sha256": "137b70530423379b1a6827b2e602c831ddfb1821e0d80e860281c1488ef77494"
+    },
+    {
+      "entry": "lib/arm64-v8a/libnms.so",
+      "sha256": "1db1d9bcf347d38bd7b0fd7a2542d18b2069151f936bf115ff0728e5738a08c9"
+    },
+    {
+      "entry": "lib/arm64-v8a/libpglarmor.so",
+      "sha256": "c590266c06f99a194ff209b9c32036191903f0cbe3421919df540851b3bb958c"
+    },
+    {
+      "entry": "lib/arm64-v8a/libpp_hls.so",
+      "sha256": "2c3b7daf4a319b23de259a9b18904ebf082f1690ba832ba954ddc0417b19e9b0"
+    },
+    {
+      "entry": "lib/arm64-v8a/libtt_ugen_layout.so",
+      "sha256": "6356784adf27dac5d18cd14a052d4ab9c161fb74eb4df3d4107d00f2549edeb2"
+    },
+    {
+      "entry": "lib/armeabi-v7a/libapminsighta.so",
+      "sha256": "bb08cd264170375bb94ac11ec08fb3c161b4ee72a376cf05aceb7c0f0a13db08"
+    },
+    {
+      "entry": "lib/armeabi-v7a/libapminsightb.so",
+      "sha256": "ffae9546e59fc4e136dc9cfd54451a131c7e523454fba45e36299d4e3f60b0a5"
+    },
+    {
+      "entry": "lib/armeabi-v7a/libapplovin-native-crash-reporter.so",
+      "sha256": "26814da52e1ed103b7adba975f5214b8f5fea21209efcd8dea1d0bb41e343d7c"
+    },
+    {
+      "entry": "lib/armeabi-v7a/libbuffer_pgl.so",
+      "sha256": "1959f8616e7ed8ae3a4c4edc4bb557c55d1fea3de0096b3842e37f42e2e7222a"
+    },
+    {
+      "entry": "lib/armeabi-v7a/libfile_lock_pgl.so",
+      "sha256": "f9e3402f0cff891a4dcf38e7c1876c889b97ab61daa426fe36ca28b28c1fed85"
+    },
+    {
+      "entry": "lib/armeabi-v7a/libjiagu_sdk_pp_hlsProtected.so",
+      "sha256": "01ac2b74c2e180e1d3777bf5f748046932f2f9e7028f299574cae9b41a0202c0"
+    },
+    {
+      "entry": "lib/armeabi-v7a/libnms.so",
+      "sha256": "d59389b3ea088f77dd6984548d1ea9a6e81ff2b48f03b3848c7a5d73c6849833"
+    },
+    {
+      "entry": "lib/armeabi-v7a/libpglarmor.so",
+      "sha256": "4c6b307d2c0a500513c2051d0db21a432ce354617ce21c49588a11c18583dfe4"
+    },
+    {
+      "entry": "lib/armeabi-v7a/libpp_hls.so",
+      "sha256": "3e4c1289844e6d4a5e2621c35196b5d8bf8ce42635dbe801ba850b05f758fb53"
+    },
+    {
+      "entry": "lib/armeabi-v7a/libtt_ugen_layout.so",
+      "sha256": "368f2e815971bcecb8804d23c8f1e54e758923630d247e9c2d54d090fb2495ed"
+    }
+  ],
+  "ad_placement_getters_disabled": 25,
+  "runtime_verified": true
+}

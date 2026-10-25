@@ -1,0 +1,11 @@
+plugins { id 'base' }
+defaultTasks ':bytecode-app:assembleDebug'
+tasks.register('assembleRebuiltApk') {
+    group = 'build'
+    description = 'Rebuild and debug-sign the APK using preserved original DEX, not recovered Java.'
+    dependsOn ':bytecode-app:assembleDebug'
+}
+tasks.register('verifyRecovery') {
+    group = 'verification'
+    dependsOn ':bytecode-app:verifyPayload'
+}

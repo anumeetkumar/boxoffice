@@ -1,0 +1,9 @@
+{
+  "comparison": "Original APK versus signature-only diagnostic candidate",
+  "unchanged_entries": 3599,
+  "includes_original_manifest_resources_dex_native": true,
+  "playback_fixed": false,
+  "runtime_test_pending": false,
+  "original_native_port": 7000,
+  "resigned_native_port": "-1"
+}

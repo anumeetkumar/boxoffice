@@ -1,0 +1,5 @@
+--------- beginning of main
+10-22 23:11:40.373  4437  4437 I wangyi  : 应用处于前台
+10-22 23:11:44.994  4437  4437 I wangyi  : googlep2p2sign为：6c5e05be5dad7fca877daa8ecf9ee324
+10-22 23:11:44.994  4437  4437 I wangyi  : localp2p2sign为：4f75b4026574ab41fcfefa4ee13015a0
+10-22 23:11:45.180  4437  4437 I wangyi  : 端口号为：7000

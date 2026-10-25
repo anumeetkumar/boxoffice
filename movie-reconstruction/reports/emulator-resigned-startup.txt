@@ -1,0 +1,5 @@
+--------- beginning of main
+10-22 22:41:00.550  5955  5955 I wangyi  : 应用处于前台
+10-22 22:41:11.544  5955  5955 I wangyi  : googlep2p2sign为：6c5e05be5dad7fca877daa8ecf9ee324
+10-22 22:41:11.544  5955  5955 I wangyi  : localp2p2sign为：4f75b4026574ab41fcfefa4ee13015a0
+10-22 22:41:11.658  5955  5955 I wangyi  : 端口号为：-1

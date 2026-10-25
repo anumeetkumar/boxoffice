@@ -1,0 +1,14 @@
+{
+  "original_phone_test_completed": true,
+  "original_uid": 10165,
+  "original_pid": 18152,
+  "original_sdk_port": 7000,
+  "original_bigg_boss20_episode1_http_eof": true,
+  "original_download_queue_empty": true,
+  "phone_restoration_pending": false,
+  "new_streaming_fix_implemented": false,
+  "apk_unchanged_sha256": "2ab3074cedf8274ef93263346e00e71b855b655b724ef98d8d36fa3eddf4fffc",
+  "phone_rebuilt_restored": true,
+  "restored_uid": 10206,
+  "restored_sdk_port_7000_observed": true
+}

@@ -1,0 +1,25 @@
+I: Using Apktool 3.0.3 on Movie.apk with 2 threads
+I: classes.dex has not changed.
+I: classes10.dex has not changed.
+I: classes11.dex has not changed.
+I: classes2.dex has not changed.
+I: classes3.dex has not changed.
+I: classes4.dex has not changed.
+I: classes5.dex has not changed.
+I: classes6.dex has not changed.
+I: classes7.dex has not changed.
+I: classes8.dex has not changed.
+I: classes9.dex has not changed.
+I: Building resources with aapt2...
+I: Building apk file...
+I: Importing assets...
+I: Importing lib...
+I: Importing unknown files...
+I: Built apk into: C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\bytecode-app\build\outputs\apk\rebuilt-debug\movie-unsigned.apk
+Generating 2,048 bit RSA key pair and self-signed certificate (SHA256withRSA) with a validity of 10,000 days
+	for: CN=Android Debug, O=Android, C=US
+
+Warning:
+The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format using "keytool -importkeystore -srckeystore C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\tools\debug.keystore -destkeystore C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\tools\debug.keystore -deststoretype pkcs12".
+Verified signature, alignment, package identity and 168 unchanged non-resource payloads.
+Built: C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\bytecode-app\build\outputs\apk\rebuilt-debug\movie-rebuilt-debug.apk

@@ -1,0 +1,38 @@
+--------- beginning of main
+10-23 01:55:49.742  6626  6626 I wangyi  : 应用处于前台
+10-23 01:56:01.305  6626  6626 I wangyi  : googlep2p2sign为：6c5e05be5dad7fca877daa8ecf9ee324
+10-23 01:56:01.307  6626  6626 I wangyi  : localp2p2sign为：4f75b4026574ab41fcfefa4ee13015a0
+10-23 01:56:02.638  6626  6626 I wangyi  : 端口号为：7000
+10-23 01:57:56.406  6626  6626 I wangyi  : 应用处于后台
+10-23 01:57:56.621  6626  6626 I wangyi  : 应用处于前台
+10-23 01:57:57.010  6626  7394 I wangyi  : get成功：
+10-23 01:57:57.056  6626  7390 I wangyi  : sucess：Response{protocol=h2, code=200, message=, url=https://moviein.ajfysu.com/api/public/upgrade}
+10-23 01:57:57.470  6626  6626 I wangyi  : result：SHOK5119ocG2i+z/LCGkhndaeaieKxv+7QjLe4GhPs/H74DbqaZc7ZFQxuRiOgL1leIfz84zclDQPlU6pLUbWw==
+10-23 01:57:57.474  6626  6626 I wangyi  : 版本号为：40000
+10-23 01:57:57.474  6626  6626 I wangyi  : 信息为：{"code": 10000, "message": "Success", "result": null}---null
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal: Source error
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:   com.google.android.exoplayer2.upstream.HttpDataSource$HttpDataSourceException: Unable to connect
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.google.android.exoplayer2.upstream.d.a(DefaultHttpDataSource.java:206)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.google.android.exoplayer2.upstream.d.a(Native Method)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at e5.o.a(StatsDataSource.java:13)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at k4.e0$a.load(ProgressiveMediaPeriod.java:23)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.google.android.exoplayer2.upstream.Loader$d.run(Loader.java:52)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at java.lang.Thread.run(Thread.java:1012)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:   Caused by: java.io.IOException: unexpected end of stream on com.android.okhttp.Address@7a386d3c
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:203)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.google.android.exoplayer2.upstream.d.l(DefaultHttpDataSource.java:85)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.google.android.exoplayer2.upstream.d.a(DefaultHttpDataSource.java:15)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       ... 7 more
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:   Caused by: java.io.EOFException: \n not found: size=0 content=...
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:202)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+10-23 01:59:19.081  6626  7452 E ExoPlayerImplInternal:       ... 15 more
+10-23 01:59:19.100  6626  6626 I wangyi  : onPlayerError

@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Server: bad_sdk
+Content-Length: 5
+Content-Type: text/html
+Connection: close
+

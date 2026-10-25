@@ -1,0 +1,15 @@
+{"type":"send","payload":{"event":"trace.ready","mode":"observation only; original results preserved; query values omitted"}}
+{"type":"send","payload":{"event":"source.open","location":{"error":"TypeError: cannot read property 'toString' of undefined"}}}
+{"type":"send","payload":{"event":"source.error","location":{"error":"TypeError: cannot read property 'toString' of undefined"},"elapsed_ms":8118,"error":"Error: com.google.android.exoplayer2.upstream.HttpDataSource$HttpDataSourceException: Unable to connect"}}
+{"type":"send","payload":{"event":"source.open","location":{"error":"TypeError: cannot read property 'toString' of undefined"}}}
+{"type":"send","payload":{"event":"source.error","location":{"error":"TypeError: cannot read property 'toString' of undefined"},"elapsed_ms":7947,"error":"Error: com.google.android.exoplayer2.upstream.HttpDataSource$HttpDataSourceException: Unable to connect"}}
+{"type":"send","payload":{"event":"source.open","location":{"error":"TypeError: cannot read property 'toString' of undefined"}}}
+{"type":"send","payload":{"event":"source.error","location":{"error":"TypeError: cannot read property 'toString' of undefined"},"elapsed_ms":5980,"error":"Error: com.google.android.exoplayer2.upstream.HttpDataSource$HttpDataSourceException: Unable to connect"}}
+{"type":"send","payload":{"event":"source.open","location":{"error":"TypeError: cannot read property 'toString' of undefined"}}}
+{"type":"send","payload":{"event":"source.error","location":{"error":"TypeError: cannot read property 'toString' of undefined"},"elapsed_ms":8020,"error":"Error: com.google.android.exoplayer2.upstream.HttpDataSource$HttpDataSourceException: Unable to connect"}}
+{"type":"send","payload":{"event":"source.open","location":{"error":"TypeError: cannot read property 'toString' of undefined"}}}
+{"type":"send","payload":{"event":"source.error","location":{"error":"TypeError: cannot read property 'toString' of undefined"},"elapsed_ms":7047,"error":"Error: com.google.android.exoplayer2.upstream.HttpDataSource$HttpDataSourceException: Unable to connect"}}
+{"type":"send","payload":{"event":"source.open","location":{"error":"TypeError: cannot read property 'toString' of undefined"}}}
+{"type":"send","payload":{"event":"source.error","location":{"error":"TypeError: cannot read property 'toString' of undefined"},"elapsed_ms":6013,"error":"Error: com.google.android.exoplayer2.upstream.HttpDataSource$HttpDataSourceException: Unable to connect"}}
+{"type":"send","payload":{"event":"source.open","location":{"error":"TypeError: cannot read property 'toString' of undefined"}}}
+{"type":"send","payload":{"event":"source.error","location":{"error":"TypeError: cannot read property 'toString' of undefined"},"elapsed_ms":6015,"error":"Error: com.google.android.exoplayer2.upstream.HttpDataSource$HttpDataSourceException: Unable to connect"}}

@@ -1,0 +1,21 @@
+{
+  "candidate": "C:\\Users\\AlphaDell-60\\Documents\\code\\personal\\rea-test\\movie-reconstruction\\bytecode-app\\build\\outputs\\apk\\playback-candidate\\movie-playback-candidate.apk",
+  "candidate_sha256": "2ab3074cedf8274ef93263346e00e71b855b655b724ef98d8d36fa3eddf4fffc",
+  "unchanged_entries": 3597,
+  "original_manifest_resources_native_assets_preserved": true,
+  "changed_entries": [
+    {
+      "entry": "classes11.dex",
+      "classes": 8061,
+      "sha256": "001ba075abb8a86eef8aa0457c4e007bedac18d0ea7fc292243595e08c271294",
+      "dex_version": "037"
+    },
+    {
+      "entry": "classes5.dex",
+      "classes": 6287,
+      "sha256": "e840f8721790185c5f82450dd40865c7359c3c52d947f80f865e1ad14acd470c",
+      "dex_version": "037"
+    }
+  ],
+  "archive_and_dex_checks_passed": true
+}

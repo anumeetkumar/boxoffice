@@ -1,0 +1,18 @@
+{
+  "playback_fix_implemented": true,
+  "configuration_derived_from_signing_certificate": true,
+  "native_checks_modified": false,
+  "emulator": "Workspace-owned API 35 x86_64 with ARM64 translation",
+  "sdk_port": 7000,
+  "movie_sample": "Mandaadi",
+  "movie_playback_start_and_frame_verified": true,
+  "series_sample": "Bigg Boss Season 13 Episode 1",
+  "series_playback_start_and_frame_verified": true,
+  "whole_catalog_tested": false,
+  "shorttk_playback_tested": false,
+  "phone_original_untouched": true,
+  "source_java_compilation_restored": false,
+  "delivery_apk": "C:\\Users\\AlphaDell-60\\Documents\\code\\personal\\rea-test\\Movie-playback-fixed.apk",
+  "sha256": "2ab3074cedf8274ef93263346e00e71b855b655b724ef98d8d36fa3eddf4fffc",
+  "build_command": ".\\Build.ps1 -Action Playback"
+}

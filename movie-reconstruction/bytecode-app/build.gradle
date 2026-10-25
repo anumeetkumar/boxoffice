@@ -1,0 +1,56 @@
+plugins { id 'base' }
+
+def workflow = rootProject.file('tools/ApkWorkflow.ps1')
+def invokeWorkflow = { String action, List<String> extra = [] ->
+    providers.exec {
+        commandLine(['powershell.exe', '-NoProfile', '-ExecutionPolicy', 'Bypass', '-File', workflow.absolutePath,
+                     '-Action', action] + extra)
+    }.result.get().assertNormalExitValue()
+}
+tasks.register('prepareRecovery') {
+    group = 'recovery'
+    inputs.file rootProject.file('../Movie.apk')
+    outputs.file file('apktool/apktool.yml')
+    doLast { invokeWorkflow('Prepare') }
+}
+tasks.register('assembleDebug') {
+    group = 'build'
+    description = 'Rebuild resources and preserve the original DEX/native code; sign with a local test key.'
+    dependsOn 'prepareRecovery'
+    inputs.dir file('apktool')
+    inputs.file workflow
+    outputs.file layout.buildDirectory.file('outputs/apk/rebuilt-debug/movie-rebuilt-debug.apk')
+    // Verification and signing are intentionally repeated for each explicit build.
+    outputs.upToDateWhen { false }
+    doLast { invokeWorkflow('Assemble') }
+}
+tasks.register('verifyPayload') {
+    group = 'verification'
+    dependsOn 'assembleDebug'
+    doLast { invokeWorkflow('Verify') }
+}
+tasks.register('installDebug') {
+    group = 'install'
+    description = 'Install on a selected phone; refuses automatic replacement/uninstall of an existing package.'
+    dependsOn 'verifyPayload'
+    doLast {
+        def serial = providers.gradleProperty('deviceSerial').getOrElse('')
+        invokeWorkflow('Install', serial ? ['-Serial', serial] : [])
+    }
+}
+tasks.register('launchApp') {
+    group = 'install'
+    doLast {
+        def serial = providers.gradleProperty('deviceSerial').getOrElse('')
+        invokeWorkflow('Launch', serial ? ['-Serial', serial] : [])
+    }
+}
+tasks.register('devices') {
+    group = 'install'
+    doLast { invokeWorkflow('Devices') }
+}
+tasks.register('decodeSmali') {
+    group = 'recovery'
+    description = 'Create a separate editable smali recovery tree; never replaces the DEX-preserving tree.'
+    doLast { invokeWorkflow('DecodeSmali') }
+}

@@ -1,0 +1,23 @@
+{
+  "original_sha256": "cdc0d88ebcd6ad10d04e9e09f8b75fdeabd91369b9a524827cabfcbb9e7ad4f9",
+  "original_cert_md5": "099656628B5CF75B43B04EECE0E62FA4",
+  "candidate_cert_md5": "66DDA37731D61DB6C753CD950AA7E82C",
+  "derivation": "MD5(uppercase certificate MD5 + \"+\" + package + \"+\" + channel)",
+  "old_sdk_configuration": "918ef3452da2728168006719d78815a6",
+  "new_sdk_configuration": "dd2f0a94b46aad429d3989bc3c615f88",
+  "changes": [
+    {
+      "entry": "classes11.dex",
+      "string_items_updated": 1,
+      "before_sha256": "333f455b52cc68fcf9e61c3a86cb680f44d5e062129220bf7e2b6925b9b1bbe9",
+      "after_sha256": "001ba075abb8a86eef8aa0457c4e007bedac18d0ea7fc292243595e08c271294"
+    },
+    {
+      "entry": "classes5.dex",
+      "string_items_updated": 1,
+      "before_sha256": "552a6592cffe8845c3cafd94f6ab48ec5e5632726b8f24f87b954a064d06c124",
+      "after_sha256": "e840f8721790185c5f82450dd40865c7359c3c52d947f80f865e1ad14acd470c"
+    }
+  ],
+  "playback_verified": false
+}

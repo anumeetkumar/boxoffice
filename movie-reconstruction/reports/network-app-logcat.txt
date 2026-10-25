@@ -1,0 +1,1058 @@
+--------- beginning of system
+10-23 10:43:31.011  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:43:31.950  3183  3547 E ActivityThread: Failed to find provider info for com.huawei.appmarket.commondata
+10-23 10:43:32.357  3183  3183 V ResourcesManager: The following library key has been added: ResourcesKey{ mHash=4598ab9f mResDir=null mSplitDirs=[] mOverlayDirs=[/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk] mLibDirs=[/data/app/~~0Bkg57uT3Wd9SbA2W9tYig==/com.google.android.webview-L_UFBbb4NjjtGOMQa2rDyg==/base.apk,/system/framework/android.test.base.jar,/system_ext/framework/androidx.window.extensions.jar] mDisplayId=0 mOverrideConfig=v35 mCompatInfo={450dpi always-compat} mLoaders=[]}
+10-23 10:43:32.682  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:43:39.087  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:43:40.819  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:43:44.399  3183  3810 W PowerProfile: ambient.on is deprecated! Use ambient.on.display0 instead.
+10-23 10:43:44.399  3183  3810 W PowerProfile: screen.on is deprecated! Use screen.on.display0 instead.
+10-23 10:43:44.399  3183  3810 W PowerProfile: screen.full is deprecated! Use screen.full.display0 instead.
+10-23 10:43:44.399  3183  3810 W ModemPowerProfile: getAverageBatteryDrainMaH called with unexpected key: 0x0, drain:SLEEP,RAT:DEFAULT
+10-23 10:43:44.399  3183  3810 W ModemPowerProfile: getAverageBatteryDrainMaH called with unexpected key: 0x10000000, drain:IDLE,RAT:DEFAULT
+10-23 10:43:44.399  3183  3810 W ModemPowerProfile: getAverageBatteryDrainMaH called with unexpected key: 0x20000000, drain:RX,RAT:DEFAULT
+10-23 10:43:44.399  3183  3810 W ModemPowerProfile: getAverageBatteryDrainMaH called with unexpected key: 0x30000000, drain:TX,level:0,RAT:DEFAULT
+10-23 10:43:44.399  3183  3810 W ModemPowerProfile: getAverageBatteryDrainMaH called with unexpected key: 0x31000000, drain:TX,level:1,RAT:DEFAULT
+10-23 10:43:44.399  3183  3810 W ModemPowerProfile: getAverageBatteryDrainMaH called with unexpected key: 0x32000000, drain:TX,level:2,RAT:DEFAULT
+10-23 10:43:44.399  3183  3810 W ModemPowerProfile: getAverageBatteryDrainMaH called with unexpected key: 0x33000000, drain:TX,level:3,RAT:DEFAULT
+10-23 10:43:44.399  3183  3810 W ModemPowerProfile: getAverageBatteryDrainMaH called with unexpected key: 0x34000000, drain:TX,level:4,RAT:DEFAULT
+10-23 10:43:45.979  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:43:48.341  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:43:50.257  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:43:56.762  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:44:01.362  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:44:03.405  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:44:36.305  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:44:37.775  3183  3183 D Activity: onKeyDown(KEYCODE_BACK), activity=com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@a5f9144
+10-23 10:44:37.777  3183  3183 D Activity: onBackInvoked, activity=com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@a5f9144, caller=android.app.Activity.onBackPressed:4396 androidx.activity.ComponentActivity.access$onBackPressed$s1027565324:1 androidx.activity.ComponentActivity$onBackPressedDispatcher$2.invoke$lambda$0:7 
+10-23 10:44:59.285  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+--------- beginning of main
+10-23 10:50:25.733  3183  5547 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_OPENING for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:50:25.798  3183  5547 I CameraManagerGlobal: postSingleUpdate device: camera id 0 status STATUS_NOT_AVAILABLE
+10-23 10:50:26.003  3183  4176 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_OPEN for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:50:26.932  3183  4176 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_ACTIVE for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:50:30.911  3183  4176 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_IDLE for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:50:31.278  3183  3409 I CameraManagerGlobal: postSingleUpdate device: camera id 0 status STATUS_PRESENT
+10-23 10:50:31.283  3183  3409 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:50:35.389  3183  5547 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_OPENING for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:50:35.418  3183  3409 I CameraManagerGlobal: postSingleUpdate device: camera id 0 status STATUS_NOT_AVAILABLE
+10-23 10:50:35.423  3183  3409 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_OPEN for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:50:35.965  3183  3409 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_ACTIVE for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:50:40.057  3183  3195 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_IDLE for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:50:40.581  3183  3193 I CameraManagerGlobal: postSingleUpdate device: camera id 0 status STATUS_PRESENT
+10-23 10:50:40.582  3183  3193 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:51:50.101  3183  3590 I Ads     : Use RequestConfiguration.Builder().setTestDeviceIds(Arrays.asList("6B746942BD492E6DA7B78E6F2B9FC67C")) to get test ads on this device.
+10-23 10:51:50.241  3183  3590 W ServiceBindIntentUtils: Dynamic lookup for intent failed for action: com.google.android.gms.ads.service.CACHE
+10-23 10:51:50.298  3183 13090 W ServiceBindIntentUtils: Dynamic lookup for intent failed for action: com.google.android.gms.ads.service.START
+10-23 10:51:50.808  3183  3183 W Ads     : Failed to load interstitial ad with error: {
+10-23 10:51:50.808  3183  3183 W Ads     :   "Code": 3,
+10-23 10:51:50.808  3183  3183 W Ads     :   "Message": "No fill.",
+10-23 10:51:50.808  3183  3183 W Ads     :   "Domain": "com.google.android.gms.ads",
+10-23 10:51:50.808  3183  3183 W Ads     :   "Cause": "null",
+10-23 10:51:50.808  3183  3183 W Ads     :   "Response Info": {
+10-23 10:51:50.808  3183  3183 W Ads     :     "Response ID": "null",
+10-23 10:51:50.808  3183  3183 W Ads     :     "Mediation Adapter Class Name": "",
+10-23 10:51:50.808  3183  3183 W Ads     :     "Adapter Responses": [],
+10-23 10:51:50.808  3183  3183 W Ads     :     "Response Extras": {}
+10-23 10:51:50.808  3183  3183 W Ads     :   }
+10-23 10:51:50.808  3183  3183 W Ads     : } for ad unit: 916c3c63d432a280
+10-23 10:51:50.808  3183  3183 I Ads     : Ad failed to load : 3
+10-23 10:51:50.817  3183  3183 I chitu_sdk: admob preload ad failed, msg = No fill. interstitial 916c3c63d432a280
+10-23 10:51:52.164  3183  4176 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_OPENING for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:51:52.178  3183  4176 I CameraManagerGlobal: postSingleUpdate device: camera id 0 status STATUS_NOT_AVAILABLE
+10-23 10:51:52.201  3183  4769 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_OPEN for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:51:53.079  3183  4769 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_ACTIVE for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:51:57.604  3183  4175 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_IDLE for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:51:58.152  3183  4175 I CameraManagerGlobal: postSingleUpdate device: camera id 0 status STATUS_PRESENT
+10-23 10:51:58.152  3183  4175 I CameraManagerGlobal: Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client com.whatsapp API Level 2 User Id 0Device Id 0
+10-23 10:52:38.029  3183  3590 I Ads     : Use RequestConfiguration.Builder().setTestDeviceIds(Arrays.asList("6B746942BD492E6DA7B78E6F2B9FC67C")) to get test ads on this device.
+10-23 10:52:38.075  3183  3590 W ServiceBindIntentUtils: Dynamic lookup for intent failed for action: com.google.android.gms.ads.service.CACHE
+10-23 10:52:38.100  3183 13678 W ServiceBindIntentUtils: Dynamic lookup for intent failed for action: com.google.android.gms.ads.service.START
+10-23 10:52:38.397  3183  3183 W Ads     : Failed to load rewarded ad with error: {
+10-23 10:52:38.397  3183  3183 W Ads     :   "Code": 3,
+10-23 10:52:38.397  3183  3183 W Ads     :   "Message": "No fill.",
+10-23 10:52:38.397  3183  3183 W Ads     :   "Domain": "com.google.android.gms.ads",
+10-23 10:52:38.397  3183  3183 W Ads     :   "Cause": "null",
+10-23 10:52:38.397  3183  3183 W Ads     :   "Response Info": {
+10-23 10:52:38.397  3183  3183 W Ads     :     "Response ID": "null",
+10-23 10:52:38.397  3183  3183 W Ads     :     "Mediation Adapter Class Name": "",
+10-23 10:52:38.397  3183  3183 W Ads     :     "Adapter Responses": [],
+10-23 10:52:38.397  3183  3183 W Ads     :     "Response Extras": {}
+10-23 10:52:38.397  3183  3183 W Ads     :   }
+10-23 10:52:38.397  3183  3183 W Ads     : }, adUnitId: 8d1d256b231cf657
+10-23 10:52:38.398  3183  3183 I Ads     : Ad failed to load : 3
+10-23 10:52:38.399  3183  3183 I chitu_sdk: admob preload ad failed, msg = No fill. reward 8d1d256b231cf657
+10-23 10:56:46.400  3183  3590 I Ads     : Use RequestConfiguration.Builder().setTestDeviceIds(Arrays.asList("6B746942BD492E6DA7B78E6F2B9FC67C")) to get test ads on this device.
+10-23 10:56:46.466  3183  3590 W ServiceBindIntentUtils: Dynamic lookup for intent failed for action: com.google.android.gms.ads.service.CACHE
+10-23 10:56:46.498  3183 16033 W ServiceBindIntentUtils: Dynamic lookup for intent failed for action: com.google.android.gms.ads.service.START
+10-23 10:56:46.975  3183  3183 W Ads     : Failed to load interstitial ad with error: {
+10-23 10:56:46.975  3183  3183 W Ads     :   "Code": 3,
+10-23 10:56:46.975  3183  3183 W Ads     :   "Message": "No fill.",
+10-23 10:56:46.975  3183  3183 W Ads     :   "Domain": "com.google.android.gms.ads",
+10-23 10:56:46.975  3183  3183 W Ads     :   "Cause": "null",
+10-23 10:56:46.975  3183  3183 W Ads     :   "Response Info": {
+10-23 10:56:46.975  3183  3183 W Ads     :     "Response ID": "null",
+10-23 10:56:46.975  3183  3183 W Ads     :     "Mediation Adapter Class Name": "",
+10-23 10:56:46.975  3183  3183 W Ads     :     "Adapter Responses": [],
+10-23 10:56:46.975  3183  3183 W Ads     :     "Response Extras": {}
+10-23 10:56:46.975  3183  3183 W Ads     :   }
+10-23 10:56:46.975  3183  3183 W Ads     : } for ad unit: 916c3c63d432a280
+10-23 10:56:46.976  3183  3183 I Ads     : Ad failed to load : 3
+10-23 10:56:46.977  3183  3183 I chitu_sdk: admob preload ad failed, msg = No fill. interstitial 916c3c63d432a280
+10-23 10:57:42.478  3183  3590 I Ads     : Use RequestConfiguration.Builder().setTestDeviceIds(Arrays.asList("6B746942BD492E6DA7B78E6F2B9FC67C")) to get test ads on this device.
+10-23 10:57:42.532  3183  3590 W ServiceBindIntentUtils: Dynamic lookup for intent failed for action: com.google.android.gms.ads.service.CACHE
+10-23 10:57:42.561  3183 16788 W ServiceBindIntentUtils: Dynamic lookup for intent failed for action: com.google.android.gms.ads.service.START
+10-23 10:57:42.914  3183  3183 W Ads     : Failed to load rewarded ad with error: {
+10-23 10:57:42.914  3183  3183 W Ads     :   "Code": 3,
+10-23 10:57:42.914  3183  3183 W Ads     :   "Message": "No fill.",
+10-23 10:57:42.914  3183  3183 W Ads     :   "Domain": "com.google.android.gms.ads",
+10-23 10:57:42.914  3183  3183 W Ads     :   "Cause": "null",
+10-23 10:57:42.914  3183  3183 W Ads     :   "Response Info": {
+10-23 10:57:42.914  3183  3183 W Ads     :     "Response ID": "null",
+10-23 10:57:42.914  3183  3183 W Ads     :     "Mediation Adapter Class Name": "",
+10-23 10:57:42.914  3183  3183 W Ads     :     "Adapter Responses": [],
+10-23 10:57:42.914  3183  3183 W Ads     :     "Response Extras": {}
+10-23 10:57:42.914  3183  3183 W Ads     :   }
+10-23 10:57:42.914  3183  3183 W Ads     : }, adUnitId: 8d1d256b231cf657
+10-23 10:57:42.915  3183  3183 I Ads     : Ad failed to load : 3
+10-23 10:57:42.915  3183  3183 I chitu_sdk: admob preload ad failed, msg = No fill. reward 8d1d256b231cf657
+10-23 10:58:03.179  3183  3183 I VRI[VideoPlayDetailActivity]@161417: handleAppVisibility mAppVisible = false visible = true
+10-23 10:58:03.187  3183  3183 I VRI[VideoPlayDetailActivity]@161417: stopped(false) old = true
+10-23 10:58:03.187  3183  3183 D VRI[VideoPlayDetailActivity]@161417: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity set to false
+10-23 10:58:03.194  3183  3183 I wangyi  : 应用处于前台
+10-23 10:58:03.222  3183 18014 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:03.270  3183  3183 I aaaaaaaaaaa: onResume---------false
+10-23 10:58:03.270  3183  3183 W AudioManager: Use of stream types is deprecated for operations other than volume control
+10-23 10:58:03.271  3183  3183 W AudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+10-23 10:58:03.272  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:58:03.272  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:58:03.277  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:58:03.284  3183  3183 E t.a     : onScrubMove0
+10-23 10:58:03.290  3183  3183 I SurfaceView@73de3e2: onWindowVisibilityChanged(0) false com.google.android.exoplayer2.render.RenderSurfaceView{73de3e2 V.E...... ......ID 540,0-540,0} of VRI[VideoPlayDetailActivity]@161417
+10-23 10:58:03.290  3183  3183 D SurfaceView: 121496546 updateSurface: has no frame
+10-23 10:58:03.308  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:58:03.309  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:58:03.311  3183  3183 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[VideoPlayDetailActivity]@161417 mNativeObject= 0xb400007a6984c9d0 sc.mNativeObject= 0xb400007a497e2e50 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-23 10:58:03.311  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@161417 mNativeObject= 0xb400007a6984c9d0 sc.mNativeObject= 0xb400007a497e2e50 format= -3 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-23 10:58:03.312  3183  3183 I VRI[VideoPlayDetailActivity]@161417: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=12 res=0x3 s={true 0xb400007a2994c140} ch=true seqId=0
+10-23 10:58:03.313  3183  3183 D VRI[VideoPlayDetailActivity]@161417: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a2994c140} hwInitialized=true
+10-23 10:58:03.314  3183  3183 D SurfaceView: 121496546 updateSurface: has no frame
+10-23 10:58:03.316  3183  3183 I SurfaceView@73de3e2: windowStopped(false) true com.google.android.exoplayer2.render.RenderSurfaceView{73de3e2 V.E...... ......ID 540,0-540,0} of VRI[VideoPlayDetailActivity]@161417
+10-23 10:58:03.316  3183  3183 D SurfaceView: 121496546 updateSurface: has no frame
+10-23 10:58:03.318  3183  3183 D VRI[VideoPlayDetailActivity]@161417: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-23 10:58:03.318  3183  3183 D SurfaceView: 121496546 updateSurface: has no frame
+10-23 10:58:03.318  3183  3183 D VRI[VideoPlayDetailActivity]@161417: Setup new sync=wmsSync-VRI[VideoPlayDetailActivity]@161417#42
+10-23 10:58:03.318  3183  3183 I VRI[VideoPlayDetailActivity]@161417: Creating new active sync group VRI[VideoPlayDetailActivity]@161417#43
+10-23 10:58:03.318  3183  3183 D VRI[VideoPlayDetailActivity]@161417: Start draw after previous draw not visible
+10-23 10:58:03.337  3183  3183 D VRI[VideoPlayDetailActivity]@161417: registerCallbacksForSync syncBuffer=false
+10-23 10:58:03.353  3183  3414 D VRI[VideoPlayDetailActivity]@161417: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-23 10:58:03.353  3183  3414 I VRI[VideoPlayDetailActivity]@161417: mWNT: t=0xb400007ae9839dd0 mBlastBufferQueue=0xb400007a6984c9d0 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-23 10:58:03.353  3183  3414 I VRI[VideoPlayDetailActivity]@161417: Setting up sync and frameCommitCallback
+10-23 10:58:03.372  3183  4494 D SensorManager: registerListener :: 1936159350, Gravity Sensor, 250000, 0, 
+10-23 10:58:03.375  3183  3274 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@161417#19](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-23 10:58:03.376  3183  3274 I VRI[VideoPlayDetailActivity]@161417: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-23 10:58:03.376  3183  3183 D VRI[VideoPlayDetailActivity]@161417: reportDrawFinished seqId=0
+10-23 10:58:03.418  3183  4494 D SensorManager: registerListener :: 2, LSM6DSO Gyroscope, 250000, 0, com.applovin.impl.w4@7eb5bb2
+10-23 10:58:03.430  3183  4495 D SensorManager: registerListener :: 1, LSM6DSO Accelerometer, 50000, 0, 
+10-23 10:58:03.432  3183  3183 D VRI[VideoPlayDetailActivity]@161417: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a2994c140}
+10-23 10:58:03.434  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:58:03.434  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:58:03.448  3183  3654 D InputTransport: Input channel constructed: 'ClientS', fd=341
+10-23 10:58:03.467  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:58:03.472  3183  3183 I VRI[VideoPlayDetailActivity]@161417: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:58:03.478  3183  3775 I System.out: [g2{Active}@14b1319, java.util.concurrent.Executors$FinalizableDelegatedExecutorService@baada9]
+10-23 10:58:03.478  3183  3775 I System.out: [g2{Active}@14b1319, java.util.concurrent.Executors$FinalizableDelegatedExecutorService@baada9]
+10-23 10:58:03.534  3183  3775 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.registerDefaultNetworkCallbackForUid(ConnectivityManager.java:5360)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5327)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5301)] [com.inmobi.media.Lj.a(SourceFile:6)] [com.inmobi.media.Lj.b(SourceFile:8)] [com.inmobi.media.Yk.b(SourceFile:29)] [com.inmobi.media.Rk.invokeSuspend(SourceFile:39)] [com.inmobi.media.Rk.invoke(SourceFile:12)] [com.inmobi.media.Ii.invokeSuspend(SourceFile:31)] [kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:12)] [kotlinx.coroutines.f.run(DispatchedTask.kt:120)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)] [java.lang.Thread.run(Thread.java:1012)]
+10-23 10:58:03.719  3183  4898 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-23 10:58:03.856  3183  3183 E conftime: AppApplicationconf开始:1792733283856
+10-23 10:58:03.858  3183 18014 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:04.209  3183  3183 E conftime: AppApplicationconf结束:1792733284209
+10-23 10:58:49.425  3183  3183 I VRI[VideoPlayDetailActivity]@161417: ViewPostIme pointer 0
+10-23 10:58:49.451  3183  3183 I VRI[VideoPlayDetailActivity]@161417: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[VideoPlayDetailActivity]@161417
+10-23 10:58:49.543  3183  3183 D WindowOnBackDispatcher: onBackInvoked, owner=VRI[VideoPlayDetailActivity]@161417, callback=android.view.ViewRootImpl$$ExternalSyntheticLambda15@5da685d
+10-23 10:58:49.544  3183  3183 I VRI[VideoPlayDetailActivity]@161417: ViewPostIme key 0
+10-23 10:58:49.544  3183  3183 D Activity: onKeyDown(KEYCODE_BACK), activity=com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@76b7785
+10-23 10:58:49.545  3183  3183 I VRI[VideoPlayDetailActivity]@161417: ViewPostIme key 1
+10-23 10:58:49.548  3183  3183 D Activity: onBackInvoked, activity=com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@76b7785, caller=android.app.Activity.onBackPressed:4396 androidx.activity.ComponentActivity.access$onBackPressed$s1027565324:1 androidx.activity.ComponentActivity$onBackPressedDispatcher$2.invoke$lambda$0:7 
+10-23 10:58:49.551  3183  3183 D getUiMode: 1
+10-23 10:58:49.582  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:58:49.583  3183  3183 E t.a     : onScrubMove0
+10-23 10:58:49.599  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@161417 mNativeObject= 0xb400007a6984c9d0 sc.mNativeObject= 0xb400007a497e2e50 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3386 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 
+10-23 10:58:49.599  3183  3183 I VRI[VideoPlayDetailActivity]@161417: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=true req=(1080,2400)0 dur=0 res=0x0 s={true 0xb400007a2994c140} ch=false seqId=0
+10-23 10:58:49.599  3183  3183 D SurfaceView: 121496546 updateSurface: has no frame
+10-23 10:58:49.600  3183  3183 D SurfaceView: 121496546 updateSurface: has no frame
+10-23 10:58:49.600  3183  3183 I VRI[VideoPlayDetailActivity]@161417: registerCallbackForPendingTransactions
+10-23 10:58:49.604  3183  3415 I VRI[VideoPlayDetailActivity]@161417: mWNT: t=0xb400007ae9839a50 mBlastBufferQueue=0xb400007a6984c9d0 fn= 2 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$9.onFrameDraw:6276 android.view.ViewRootImpl$3.onFrameDraw:2440 android.view.ThreadedRenderer$1.onFrameDraw:761 
+10-23 10:58:49.605  3183  3183 I VRI[MainActivity]@987b11b: handleAppVisibility mAppVisible = false visible = true
+10-23 10:58:49.605  3183  3183 I VRI[MainActivity]@987b11b: stopped(false) old = true
+10-23 10:58:49.605  3183  3183 D VRI[MainActivity]@987b11b: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to false
+10-23 10:58:49.669  3183  3183 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:58:49.669  3183  3183 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:58:49.670  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:58:49.670  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:58:49.677  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:58:49.689  3183  3183 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[MainActivity]@987b11b mNativeObject= 0xb400007a69845310 sc.mNativeObject= 0xb400007a497e1d10 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-23 10:58:49.689  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[MainActivity]@987b11b mNativeObject= 0xb400007a69845310 sc.mNativeObject= 0xb400007a497e1d10 format= -1 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-23 10:58:49.690  3183  3183 I VRI[MainActivity]@987b11b: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=14 res=0x3 s={true 0xb400007a2989d820} ch=true seqId=0
+10-23 10:58:49.690  3183  3183 D VRI[MainActivity]@987b11b: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a2989d820} hwInitialized=true
+10-23 10:58:49.691  3183  3183 D VRI[MainActivity]@987b11b: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-23 10:58:49.691  3183  3183 D VRI[MainActivity]@987b11b: Setup new sync=wmsSync-VRI[MainActivity]@987b11b#44
+10-23 10:58:49.691  3183  3183 I VRI[MainActivity]@987b11b: Creating new active sync group VRI[MainActivity]@987b11b#45
+10-23 10:58:49.691  3183  3183 D VRI[MainActivity]@987b11b: Start draw after previous draw not visible
+10-23 10:58:49.691  3183  3183 D VRI[MainActivity]@987b11b: registerCallbacksForSync syncBuffer=false
+10-23 10:58:49.724  3183  3414 D VRI[MainActivity]@987b11b: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-23 10:58:49.724  3183  3414 I VRI[MainActivity]@987b11b: mWNT: t=0xb400007ae98aaf50 mBlastBufferQueue=0xb400007a69845310 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-23 10:58:49.724  3183  3414 I VRI[MainActivity]@987b11b: Setting up sync and frameCommitCallback
+10-23 10:58:49.735  3183  3274 I BLASTBufferQueue: [VRI[MainActivity]@987b11b#20](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-23 10:58:49.735  3183  3274 I VRI[MainActivity]@987b11b: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-23 10:58:49.735  3183  3183 D VRI[MainActivity]@987b11b: reportDrawFinished seqId=0
+10-23 10:58:49.740  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:58:49.765  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:58:49.766  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:58:49.769  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:58:49.769  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:58:49.981  3183  3183 D InputTransport: Input channel destroyed: 'ClientS', fd=341
+10-23 10:58:50.002  3183  3183 I VRI[MainActivity]@987b11b: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:58:50.050  3183  3183 I wangyi  : googlep2p2sign为：6c5e05be5dad7fca877daa8ecf9ee324
+10-23 10:58:50.050  3183  3183 I wangyi  : localp2p2sign为：4f75b4026574ab41fcfefa4ee13015a0
+10-23 10:58:50.054  3183  3183 I wangyi  : 端口号为：-1
+10-23 10:58:50.078  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:58:50.078  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:58:50.079  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:58:50.079  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:58:50.080  3183  3183 I VRI[VideoPlayDetailActivity]@161417: handleAppVisibility mAppVisible = true visible = false
+10-23 10:58:50.080  3183  3183 D VRI[VideoPlayDetailActivity]@161417: visibilityChanged oldVisibility=true newVisibility=false
+10-23 10:58:50.084  3183  3183 I SurfaceView@73de3e2: onWindowVisibilityChanged(8) false com.google.android.exoplayer2.render.RenderSurfaceView{73de3e2 V.E...... ......ID 540,0-540,0} of VRI[VideoPlayDetailActivity]@161417
+10-23 10:58:50.084  3183  3183 D SurfaceView: 121496546 updateSurface: has no frame
+10-23 10:58:50.086  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:58:50.097  3183  3183 I VRI[VideoPlayDetailActivity]@161417: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=9 res=0x2 s={false 0x0} ch=true seqId=0
+10-23 10:58:50.097  3183  3183 I SurfaceView@73de3e2: windowStopped(true) false com.google.android.exoplayer2.render.RenderSurfaceView{73de3e2 V.E...... ......ID 540,0-540,0} of VRI[VideoPlayDetailActivity]@161417
+10-23 10:58:50.097  3183  3183 D SurfaceView: 121496546 updateSurface: has no frame
+10-23 10:58:50.097  3183  3183 D SurfaceView: 121496546 updateSurface: has no frame
+10-23 10:58:50.097  3183  3183 D VRI[VideoPlayDetailActivity]@161417: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+10-23 10:58:50.098  3183  3183 D VRI[MainActivity]@987b11b: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a2989d820}
+10-23 10:58:50.101  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:58:50.101  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:58:50.103  3183  3183 I VRI[VideoPlayDetailActivity]@161417: stopped(true) old = false
+10-23 10:58:50.103  3183  3183 D VRI[VideoPlayDetailActivity]@161417: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity set to true
+10-23 10:58:50.108  3183  3195 D InputTransport: Input channel constructed: 'ClientS', fd=153
+10-23 10:58:50.123  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:26)#OnDestroy ] onDestroy:com.mgs.carparking.model.VIDEOPLAYDETAILVIEWMODEL
+10-23 10:58:50.123  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:6)#OnCleared ] onCleared
+10-23 10:58:50.126  3183  3183 I ExoPlayerImpl: Release ce48cfe [ExoPlayerLib/2.11.7] [p3s, SM-G998B, samsung, 35] [goog.exo.core, goog.exo.ui]
+10-23 10:58:50.127  3183  3183 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda15@5da685d
+10-23 10:58:50.127  3183  3183 I SurfaceView: 121496546 Detaching SV
+10-23 10:58:50.127  3183  3183 D SurfaceView: 121496546 updateSurface: has no frame
+10-23 10:58:50.127  3183  3183 I SurfaceView@73de3e2: onDetachedFromWindow: tryReleaseSurfaces()
+10-23 10:58:50.127  3183  3183 I SurfaceView@73de3e2: releaseSurfaces: viewRoot = VRI[VideoPlayDetailActivity]@161417
+10-23 10:58:50.127  3183  3183 D VRI[VideoPlayDetailActivity]@161417: applyTransactionOnDraw applyImmediately
+10-23 10:58:50.127  3183  3183 D RenderSurfaceView: onSurfaceViewDetachedFromWindow
+10-23 10:58:50.140  3183  3183 I VRI[VideoPlayDetailActivity]@161417: dispatchDetachedFromWindow
+10-23 10:58:50.151  3183  3183 D InputTransport: Input channel destroyed: '959988e', fd=474
+10-23 10:58:50.154  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:58:50.715  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 0
+10-23 10:58:50.716  3183  3183 I VRI[MainActivity]@987b11b: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@987b11b
+10-23 10:58:50.788  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 1
+10-23 10:58:50.809  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:58:50.827  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:58:50.842  3183  3183 I DecorView: setWindowBackground: isPopOver=false color=fffafafa d=android.graphics.drawable.ColorDrawable@1b67916
+10-23 10:58:50.849  3183  3183 I InputMethodManager: invalidateInput
+10-23 10:58:50.849  3183  3183 I InputMethodManager: invalidateInput
+10-23 10:58:50.850  3183  3183 I InputMethodManager: invalidateInput
+10-23 10:58:50.852  3183  3183 W TabLayout: MODE_SCROLLABLE + GRAVITY_FILL is not supported, GRAVITY_START will be used instead
+10-23 10:58:50.853  3183  3183 D ScrollView: initGoToTop
+10-23 10:58:50.864  3183  3183 I System.out: ...... className : HotNewSearchEntry ......
+10-23 10:58:50.871  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:58:50.873  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:3)#OnCreate ] onCreate
+10-23 10:58:50.877  3183  3183 E OKT_SDK : 信息流 连接sdk获取数据
+10-23 10:58:50.878  3183 18014 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:50.878  3183  3183 I chitu_sdk: ac, key=16257, isExpired=false
+10-23 10:58:50.878  3183  3183 D chitu_sdk: savedDay 296
+10-23 10:58:50.878  3183  3183 D chitu_sdk: savedDay 296
+10-23 10:58:50.881  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:58:50.881  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:58:50.882  3183  3183 I ViewRootImpl: dVRR is disabled
+10-23 10:58:50.883  3183  3274 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-23 10:58:50.883  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:58:50.888  3183  3183 D InputTransport: Input channel constructed: 'c8d2e9e', fd=215
+10-23 10:58:50.888  3183  3183 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.ViewRootImpl.setView:1999, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {38b0001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {38b0005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {38b0024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {799c0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-23 10:58:50.889  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: synced displayState. AttachInfo displayState=2
+10-23 10:58:50.889  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: setView = com.android.internal.policy.DecorView@fd79b0 IsHRR=false TM=true
+10-23 10:58:50.890  3183  3183 I InputMethodManager_LC: showSoftInput(View,I)
+10-23 10:58:50.891  3183  3183 I ImeTracker: com.fvvcl.flickverse:da5857da: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+10-23 10:58:50.891  3183  3183 I InputMethodManager_LC: ssi(): flags=1 view=com.fvvcl.flickverse reason=SHOW_SOFT_INPUT
+10-23 10:58:50.891  3183  3183 I ImeTracker: com.fvvcl.flickverse:da5857da: onFailed at PHASE_CLIENT_VIEW_SERVED
+10-23 10:58:50.891  3183  3183 W InputMethodManager: Ignoring showSoftInput() as view=com.mgs.carparking.widgets.ClearableEditText{520a029 VFED..CL. .F....I. 0,0-0,0 #7f0a01bd app:id/et_search aid=1073741824} is not served.
+10-23 10:58:50.891  3183  3183 W InputMethodManager_LC: ssi(): Ignoring showSoftInput() servedView=com.android.internal.policy.DecorView{569982 V.E...... R....... 0,0-1080,2400 aid=1}[MainActivity],focus=false,windowFocus=true,window=android.view.ViewRootImpl$W@987b11b,displayId=0,temporaryDetach=false,hasImeFocus=true mDisplayId=0 view=com.mgs.carparking.widgets.ClearableEditText{520a029 VFED..CL. .F....I. 0,0-0,0 #7f0a01bd app:id/et_search aid=1073741824},focus=true,windowFocus=false,window=null,displayId=0,temporaryDetach=false,hasImeFocus=false
+10-23 10:58:50.895  3183  3183 E ViewAdapter.java: [ (ViewAdapter.java:11)#A ] addTextChangedListener >>>>>> 
+10-23 10:58:50.896  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:58:50.896  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:58:50.900  3183  3183 D MaxLayout: origin onMeasure: widthSize =1080heightSize = 2044
+10-23 10:58:50.900  3183  3183 D MaxLayout: adjust onMeasure: widthSize =1080heightSize = 587
+10-23 10:58:50.903  3183  3183 W WindowOnBackDispatcher: OnBackInvokedCallback is not enabled for the application.
+10-23 10:58:50.903  3183  3183 W WindowOnBackDispatcher: Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+10-23 10:58:50.922  3183  3183 D MaxLayout: origin onMeasure: widthSize =1080heightSize = 2044
+10-23 10:58:50.922  3183  3183 D MaxLayout: adjust onMeasure: widthSize =1080heightSize = 587
+10-23 10:58:50.940  3183  3183 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[SearchContentVideoActivity]@ee04e2d mNativeObject= 0xb400007a69833070 sc.mNativeObject= 0xb400007a497ee010 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-23 10:58:50.940  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[SearchContentVideoActivity]@ee04e2d mNativeObject= 0xb400007a69833070 sc.mNativeObject= 0xb400007a497ee010 format= -1 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-23 10:58:50.940  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=17 res=0x3 s={true 0xb400007a298bd710} ch=true seqId=0
+10-23 10:58:50.941  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: performConfigurationChange setNightDimText nightDimLevel=0
+10-23 10:58:50.941  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a298bd710} hwInitialized=true
+10-23 10:58:50.942  3183  3183 D MaxLayout: origin onMeasure: widthSize =1080heightSize = 2044
+10-23 10:58:50.942  3183  3183 D MaxLayout: adjust onMeasure: widthSize =1080heightSize = 587
+10-23 10:58:50.942  3183  3183 D MaxLayout: origin onMeasure: widthSize =1080heightSize = 2044
+10-23 10:58:50.942  3183  3183 D MaxLayout: adjust onMeasure: widthSize =1080heightSize = 587
+10-23 10:58:50.942  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:58:50.946  3183  3183 D ScrollView:  onsize change changed 
+10-23 10:58:50.946  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-23 10:58:50.946  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: Setup new sync=wmsSync-VRI[SearchContentVideoActivity]@ee04e2d#46
+10-23 10:58:50.946  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: Creating new active sync group VRI[SearchContentVideoActivity]@ee04e2d#47
+10-23 10:58:50.947  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: registerCallbacksForSync syncBuffer=false
+10-23 10:58:50.951  3183  3183 E TAG     : onDraw
+10-23 10:58:50.952  3183  3183 E TAG     : onDraw
+10-23 10:58:50.952  3183  3183 E TAG     : onDraw
+10-23 10:58:50.952  3183  3183 E TAG     : onDraw
+10-23 10:58:50.952  3183  3183 E TAG     : onDraw
+10-23 10:58:50.952  3183  3183 E TAG     : onDraw
+10-23 10:58:50.952  3183  3183 E TAG     : onDraw
+10-23 10:58:50.952  3183  3183 E TAG     : onDraw
+10-23 10:58:50.953  3183  3183 E TAG     : onDraw
+10-23 10:58:50.953  3183  3183 E TAG     : onDraw
+10-23 10:58:50.955  3183  3415 D VRI[SearchContentVideoActivity]@ee04e2d: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-23 10:58:50.955  3183  3415 I VRI[SearchContentVideoActivity]@ee04e2d: mWNT: t=0xb400007ae98858d0 mBlastBufferQueue=0xb400007a69833070 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-23 10:58:50.961  3183  3415 I VRI[SearchContentVideoActivity]@ee04e2d: Setting up sync and frameCommitCallback
+10-23 10:58:50.961  3183  3274 I BLASTBufferQueue: [VRI[SearchContentVideoActivity]@ee04e2d#21](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-23 10:58:50.961  3183  3274 I VRI[SearchContentVideoActivity]@ee04e2d: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-23 10:58:50.962  3183  3274 D HWUI    : CFMS:: SetUp Pid : 3183    Tid : 3274
+10-23 10:58:50.962  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: reportDrawFinished seqId=0
+10-23 10:58:50.963  3183  3274 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+10-23 10:58:50.963  3183  3183 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:58:50.964  3183  3183 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:58:50.967  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity
+10-23 10:58:50.967  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity
+10-23 10:58:50.976  3183  3183 D MaxLayout: origin onMeasure: widthSize =1080heightSize = 2044
+10-23 10:58:50.976  3183  3183 D MaxLayout: adjust onMeasure: widthSize =1080heightSize = 587
+10-23 10:58:50.977  3183  3183 E TAG     : onDraw
+10-23 10:58:50.977  3183  3183 E TAG     : onDraw
+10-23 10:58:50.977  3183  3183 E TAG     : onDraw
+10-23 10:58:50.977  3183  3183 E TAG     : onDraw
+10-23 10:58:50.977  3183  3183 E TAG     : onDraw
+10-23 10:58:50.977  3183  3183 E TAG     : onDraw
+10-23 10:58:50.977  3183  3183 E TAG     : onDraw
+10-23 10:58:50.977  3183  3183 E TAG     : onDraw
+10-23 10:58:50.977  3183  3183 E TAG     : onDraw
+10-23 10:58:50.983  3183  3183 D MaxLayout: origin onMeasure: widthSize =1080heightSize = 2044
+10-23 10:58:50.984  3183  3183 D MaxLayout: adjust onMeasure: widthSize =1080heightSize = 587
+10-23 10:58:50.984  3183  3183 E TAG     : onDraw
+10-23 10:58:51.042  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a298bd710}
+10-23 10:58:51.043  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:58:51.043  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:58:51.051  3183  4803 D InputTransport: Input channel constructed: 'ClientS', fd=461
+10-23 10:58:51.060  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity
+10-23 10:58:51.072  3183 19392 I InputMethodManager_LC: showSoftInput(View,I)
+10-23 10:58:51.073  3183 19392 I ImeTracker: com.fvvcl.flickverse:22300b8a: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+10-23 10:58:51.073  3183 19392 I InputMethodManager_LC: ssi(): flags=0 view=com.fvvcl.flickverse reason=SHOW_SOFT_INPUT
+10-23 10:58:51.073  3183 19392 D InputMethodManager: showSoftInput() view=com.mgs.carparking.widgets.ClearableEditText{520a029 VFED..CL. .F...... 27,0-830,93 #7f0a01bd app:id/et_search aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+10-23 10:58:51.130  3183 19394 I NetRequest: url = https://sdkapi-ga.biggogo.com/2_12_0/ReqNaturalAd
+10-23 10:58:51.130  3183 19394 I NetRequest: params = {"appID":"2243","deviceID":"82152676-452c-4fa4-a02c-5e7a27b6f11f","system":0,"appName":"Movie","appVersionName":"V4.0.0","currentTime":1792733330878,"appPackage":"com.fvvcl.flickverse","appSHA1":"81:11:26:D1:54:F6:39:35:B6:85:C4:DD:D9:C8:04:23:37:0E:2C:1E","sdkVersion":"2.12.0.5","debugFlag":1,"phoneLang":"en-in","adPlcID":"16257","sw":1080,"sh":2286,"orientation":1,"historyMid":"[]","show_limit":"[]","adAreaType":"[]","sign":"c573beb0dac76a980159ef7f68dbaefd"}
+10-23 10:58:51.130  3183 19394 I NetRequest: responseCode = 200
+10-23 10:58:51.130  3183 19394 I NetRequest: result = {"status":1002,"info":"app sha1 no match!","data":[],"timestamp":1792733330}
+10-23 10:58:51.130  3183 19394 I NetRequest: costTime = 251ms
+10-23 10:58:51.130  3183  3183 D b1      : setNewHost https://sdkapi-ga.biggogo.com
+10-23 10:58:51.130  3183  3183 E chitu_sdk: app sha1 no match!
+10-23 10:58:51.131  3183  3183 E OKT_SDK : 信息流 sdk获取数据失败, msg = app sha1 no match!
+10-23 10:58:51.131  3183  3183 E OKT_SDK : 信息流 连接服务器耗时：254ms
+10-23 10:58:51.131  3183  3183 I test    : 信息流广告-error = app sha1 no match!
+10-23 10:58:51.131  3183  3183 I chitu_sdk: ac, put 16257
+10-23 10:58:51.134  3183 19421 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:51.138  3183 19420 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:51.178  3183 19419 I NetRequest: url = https://sdkapi-ga.biggogo.com/2_12_0/CollectLog
+10-23 10:58:51.178  3183 19419 I NetRequest: params = {"appID":"2243","deviceID":"82152676-452c-4fa4-a02c-5e7a27b6f11f","model":"samsung\/SM-G998B","is_wifi":"1","system":"0","sdkVersion":"2.12.0.5","api_url":"https:\/\/sdkapi-ga.biggogo.com\/2_12_0\/ReqNaturalAd","platform":"","req_data":"{\"appID\":\"2243\",\"deviceID\":\"82152676-452c-4fa4-a02c-5e7a27b6f11f\",\"system\":0,\"appName\":\"Movie\",\"appVersionName\":\"V4.0.0\",\"currentTime\":1792733330878,\"appPackage\":\"com.fvvcl.flickverse\",\"appSHA1\":\"81:11:26:D1:54:F6:39:35:B6:85:C4:DD:D9:C8:04:23:37:0E:2C:1E\",\"sdkVersion\":\"2.12.0.5\",\"debugFlag\":1,\"phoneLang\":\"en-in\",\"adPlcID\":\"16257\",\"sw\":1080,\"sh\":2286,\"orientation\":1,\"historyMid\":\"[]\",\"show_limit\":\"[]\",\"adAreaType\":\"[]\",\"sign\":\"c573beb0dac76a980159ef7f68dbaefd\"}","response_msg":"{\"status\":1002,\"info\":\"app sha1 no match!\",\"data\":[],\"timestamp\":1792733330}","sdk_error":"YXBwIHNoYTEgbm8gbWF0Y2gh","apiCostTime":97,"initCostTime":0,"thirdCode":"0","myCode":"0","sign":"25c683d47ebb2ac387bf6dcb28b3a285"}
+10-23 10:58:51.178  3183 19419 I NetRequest: responseCode = 200
+10-23 10:58:51.178  3183 19419 I NetRequest: result = {"status":1001,"info":"success","data":[],"timestamp":1792733330}
+10-23 10:58:51.178  3183 19419 I NetRequest: costTime = 46ms
+10-23 10:58:51.183  3183  3183 D b1      : setNewHost https://sdkapi-ga.biggogo.com
+10-23 10:58:51.229  3183  3183 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.ViewRootImpl.handleResized:2789, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,2274][1080,2400] mVisible=false mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {38b0001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {38b0005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {38b0024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {799c0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-23 10:58:51.229  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:58:51.244  3183  3183 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.ViewRootImpl.handleResized:2789, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,1428][1080,2400] mVisible=false mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {38b0001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {38b0005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {38b0024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {799c0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-23 10:58:51.244  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:58:51.266  3183  3183 D InsetsController: show(ime(), fromIme=true)
+10-23 10:58:51.267  3183  3183 I InsetsController: setRequestedVisibleTypes: visible=true, mask=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.InsetsController.controlAnimationUnchecked:1498 android.view.InsetsController.applyAnimation:2228 android.view.InsetsController.applyAnimation:2159 android.view.InsetsController.show:1340 android.view.ViewRootImpl$ViewRootHandler.handleMessageImpl:8056 android.view.ViewRootImpl$ViewRootHandler.handleMessage:7991 android.os.Handler.dispatchMessage:107 android.os.Looper.loopOnce:257 android.os.Looper.loop:342 android.app.ActivityThread.main:9634 
+10-23 10:58:51.267  3183  3183 I InsetsController: controlAnimationUncheckedInner: Added types=ime, animType=0, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.InsetsController.controlAnimationUnchecked:1502 android.view.InsetsController.applyAnimation:2228 android.view.InsetsController.applyAnimation:2159 
+10-23 10:58:51.279  3183  3183 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.ViewRootImpl.handleResized:2789, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,1428][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {38b0001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {38b0005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {38b0024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {799c0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-23 10:58:51.280  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:58:51.372  3183  4809 E ELog    : 
+10-23 10:58:51.520  3183  3183 I VRI[MainActivity]@987b11b: handleAppVisibility mAppVisible = true visible = false
+10-23 10:58:51.520  3183  3183 D VRI[MainActivity]@987b11b: visibilityChanged oldVisibility=true newVisibility=false
+10-23 10:58:51.521  3183  3183 I VRI[MainActivity]@987b11b: stopped(true) old = false
+10-23 10:58:51.521  3183  3183 D VRI[MainActivity]@987b11b: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to true
+10-23 10:58:51.534  3183  3183 I VRI[MainActivity]@987b11b: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=5 res=0x2 s={false 0x0} ch=false seqId=0
+10-23 10:58:51.534  3183  3183 D VRI[MainActivity]@987b11b: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+10-23 10:58:51.636  3183  3183 I InsetsController: cancelAnimation: types=ime, animType=0, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.InsetsController.notifyFinished:1890 android.view.InsetsAnimationThreadControlRunner$1.lambda$notifyFinished$0:87 android.view.InsetsAnimationThreadControlRunner$1.$r8$lambda$cDFF0h4Ncq-8EXdGszv69jrUu7c:0 
+10-23 10:58:51.636  3183  3183 I ImeTracker: com.fvvcl.flickverse:22300b8a: onShown
+10-23 10:58:54.621  3183  4809 E ELog    : dri
+10-23 10:58:54.634  3183 18014 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:56.733  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: ViewPostIme pointer 0
+10-23 10:58:56.737  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[SearchContentVideoActivity]@ee04e2d
+10-23 10:58:56.790  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: ViewPostIme pointer 1
+10-23 10:58:56.793  3183  3183 I ImeTracker: com.fvvcl.flickverse:20b78c98: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+10-23 10:58:56.793  3183  3183 I InputMethodManager_LC: hsifw() - flag : 0
+10-23 10:58:56.793  3183  3183 I InputMethodManager_LC: hsifw() - mService.hideSoftInput
+10-23 10:58:56.811  3183  3183 I wangyi  : 内容为：Drishyam 2
+10-23 10:58:56.817  3183  3183 I InputMethodManager: invalidateInput
+10-23 10:58:56.820  3183  3183 W WindowOnBackDispatcher: OnBackInvokedCallback is not enabled for the application.
+10-23 10:58:56.820  3183  3183 W WindowOnBackDispatcher: Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+10-23 10:58:56.844  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:3)#OnCreate ] onCreate
+10-23 10:58:56.853  3183 19421 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:56.862  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:3)#OnCreate ] onCreate
+10-23 10:58:56.872  3183  3183 W RecyclerView: No adapter attached; skipping layout
+10-23 10:58:56.873  3183  3183 D ScrollView:  onsize change changed 
+10-23 10:58:56.877  3183  3183 D InsetsController: hide(ime(), fromIme=true)
+10-23 10:58:56.878  3183  3183 I InsetsController: setRequestedVisibleTypes: visible=false, mask=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.InsetsController.controlAnimationUnchecked:1498 android.view.InsetsController.applyAnimation:2228 android.view.InsetsController.applyAnimation:2159 android.view.InsetsController.hide:1452 android.view.ViewRootImpl$ViewRootHandler.handleMessageImpl:8063 android.view.ViewRootImpl$ViewRootHandler.handleMessage:7991 android.os.Handler.dispatchMessage:107 android.os.Looper.loopOnce:257 android.os.Looper.loop:342 android.app.ActivityThread.main:9634 
+10-23 10:58:56.878  3183  3183 I InsetsController: controlAnimationUncheckedInner: Added types=ime, animType=1, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.InsetsController.controlAnimationUnchecked:1502 android.view.InsetsController.applyAnimation:2228 android.view.InsetsController.applyAnimation:2159 
+10-23 10:58:56.879  3183  3183 D InputMethodManagerUtils: doInvalidateInput - Id : 0
+10-23 10:58:56.946  3183  3183 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.ViewRootImpl.handleResized:2789, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,1428][1080,2400] mVisible=false mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {38b0001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {38b0005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {38b0024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {799c0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-23 10:58:56.947  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:58:56.947  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity
+10-23 10:58:57.274  3183  3183 I InsetsController: cancelAnimation: types=ime, animType=1, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.InsetsController.notifyFinished:1890 android.view.InsetsAnimationThreadControlRunner$1.lambda$notifyFinished$0:87 android.view.InsetsAnimationThreadControlRunner$1.$r8$lambda$cDFF0h4Ncq-8EXdGszv69jrUu7c:0 
+10-23 10:58:57.278  3183  3183 I ImeTracker: com.fvvcl.flickverse:87ab9e52: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_ON_ANIMATION_STATE_CHANGED fromUser false
+10-23 10:58:57.278  3183  3183 I InputMethodManager_LC: notifyImeHidden: IInputMethodManagerGlobalInvoker.hideSoftInput
+10-23 10:58:57.279  3183  3183 I ImeTracker: com.fvvcl.flickverse:20b78c98: onHidden
+10-23 10:58:57.315  3183  4809 E ELog    : Drishyam 2
+10-23 10:58:57.318  3183 19420 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:57.810  3183  3183 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.ViewRootImpl.handleResized:2789, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {38b0001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {38b0005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {38b0024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {799c0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-23 10:58:57.811  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:58:57.815  3183  3183 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity, from=android.view.ViewRootImpl.handleResized:2789, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {38b0001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {38b0005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {38b0024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {799c0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-23 10:58:57.815  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:58:58.515  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: ViewPostIme pointer 0
+10-23 10:58:58.580  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: ViewPostIme pointer 1
+10-23 10:58:58.608  3183 18014 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:58.618  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:58:58.621  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:58:58.638  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:58:58.653  3183  3183 I DecorView: setWindowBackground: isPopOver=false color=fffafafa d=android.graphics.drawable.ColorDrawable@fed25d0
+10-23 10:58:58.660  3183  3183 D RenderMeasure: videoWidth = 480 videoHeight = 270
+10-23 10:58:58.660  3183  3183 D SurfaceView: 46950111 setFixedSize -1x-1 -> 480x270
+10-23 10:58:58.662  3183  3183 I lum     : mMainRect: RectF(3.0, 3.0, 65.0, 33.0)
+10-23 10:58:58.662  3183  3183 I lum     : mHeadRect: RectF(68.0, 13.0, 73.0, 23.0)
+10-23 10:58:58.676  3183  3183 D getUiMode: 1
+10-23 10:58:58.721  3183  3183 D ScrollView: initGoToTop
+10-23 10:58:58.739  3183  3183 I CircularImageView: Bitmap drawable!
+10-23 10:58:58.748  3183  3183 I CircularImageView: Bitmap drawable!
+10-23 10:58:58.758  3183  3183 I ExoPlayerImpl: Init ea53438 [ExoPlayerLib/2.11.7] [p3s, SM-G998B, samsung, 35]
+10-23 10:58:58.767  3183  3183 I wangyi  : 端口号为：-1
+10-23 10:58:58.771  3183  3183 E OKT_SDK : Banner 连接sdk获取数据
+10-23 10:58:58.772  3183  3183 I chitu_sdk: ac, key=16260, isExpired=false
+10-23 10:58:58.772  3183  3183 D chitu_sdk: savedDay 296
+10-23 10:58:58.772  3183  3183 D chitu_sdk: savedDay 296
+10-23 10:58:58.775  3183 19421 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:58.775  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:3)#OnCreate ] onCreate
+10-23 10:58:58.789  3183  3183 I aaaaaaaaaaa: onResume---------false
+10-23 10:58:58.789  3183  3183 W AudioManager: Use of stream types is deprecated for operations other than volume control
+10-23 10:58:58.789  3183  3183 W AudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+10-23 10:58:58.789  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:58:58.789  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:58:58.791  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:58:58.796  3183  3183 I ViewRootImpl: dVRR is disabled
+10-23 10:58:58.796  3183  3274 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-23 10:58:58.800  3183  3183 D InputTransport: Input channel constructed: '6dcb398', fd=466
+10-23 10:58:58.801  3183  3183 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity, from=android.view.ViewRootImpl.setView:1999, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {38b0001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {38b0005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {38b0024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {799c0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-23 10:58:58.801  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: synced displayState. AttachInfo displayState=2
+10-23 10:58:58.802  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: setView = com.android.internal.policy.DecorView@6cd3a09 IsHRR=false TM=true
+10-23 10:58:58.805  3183  3183 D RenderSurfaceView: onSurfaceViewAttachedToWindow
+10-23 10:58:58.805  3183  3183 I SurfaceView@2b1f17e: onWindowVisibilityChanged(0) true com.google.android.exoplayer2.render.RenderSurfaceView{2b1f17e V.E...... ......I. 0,0-0,0} of VRI[VideoPlayDetailActivity]@9eb6dc2
+10-23 10:58:58.805  3183  3183 D SurfaceView: 45216126 updateSurface: has no frame
+10-23 10:58:58.806  3183  3183 E t.a     : onScrubMove0
+10-23 10:58:58.829  3183  3183 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[VideoPlayDetailActivity]@9eb6dc2 mNativeObject= 0xb400007a6983ebf0 sc.mNativeObject= 0xb400007a497f5150 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-23 10:58:58.829  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@9eb6dc2 mNativeObject= 0xb400007a6983ebf0 sc.mNativeObject= 0xb400007a497f5150 format= -3 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-23 10:58:58.829  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=8 res=0x3 s={true 0xb400007a29857410} ch=true seqId=0
+10-23 10:58:58.830  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: performConfigurationChange setNightDimText nightDimLevel=0
+10-23 10:58:58.830  3183  3183 D VRI[VideoPlayDetailActivity]@9eb6dc2: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a29857410} hwInitialized=true
+10-23 10:58:58.832  3183 19486 I NetRequest: url = https://sdkapi-ga.biggogo.com/2_12_0/ReqBannerAd
+10-23 10:58:58.832  3183 19486 I NetRequest: params = {"appID":"2243","deviceID":"82152676-452c-4fa4-a02c-5e7a27b6f11f","system":0,"appName":"Movie","appVersionName":"V4.0.0","currentTime":1792733338772,"appPackage":"com.fvvcl.flickverse","appSHA1":"81:11:26:D1:54:F6:39:35:B6:85:C4:DD:D9:C8:04:23:37:0E:2C:1E","sdkVersion":"2.12.0.5","debugFlag":1,"phoneLang":"en-in","adPlcID":"16260","sw":1080,"sh":2286,"orientation":1,"historyMid":"[]","show_limit":"[]","adAreaType":"[]","sign":"1ebbaba0fdfc5538dee0760c09f81a45"}
+10-23 10:58:58.832  3183 19486 I NetRequest: responseCode = 200
+10-23 10:58:58.832  3183 19486 I NetRequest: result = {"status":1002,"info":"app sha1 no match!","data":[],"timestamp":1792733338}
+10-23 10:58:58.832  3183 19486 I NetRequest: costTime = 59ms
+10-23 10:58:58.837  3183  3183 D SurfaceView: 45216126 updateSurface: has no frame
+10-23 10:58:58.837  3183  3183 D ScrollView:  onsize change changed 
+10-23 10:58:58.838  3183  3183 I SurfaceView@2b1f17e: windowStopped(false) true com.google.android.exoplayer2.render.RenderSurfaceView{2b1f17e V.E...... ......ID 540,0-540,0} of VRI[VideoPlayDetailActivity]@9eb6dc2
+10-23 10:58:58.838  3183  3183 D SurfaceView: 45216126 updateSurface: has no frame
+10-23 10:58:58.838  3183  3183 D VRI[VideoPlayDetailActivity]@9eb6dc2: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-23 10:58:58.838  3183  3183 D SurfaceView: 45216126 updateSurface: has no frame
+10-23 10:58:58.838  3183  3183 D VRI[VideoPlayDetailActivity]@9eb6dc2: Setup new sync=wmsSync-VRI[VideoPlayDetailActivity]@9eb6dc2#48
+10-23 10:58:58.838  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: Creating new active sync group VRI[VideoPlayDetailActivity]@9eb6dc2#49
+10-23 10:58:58.839  3183  3183 D VRI[VideoPlayDetailActivity]@9eb6dc2: registerCallbacksForSync syncBuffer=false
+10-23 10:58:58.840  3183  3414 D VRI[VideoPlayDetailActivity]@9eb6dc2: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-23 10:58:58.840  3183  3414 I VRI[VideoPlayDetailActivity]@9eb6dc2: mWNT: t=0xb400007ae98c25d0 mBlastBufferQueue=0xb400007a6983ebf0 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-23 10:58:58.840  3183  3414 I VRI[VideoPlayDetailActivity]@9eb6dc2: Setting up sync and frameCommitCallback
+10-23 10:58:58.849  3183  3274 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@9eb6dc2#22](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-23 10:58:58.849  3183  3274 I VRI[VideoPlayDetailActivity]@9eb6dc2: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-23 10:58:58.850  3183  3274 D HWUI    : CFMS:: SetUp Pid : 3183    Tid : 3274
+10-23 10:58:58.850  3183  3183 D VRI[VideoPlayDetailActivity]@9eb6dc2: reportDrawFinished seqId=0
+10-23 10:58:58.853  3183  3274 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+10-23 10:58:58.853  3183  3183 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:58:58.854  3183  3183 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:58:58.855  3183  3183 D SurfaceView: 45216126 updateSurface: has no frame
+10-23 10:58:58.857  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:58:58.858  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:58:58.860  3183  3183 D b1      : setNewHost https://sdkapi-ga.biggogo.com
+10-23 10:58:58.860  3183  3183 E chitu_sdk: app sha1 no match!
+10-23 10:58:58.861  3183  3183 E OKT_SDK : Banner sdk获取数据失败, msg = app sha1 no match!
+10-23 10:58:58.861  3183  3183 E OKT_SDK : Banner 连接服务器耗时：90ms
+10-23 10:58:58.861  3183  3183 I TAG     : banner广告-error = app sha1 no match!
+10-23 10:58:58.862  3183  3183 I chitu_sdk: ac, put 16260
+10-23 10:58:58.868  3183 19420 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:58.869  3183 19490 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:58:58.917  3183 19489 I NetRequest: url = https://sdkapi-ga.biggogo.com/2_12_0/CollectLog
+10-23 10:58:58.917  3183 19489 I NetRequest: params = {"appID":"2243","deviceID":"82152676-452c-4fa4-a02c-5e7a27b6f11f","model":"samsung\/SM-G998B","is_wifi":"1","system":"0","sdkVersion":"2.12.0.5","api_url":"https:\/\/sdkapi-ga.biggogo.com\/2_12_0\/ReqBannerAd","platform":"","req_data":"{\"appID\":\"2243\",\"deviceID\":\"82152676-452c-4fa4-a02c-5e7a27b6f11f\",\"system\":0,\"appName\":\"Movie\",\"appVersionName\":\"V4.0.0\",\"currentTime\":1792733338772,\"appPackage\":\"com.fvvcl.flickverse\",\"appSHA1\":\"81:11:26:D1:54:F6:39:35:B6:85:C4:DD:D9:C8:04:23:37:0E:2C:1E\",\"sdkVersion\":\"2.12.0.5\",\"debugFlag\":1,\"phoneLang\":\"en-in\",\"adPlcID\":\"16260\",\"sw\":1080,\"sh\":2286,\"orientation\":1,\"historyMid\":\"[]\",\"show_limit\":\"[]\",\"adAreaType\":\"[]\",\"sign\":\"1ebbaba0fdfc5538dee0760c09f81a45\"}","response_msg":"{\"status\":1002,\"info\":\"app sha1 no match!\",\"data\":[],\"timestamp\":1792733338}","sdk_error":"YXBwIHNoYTEgbm8gbWF0Y2gh","apiCostTime":197,"initCostTime":0,"thirdCode":"0","myCode":"0","sign":"d0b86a25bdc297326bd3a756f847c943"}
+10-23 10:58:58.917  3183 19489 I NetRequest: responseCode = 200
+10-23 10:58:58.917  3183 19489 I NetRequest: result = {"status":1001,"info":"success","data":[],"timestamp":1792733338}
+10-23 10:58:58.917  3183 19489 I NetRequest: costTime = 55ms
+10-23 10:58:58.923  3183  3183 D b1      : setNewHost https://sdkapi-ga.biggogo.com
+10-23 10:58:58.931  3183  3183 D VRI[VideoPlayDetailActivity]@9eb6dc2: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a29857410}
+10-23 10:58:58.931  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:58:58.932  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:58:58.937  3183  4803 D InputTransport: Input channel constructed: 'ClientS', fd=450
+10-23 10:58:58.956  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:58:59.413  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: handleAppVisibility mAppVisible = true visible = false
+10-23 10:58:59.413  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: visibilityChanged oldVisibility=true newVisibility=false
+10-23 10:58:59.418  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:58:59.432  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=8 res=0x2 s={false 0x0} ch=true seqId=0
+10-23 10:58:59.432  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+10-23 10:58:59.433  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: stopped(true) old = false
+10-23 10:58:59.433  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity set to true
+10-23 10:58:59.823  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: ViewPostIme pointer 0
+10-23 10:58:59.887  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: ViewPostIme pointer 1
+10-23 10:59:00.537  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: ViewPostIme pointer 0
+10-23 10:59:00.538  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[VideoPlayDetailActivity]@9eb6dc2
+10-23 10:59:00.603  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: ViewPostIme pointer 1
+10-23 10:59:00.617  3183  3183 E t.a     : onScrubMove0
+10-23 10:59:00.618  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:59:00.627  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@9eb6dc2 mNativeObject= 0xb400007a6983ebf0 sc.mNativeObject= 0xb400007a497f5150 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3386 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 
+10-23 10:59:00.627  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=true req=(1080,2400)0 dur=1 res=0x0 s={true 0xb400007a29857410} ch=false seqId=0
+10-23 10:59:00.627  3183  3183 D SurfaceView: 45216126 updateSurface: has no frame
+10-23 10:59:00.628  3183  3183 D SurfaceView: 45216126 updateSurface: has no frame
+10-23 10:59:00.628  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: registerCallbackForPendingTransactions
+10-23 10:59:00.629  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: handleAppVisibility mAppVisible = false visible = true
+10-23 10:59:00.629  3183  3415 I VRI[VideoPlayDetailActivity]@9eb6dc2: mWNT: t=0xb400007ae97e8ed0 mBlastBufferQueue=0xb400007a6983ebf0 fn= 2 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$9.onFrameDraw:6276 android.view.ViewRootImpl$3.onFrameDraw:2440 android.view.ThreadedRenderer$1.onFrameDraw:761 
+10-23 10:59:00.629  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: stopped(false) old = true
+10-23 10:59:00.629  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity set to false
+10-23 10:59:00.650  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:59:00.652  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:00.652  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:59:00.652  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:59:00.667  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:00.685  3183  3183 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[SearchContentVideoActivity]@ee04e2d mNativeObject= 0xb400007a69833070 sc.mNativeObject= 0xb400007a497ee010 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-23 10:59:00.685  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[SearchContentVideoActivity]@ee04e2d mNativeObject= 0xb400007a69833070 sc.mNativeObject= 0xb400007a497ee010 format= -1 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-23 10:59:00.685  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=31 res=0x3 s={true 0xb400007a298bd710} ch=true seqId=0
+10-23 10:59:00.686  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a298bd710} hwInitialized=true
+10-23 10:59:00.687  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-23 10:59:00.687  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: Setup new sync=wmsSync-VRI[SearchContentVideoActivity]@ee04e2d#50
+10-23 10:59:00.687  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: Creating new active sync group VRI[SearchContentVideoActivity]@ee04e2d#51
+10-23 10:59:00.687  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: Start draw after previous draw not visible
+10-23 10:59:00.691  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: registerCallbacksForSync syncBuffer=false
+10-23 10:59:00.700  3183  3414 D VRI[SearchContentVideoActivity]@ee04e2d: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-23 10:59:00.700  3183  3414 I VRI[SearchContentVideoActivity]@ee04e2d: mWNT: t=0xb400007ae9903c50 mBlastBufferQueue=0xb400007a69833070 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-23 10:59:00.700  3183  3414 I VRI[SearchContentVideoActivity]@ee04e2d: Setting up sync and frameCommitCallback
+10-23 10:59:00.700  3183  3274 I BLASTBufferQueue: [VRI[SearchContentVideoActivity]@ee04e2d#23](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-23 10:59:00.701  3183  3274 I VRI[SearchContentVideoActivity]@ee04e2d: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-23 10:59:00.703  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: reportDrawFinished seqId=0
+10-23 10:59:00.706  3183  3183 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:00.706  3183  3183 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:00.724  3183  3183 I AssistStructure: Flattened final assist data: 4944 bytes, containing 1 windows, 41 views
+10-23 10:59:00.727  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity
+10-23 10:59:00.727  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity
+10-23 10:59:00.755  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a298bd710}
+10-23 10:59:00.757  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:59:00.757  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:59:00.778  3183  3195 D InputTransport: Input channel constructed: 'ClientS', fd=371
+10-23 10:59:00.837  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity
+10-23 10:59:00.842  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:59:01.142  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: handleAppVisibility mAppVisible = true visible = false
+10-23 10:59:01.142  3183  3183 D VRI[VideoPlayDetailActivity]@9eb6dc2: visibilityChanged oldVisibility=true newVisibility=false
+10-23 10:59:01.149  3183  3183 I SurfaceView@2b1f17e: onWindowVisibilityChanged(8) false com.google.android.exoplayer2.render.RenderSurfaceView{2b1f17e V.E...... ......ID 540,0-540,0} of VRI[VideoPlayDetailActivity]@9eb6dc2
+10-23 10:59:01.149  3183  3183 D SurfaceView: 45216126 updateSurface: has no frame
+10-23 10:59:01.168  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=10 res=0x2 s={false 0x0} ch=true seqId=0
+10-23 10:59:01.168  3183  3183 I SurfaceView@2b1f17e: windowStopped(true) false com.google.android.exoplayer2.render.RenderSurfaceView{2b1f17e V.E...... ......ID 540,0-540,0} of VRI[VideoPlayDetailActivity]@9eb6dc2
+10-23 10:59:01.168  3183  3183 D SurfaceView: 45216126 updateSurface: has no frame
+10-23 10:59:01.168  3183  3183 D SurfaceView: 45216126 updateSurface: has no frame
+10-23 10:59:01.168  3183  3183 D VRI[VideoPlayDetailActivity]@9eb6dc2: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+10-23 10:59:01.169  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: stopped(true) old = false
+10-23 10:59:01.169  3183  3183 D VRI[VideoPlayDetailActivity]@9eb6dc2: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity set to true
+10-23 10:59:01.177  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:26)#OnDestroy ] onDestroy:com.mgs.carparking.model.VIDEOPLAYDETAILVIEWMODEL
+10-23 10:59:01.177  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:6)#OnCleared ] onCleared
+10-23 10:59:01.182  3183  3183 I ExoPlayerImpl: Release ea53438 [ExoPlayerLib/2.11.7] [p3s, SM-G998B, samsung, 35] [goog.exo.core, goog.exo.ui]
+10-23 10:59:01.183  3183  3183 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda15@17ecb72
+10-23 10:59:01.184  3183  3183 I SurfaceView: 45216126 Detaching SV
+10-23 10:59:01.184  3183  3183 D SurfaceView: 45216126 updateSurface: has no frame
+10-23 10:59:01.184  3183  3183 I SurfaceView@2b1f17e: onDetachedFromWindow: tryReleaseSurfaces()
+10-23 10:59:01.184  3183  3183 I SurfaceView@2b1f17e: releaseSurfaces: viewRoot = VRI[VideoPlayDetailActivity]@9eb6dc2
+10-23 10:59:01.184  3183  3183 D VRI[VideoPlayDetailActivity]@9eb6dc2: applyTransactionOnDraw applyImmediately
+10-23 10:59:01.184  3183  3183 D RenderSurfaceView: onSurfaceViewDetachedFromWindow
+10-23 10:59:01.187  3183  3183 I VRI[VideoPlayDetailActivity]@9eb6dc2: dispatchDetachedFromWindow
+10-23 10:59:01.189  3183  3183 D InputTransport: Input channel destroyed: '6dcb398', fd=466
+10-23 10:59:01.581  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[SearchContentVideoActivity]@ee04e2d
+10-23 10:59:01.812  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: ViewPostIme pointer 0
+10-23 10:59:01.812  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[SearchContentVideoActivity]@ee04e2d
+10-23 10:59:01.894  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: ViewPostIme pointer 1
+10-23 10:59:01.896  3183  3183 I InputMethodManager: invalidateInput
+10-23 10:59:01.907  3183  3183 D ScrollView:  onsize change changed 
+10-23 10:59:01.910  3183  3183 D InputMethodManagerUtils: doInvalidateInput - Id : 0
+10-23 10:59:02.395  3183  4809 E ELog    : 
+10-23 10:59:02.400  3183  3183 D MaxLayout: origin onMeasure: widthSize =1080heightSize = 1846
+10-23 10:59:02.400  3183  3183 D MaxLayout: adjust onMeasure: widthSize =1080heightSize = 587
+10-23 10:59:02.403  3183  3183 E TAG     : onDraw
+10-23 10:59:02.403  3183  3183 E TAG     : onDraw
+10-23 10:59:02.403  3183  3183 E TAG     : onDraw
+10-23 10:59:02.403  3183  3183 E TAG     : onDraw
+10-23 10:59:02.403  3183  3183 E TAG     : onDraw
+10-23 10:59:02.404  3183  3183 E TAG     : onDraw
+10-23 10:59:02.404  3183  3183 E TAG     : onDraw
+10-23 10:59:02.404  3183  3183 E TAG     : onDraw
+10-23 10:59:02.404  3183  3183 E TAG     : onDraw
+10-23 10:59:02.404  3183  3183 E TAG     : onDraw
+10-23 10:59:02.412  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: ViewPostIme pointer 0
+10-23 10:59:02.477  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: ViewPostIme pointer 1
+10-23 10:59:02.488  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:59:02.489  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:59:02.505  3183  3183 I VRI[MainActivity]@987b11b: handleAppVisibility mAppVisible = false visible = true
+10-23 10:59:02.506  3183  3183 I VRI[MainActivity]@987b11b: stopped(false) old = true
+10-23 10:59:02.506  3183  3183 D VRI[MainActivity]@987b11b: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to false
+10-23 10:59:02.551  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:02.551  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:59:02.555  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:02.570  3183  3183 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[MainActivity]@987b11b mNativeObject= 0xb400007a69818a90 sc.mNativeObject= 0xb400007a497e1a10 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-23 10:59:02.570  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[MainActivity]@987b11b mNativeObject= 0xb400007a69818a90 sc.mNativeObject= 0xb400007a497e1a10 format= -1 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-23 10:59:02.570  3183  3183 I VRI[MainActivity]@987b11b: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=17 res=0x3 s={true 0xb400007a297f1110} ch=true seqId=0
+10-23 10:59:02.571  3183  3183 D VRI[MainActivity]@987b11b: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a297f1110} hwInitialized=true
+10-23 10:59:02.571  3183  3183 D VRI[MainActivity]@987b11b: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-23 10:59:02.571  3183  3183 D VRI[MainActivity]@987b11b: Setup new sync=wmsSync-VRI[MainActivity]@987b11b#52
+10-23 10:59:02.571  3183  3183 I VRI[MainActivity]@987b11b: Creating new active sync group VRI[MainActivity]@987b11b#53
+10-23 10:59:02.571  3183  3183 D VRI[MainActivity]@987b11b: Start draw after previous draw not visible
+10-23 10:59:02.571  3183  3183 D VRI[MainActivity]@987b11b: registerCallbacksForSync syncBuffer=false
+10-23 10:59:02.574  3183  3415 D VRI[MainActivity]@987b11b: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-23 10:59:02.574  3183  3415 I VRI[MainActivity]@987b11b: mWNT: t=0xb400007ae9817690 mBlastBufferQueue=0xb400007a69818a90 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-23 10:59:02.574  3183  3415 I VRI[MainActivity]@987b11b: Setting up sync and frameCommitCallback
+10-23 10:59:02.584  3183  3274 I BLASTBufferQueue: [VRI[MainActivity]@987b11b#24](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-23 10:59:02.585  3183  3274 I VRI[MainActivity]@987b11b: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-23 10:59:02.585  3183  3183 D VRI[MainActivity]@987b11b: reportDrawFinished seqId=0
+10-23 10:59:02.591  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:59:02.603  3183  3183 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:02.604  3183  3183 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:02.604  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:02.605  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:02.616  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity
+10-23 10:59:02.619  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity
+10-23 10:59:02.742  3183  3183 I wangyi  : googlep2p2sign为：6c5e05be5dad7fca877daa8ecf9ee324
+10-23 10:59:02.743  3183  3183 I wangyi  : localp2p2sign为：4f75b4026574ab41fcfefa4ee13015a0
+10-23 10:59:02.756  3183  3183 I wangyi  : 端口号为：-1
+10-23 10:59:02.770  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:02.770  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:02.770  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: handleAppVisibility mAppVisible = true visible = false
+10-23 10:59:02.770  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: visibilityChanged oldVisibility=true newVisibility=false
+10-23 10:59:02.771  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:02.771  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:59:02.771  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: stopped(true) old = false
+10-23 10:59:02.771  3183  3183 D VRI[SearchContentVideoActivity]@ee04e2d: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity set to true
+10-23 10:59:02.777  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:59:02.778  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:02.779  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:26)#OnDestroy ] onDestroy:com.mgs.carparking.model.SEARCHCONTENTVIDEOVIEWMODEL
+10-23 10:59:02.779  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:6)#OnCleared ] onCleared
+10-23 10:59:02.782  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:26)#OnDestroy ] onDestroy:com.mgs.carparking.model.HOMECONTENTSEARCHLISTVIEWMODEL
+10-23 10:59:02.782  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:6)#OnCleared ] onCleared
+10-23 10:59:02.783  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:26)#OnDestroy ] onDestroy:com.mgs.carparking.model.HOMECONTENTSEARCHLISTVIEWMODEL
+10-23 10:59:02.783  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:6)#OnCleared ] onCleared
+10-23 10:59:02.783  3183  3183 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda15@384d36b
+10-23 10:59:02.784  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:59:02.784  3183  3183 D AutofillManager: view not autofillable - not passing ime action check
+10-23 10:59:02.794  3183  3183 I VRI[SearchContentVideoActivity]@ee04e2d: dispatchDetachedFromWindow
+10-23 10:59:02.806  3183  3183 D InputTransport: Input channel destroyed: 'c8d2e9e', fd=215
+10-23 10:59:02.810  3183  3183 D VRI[MainActivity]@987b11b: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a297f1110}
+10-23 10:59:02.812  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:59:02.812  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:59:02.820  3183  3195 D InputTransport: Input channel constructed: 'ClientS', fd=183
+10-23 10:59:02.825  3183  3183 I VRI[MainActivity]@987b11b: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:59:02.859  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:03.595  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 0
+10-23 10:59:03.596  3183  3183 I VRI[MainActivity]@987b11b: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@987b11b
+10-23 10:59:03.700  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 1
+10-23 10:59:04.558  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 0
+10-23 10:59:04.627  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 1
+10-23 10:59:04.680  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:59:04.694  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:59:04.702  3183  3183 I DecorView: setWindowBackground: isPopOver=false color=fffafafa d=android.graphics.drawable.ColorDrawable@3a7b095
+10-23 10:59:04.714  3183 18014 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:59:04.715  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:3)#OnCreate ] onCreate
+10-23 10:59:04.725  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:04.725  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:59:04.726  3183  3183 I ViewRootImpl: dVRR is disabled
+10-23 10:59:04.726  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:04.729  3183  3274 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-23 10:59:04.735  3183  3183 D InputTransport: Input channel constructed: 'd8c58ed', fd=340
+10-23 10:59:04.735  3183  3183 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.channelcontent.SpecialDetailNewActivity, from=android.view.ViewRootImpl.setView:1999, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {38b0001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {38b0005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {38b0024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {799c0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-23 10:59:04.735  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: synced displayState. AttachInfo displayState=2
+10-23 10:59:04.735  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: setView = com.android.internal.policy.DecorView@5c9655b IsHRR=false TM=true
+10-23 10:59:04.760  3183  3183 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[SpecialDetailNewActivity]@f92f10c mNativeObject= 0xb400007a697e70d0 sc.mNativeObject= 0xb400007a497ce990 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-23 10:59:04.761  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[SpecialDetailNewActivity]@f92f10c mNativeObject= 0xb400007a697e70d0 sc.mNativeObject= 0xb400007a497ce990 format= -1 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-23 10:59:04.761  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=17 res=0x3 s={true 0xb400007a2991d3e0} ch=true seqId=0
+10-23 10:59:04.761  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: performConfigurationChange setNightDimText nightDimLevel=0
+10-23 10:59:04.762  3183  3183 D VRI[SpecialDetailNewActivity]@f92f10c: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a2991d3e0} hwInitialized=true
+10-23 10:59:04.763  3183  3183 D VRI[SpecialDetailNewActivity]@f92f10c: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-23 10:59:04.763  3183  3183 D VRI[SpecialDetailNewActivity]@f92f10c: Setup new sync=wmsSync-VRI[SpecialDetailNewActivity]@f92f10c#54
+10-23 10:59:04.763  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: Creating new active sync group VRI[SpecialDetailNewActivity]@f92f10c#55
+10-23 10:59:04.764  3183  3183 D VRI[SpecialDetailNewActivity]@f92f10c: registerCallbacksForSync syncBuffer=false
+10-23 10:59:04.767  3183  3414 D VRI[SpecialDetailNewActivity]@f92f10c: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-23 10:59:04.767  3183  3414 I VRI[SpecialDetailNewActivity]@f92f10c: mWNT: t=0xb400007ae98d2c50 mBlastBufferQueue=0xb400007a697e70d0 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-23 10:59:04.767  3183  3414 I VRI[SpecialDetailNewActivity]@f92f10c: Setting up sync and frameCommitCallback
+10-23 10:59:04.773  3183  3274 I BLASTBufferQueue: [VRI[SpecialDetailNewActivity]@f92f10c#25](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-23 10:59:04.774  3183  3274 I VRI[SpecialDetailNewActivity]@f92f10c: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-23 10:59:04.774  3183  3274 D HWUI    : CFMS:: SetUp Pid : 3183    Tid : 3274
+10-23 10:59:04.775  3183  3183 D VRI[SpecialDetailNewActivity]@f92f10c: reportDrawFinished seqId=0
+10-23 10:59:04.784  3183  3274 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+10-23 10:59:04.785  3183  3183 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:04.785  3183  3183 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:04.786  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.channelcontent.SpecialDetailNewActivity
+10-23 10:59:04.788  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.channelcontent.SpecialDetailNewActivity
+10-23 10:59:04.836  3183  3183 D VRI[SpecialDetailNewActivity]@f92f10c: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a2991d3e0}
+10-23 10:59:04.836  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:59:04.836  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:59:04.842  3183  4175 D InputTransport: Input channel constructed: 'ClientS', fd=381
+10-23 10:59:04.858  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.channelcontent.SpecialDetailNewActivity
+10-23 10:59:05.340  3183  3183 I VRI[MainActivity]@987b11b: handleAppVisibility mAppVisible = true visible = false
+10-23 10:59:05.340  3183  3183 D VRI[MainActivity]@987b11b: visibilityChanged oldVisibility=true newVisibility=false
+10-23 10:59:05.340  3183  3183 I VRI[MainActivity]@987b11b: stopped(true) old = false
+10-23 10:59:05.340  3183  3183 D VRI[MainActivity]@987b11b: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to true
+10-23 10:59:05.356  3183  3183 I VRI[MainActivity]@987b11b: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=6 res=0x2 s={false 0x0} ch=false seqId=0
+10-23 10:59:05.356  3183  3183 D VRI[MainActivity]@987b11b: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+10-23 10:59:06.400  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: ViewPostIme pointer 0
+10-23 10:59:06.401  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[SpecialDetailNewActivity]@f92f10c
+10-23 10:59:06.474  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: ViewPostIme pointer 1
+10-23 10:59:06.774  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: ViewPostIme pointer 0
+10-23 10:59:06.917  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: ViewPostIme pointer 1
+10-23 10:59:07.159  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: ViewPostIme pointer 0
+10-23 10:59:07.239  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: ViewPostIme pointer 1
+10-23 10:59:07.246  3183  3183 D WindowOnBackDispatcher: onBackInvoked, owner=VRI[SpecialDetailNewActivity]@f92f10c, callback=android.view.ViewRootImpl$$ExternalSyntheticLambda15@c4fdec2
+10-23 10:59:07.246  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: ViewPostIme key 0
+10-23 10:59:07.246  3183  3183 D Activity: onKeyDown(KEYCODE_BACK), activity=com.mgs.carparking.ui.channelcontent.SpecialDetailNewActivity@3a8be52
+10-23 10:59:07.246  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: ViewPostIme key 1
+10-23 10:59:07.247  3183  3183 D Activity: onBackInvoked, activity=com.mgs.carparking.ui.channelcontent.SpecialDetailNewActivity@3a8be52, caller=android.app.Activity.onBackPressed:4396 androidx.activity.ComponentActivity.access$onBackPressed$s1027565324:1 androidx.activity.ComponentActivity$onBackPressedDispatcher$2.invoke$lambda$0:7 
+10-23 10:59:07.269  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:59:07.288  3183  3183 I VRI[MainActivity]@987b11b: handleAppVisibility mAppVisible = false visible = true
+10-23 10:59:07.293  3183  3183 I VRI[MainActivity]@987b11b: stopped(false) old = true
+10-23 10:59:07.293  3183  3183 D VRI[MainActivity]@987b11b: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to false
+10-23 10:59:07.357  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:07.357  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:59:07.363  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:07.402  3183  3183 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[MainActivity]@987b11b mNativeObject= 0xb400007a6982d8f0 sc.mNativeObject= 0xb400007a497ff650 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-23 10:59:07.402  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[MainActivity]@987b11b mNativeObject= 0xb400007a6982d8f0 sc.mNativeObject= 0xb400007a497ff650 format= -1 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-23 10:59:07.402  3183  3183 I VRI[MainActivity]@987b11b: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=43 res=0x3 s={true 0xb400007a298e8050} ch=true seqId=0
+10-23 10:59:07.403  3183  3183 D VRI[MainActivity]@987b11b: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a298e8050} hwInitialized=true
+10-23 10:59:07.403  3183  3183 D VRI[MainActivity]@987b11b: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-23 10:59:07.403  3183  3183 D VRI[MainActivity]@987b11b: Setup new sync=wmsSync-VRI[MainActivity]@987b11b#56
+10-23 10:59:07.403  3183  3183 I VRI[MainActivity]@987b11b: Creating new active sync group VRI[MainActivity]@987b11b#57
+10-23 10:59:07.403  3183  3183 D VRI[MainActivity]@987b11b: Start draw after previous draw not visible
+10-23 10:59:07.403  3183  3183 D VRI[MainActivity]@987b11b: registerCallbacksForSync syncBuffer=false
+10-23 10:59:07.406  3183  3415 D VRI[MainActivity]@987b11b: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-23 10:59:07.407  3183  3415 I VRI[MainActivity]@987b11b: mWNT: t=0xb400007ae98f6510 mBlastBufferQueue=0xb400007a6982d8f0 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-23 10:59:07.407  3183  3415 I VRI[MainActivity]@987b11b: Setting up sync and frameCommitCallback
+10-23 10:59:07.415  3183  3274 I BLASTBufferQueue: [VRI[MainActivity]@987b11b#26](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-23 10:59:07.415  3183  3274 I VRI[MainActivity]@987b11b: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-23 10:59:07.418  3183  3183 D VRI[MainActivity]@987b11b: reportDrawFinished seqId=0
+10-23 10:59:07.423  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:59:07.436  3183  3183 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:07.436  3183  3183 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:07.439  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:07.441  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:07.449  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.channelcontent.SpecialDetailNewActivity
+10-23 10:59:07.449  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.channelcontent.SpecialDetailNewActivity
+10-23 10:59:07.626  3183  3183 I wangyi  : googlep2p2sign为：6c5e05be5dad7fca877daa8ecf9ee324
+10-23 10:59:07.626  3183  3183 I wangyi  : localp2p2sign为：4f75b4026574ab41fcfefa4ee13015a0
+10-23 10:59:07.628  3183  3183 I wangyi  : 端口号为：-1
+10-23 10:59:07.657  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:07.658  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:59:07.658  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:07.658  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:07.660  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:07.671  3183  3183 I VRI[MainActivity]@987b11b: call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@987b11b
+10-23 10:59:07.671  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: handleAppVisibility mAppVisible = true visible = false
+10-23 10:59:07.671  3183  3183 D VRI[SpecialDetailNewActivity]@f92f10c: visibilityChanged oldVisibility=true newVisibility=false
+10-23 10:59:07.672  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: stopped(true) old = false
+10-23 10:59:07.672  3183  3183 D VRI[SpecialDetailNewActivity]@f92f10c: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.channelcontent.SpecialDetailNewActivity set to true
+10-23 10:59:07.678  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:26)#OnDestroy ] onDestroy:com.mgs.carparking.model.SPECIALDETAILNEWVIEWMODEL
+10-23 10:59:07.678  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:6)#OnCleared ] onCleared
+10-23 10:59:07.680  3183  3183 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda15@c4fdec2
+10-23 10:59:07.691  3183  3183 I VRI[SpecialDetailNewActivity]@f92f10c: dispatchDetachedFromWindow
+10-23 10:59:07.697  3183  3183 D InputTransport: Input channel destroyed: 'd8c58ed', fd=340
+10-23 10:59:07.699  3183  3183 D VRI[MainActivity]@987b11b: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a298e8050}
+10-23 10:59:07.703  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:59:07.703  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:59:07.709  3183  3195 D InputTransport: Input channel constructed: 'ClientS', fd=340
+10-23 10:59:07.720  3183  3183 I VRI[MainActivity]@987b11b: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:59:07.723  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:08.053  3183  3183 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:08.053  3183  3183 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:09.456  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:09.456  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:09.467  3183  3183 D VRI[MainActivity]@987b11b: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a298e8050}
+10-23 10:59:09.470  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:59:09.470  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:59:09.473  3183  5547 D InputTransport: Input channel constructed: 'ClientS', fd=137
+10-23 10:59:31.948  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 0
+10-23 10:59:31.949  3183  3183 I VRI[MainActivity]@987b11b: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@987b11b
+10-23 10:59:32.043  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 1
+10-23 10:59:32.083  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:59:32.113  3183  3183 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:32.113  3183  3183 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:32.779  3183  3183 I VRI[MainActivity]@987b11b: handleAppVisibility mAppVisible = true visible = false
+10-23 10:59:32.779  3183  3183 D VRI[MainActivity]@987b11b: visibilityChanged oldVisibility=true newVisibility=false
+10-23 10:59:32.779  3183  3183 I VRI[MainActivity]@987b11b: stopped(true) old = false
+10-23 10:59:32.779  3183  3183 D VRI[MainActivity]@987b11b: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to true
+10-23 10:59:32.795  3183  3274 D HWUI    : CacheManager::trimMemory(20)
+10-23 10:59:32.798  3183  3183 I wangyi  : 应用处于后台
+10-23 10:59:32.826  3183  3274 D HWUI    : CacheManager::trimMemory(20)
+10-23 10:59:32.832  3183  3183 I VRI[MainActivity]@987b11b: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=6 res=0x2 s={false 0x0} ch=false seqId=0
+10-23 10:59:32.832  3183  3183 D VRI[MainActivity]@987b11b: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+10-23 10:59:32.856  3183  3274 D HWUI    : CacheManager::trimMemory(20)
+10-23 10:59:32.868  3183  4494 D SensorManager: unregisterListener
+10-23 10:59:32.874  3183  4495 D SensorManager: unregisterListener
+10-23 10:59:33.174  3183  3183 D InputTransport: Input channel destroyed: 'ClientS', fd=153
+10-23 10:59:35.806  3183  3775 I System.out: [g2{Active}@9d1425c, java.util.concurrent.Executors$FinalizableDelegatedExecutorService@baada9]
+10-23 10:59:35.807  3183  3775 I System.out: [g2{Active}@9d1425c, java.util.concurrent.Executors$FinalizableDelegatedExecutorService@baada9]
+10-23 10:59:35.810  3183  3775 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.inmobi.media.Lj.b(SourceFile:13)] [com.inmobi.media.Lj.a(SourceFile:18)] [com.inmobi.media.Yk.a(SourceFile:69)] [com.inmobi.media.Rk.invokeSuspend(SourceFile:48)] [com.inmobi.media.Rk.invoke(SourceFile:12)] [com.inmobi.media.Ii.invokeSuspend(SourceFile:31)] [kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:12)] [kotlinx.coroutines.f.run(DispatchedTask.kt:120)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)] [java.lang.Thread.run(Thread.java:1012)]
+10-23 10:59:36.454  3183  3183 I VRI[MainActivity]@987b11b: handleAppVisibility mAppVisible = false visible = true
+10-23 10:59:36.512  3183  3183 I VRI[MainActivity]@987b11b: stopped(false) old = true
+10-23 10:59:36.519  3183  3183 D VRI[MainActivity]@987b11b: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to false
+10-23 10:59:36.521  3183  3183 I wangyi  : 应用处于前台
+10-23 10:59:36.583  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:36.583  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:59:36.594  3183  4494 D SensorManager: registerListener :: 1936159350, Gravity Sensor, 250000, 0, 
+10-23 10:59:36.595  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:36.602  3183  4494 D SensorManager: registerListener :: 2, LSM6DSO Gyroscope, 250000, 0, com.applovin.impl.w4@7eb5bb2
+10-23 10:59:36.616  3183  3183 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[MainActivity]@987b11b mNativeObject= 0xb400007a69824610 sc.mNativeObject= 0xb400007a497e9390 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-23 10:59:36.616  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[MainActivity]@987b11b mNativeObject= 0xb400007a69824610 sc.mNativeObject= 0xb400007a497e9390 format= -1 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-23 10:59:36.616  3183  3183 I VRI[MainActivity]@987b11b: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=31 res=0x3 s={true 0xb400007a29927e30} ch=true seqId=0
+10-23 10:59:36.624  3183  4495 D SensorManager: registerListener :: 1, LSM6DSO Accelerometer, 50000, 0, 
+10-23 10:59:36.625  3183  3183 D VRI[MainActivity]@987b11b: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a29927e30} hwInitialized=true
+10-23 10:59:36.638  3183  3183 D VRI[MainActivity]@987b11b: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-23 10:59:36.638  3183  3183 D VRI[MainActivity]@987b11b: Setup new sync=wmsSync-VRI[MainActivity]@987b11b#58
+10-23 10:59:36.638  3183  3183 I VRI[MainActivity]@987b11b: Creating new active sync group VRI[MainActivity]@987b11b#59
+10-23 10:59:36.638  3183  3183 D VRI[MainActivity]@987b11b: Start draw after previous draw not visible
+10-23 10:59:36.639  3183  3183 D VRI[MainActivity]@987b11b: registerCallbacksForSync syncBuffer=false
+10-23 10:59:36.642  3183  3414 D VRI[MainActivity]@987b11b: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-23 10:59:36.642  3183  3414 I VRI[MainActivity]@987b11b: mWNT: t=0xb400007ae98f4c90 mBlastBufferQueue=0xb400007a69824610 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-23 10:59:36.642  3183  3414 I VRI[MainActivity]@987b11b: Setting up sync and frameCommitCallback
+10-23 10:59:36.645  3183  3274 I BLASTBufferQueue: [VRI[MainActivity]@987b11b#27](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-23 10:59:36.646  3183  3274 I VRI[MainActivity]@987b11b: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-23 10:59:36.653  3183  3183 D VRI[MainActivity]@987b11b: reportDrawFinished seqId=0
+10-23 10:59:36.660  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:59:36.676  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:36.676  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:36.693  3183  3775 I System.out: [g2{Active}@c5a636d, java.util.concurrent.Executors$FinalizableDelegatedExecutorService@baada9]
+10-23 10:59:36.693  3183  3775 I System.out: [g2{Active}@c5a636d, java.util.concurrent.Executors$FinalizableDelegatedExecutorService@baada9]
+10-23 10:59:36.727  3183  3775 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.registerDefaultNetworkCallbackForUid(ConnectivityManager.java:5360)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5327)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5301)] [com.inmobi.media.Lj.a(SourceFile:6)] [com.inmobi.media.Lj.b(SourceFile:8)] [com.inmobi.media.Yk.b(SourceFile:29)] [com.inmobi.media.Rk.invokeSuspend(SourceFile:39)] [com.inmobi.media.Rk.invoke(SourceFile:12)] [com.inmobi.media.Ii.invokeSuspend(SourceFile:31)] [kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:12)] [kotlinx.coroutines.f.run(DispatchedTask.kt:120)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)] [java.lang.Thread.run(Thread.java:1012)]
+10-23 10:59:36.832  3183  3183 I wangyi  : googlep2p2sign为：6c5e05be5dad7fca877daa8ecf9ee324
+10-23 10:59:36.832  3183  3183 I wangyi  : localp2p2sign为：4f75b4026574ab41fcfefa4ee13015a0
+10-23 10:59:36.834  3183  3183 I wangyi  : 端口号为：-1
+10-23 10:59:36.853  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:36.853  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:59:36.854  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:36.855  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:36.856  3183  3183 D VRI[MainActivity]@987b11b: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a29927e30}
+10-23 10:59:36.857  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:59:36.857  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:59:36.858  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:36.867  3183  3193 D InputTransport: Input channel constructed: 'ClientS', fd=364
+10-23 10:59:36.888  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:36.889  3183  3183 I VRI[MainActivity]@987b11b: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:59:38.384  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 0
+10-23 10:59:38.385  3183  3183 I VRI[MainActivity]@987b11b: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@987b11b
+10-23 10:59:38.497  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 1
+10-23 10:59:38.947  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 0
+10-23 10:59:39.281  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 1
+10-23 10:59:40.514  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 0
+10-23 10:59:40.587  3183  3183 I VRI[MainActivity]@987b11b: ViewPostIme pointer 1
+10-23 10:59:40.630  3183 19421 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:59:40.658  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:59:40.681  3183  3183 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-23 10:59:40.699  3183  3183 I DecorView: setWindowBackground: isPopOver=false color=fffafafa d=android.graphics.drawable.ColorDrawable@8d6f6dc
+10-23 10:59:40.707  3183  3183 D RenderMeasure: videoWidth = 480 videoHeight = 270
+10-23 10:59:40.707  3183  3183 D SurfaceView: 118381403 setFixedSize -1x-1 -> 480x270
+10-23 10:59:40.710  3183  3183 I lum     : mMainRect: RectF(3.0, 3.0, 65.0, 33.0)
+10-23 10:59:40.710  3183  3183 I lum     : mHeadRect: RectF(68.0, 13.0, 73.0, 23.0)
+10-23 10:59:40.724  3183  3183 D getUiMode: 1
+10-23 10:59:40.759  3183  3183 D ScrollView: initGoToTop
+10-23 10:59:40.774  3183  3183 I CircularImageView: Bitmap drawable!
+10-23 10:59:40.780  3183  3183 I CircularImageView: Bitmap drawable!
+10-23 10:59:40.783  3183  3183 I ExoPlayerImpl: Init c0ee0c7 [ExoPlayerLib/2.11.7] [p3s, SM-G998B, samsung, 35]
+10-23 10:59:40.790  3183  3183 I wangyi  : 端口号为：-1
+10-23 10:59:40.792  3183  3183 E OKT_SDK : Banner 连接sdk获取数据
+10-23 10:59:40.793  3183  3183 I chitu_sdk: ac, key=16260, isExpired=false
+10-23 10:59:40.793  3183  3183 D chitu_sdk: savedDay 296
+10-23 10:59:40.793  3183  3183 D chitu_sdk: savedDay 296
+10-23 10:59:40.795  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:3)#OnCreate ] onCreate
+10-23 10:59:40.799  3183 19420 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:59:40.803  3183  3183 I aaaaaaaaaaa: onResume---------false
+10-23 10:59:40.803  3183  3183 W AudioManager: Use of stream types is deprecated for operations other than volume control
+10-23 10:59:40.803  3183  3183 W AudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+10-23 10:59:40.804  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:40.804  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:59:40.809  3183  3183 I ViewRootImpl: dVRR is disabled
+10-23 10:59:40.810  3183  3274 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-23 10:59:40.811  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:40.815  3183  3183 D InputTransport: Input channel constructed: 'e57add2', fd=484
+10-23 10:59:40.816  3183  3183 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity, from=android.view.ViewRootImpl.setView:1999, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {38b0001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {38b0005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {38b0006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {38b0024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {799c0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {799c0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-23 10:59:40.816  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: synced displayState. AttachInfo displayState=2
+10-23 10:59:40.816  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: setView = com.android.internal.policy.DecorView@fb0eeaa IsHRR=false TM=true
+10-23 10:59:40.821  3183  3183 D RenderSurfaceView: onSurfaceViewAttachedToWindow
+10-23 10:59:40.821  3183  3183 I SurfaceView@1c13a6a: onWindowVisibilityChanged(0) true com.google.android.exoplayer2.render.RenderSurfaceView{1c13a6a V.E...... ......I. 0,0-0,0} of VRI[VideoPlayDetailActivity]@fae257f
+10-23 10:59:40.821  3183  3183 D SurfaceView: 29440618 updateSurface: has no frame
+10-23 10:59:40.821  3183  3183 E t.a     : onScrubMove0
+10-23 10:59:40.854  3183  3183 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[VideoPlayDetailActivity]@fae257f mNativeObject= 0xb400007a6980fdf0 sc.mNativeObject= 0xb400007a497fe5d0 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-23 10:59:40.854  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@fae257f mNativeObject= 0xb400007a6980fdf0 sc.mNativeObject= 0xb400007a497fe5d0 format= -3 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-23 10:59:40.854  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=13 res=0x3 s={true 0xb400007a298f6ec0} ch=true seqId=0
+10-23 10:59:40.855  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: performConfigurationChange setNightDimText nightDimLevel=0
+10-23 10:59:40.856  3183  3183 D VRI[VideoPlayDetailActivity]@fae257f: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a298f6ec0} hwInitialized=true
+10-23 10:59:40.862  3183  3183 D SurfaceView: 29440618 updateSurface: has no frame
+10-23 10:59:40.863  3183  3183 D ScrollView:  onsize change changed 
+10-23 10:59:40.863  3183  3183 I SurfaceView@1c13a6a: windowStopped(false) true com.google.android.exoplayer2.render.RenderSurfaceView{1c13a6a V.E...... ......ID 540,0-540,0} of VRI[VideoPlayDetailActivity]@fae257f
+10-23 10:59:40.863  3183  3183 D SurfaceView: 29440618 updateSurface: has no frame
+10-23 10:59:40.864  3183  3183 D VRI[VideoPlayDetailActivity]@fae257f: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-23 10:59:40.864  3183  3183 D SurfaceView: 29440618 updateSurface: has no frame
+10-23 10:59:40.864  3183  3183 D VRI[VideoPlayDetailActivity]@fae257f: Setup new sync=wmsSync-VRI[VideoPlayDetailActivity]@fae257f#60
+10-23 10:59:40.864  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: Creating new active sync group VRI[VideoPlayDetailActivity]@fae257f#61
+10-23 10:59:40.864  3183  3183 D VRI[VideoPlayDetailActivity]@fae257f: registerCallbacksForSync syncBuffer=false
+10-23 10:59:40.865  3183  3415 D VRI[VideoPlayDetailActivity]@fae257f: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-23 10:59:40.866  3183  3415 I VRI[VideoPlayDetailActivity]@fae257f: mWNT: t=0xb400007ae991cd10 mBlastBufferQueue=0xb400007a6980fdf0 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-23 10:59:40.866  3183  3415 I VRI[VideoPlayDetailActivity]@fae257f: Setting up sync and frameCommitCallback
+10-23 10:59:40.873  3183  3274 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@fae257f#28](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-23 10:59:40.874  3183  3274 I VRI[VideoPlayDetailActivity]@fae257f: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-23 10:59:40.875  3183  3274 D HWUI    : CFMS:: SetUp Pid : 3183    Tid : 3274
+10-23 10:59:40.875  3183  3183 D VRI[VideoPlayDetailActivity]@fae257f: reportDrawFinished seqId=0
+10-23 10:59:40.883  3183  3274 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+10-23 10:59:40.883  3183  3183 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:40.884  3183  3183 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:40.885  3183  3183 D SurfaceView: 29440618 updateSurface: has no frame
+10-23 10:59:40.886  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:59:40.886  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:59:40.943  3183  3183 D VRI[VideoPlayDetailActivity]@fae257f: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a298f6ec0}
+10-23 10:59:40.944  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:59:40.944  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:59:40.958  3183  5547 D InputTransport: Input channel constructed: 'ClientS', fd=437
+10-23 10:59:40.975  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:59:41.015  3183 20450 I NetRequest: url = https://sdkapi-ga.biggogo.com/2_12_0/ReqBannerAd
+10-23 10:59:41.015  3183 20450 I NetRequest: params = {"appID":"2243","deviceID":"82152676-452c-4fa4-a02c-5e7a27b6f11f","system":0,"appName":"Movie","appVersionName":"V4.0.0","currentTime":1792733380793,"appPackage":"com.fvvcl.flickverse","appSHA1":"81:11:26:D1:54:F6:39:35:B6:85:C4:DD:D9:C8:04:23:37:0E:2C:1E","sdkVersion":"2.12.0.5","debugFlag":1,"phoneLang":"en-in","adPlcID":"16260","sw":1080,"sh":2286,"orientation":1,"historyMid":"[]","show_limit":"[]","adAreaType":"[]","sign":"06c3c207088ec0498accaf22b6652da7"}
+10-23 10:59:41.015  3183 20450 I NetRequest: responseCode = 200
+10-23 10:59:41.015  3183 20450 I NetRequest: result = {"status":1002,"info":"app sha1 no match!","data":[],"timestamp":1792733380}
+10-23 10:59:41.015  3183 20450 I NetRequest: costTime = 221ms
+10-23 10:59:41.016  3183  3183 D b1      : setNewHost https://sdkapi-ga.biggogo.com
+10-23 10:59:41.016  3183  3183 E chitu_sdk: app sha1 no match!
+10-23 10:59:41.017  3183  3183 E OKT_SDK : Banner sdk获取数据失败, msg = app sha1 no match!
+10-23 10:59:41.017  3183  3183 E OKT_SDK : Banner 连接服务器耗时：225ms
+10-23 10:59:41.017  3183  3183 I TAG     : banner广告-error = app sha1 no match!
+10-23 10:59:41.018  3183  3183 I chitu_sdk: ac, put 16260
+10-23 10:59:41.020  3183 18014 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:59:41.022  3183 19490 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-23 10:59:41.066  3183 20463 I NetRequest: url = https://sdkapi-ga.biggogo.com/2_12_0/CollectLog
+10-23 10:59:41.066  3183 20463 I NetRequest: params = {"appID":"2243","deviceID":"82152676-452c-4fa4-a02c-5e7a27b6f11f","model":"samsung\/SM-G998B","is_wifi":"1","system":"0","sdkVersion":"2.12.0.5","api_url":"https:\/\/sdkapi-ga.biggogo.com\/2_12_0\/ReqBannerAd","platform":"","req_data":"{\"appID\":\"2243\",\"deviceID\":\"82152676-452c-4fa4-a02c-5e7a27b6f11f\",\"system\":0,\"appName\":\"Movie\",\"appVersionName\":\"V4.0.0\",\"currentTime\":1792733380793,\"appPackage\":\"com.fvvcl.flickverse\",\"appSHA1\":\"81:11:26:D1:54:F6:39:35:B6:85:C4:DD:D9:C8:04:23:37:0E:2C:1E\",\"sdkVersion\":\"2.12.0.5\",\"debugFlag\":1,\"phoneLang\":\"en-in\",\"adPlcID\":\"16260\",\"sw\":1080,\"sh\":2286,\"orientation\":1,\"historyMid\":\"[]\",\"show_limit\":\"[]\",\"adAreaType\":\"[]\",\"sign\":\"06c3c207088ec0498accaf22b6652da7\"}","response_msg":"{\"status\":1002,\"info\":\"app sha1 no match!\",\"data\":[],\"timestamp\":1792733380}","sdk_error":"YXBwIHNoYTEgbm8gbWF0Y2gh","apiCostTime":90,"initCostTime":0,"thirdCode":"0","myCode":"0","sign":"5b54be6463477720297f2f93926a5581"}
+10-23 10:59:41.066  3183 20463 I NetRequest: responseCode = 200
+10-23 10:59:41.066  3183 20463 I NetRequest: result = {"status":1001,"info":"success","data":[],"timestamp":1792733380}
+10-23 10:59:41.066  3183 20463 I NetRequest: costTime = 48ms
+10-23 10:59:41.067  3183  3183 D b1      : setNewHost https://sdkapi-ga.biggogo.com
+10-23 10:59:41.423  3183  3183 I VRI[MainActivity]@987b11b: handleAppVisibility mAppVisible = true visible = false
+10-23 10:59:41.423  3183  3183 D VRI[MainActivity]@987b11b: visibilityChanged oldVisibility=true newVisibility=false
+10-23 10:59:41.447  3183  3183 I VRI[MainActivity]@987b11b: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=4 res=0x2 s={false 0x0} ch=true seqId=0
+10-23 10:59:41.448  3183  3183 D VRI[MainActivity]@987b11b: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+10-23 10:59:41.449  3183  3183 I VRI[MainActivity]@987b11b: stopped(true) old = false
+10-23 10:59:41.449  3183  3183 D VRI[MainActivity]@987b11b: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to true
+10-23 10:59:41.467  3183  3183 I VRI[MainActivity]@987b11b: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=3 res=0x2 s={false 0x0} ch=false seqId=0
+10-23 10:59:42.079  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: ViewPostIme pointer 0
+10-23 10:59:42.113  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[VideoPlayDetailActivity]@fae257f
+10-23 10:59:42.210  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: ViewPostIme pointer 1
+10-23 10:59:42.229  3183  3183 D WindowOnBackDispatcher: onBackInvoked, owner=VRI[VideoPlayDetailActivity]@fae257f, callback=android.view.ViewRootImpl$$ExternalSyntheticLambda15@cca5605
+10-23 10:59:42.229  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: ViewPostIme key 0
+10-23 10:59:42.230  3183  3183 D Activity: onKeyDown(KEYCODE_BACK), activity=com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@abacc2d
+10-23 10:59:42.230  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: ViewPostIme key 1
+10-23 10:59:42.231  3183  3183 D Activity: onBackInvoked, activity=com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@abacc2d, caller=android.app.Activity.onBackPressed:4396 androidx.activity.ComponentActivity.access$onBackPressed$s1027565324:1 androidx.activity.ComponentActivity$onBackPressedDispatcher$2.invoke$lambda$0:7 
+10-23 10:59:42.236  3183  3183 D getUiMode: 1
+10-23 10:59:42.252  3183  3183 E t.a     : onScrubMove0
+10-23 10:59:42.252  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:59:42.271  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@fae257f mNativeObject= 0xb400007a6980fdf0 sc.mNativeObject= 0xb400007a497fe5d0 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3386 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 
+10-23 10:59:42.271  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=true req=(1080,2400)0 dur=1 res=0x0 s={true 0xb400007a298f6ec0} ch=false seqId=0
+10-23 10:59:42.272  3183  3183 D SurfaceView: 29440618 updateSurface: has no frame
+10-23 10:59:42.272  3183  3183 D SurfaceView: 29440618 updateSurface: has no frame
+10-23 10:59:42.272  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: registerCallbackForPendingTransactions
+10-23 10:59:42.273  3183  3414 I VRI[VideoPlayDetailActivity]@fae257f: mWNT: t=0xb400007ae98b5210 mBlastBufferQueue=0xb400007a6980fdf0 fn= 2 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$9.onFrameDraw:6276 android.view.ViewRootImpl$3.onFrameDraw:2440 android.view.ThreadedRenderer$1.onFrameDraw:761 
+10-23 10:59:42.274  3183  3183 I VRI[MainActivity]@987b11b: handleAppVisibility mAppVisible = false visible = true
+10-23 10:59:42.274  3183  3183 I VRI[MainActivity]@987b11b: stopped(false) old = true
+10-23 10:59:42.274  3183  3183 D VRI[MainActivity]@987b11b: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to false
+10-23 10:59:42.348  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:42.348  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:59:42.359  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:42.378  3183  3183 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[MainActivity]@987b11b mNativeObject= 0xb400007a69824610 sc.mNativeObject= 0xb400007a497e9390 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-23 10:59:42.378  3183  3183 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[MainActivity]@987b11b mNativeObject= 0xb400007a69824610 sc.mNativeObject= 0xb400007a497e9390 format= -1 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-23 10:59:42.379  3183  3183 I VRI[MainActivity]@987b11b: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=27 res=0x3 s={true 0xb400007a29927e30} ch=true seqId=0
+10-23 10:59:42.379  3183  3183 D VRI[MainActivity]@987b11b: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a29927e30} hwInitialized=true
+10-23 10:59:42.379  3183  3183 D VRI[MainActivity]@987b11b: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-23 10:59:42.379  3183  3183 D VRI[MainActivity]@987b11b: Setup new sync=wmsSync-VRI[MainActivity]@987b11b#62
+10-23 10:59:42.379  3183  3183 I VRI[MainActivity]@987b11b: Creating new active sync group VRI[MainActivity]@987b11b#63
+10-23 10:59:42.379  3183  3183 D VRI[MainActivity]@987b11b: Start draw after previous draw not visible
+10-23 10:59:42.380  3183  3183 D VRI[MainActivity]@987b11b: registerCallbacksForSync syncBuffer=false
+10-23 10:59:42.384  3183  3415 D VRI[MainActivity]@987b11b: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-23 10:59:42.384  3183  3415 I VRI[MainActivity]@987b11b: mWNT: t=0xb400007ae97eef10 mBlastBufferQueue=0xb400007a69824610 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-23 10:59:42.384  3183  3415 I VRI[MainActivity]@987b11b: Setting up sync and frameCommitCallback
+10-23 10:59:42.388  3183  3274 I BLASTBufferQueue: [VRI[MainActivity]@987b11b#29](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-23 10:59:42.389  3183  3274 I VRI[MainActivity]@987b11b: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-23 10:59:42.389  3183  3183 D VRI[MainActivity]@987b11b: reportDrawFinished seqId=0
+10-23 10:59:42.396  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.X3.c(SourceFile:3)] [com.ironsource.sdk.controller.v.f(SourceFile:39)] [com.ironsource.sdk.controller.v.k0(Unknown Source:0)] [com.ironsource.sdk.controller.v$e.run(SourceFile:5)]
+10-23 10:59:42.408  3183  3183 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:42.409  3183  3183 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-23 10:59:42.410  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:42.410  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:42.416  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:59:42.416  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-23 10:59:42.564  3183  3183 I wangyi  : googlep2p2sign为：6c5e05be5dad7fca877daa8ecf9ee324
+10-23 10:59:42.564  3183  3183 I wangyi  : localp2p2sign为：4f75b4026574ab41fcfefa4ee13015a0
+10-23 10:59:42.566  3183  3183 I wangyi  : 端口号为：-1
+10-23 10:59:42.586  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:42.587  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:42.588  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5470)] [com.ironsource.ic.a(SourceFile:3)] [com.ironsource.ic.b(SourceFile:7)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:42.588  3183  3766 D ConnectivityManager: NetworkCallback was already unregistered
+10-23 10:59:42.589  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: handleAppVisibility mAppVisible = true visible = false
+10-23 10:59:42.589  3183  3183 D VRI[VideoPlayDetailActivity]@fae257f: visibilityChanged oldVisibility=true newVisibility=false
+10-23 10:59:42.592  3183  3183 I SurfaceView@1c13a6a: onWindowVisibilityChanged(8) false com.google.android.exoplayer2.render.RenderSurfaceView{1c13a6a V.E...... ......ID 540,0-540,0} of VRI[VideoPlayDetailActivity]@fae257f
+10-23 10:59:42.592  3183  3183 D SurfaceView: 29440618 updateSurface: has no frame
+10-23 10:59:42.594  3183  3766 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4671)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4838)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5220)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5190)] [com.ironsource.ic.b(SourceFile:65)] [com.ironsource.X3.b(SourceFile:1)] [com.ironsource.sdk.controller.v.e(SourceFile:11)] [com.ironsource.sdk.controller.v.j0(Unknown Source:0)] [com.ironsource.sdk.controller.v$d.run(SourceFile:5)]
+10-23 10:59:42.606  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=10 res=0x2 s={false 0x0} ch=true seqId=0
+10-23 10:59:42.606  3183  3183 I SurfaceView@1c13a6a: windowStopped(true) false com.google.android.exoplayer2.render.RenderSurfaceView{1c13a6a V.E...... ......ID 540,0-540,0} of VRI[VideoPlayDetailActivity]@fae257f
+10-23 10:59:42.606  3183  3183 D SurfaceView: 29440618 updateSurface: has no frame
+10-23 10:59:42.606  3183  3183 D SurfaceView: 29440618 updateSurface: has no frame
+10-23 10:59:42.606  3183  3183 D VRI[VideoPlayDetailActivity]@fae257f: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+10-23 10:59:42.607  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: stopped(true) old = false
+10-23 10:59:42.607  3183  3183 D VRI[VideoPlayDetailActivity]@fae257f: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity set to true
+10-23 10:59:42.628  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:26)#OnDestroy ] onDestroy:com.mgs.carparking.model.VIDEOPLAYDETAILVIEWMODEL
+10-23 10:59:42.628  3183  3183 D BaseViewModel.java: [ (BaseViewModel.java:6)#OnCleared ] onCleared
+10-23 10:59:42.630  3183  3183 I ExoPlayerImpl: Release c0ee0c7 [ExoPlayerLib/2.11.7] [p3s, SM-G998B, samsung, 35] [goog.exo.core, goog.exo.ui]
+10-23 10:59:42.632  3183  3183 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda15@cca5605
+10-23 10:59:42.632  3183  3183 I SurfaceView: 29440618 Detaching SV
+10-23 10:59:42.632  3183  3183 D SurfaceView: 29440618 updateSurface: has no frame
+10-23 10:59:42.632  3183  3183 I SurfaceView@1c13a6a: onDetachedFromWindow: tryReleaseSurfaces()
+10-23 10:59:42.632  3183  3183 I SurfaceView@1c13a6a: releaseSurfaces: viewRoot = VRI[VideoPlayDetailActivity]@fae257f
+10-23 10:59:42.632  3183  3183 D VRI[VideoPlayDetailActivity]@fae257f: applyTransactionOnDraw applyImmediately
+10-23 10:59:42.632  3183  3183 D RenderSurfaceView: onSurfaceViewDetachedFromWindow
+10-23 10:59:42.637  3183  3183 I VRI[VideoPlayDetailActivity]@fae257f: dispatchDetachedFromWindow
+10-23 10:59:42.642  3183  3183 D InputTransport: Input channel destroyed: 'e57add2', fd=484
+10-23 10:59:42.648  3183  3183 D VRI[MainActivity]@987b11b: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a29927e30}
+10-23 10:59:42.655  3183  3183 D InputMethodManagerUtils: startInputInner - Id : 0
+10-23 10:59:42.656  3183  3183 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-23 10:59:42.659  3183  3183 I VRI[MainActivity]@987b11b: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-23 10:59:42.665  3183  3195 D InputTransport: Input channel constructed: 'ClientS', fd=198
+10-23 10:59:42.703  3183  3183 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-23 10:59:42.714  3183  3188 I vvcl.flickverse: Background young concurrent copying GC freed 28MB AllocSpace bytes, 112(11MB) LOS objects, 53% free, 34MB/74MB, paused 3.487ms,106us total 112.210ms
+10-23 10:59:42.714  3183  3189 D InputTransport: Input channel destroyed: 'ClientS', fd=437
+10-23 10:59:42.715  3183  3189 D InputTransport: Input channel destroyed: 'ClientS', fd=137
+10-23 10:59:42.715  3183  3189 D InputTransport: Input channel destroyed: 'ClientS', fd=340
+10-23 10:59:42.717  3183  3189 D InputTransport: Input channel destroyed: 'ClientS', fd=381
+10-23 10:59:42.718  3183  3189 D InputTransport: Input channel destroyed: 'ClientS', fd=183
+10-23 10:59:42.718  3183  3189 D InputTransport: Input channel destroyed: 'ClientS', fd=371
+10-23 10:59:42.718  3183  3189 D InputTransport: Input channel destroyed: 'ClientS', fd=450
+10-23 10:59:42.720  3183  3189 D InputTransport: Input channel destroyed: 'ClientS', fd=461
+10-23 10:59:43.590  3183  3183 I VRI[MainActivity]@987b11b: call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@987b11b

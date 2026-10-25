@@ -1,0 +1,631 @@
+To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/8.13/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Daemon will be stopped at the end of the build 
+> Task :source-app:diagnoseRecoveredJava
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\app\AppOpsManager$OnOpActiveChangedListener.java:5: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\content\pm\PackageManager$OnChecksumsReadyListener.java:5: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\graphics\ImageDecoder.java:29: error: initializers not allowed in interfaces
+        static {
+               ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\graphics\ImageDecoder.java:36: error: initializers not allowed in interfaces
+        static {
+               ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\icu\text\FormattedValue.java:5: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\media\MediaParser.java:12: error: initializers not allowed in interfaces
+        static {
+               ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\media\MediaParser.java:23: error: initializers not allowed in interfaces
+        static {
+               ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\media\MediaParser.java:51: error: initializers not allowed in interfaces
+        static {
+               ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\media\VolumeAutomation.java:5: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\net\TransportInfo.java:5: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\os\OutcomeReceiver.java:5: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\telephony\TelephonyCallback.java:8: error: initializers not allowed in interfaces
+        static {
+               ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\view\AttachedSurfaceControl.java:7: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\view\OnReceiveContentListener.java:5: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\view\textclassifier\TextClassifier.java:5: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\view\View$OnUnhandledKeyEventListener.java:5: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\view\WindowInsetsAnimationController.java:9: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\view\WindowInsetsAnimationControlListener.java:5: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\view\WindowInsetsController.java:13: error: initializers not allowed in interfaces
+        static {
+               ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\view\WindowInsetsController.java:18: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\activity\PipHintTrackerKt$trackPipAnimationHintView$flow$1.java:80: error: illegal start of type
+            final ?? r10 = new View.OnAttachStateChangeListener() { // from class: androidx.activity.PipHintTrackerKt$trackPipAnimationHintView$flow$1$attachStateChangeListener$1
+                  ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:314: error: illegal start of expression
+        ?? r10;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:314: error: illegal start of expression
+        ?? r10;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:314: error: : expected
+        ?? r10;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:318: error: illegal start of expression
+        ?? r11 = 0;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:318: error: illegal start of expression
+        ?? r11 = 0;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:318: error: : expected
+        ?? r11 = 0;
+                  ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:362: error: illegal start of expression
+        ?? r12 = actionMenuPresenter;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:362: error: illegal start of expression
+        ?? r12 = actionMenuPresenter;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:362: error: : expected
+        ?? r12 = actionMenuPresenter;
+                                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:364: error: illegal start of expression
+            ?? r15 = (MenuItemImpl) visibleItems.get(i18);
+            ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:364: error: illegal start of expression
+            ?? r15 = (MenuItemImpl) visibleItems.get(i18);
+             ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuPresenter.java:364: error: : expected
+            ?? r15 = (MenuItemImpl) visibleItems.get(i18);
+                                                         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuView.java:174: error: illegal start of expression
+        ?? r14;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuView.java:174: error: illegal start of expression
+        ?? r14;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActionMenuView.java:174: error: : expected
+        ?? r14;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActivityChooserView.java:414: error: illegal start of expression
+        ?? r10 = this.mDefaultActivityButton.getVisibility() == 0 ? 1 : 0;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActivityChooserView.java:414: error: illegal start of expression
+        ?? r10 = this.mDefaultActivityButton.getVisibility() == 0 ? 1 : 0;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\ActivityChooserView.java:414: error: : expected
+        ?? r10 = this.mDefaultActivityButton.getVisibility() == 0 ? 1 : 0;
+                                                                         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\AppCompatSpinner.java:891: error: illegal start of expression
+        ?? r11 = -1;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\AppCompatSpinner.java:891: error: illegal start of expression
+        ?? r11 = -1;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\AppCompatSpinner.java:891: error: : expected
+        ?? r11 = -1;
+                   ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\AppCompatSpinner.java:892: error: illegal start of expression
+        ?? r10 = 0;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\AppCompatSpinner.java:892: error: illegal start of expression
+        ?? r10 = 0;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\appcompat\widget\AppCompatSpinner.java:892: error: : expected
+        ?? r10 = 0;
+                  ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\analyzer\Direct.java:57: error: illegal start of expression
+        ?? r10;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\analyzer\Direct.java:57: error: illegal start of expression
+        ?? r10;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\analyzer\Direct.java:57: error: : expected
+        ?? r10;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\Chain.java:73: error: illegal start of expression
+        ?? r10;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\Chain.java:73: error: illegal start of expression
+        ?? r10;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\Chain.java:73: error: : expected
+        ?? r10;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\Chain.java:109: error: illegal start of expression
+        ?? r11 = constraintWidget;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\Chain.java:109: error: illegal start of expression
+        ?? r11 = constraintWidget;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\Chain.java:109: error: : expected
+        ?? r11 = constraintWidget;
+                                 ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:420: error: illegal start of expression
+        ?? r10;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:420: error: illegal start of expression
+        ?? r10;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:420: error: : expected
+        ?? r10;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:421: error: illegal start of expression
+        ?? r11;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:421: error: illegal start of expression
+        ?? r11;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:421: error: : expected
+        ?? r11;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:422: error: illegal start of expression
+        ?? r13;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:422: error: illegal start of expression
+        ?? r13;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:422: error: : expected
+        ?? r13;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:499: error: illegal start of expression
+        ?? r14 = z10;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:499: error: illegal start of expression
+        ?? r14 = z10;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:499: error: : expected
+        ?? r14 = z10;
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:581: error: illegal start of expression
+            ?? r15 = r14;
+            ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:581: error: illegal start of expression
+            ?? r15 = r14;
+             ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:581: error: : expected
+            ?? r15 = r14;
+                        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:608: error: illegal start of expression
+                        ?? r12 = r10;
+                        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:608: error: illegal start of expression
+                        ?? r12 = r10;
+                         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\constraintlayout\core\widgets\ConstraintWidgetContainer.java:608: error: : expected
+                        ?? r12 = r10;
+                                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\core\location\LocationRequestCompat.java:44: error: invalid method declaration; return type required
+                public /* synthetic */ Builder(long j10) {
+                                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\core\text\PrecomputedTextCompat.java:107: error: invalid method declaration; return type required
+                    public /* synthetic */ Builder(@android.annotation.NonNull TextPaint textPaint2) {
+                                           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\core\view\inputmethod\InputConnectionCompat.java:113: error: illegal start of expression
+        ?? r10 = 0;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\core\view\inputmethod\InputConnectionCompat.java:113: error: illegal start of expression
+        ?? r10 = 0;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\core\view\inputmethod\InputConnectionCompat.java:113: error: : expected
+        ?? r10 = 0;
+                  ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\core\widget\AutoSizeableTextView.java:13: error: = expected
+    public static final boolean PLATFORM_SUPPORTS_AUTOSIZE;
+                                                          ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\core\widget\AutoSizeableTextView.java:31: error: initializers not allowed in interfaces
+    static {
+           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\customview\widget\ViewDragHelper.java:200: error: illegal start of expression
+        ?? r10 = zCheckNewEdgeDrag;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\customview\widget\ViewDragHelper.java:200: error: illegal start of expression
+        ?? r10 = zCheckNewEdgeDrag;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\customview\widget\ViewDragHelper.java:200: error: : expected
+        ?? r10 = zCheckNewEdgeDrag;
+                                  ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\customview\widget\ViewDragHelper.java:204: error: illegal start of expression
+        ?? r11 = r10;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\customview\widget\ViewDragHelper.java:204: error: illegal start of expression
+        ?? r11 = r10;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\customview\widget\ViewDragHelper.java:204: error: : expected
+        ?? r11 = r10;
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\customview\widget\ViewDragHelper.java:208: error: illegal start of expression
+        ?? r12 = r11;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\customview\widget\ViewDragHelper.java:208: error: illegal start of expression
+        ?? r12 = r11;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\customview\widget\ViewDragHelper.java:208: error: : expected
+        ?? r12 = r11;
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\DataMigrationInitializer.java:76: error: <identifier> expected
+                    } catch (Throwable 
+                                      ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\DataMigrationInitializer.java:176: error: illegal start of expression
+                public final <T> p<InitializerApi<T>, c<? super r>, Object> getInitializer(List<? extends DataMigration<T>> migrations) {
+                ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:528: error: illegal start of expression
+        ?? r10;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:528: error: illegal start of expression
+        ?? r10;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:528: error: : expected
+        ?? r10;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:530: error: illegal start of expression
+        ?? r11;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:530: error: illegal start of expression
+        ?? r11;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:530: error: : expected
+        ?? r11;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:532: error: illegal start of expression
+        ?? r12;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:532: error: illegal start of expression
+        ?? r12;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:532: error: : expected
+        ?? r12;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:673: error: illegal start of expression
+        ?? r10;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:673: error: illegal start of expression
+        ?? r10;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:673: error: : expected
+        ?? r10;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:675: error: illegal start of expression
+        ?? r12;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:675: error: illegal start of expression
+        ?? r12;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:675: error: : expected
+        ?? r12;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:682: error: illegal start of expression
+        ?? r11;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:682: error: illegal start of expression
+        ?? r11;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:682: error: : expected
+        ?? r11;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:686: error: illegal start of expression
+        ?? r13;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:686: error: illegal start of expression
+        ?? r13;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:686: error: : expected
+        ?? r13;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:970: error: illegal start of expression
+        ?? c08281;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:970: error: illegal start of expression
+        ?? c08281;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:970: error: : expected
+        ?? c08281;
+                 ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:971: error: illegal start of expression
+        ?? fileInputStream;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:971: error: illegal start of expression
+        ?? fileInputStream;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:971: error: : expected
+        ?? fileInputStream;
+                          ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:973: error: illegal start of expression
+        ?? r10;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:973: error: illegal start of expression
+        ?? r10;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:973: error: : expected
+        ?? r10;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1065: error: illegal start of expression
+        ?? r10;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1065: error: illegal start of expression
+        ?? r10;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1065: error: : expected
+        ?? r10;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1068: error: illegal start of expression
+        ?? r11;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1068: error: illegal start of expression
+        ?? r11;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1068: error: : expected
+        ?? r11;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1102: error: illegal start of expression
+                ?? r12 = r10;
+                ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1102: error: illegal start of expression
+                ?? r12 = r10;
+                 ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1102: error: : expected
+                ?? r12 = r10;
+                            ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1150: error: illegal start of expression
+            ?? r13 = r10;
+            ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1150: error: illegal start of expression
+            ?? r13 = r10;
+             ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1150: error: : expected
+            ?? r13 = r10;
+                        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1298: error: illegal start of expression
+        ?? file;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1298: error: illegal start of expression
+        ?? file;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1298: error: : expected
+        ?? file;
+               ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1299: error: illegal start of expression
+        ?? fileOutputStream;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1299: error: illegal start of expression
+        ?? fileOutputStream;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1299: error: : expected
+        ?? fileOutputStream;
+                           ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1301: error: illegal start of expression
+        ?? r10;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1301: error: illegal start of expression
+        ?? r10;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1301: error: : expected
+        ?? r10;
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1317: error: illegal start of expression
+        ?? r11 = 1;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1317: error: illegal start of expression
+        ?? r11 = 1;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\datastore\core\SingleProcessDataStore.java:1317: error: : expected
+        ?? r11 = 1;
+                  ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\exifinterface\media\ExifInterface.java:3718: error: illegal start of expression
+        ?? fileInputStream;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\exifinterface\media\ExifInterface.java:3718: error: illegal start of expression
+        ?? fileInputStream;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\exifinterface\media\ExifInterface.java:3718: error: : expected
+        ?? fileInputStream;
+                          ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\exifinterface\media\ExifInterface.java:3719: error: illegal start of expression
+        ?? r10 = 0;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\exifinterface\media\ExifInterface.java:3719: error: illegal start of expression
+        ?? r10 = 0;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\exifinterface\media\ExifInterface.java:3719: error: : expected
+        ?? r10 = 0;
+                  ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\exifinterface\media\ExifInterface.java:3724: error: illegal start of expression
+        ?? fileInputStream2 = this.mThumbnailBytes;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\exifinterface\media\ExifInterface.java:3724: error: illegal start of expression
+        ?? fileInputStream2 = this.mThumbnailBytes;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\exifinterface\media\ExifInterface.java:3724: error: : expected
+        ?? fileInputStream2 = this.mThumbnailBytes;
+                                                  ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\lifecycle\WithLifecycleStateKt.java:135: error: illegal start of type
+        final ?? r10 = new LifecycleEventObserver() { // from class: androidx.lifecycle.WithLifecycleStateKt$suspendWithStateAtLeastUnchecked$2$observer$1
+              ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\dash\manifest\DashManifestParser.java:606: error: illegal start of expression
+        ?? text;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\dash\manifest\DashManifestParser.java:606: error: illegal start of expression
+        ?? text;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\dash\manifest\DashManifestParser.java:606: error: : expected
+        ?? text;
+               ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\dash\manifest\DashManifestParser.java:607: error: illegal start of expression
+        ?? BuildPsshAtom;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\dash\manifest\DashManifestParser.java:607: error: illegal start of expression
+        ?? BuildPsshAtom;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\dash\manifest\DashManifestParser.java:607: error: : expected
+        ?? BuildPsshAtom;
+                        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\mediacodec\AsynchronousMediaCodecAdapter.java:90: error: illegal start of expression
+            ?? r10 = 0;
+            ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\mediacodec\AsynchronousMediaCodecAdapter.java:90: error: illegal start of expression
+            ?? r10 = 0;
+             ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\mediacodec\AsynchronousMediaCodecAdapter.java:90: error: : expected
+            ?? r10 = 0;
+                      ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\video\MediaCodecVideoRenderer.java:1247: error: illegal start of expression
+        ?? NewInstance;
+        ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\video\MediaCodecVideoRenderer.java:1247: error: illegal start of expression
+        ?? NewInstance;
+         ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\exoplayer\video\MediaCodecVideoRenderer.java:1247: error: : expected
+        ?? NewInstance;
+                      ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:65: error: illegal escape character
+            case "{\an1}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:66: error: : or -> expected
+                b10 = 0;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:68: error: illegal escape character
+            case "{\an2}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:69: error: : or -> expected
+                b10 = 6;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:71: error: illegal escape character
+            case "{\an3}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:72: error: : or -> expected
+                b10 = 3;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:74: error: illegal escape character
+            case "{\an4}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:75: error: : or -> expected
+                b10 = 1;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:77: error: illegal escape character
+            case "{\an5}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:78: error: : or -> expected
+                b10 = 7;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:80: error: illegal escape character
+            case "{\an6}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:81: error: : or -> expected
+                b10 = 4;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:83: error: illegal escape character
+            case "{\an7}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:84: error: : or -> expected
+                b10 = 2;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:86: error: illegal escape character
+            case "{\an8}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:87: error: : or -> expected
+                b10 = 8;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:89: error: illegal escape character
+            case "{\an9}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:90: error: : or -> expected
+                b10 = 5;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:104: error: illegal escape character
+            case "{\an1}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:105: error: : or -> expected
+                b11 = 0;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:107: error: illegal escape character
+            case "{\an2}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:108: error: : or -> expected
+                b11 = 1;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:110: error: illegal escape character
+            case "{\an3}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:111: error: : or -> expected
+                b11 = 2;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:113: error: illegal escape character
+            case "{\an4}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:114: error: : or -> expected
+                b11 = 6;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:116: error: illegal escape character
+            case "{\an5}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:117: error: : or -> expected
+                b11 = 7;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:119: error: illegal escape character
+            case "{\an6}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:120: error: : or -> expected
+                b11 = 8;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:122: error: illegal escape character
+            case "{\an7}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:123: error: : or -> expected
+                b11 = 3;
+                       ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:125: error: illegal escape character
+            case "{\an8}":
+                    ^
+C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\androidx\media3\extractor\text\subrip\SubripParser.java:126: error: : or -> expected
+                b11 = 4;
+                       ^
+200 errors
+
+> Task :source-app:diagnoseRecoveredJava FAILED
+
+[Incubating] Problems report is available at: file:///C:/Users/AlphaDell-60/Documents/code/personal/rea-test/movie-reconstruction/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.13/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+1 actionable task: 1 executed
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':source-app:diagnoseRecoveredJava'.
+> Compilation failed; see the compiler output below.
+  C:\Users\AlphaDell-60\Documents\code\personal\rea-test\movie-reconstruction\source-app\src\main\java\android\app\AppOpsManager$OnOpActiveChangedListener.java:5: error: initializers not allowed in interfaces
+      static {
+             ^
+  200 errors
+
+* Try:
+> Check your code and dependencies to fix the compilation error(s)
+> Run with --scan to get full insights.
+
+BUILD FAILED in 1m 37s

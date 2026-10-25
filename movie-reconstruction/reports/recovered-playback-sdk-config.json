@@ -1,0 +1,18 @@
+{
+  "package": "com.fvvcl.flickverse",
+  "sdk_java_class": "com.pp.hls",
+  "native_library": "libpp_hls.so",
+  "protected_string_library": "libjiagu_sdk_pp_hlsProtected.so",
+  "load_arguments": [
+    "918ef3452da2728168006719d78815a6",
+    "com.fvvcl.flickverse",
+    "63",
+    "external storage directory",
+    "application external files directory",
+    "sa.o0.J() runtime value",
+    "1"
+  ],
+  "original_certificate_sha256": "e751b8dcb7f58058b063b6c4aac0ab0977187797923e81858aa6803ab1eb832e",
+  "private_signing_key_in_apk": false,
+  "native_load_implementation_recovered": false
+}

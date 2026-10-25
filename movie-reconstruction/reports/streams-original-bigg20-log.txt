@@ -1,0 +1,12 @@
+--------- beginning of main
+10-23 01:51:29.127  4809  4809 I wangyi  : 应用处于前台
+10-23 01:51:34.911  4809  4809 I wangyi  : googlep2p2sign为：6c5e05be5dad7fca877daa8ecf9ee324
+10-23 01:51:34.911  4809  4809 I wangyi  : localp2p2sign为：4f75b4026574ab41fcfefa4ee13015a0
+10-23 01:51:35.244  4809  4809 I wangyi  : 端口号为：7000
+10-23 01:52:56.830  4809  4809 I wangyi  : 应用处于后台
+10-23 01:52:57.146  4809  4809 I wangyi  : 应用处于前台
+10-23 01:52:57.647  4809  5620 I wangyi  : sucess：Response{protocol=h2, code=200, message=, url=https://moviein.ajfysu.com/api/public/upgrade}
+10-23 01:52:57.749  4809  5625 I wangyi  : get成功：
+10-23 01:52:59.025  4809  4809 I wangyi  : result：SHOK5119ocG2i+z/LCGkhndaeaieKxv+7QjLe4GhPs/H74DbqaZc7ZFQxuRiOgL1leIfz84zclDQPlU6pLUbWw==
+10-23 01:52:59.030  4809  4809 I wangyi  : 版本号为：40000
+10-23 01:52:59.044  4809  4809 I wangyi  : 信息为：{"code": 10000, "message": "Success", "result": null}---null
