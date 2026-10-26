@@ -1,0 +1,18 @@
+I: Using Apktool 3.0.3 on Movie.apk with 2 threads
+I: classes.dex has not changed.
+I: classes10.dex has not changed.
+I: classes11.dex has not changed.
+I: classes2.dex has not changed.
+I: classes3.dex has not changed.
+I: classes4.dex has not changed.
+I: classes5.dex has not changed.
+I: Copying raw classes6.dex...
+I: classes7.dex has not changed.
+I: classes8.dex has not changed.
+I: classes9.dex has not changed.
+I: AndroidManifest.xml and resources have not changed.
+I: Building apk file...
+I: Importing assets...
+I: Importing lib...
+I: Importing unknown files...
+I: Built apk into: boxoffice\build\boxoffice-unsigned.apk

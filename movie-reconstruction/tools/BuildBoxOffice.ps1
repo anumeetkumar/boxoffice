@@ -12,10 +12,19 @@ try {
     Checked "$javaHome\bin\keytool.exe" @('-exportcert','-keystore','tools\debug.keystore','-storepass','android','-alias','androiddebugkey','-file','boxoffice\signing-cert.der')
     if((Get-FileHash 'boxoffice\signing-cert.der' -Algorithm MD5).Hash -ne '66DDA37731D61DB6C753CD950AA7E82C'){throw 'Signing key differs from the tested playback configuration'}
     Checked $python @('tools\BoxOfficeDexPatch.py')
+    Checked $python @('tools\BoxOfficePlayerDexPatch.py')
     Checked $python @('tools\PrepareBoxOffice.py')
+    Checked "$javaHome\bin\javac.exe" @('-cp','tools\apktool.jar','-d','tools\native-tracing','tools\DecodePlayerDex.java')
+    Checked "$javaHome\bin\java.exe" @('-Xmx2048m','-cp','tools\apktool.jar;tools\native-tracing','DecodePlayerDex','..\Movie.apk','boxoffice')
+    Checked $python @('tools\PreparePlayerControls.py')
     Checked "$javaHome\bin\javac.exe" @('-cp','tools\apktool.jar','-d','tools\native-tracing','tools\AssembleBoxOfficeDex.java')
     Checked "$javaHome\bin\java.exe" @('-Xmx2048m','-cp','tools\apktool.jar;tools\native-tracing','AssembleBoxOfficeDex','boxoffice\smali5','boxoffice\patched\classes5.dex')
     Copy-Item boxoffice\patched\classes5.dex boxoffice\apktool\classes5.dex -Force
+    Copy-Item boxoffice\patched\classes6.dex boxoffice\apktool\classes6.dex -Force
+    foreach($number in @(7,8)) {
+        Checked "$javaHome\bin\java.exe" @('-Xmx2048m','-cp','tools\apktool.jar;tools\native-tracing','AssembleBoxOfficeDex',"boxoffice\smali$number","boxoffice\patched\classes$number.dex")
+        Copy-Item "boxoffice\patched\classes$number.dex" "boxoffice\apktool\classes$number.dex" -Force
+    }
     Copy-Item boxoffice\patched\classes10.dex boxoffice\apktool\classes10.dex -Force
     Copy-Item tools\native-tracing\sdk-dex\classes11.dex boxoffice\apktool\classes11.dex -Force
     New-Item -ItemType Directory -Force $out | Out-Null

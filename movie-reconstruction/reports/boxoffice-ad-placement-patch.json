@@ -152,6 +152,14 @@
       "replacement_instructions": "6200b36c1100"
     }
   ],
+  "silent_volume_patch": [
+    {
+      "method": "Lgb/l$a;->onProgressChanged",
+      "offset": 8538636,
+      "before": "1240",
+      "after": "1200"
+    }
+  ],
   "all_indexes_and_code_sizes_preserved": true,
-  "sha256": "32493c472e0615f6068812af3460f87541b5358398e9eeb43da195a616a2824d"
+  "sha256": "46d9c0f51bda50e2616ef0067978e5efe3789d3a8a7586ba81aba2d1adbc552d"
 }

@@ -1,0 +1,8 @@
+[
+  {
+    "method": "PlayerControlView.S",
+    "offset": 7515866,
+    "before": "38000b00",
+    "after": "00000000"
+  }
+]

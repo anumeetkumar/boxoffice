@@ -21,5 +21,12 @@
   "observed_phone_ad_sdk_logs": 0,
   "delivery_apk": "C:\\Users\\AlphaDell-60\\Documents\\code\\personal\\rea-test\\BoxOffice.apk",
   "sha256": "983170b637179f7c83eeeaf7cece6ce2cfb763e7e883c9a674615ad9d400c30f",
-  "source_java_build_restored": false
+  "source_java_build_restored": false,
+  "latest_player_update": {
+    "date": "2026-10-26",
+    "sha256": "262cafd73263e8d03a306763a020824f6f597a2bec58df1bd0c657970d2b7a14",
+    "emulator_control_tests": "passed",
+    "phone_installed": false,
+    "report": "reports/boxoffice-player-controls.json"
+  }
 }

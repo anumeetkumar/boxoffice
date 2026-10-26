@@ -1,0 +1,14 @@
+{
+  "single_tap": "original show/hide code preserved",
+  "double_tap": "left -10000ms, right +10000ms; clamped to [0,duration]; play state unchanged",
+  "center_controls": "existing exo_play/exo_pause IDs and state callbacks",
+  "fullscreen_subscribe": "collapsed, binding ID retained",
+  "volume_feedback": "FLAG_PLAY_SOUND cleared in gesture and player sliders",
+  "runtime_verified": true,
+  "runtime_test": "reports/boxoffice-player-runtime-test.json",
+  "apk_sha256": "262cafd73263e8d03a306763a020824f6f597a2bec58df1bd0c657970d2b7a14",
+  "phone_installed": false,
+  "phone_reason": "No device connected",
+  "volume_audible_phone_check": "pending",
+  "previous_apk": "boxoffice/build/BoxOffice-before-player-controls.apk"
+}

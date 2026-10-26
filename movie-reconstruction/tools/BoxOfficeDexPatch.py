@@ -32,9 +32,10 @@ for i in range(u32(88)):
     owner, proto, name = struct.unpack_from('<HHI', data, u32(92) + i * 8)
     methods.append((types[owner], strings[name]))
 patched = []
+volume_patched = []
 for i in range(u32(96)):
     entry = u32(100) + i * 32
-    if types[u32(entry)] != 'Lcom/mgs/carparking/netbean/AdInfoEntry;': continue
+    if types[u32(entry)] not in ('Lcom/mgs/carparking/netbean/AdInfoEntry;', 'Lgb/l$a;'): continue
     at = u32(entry + 24)
     static, at = uleb(at); instance, at = uleb(at)
     direct, at = uleb(at); virtual, at = uleb(at)
@@ -46,6 +47,13 @@ for i in range(u32(96)):
             delta, at = uleb(at); index += delta
             _, at = uleb(at); code, at = uleb(at)
             owner, name = methods[index]
+            if owner == 'Lgb/l$a;' and name == 'onProgressChanged':
+                start=code+16; end=start+u32(code+12)*2
+                matches=[p for p in range(start,end,2) if data[p:p+2] == b'\x12\x40']
+                if len(matches)!=1: raise RuntimeError('Unexpected download-volume sound flag layout')
+                at_flag=matches[0]; data[at_flag+1]=0
+                volume_patched.append({'method':owner+'->'+name,'offset':at_flag,'before':'1240','after':'1200'})
+                continue
             if not name.startswith('getAd_position_'): continue
             if not code or u32(code + 12) != 3:
                 raise RuntimeError('Unexpected ad getter layout: ' + name)
@@ -58,8 +66,9 @@ for i in range(u32(96)):
             patched.append({'method': name, 'code_offset': code, 'original_instructions': original.hex(), 'replacement_instructions': bytes(data[insns:insns+6]).hex()})
 if len(patched) != 25:
     raise RuntimeError(f'Expected 25 ad placement getters, found {len(patched)}')
+if len(volume_patched)!=1:raise RuntimeError('Download-volume sound flag was not patched')
 data[12:32] = hashlib.sha1(data[32:]).digest()
 struct.pack_into('<I', data, 8, zlib.adler32(data[12:]) & 0xffffffff)
 (work / 'patched/classes10.dex').write_bytes(data)
-(root / 'reports/boxoffice-ad-placement-patch.json').write_text(json.dumps({'existing_empty_list_field': empty_list_field, 'patched_getters': patched, 'all_indexes_and_code_sizes_preserved': True, 'sha256': hashlib.sha256(data).hexdigest()}, indent=2))
+(root / 'reports/boxoffice-ad-placement-patch.json').write_text(json.dumps({'existing_empty_list_field': empty_list_field, 'patched_getters': patched, 'silent_volume_patch':volume_patched, 'all_indexes_and_code_sizes_preserved': True, 'sha256': hashlib.sha256(data).hexdigest()}, indent=2))
 print('Disabled', len(patched), 'ad placement getters using the existing Collections.EMPTY_LIST field')

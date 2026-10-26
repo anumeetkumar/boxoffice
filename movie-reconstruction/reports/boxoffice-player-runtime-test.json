@@ -1,0 +1,19 @@
+{
+  "result": "pass",
+  "seeks": [
+    20000,
+    30000,
+    40000,
+    0,
+    90000
+  ],
+  "playChanges": [
+    false,
+    true
+  ],
+  "centerButtons": true,
+  "subscribeCollapsed": true,
+  "singleTapShowHide": true,
+  "volumeFeedback": "patched flags verified statically; audible phone check pending",
+  "portraitCenterRow": true
+}

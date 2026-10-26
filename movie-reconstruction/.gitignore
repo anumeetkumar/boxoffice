@@ -24,4 +24,6 @@ tools/native-tracing/*.class
 tools/native-tracing/*.dex
 boxoffice/apktool/
 boxoffice/smali5/
+boxoffice/smali7/
+boxoffice/smali8/
 boxoffice/patched/

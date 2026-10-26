@@ -1,0 +1,51 @@
+source-app/src/main/java\android\support\v4\media\session\MediaSessionCompat.java:2311:                this.mAudioManager.adjustStreamVolume(this.mLocalStream, i10, i11);
+source-app/src/main/java\android\support\v4\media\session\MediaSessionCompat.java:2637:                this.mAudioManager.setStreamVolume(this.mLocalStream, i10, i11);
+source-app/src/main/java\com\mgs\carparking\widgets\dialog\f.java:113:            f.a(f.this).setStreamVolume(3, (i10 * f.e(f.this)) / 100, 4);
+source-app/src/main/java\androidx\media3\exoplayer\StreamVolumeManager.java:75:        this.audioManager.adjustStreamVolume(this.streamType, -1, i10);
+source-app/src/main/java\androidx\media3\exoplayer\StreamVolumeManager.java:98:        this.audioManager.adjustStreamVolume(this.streamType, 1, i10);
+source-app/src/main/java\androidx\media3\exoplayer\StreamVolumeManager.java:120:            this.audioManager.adjustStreamVolume(this.streamType, z10 ? -100 : 100, i10);
+source-app/src/main/java\androidx\media3\exoplayer\StreamVolumeManager.java:170:            this.audioManager.setStreamVolume(this.streamType, i10, i11);
+source-app/src/main/java\androidx\core\view\GestureDetectorCompat.java:37:    public void setOnDoubleTapListener(@Nullable GestureDetector.OnDoubleTapListener onDoubleTapListener) {
+source-app/src/main/java\androidx\core\view\GestureDetectorCompat.java:38:        this.mDetector.setOnDoubleTapListener(onDoubleTapListener);
+source-app/src/main/java\com\bytedance\sdk\openadsdk\component\reward\vt\vt.java:108:                blyVar.ouw.setStreamVolume(3, iPno, i10);
+source-app/src/main/java\com\inmobi\media\GestureDetectorOnGestureListenerC2785ci.java:772:    public final boolean onDoubleTapEvent(MotionEvent motionEvent) {
+source-app/src/main/java\com\inmobi\media\GestureDetectorOnGestureListenerC2785ci.java:2196:    public final boolean onDoubleTap(MotionEvent motionEvent) {
+source-app/src/main/java\com\inmobi\media\GestureDetectorOnGestureListenerC2785ci.java:2220:            ((C3053n9) interfaceC3028m11).a(str3, "onDoubleTapEvent detected \n " + motionEvent);
+source-app/src/main/java\com\inmobi\media\GestureDetectorOnGestureListenerC2785ci.java:2233:                    ((C3053n9) interfaceC3028m12).a(str4, "Exception in onDoubleTap", e10);
+source-app/src/main/java\com\google\android\material\timepicker\TimePickerView.java:29:    private OnDoubleTapListener onDoubleTapListener;
+source-app/src/main/java\com\google\android\material\timepicker\TimePickerView.java:36:        void onDoubleTap();
+source-app/src/main/java\com\google\android\material\timepicker\TimePickerView.java:84:            public boolean onDoubleTap(MotionEvent motionEvent) {
+source-app/src/main/java\com\google\android\material\timepicker\TimePickerView.java:85:                boolean zOnDoubleTap = super.onDoubleTap(motionEvent);
+source-app/src/main/java\com\google\android\material\timepicker\TimePickerView.java:86:                if (TimePickerView.this.onDoubleTapListener != null) {
+source-app/src/main/java\com\google\android\material\timepicker\TimePickerView.java:87:                    TimePickerView.this.onDoubleTapListener.onDoubleTap();
+source-app/src/main/java\com\google\android\material\timepicker\TimePickerView.java:145:    public void setOnDoubleTapListener(@Nullable OnDoubleTapListener onDoubleTapListener) {
+source-app/src/main/java\com\google\android\material\timepicker\TimePickerView.java:146:        this.onDoubleTapListener = onDoubleTapListener;
+source-app/src/main/java\com\google\android\material\timepicker\MaterialTimePicker.java:307:            public void onDoubleTap() {
+source-app/src/main/java\com\yandex\div\core\view2\DivGestureListener.java:12:    private a<r> onDoubleTapListener;
+source-app/src/main/java\com\yandex\div\core\view2\DivGestureListener.java:16:        return this.onDoubleTapListener;
+source-app/src/main/java\com\yandex\div\core\view2\DivGestureListener.java:24:    public boolean onDoubleTap(MotionEvent motionEvent) {
+source-app/src/main/java\com\yandex\div\core\view2\DivGestureListener.java:25:        a<r> aVar = this.onDoubleTapListener;
+source-app/src/main/java\com\yandex\div\core\view2\DivGestureListener.java:35:        return (this.awaitLongClick || (this.onDoubleTapListener == null && this.onSingleTapListener == null)) ? false : true;
+source-app/src/main/java\com\yandex\div\core\view2\DivGestureListener.java:41:        if (this.onDoubleTapListener == null || (aVar = this.onSingleTapListener) == null) {
+source-app/src/main/java\com\yandex\div\core\view2\DivGestureListener.java:54:        if (this.onDoubleTapListener != null || (aVar = this.onSingleTapListener) == null) {
+source-app/src/main/java\com\yandex\div\core\view2\DivGestureListener.java:65:        this.onDoubleTapListener = aVar;
+source-app/src/main/java\gb\l.java:74:            l.a(l.this).setStreamVolume(3, (i10 * l.b(l.this)) / 100, 4);
+source-app/src/main/java\com\yalantis\ucrop\view\GestureCropImageView.java:27:        public boolean onDoubleTap(MotionEvent motionEvent) {
+source-app/src/main/java\com\yalantis\ucrop\view\GestureCropImageView.java:30:            return super.onDoubleTap(motionEvent);
+source-app/src/main/java\com\luck\picture\lib\photoview\PhotoView.java:105:    public void setOnDoubleTapListener(GestureDetector.OnDoubleTapListener onDoubleTapListener) {
+source-app/src/main/java\com\luck\picture\lib\photoview\PhotoView.java:106:        this.f32328b.U(onDoubleTapListener);
+source-app/src/main/java\m8\k.java:181:        public boolean onDoubleTap(MotionEvent motionEvent) {
+source-app/src/main/java\m8\k.java:202:        public boolean onDoubleTapEvent(MotionEvent motionEvent) {
+source-app/src/main/java\m8\k.java:465:    public void U(GestureDetector.OnDoubleTapListener onDoubleTapListener) {
+source-app/src/main/java\m8\k.java:466:        this.f64272j.setOnDoubleTapListener(onDoubleTapListener);
+source-app/src/main/java\io\bidmachine\media3\exoplayer\StreamVolumeManager.java:77:        this.audioManager.adjustStreamVolume(this.streamType, -1, i10);
+source-app/src/main/java\io\bidmachine\media3\exoplayer\StreamVolumeManager.java:100:        this.audioManager.adjustStreamVolume(this.streamType, 1, i10);
+source-app/src/main/java\io\bidmachine\media3\exoplayer\StreamVolumeManager.java:122:            this.audioManager.adjustStreamVolume(this.streamType, z10 ? -100 : 100, i10);
+source-app/src/main/java\io\bidmachine\media3\exoplayer\StreamVolumeManager.java:172:            this.audioManager.setStreamVolume(this.streamType, i10, i11);
+source-app/src/main/java\t\b.java:98:        public boolean onDoubleTap(MotionEvent motionEvent) {
+source-app/src/main/java\t\b.java:301:        this.f72059h.setStreamVolume(3, i10 / 6, 4);
+source-app/src/main/java\xyz\doikki\videoplayer\controller\GestureVideoController.java:46:    public boolean onDoubleTapEvent(MotionEvent motionEvent) {
+source-app/src/main/java\xyz\doikki\videoplayer\controller\GestureVideoController.java:105:    public boolean onDoubleTap(MotionEvent motionEvent) {
+source-app/src/main/java\xyz\doikki\videoplayer\controller\GestureVideoController.java:163:        this.mAudioManager.setStreamVolume(3, (int) measuredHeight, 0);
+source-app/src/main/java\com\fyber\inneractive\sdk\player\ui\q.java:42:    public final boolean onDoubleTap(MotionEvent motionEvent) {
+source-app/src/main/java\com\fyber\inneractive\sdk\flow\nativead\r.java:52:    public final boolean onDoubleTap(MotionEvent motionEvent) {

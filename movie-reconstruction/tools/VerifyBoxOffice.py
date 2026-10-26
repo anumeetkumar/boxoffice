@@ -1,7 +1,7 @@
 import hashlib, json, pathlib, struct, subprocess, zipfile, zlib
 root=pathlib.Path(__file__).resolve().parent.parent
 apk=root/'boxoffice/build/BoxOffice.apk'
-expected={'classes5.dex','classes10.dex','classes11.dex'}
+expected={'classes5.dex','classes6.dex','classes7.dex','classes8.dex','classes10.dex','classes11.dex'}
 changed=[]; unchanged=[]; native=[]
 with zipfile.ZipFile(root.parent/'Movie.apk') as before,zipfile.ZipFile(apk) as after:
     for entry in before.infolist():
@@ -18,6 +18,7 @@ with zipfile.ZipFile(root.parent/'Movie.apk') as before,zipfile.ZipFile(apk) as 
         if name.startswith('lib/'):native.append({'entry':name,'sha256':hashlib.sha256(updated).hexdigest()})
     if set(changed)!=expected:raise RuntimeError('Unexpected changed DEX set')
     if after.read('classes10.dex')!=(root/'boxoffice/patched/classes10.dex').read_bytes():raise RuntimeError('Ad getter patch differs from audited output')
+    if after.read('classes6.dex')!=(root/'boxoffice/patched/classes6.dex').read_bytes():raise RuntimeError('Center animation patch differs from audited output')
     if after.read('classes11.dex')!=(root/'tools/native-tracing/sdk-dex/classes11.dex').read_bytes():raise RuntimeError('Playback helper DEX changed unexpectedly')
 bt=pathlib.Path(r'C:\Users\AlphaDell-60\AppData\Local\Android\Sdk\build-tools\36.1.0')
 badging=subprocess.check_output([str(bt/'aapt2.exe'),'dump','badging',str(apk)],text=True,encoding='utf-8')
