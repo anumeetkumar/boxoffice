@@ -4,27 +4,27 @@ INFO         | Found systemPath C:\Users\AlphaDell-60\Documents\code\personal\re
 INFO         | Changing default hw.initialOrientation to portrait
 
 INFO         | IPv4 server found: 8.8.8.8
-INFO         | Ignore IPv6 address: 20ff:9345:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 20ff:9345:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 20ff:9345:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: c806:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: c806:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: c806:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: f80e:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: f80e:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: f80e:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 3017:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 3017:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 3017:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 481d:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 481d:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 481d:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 682d:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 682d:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 682d:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 1839:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 1839:9445:b601:0:20ff:9345:b601:0
-INFO         | Ignore IPv6 address: 1839:9445:b601:0:20ff:9345:b601:0
+INFO         | Ignore IPv6 address: 37:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: 37:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: 37:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: a83e:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: a83e:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: a83e:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: 9846:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: 9846:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: 9846:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: 904e:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: 904e:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: 904e:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: a854:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: a854:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: a854:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: c864:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: c864:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: c864:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: 7870:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: 7870:2c4b:9501:0:37:2c4b:9501:0
+INFO         | Ignore IPv6 address: 7870:2c4b:9501:0:37:2c4b:9501:0
 INFO         | Guest GLES Driver: Auto (ext controls)
 INFO         | emuglConfig_init: vulkan_mode_selected:swiftshader gles_mode_selected:swiftshader
 INFO         | Checking system compatibility:
@@ -36,7 +36,7 @@ INFO         |   Checking: hasSufficientHwGpu
 INFO         |      Ok: Hardware GPU compatibility checks are not required
 INFO         |   Checking: hasSufficientDiskSpace
 INFO         |      Ok: Disk space requirements to run avd: `codex_native_debug` are met
-INFO         | Storing crashdata in: C:\Users\ALPHAD~1\AppData\Local\Temp\\AndroidEmulator\emu-crash-36.4.9.db, detection is enabled for process: 31616
+INFO         | Storing crashdata in: C:\Users\ALPHAD~1\AppData\Local\Temp\\AndroidEmulator\emu-crash-36.4.9.db, detection is enabled for process: 38532
 INFO         | Initializing gfxstream backend
 INFO         | android_startOpenglesRenderer: gpu info
 INFO         | GPU #1
@@ -106,76 +106,76 @@ INFO         | Setting display: 0 configuration to: 720x1280, dpi: 320x320
 INFO         | setDisplayActiveConfig 0
 USER_INFO    | Emulator is performing a full startup. This may take upto two minutes, or more.
 INFO         | Activated packet streamer for bluetooth emulation
-INFO         | Boot completed in 68326 ms
+INFO         | Boot completed in 66082 ms
 INFO         | Increasing screen off timeout, logcat buffer size to 2M.
 INFO         | IPv4 server found: 8.8.8.8
-INFO         | Ignore IPv6 address: 60f5:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 60f5:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 60f5:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8fd:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8fd:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8fd:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 3805:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 3805:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 3805:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 700d:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 700d:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 700d:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8813:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8813:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8813:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: a823:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: a823:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: a823:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 582f:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 582f:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 582f:f41b:b601:0:60f5:f31b:b601:0
+INFO         | Ignore IPv6 address: 9000:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 9000:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 9000:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 3808:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 3808:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 3808:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2810:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2810:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2810:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2018:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2018:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2018:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 381e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 381e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 381e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 582e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 582e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 582e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 83a:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 83a:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 83a:b036:9501:0:9000:b036:9501:0
 INFO         | IPv4 server found: 8.8.8.8
-INFO         | Ignore IPv6 address: 60f5:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 60f5:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 60f5:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8fd:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8fd:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8fd:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 3805:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 3805:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 3805:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 700d:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 700d:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 700d:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8813:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8813:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8813:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: a823:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: a823:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: a823:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 582f:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 582f:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 582f:f41b:b601:0:60f5:f31b:b601:0
+INFO         | Ignore IPv6 address: 9000:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 9000:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 9000:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 3808:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 3808:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 3808:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2810:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2810:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2810:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2018:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2018:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2018:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 381e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 381e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 381e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 582e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 582e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 582e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 83a:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 83a:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 83a:b036:9501:0:9000:b036:9501:0
 INFO         | IPv4 server found: 8.8.8.8
-INFO         | Ignore IPv6 address: 60f5:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 60f5:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 60f5:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8fd:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8fd:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8fd:f31b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 3805:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 3805:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 3805:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 700d:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 700d:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 700d:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8813:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8813:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 8813:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: a823:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: a823:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: a823:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 582f:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 582f:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Ignore IPv6 address: 582f:f41b:b601:0:60f5:f31b:b601:0
-INFO         | Wait for emulator (pid 31616) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+INFO         | Ignore IPv6 address: 9000:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 9000:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 9000:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 3808:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 3808:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 3808:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2810:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2810:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2810:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2018:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2018:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 2018:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 381e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 381e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 381e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 582e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 582e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 582e:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 83a:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 83a:b036:9501:0:9000:b036:9501:0
+INFO         | Ignore IPv6 address: 83a:b036:9501:0:9000:b036:9501:0
+INFO         | Wait for emulator (pid 38532) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
 
 WARNING      | Not saving state: RAM not mapped as shared
-INFO         | Saving snapshot 'default_boot' using 8 ms
+INFO         | Saving snapshot 'default_boot' using 10 ms
 WARNING      | Emulator client has not yet been configured.. Call configure me first!

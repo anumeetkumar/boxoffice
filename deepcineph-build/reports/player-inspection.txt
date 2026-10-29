@@ -1,0 +1,232 @@
+CLASS_DEX classes5.dex
+8798156 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->j:Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;
+8798160 IF_EQZ 
+8798164 INVOKE_VIRTUAL Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;->J(Landroid/content/res/Configuration;)V
+8798170 INVOKE_SUPER Landroidx/appcompat/app/AppCompatActivity;->onConfigurationChanged(Landroid/content/res/Configuration;)V
+8798176 INVOKE_STATIC Lchuangyuan/ycj/videolibrary/utils/VideoPlayUtils;->k(Landroid/content/Context;)Z
+8798182 MOVE_RESULT 
+8798184 CONST_STRING wangyi
+8798188 CONST_4 
+8798190 CONST_16 
+8798194 IF_EQZ 
+8798198 CONST_STRING ??
+8798202 INVOKE_STATIC Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
+8798208 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->j:Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;
+8798212 IF_EQZ 
+8798216 INVOKE_VIRTUAL Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;->F()Lchuangyuan/ycj/videolibrary/widget/VideoPlayerView;
+8798222 MOVE_RESULT_OBJECT 
+8798224 IF_EQZ 
+8798228 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->j:Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;
+8798232 INVOKE_VIRTUAL Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;->F()Lchuangyuan/ycj/videolibrary/widget/VideoPlayerView;
+8798238 MOVE_RESULT_OBJECT 
+8798240 INVOKE_VIRTUAL Lchuangyuan/ycj/videolibrary/widget/VideoPlayerView;->getPlaybackControlView()Lcom/google/android/exoplayer/ui/PlayerControlView;
+8798246 MOVE_RESULT_OBJECT 
+8798248 IF_EQZ 
+8798252 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->j:Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;
+8798256 INVOKE_VIRTUAL Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;->F()Lchuangyuan/ycj/videolibrary/widget/VideoPlayerView;
+8798262 MOVE_RESULT_OBJECT 
+8798264 INVOKE_VIRTUAL Lchuangyuan/ycj/videolibrary/widget/VideoPlayerView;->getPlaybackControlView()Lcom/google/android/exoplayer/ui/PlayerControlView;
+8798270 MOVE_RESULT_OBJECT 
+8798272 CONST_4 
+8798274 INVOKE_VIRTUAL Lcom/google/android/exoplayer/ui/PlayerControlView;->setFull(Z)V
+8798280 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->g0:Landroid/widget/RelativeLayout;
+8798284 IF_EQZ 
+8798288 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798294 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->h0:Landroid/widget/RelativeLayout;
+8798298 IF_EQZ 
+8798302 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798308 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->Q:Landroid/widget/ImageView;
+8798312 IF_EQZ 
+8798316 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8798322 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->O:Landroid/widget/ImageView;
+8798326 IF_EQZ 
+8798330 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8798336 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->L:Landroid/widget/LinearLayout;
+8798340 IF_EQZ 
+8798344 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798350 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->M:Landroid/widget/LinearLayout;
+8798354 IF_EQZ 
+8798358 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->k:Lcom/mgs/carparking/netbean/RecommandVideosEntity;
+8798362 INVOKE_VIRTUAL Lcom/mgs/carparking/netbean/RecommandVideosEntity;->getNetCineVarVod_lang()Ljava/lang/String;
+8798368 MOVE_RESULT_OBJECT 
+8798370 CONST_STRING hi
+8798374 INVOKE_STATIC Ljava/util/Objects;->equals(Ljava/lang/Object;Ljava/lang/Object;)Z
+8798380 MOVE_RESULT 
+8798382 IF_EQZ 
+8798386 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->M:Landroid/widget/LinearLayout;
+8798390 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798396 GOTO 
+8798398 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->M:Landroid/widget/LinearLayout;
+8798402 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798408 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->N:Landroid/widget/LinearLayout;
+8798412 IF_EQZ 
+8798416 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798422 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->S:Landroid/widget/ImageView;
+8798426 IF_EQZ 
+8798430 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8798436 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->T:Landroid/widget/ImageView;
+8798440 IF_EQZ 
+8798444 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8798450 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->y:Lcom/mgs/carparking/widgets/BarrageHorizonalDialog;
+8798454 IF_EQZ 
+8798458 INVOKE_VIRTUAL Landroid/app/Dialog;->isShowing()Z
+8798464 MOVE_RESULT 
+8798466 IF_EQZ 
+8798470 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->y:Lcom/mgs/carparking/widgets/BarrageHorizonalDialog;
+8798474 INVOKE_VIRTUAL Landroidx/appcompat/app/AppCompatDialog;->dismiss()V
+8798480 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->k:Lcom/mgs/carparking/netbean/RecommandVideosEntity;
+8798484 IF_EQZ 
+8798488 INVOKE_VIRTUAL Lcom/mgs/carparking/netbean/RecommandVideosEntity;->getNetCineVarType_pid()I
+8798494 MOVE_RESULT 
+8798496 IF_EQZ 
+8798500 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->P:Landroid/widget/ImageView;
+8798504 IF_EQZ 
+8798508 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->b0:Landroid/widget/TextView;
+8798512 IF_EQZ 
+8798516 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8798522 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->b0:Landroid/widget/TextView;
+8798526 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798532 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->V:Landroid/widget/ImageView;
+8798536 IF_EQZ 
+8798540 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8798546 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->T0:Lcom/mgs/carparking/widgets/ClingDeviceDialog;
+8798550 IF_EQZ 
+8798554 INVOKE_VIRTUAL Landroid/app/Dialog;->isShowing()Z
+8798560 MOVE_RESULT 
+8798562 IF_EQZ 
+8798566 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->T0:Lcom/mgs/carparking/widgets/ClingDeviceDialog;
+8798570 INVOKE_VIRTUAL Landroidx/appcompat/app/AppCompatDialog;->dismiss()V
+8798576 GOTO_16 
+8798580 CONST_STRING ??
+8798584 INVOKE_STATIC Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
+8798590 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->j:Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;
+8798594 IF_EQZ 
+8798598 INVOKE_VIRTUAL Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;->F()Lchuangyuan/ycj/videolibrary/widget/VideoPlayerView;
+8798604 MOVE_RESULT_OBJECT 
+8798606 IF_EQZ 
+8798610 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->j:Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;
+8798614 INVOKE_VIRTUAL Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;->F()Lchuangyuan/ycj/videolibrary/widget/VideoPlayerView;
+8798620 MOVE_RESULT_OBJECT 
+8798622 INVOKE_VIRTUAL Lchuangyuan/ycj/videolibrary/widget/VideoPlayerView;->getPlaybackControlView()Lcom/google/android/exoplayer/ui/PlayerControlView;
+8798628 MOVE_RESULT_OBJECT 
+8798630 IF_EQZ 
+8798634 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->j:Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;
+8798638 INVOKE_VIRTUAL Lchuangyuan/ycj/videolibrary/video/ExoUserPlayer;->F()Lchuangyuan/ycj/videolibrary/widget/VideoPlayerView;
+8798644 MOVE_RESULT_OBJECT 
+8798646 INVOKE_VIRTUAL Lchuangyuan/ycj/videolibrary/widget/VideoPlayerView;->getPlaybackControlView()Lcom/google/android/exoplayer/ui/PlayerControlView;
+8798652 MOVE_RESULT_OBJECT 
+8798654 INVOKE_VIRTUAL Lcom/google/android/exoplayer/ui/PlayerControlView;->setFull(Z)V
+8798660 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->g0:Landroid/widget/RelativeLayout;
+8798664 IF_EQZ 
+8798668 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798674 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->h0:Landroid/widget/RelativeLayout;
+8798678 IF_EQZ 
+8798682 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798688 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->Q:Landroid/widget/ImageView;
+8798692 IF_EQZ 
+8798696 CONST_4 
+8798698 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8798704 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->O:Landroid/widget/ImageView;
+8798708 IF_EQZ 
+8798712 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8798718 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->P:Landroid/widget/ImageView;
+8798722 IF_EQZ 
+8798726 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8798732 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->L:Landroid/widget/LinearLayout;
+8798736 IF_EQZ 
+8798740 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->b0:Landroid/widget/TextView;
+8798744 IF_EQZ 
+8798748 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->M:Landroid/widget/LinearLayout;
+8798752 IF_EQZ 
+8798756 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->N:Landroid/widget/LinearLayout;
+8798760 IF_EQZ 
+8798764 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->S:Landroid/widget/ImageView;
+8798768 IF_EQZ 
+8798772 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798778 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->b0:Landroid/widget/TextView;
+8798782 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798788 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->M:Landroid/widget/LinearLayout;
+8798792 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798798 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->N:Landroid/widget/LinearLayout;
+8798802 INVOKE_VIRTUAL Landroid/view/View;->setVisibility(I)V
+8798808 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->S:Landroid/widget/ImageView;
+8798812 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8798818 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->S:Landroid/widget/ImageView;
+8798822 IF_EQZ 
+8798826 INVOKE_VIRTUAL Landroid/view/View;->getTag()Ljava/lang/Object;
+8798832 MOVE_RESULT_OBJECT 
+8798834 CONST_STRING select
+8798838 INVOKE_VIRTUAL Ljava/lang/Object;->equals(Ljava/lang/Object;)Z
+8798844 MOVE_RESULT 
+8798846 IF_EQZ 
+8798850 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->T:Landroid/widget/ImageView;
+8798854 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8798860 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->w:Lcom/mgs/carparking/widgets/BarrageDialog;
+8798864 IF_EQZ 
+8798868 INVOKE_VIRTUAL Landroid/app/Dialog;->isShowing()Z
+8798874 MOVE_RESULT 
+8798876 IF_EQZ 
+8798880 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->w:Lcom/mgs/carparking/widgets/BarrageDialog;
+8798884 INVOKE_VIRTUAL Landroidx/appcompat/app/AppCompatDialog;->dismiss()V
+8798890 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->p:Lcom/mgs/carparking/widgets/VideoDetailSetSpeedPop;
+8798894 IF_EQZ 
+8798898 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->isShowing()Z
+8798904 MOVE_RESULT 
+8798906 IF_EQZ 
+8798910 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->p:Lcom/mgs/carparking/widgets/VideoDetailSetSpeedPop;
+8798914 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->dismiss()V
+8798920 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->r:Lcom/mgs/carparking/widgets/VideoDetailSetMorePop;
+8798924 IF_EQZ 
+8798928 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->isShowing()Z
+8798934 MOVE_RESULT 
+8798936 IF_EQZ 
+8798940 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->r:Lcom/mgs/carparking/widgets/VideoDetailSetMorePop;
+8798944 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->dismiss()V
+8798950 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->r:Lcom/mgs/carparking/widgets/VideoDetailSetMorePop;
+8798954 IGET_OBJECT Lcom/mgs/carparking/widgets/VideoDetailSetMorePop;->v:Lcom/mgs/carparking/widgets/VideoDetailSkipHeadAndEndPop;
+8798958 IF_EQZ 
+8798962 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->isShowing()Z
+8798968 MOVE_RESULT 
+8798970 IF_EQZ 
+8798974 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->r:Lcom/mgs/carparking/widgets/VideoDetailSetMorePop;
+8798978 IGET_OBJECT Lcom/mgs/carparking/widgets/VideoDetailSetMorePop;->v:Lcom/mgs/carparking/widgets/VideoDetailSkipHeadAndEndPop;
+8798982 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->dismiss()V
+8798988 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->s:Lcom/mgs/carparking/widgets/VideoDetailLandFeedbackPop;
+8798992 IF_EQZ 
+8798996 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->isShowing()Z
+8799002 MOVE_RESULT 
+8799004 IF_EQZ 
+8799008 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->s:Lcom/mgs/carparking/widgets/VideoDetailLandFeedbackPop;
+8799012 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->dismiss()V
+8799018 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->u:Lcom/mgs/carparking/widgets/VideoDetailLandTvAndComicSetNumPop;
+8799022 IF_EQZ 
+8799026 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->isShowing()Z
+8799032 MOVE_RESULT 
+8799034 IF_EQZ 
+8799038 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->u:Lcom/mgs/carparking/widgets/VideoDetailLandTvAndComicSetNumPop;
+8799042 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->dismiss()V
+8799048 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->q:Lcom/mgs/carparking/widgets/DetailSetAudioPop;
+8799052 IF_EQZ 
+8799056 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->isShowing()Z
+8799062 MOVE_RESULT 
+8799064 IF_EQZ 
+8799068 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->q:Lcom/mgs/carparking/widgets/DetailSetAudioPop;
+8799072 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->dismiss()V
+8799078 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->v:Lcom/mgs/carparking/widgets/VideoDetailLandVarietySetNumPop;
+8799082 IF_EQZ 
+8799086 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->isShowing()Z
+8799092 MOVE_RESULT 
+8799094 IF_EQZ 
+8799098 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->v:Lcom/mgs/carparking/widgets/VideoDetailLandVarietySetNumPop;
+8799102 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->dismiss()V
+8799108 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->U0:Lcom/mgs/carparking/widgets/ClingDeviceHorizalPop;
+8799112 IF_EQZ 
+8799116 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->isShowing()Z
+8799122 MOVE_RESULT 
+8799124 IF_EQZ 
+8799128 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->U0:Lcom/mgs/carparking/widgets/ClingDeviceHorizalPop;
+8799132 INVOKE_VIRTUAL Landroid/widget/PopupWindow;->dismiss()V
+8799138 IGET_OBJECT Lcom/mgs/carparking/ui/VideoPlayDetailActivity;->V:Landroid/widget/ImageView;
+8799142 IF_EQZ 
+8799146 INVOKE_VIRTUAL Landroid/widget/ImageView;->setVisibility(I)V
+8799152 RETURN_VOID 

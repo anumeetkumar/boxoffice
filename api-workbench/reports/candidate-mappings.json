@@ -1,0 +1,776 @@
+[
+  {
+    "title": "Street Fighter",
+    "year": "2026",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 1564580325,
+      "title": "Street Fighter",
+      "year": "2026",
+      "kind": 1,
+      "catalog_audio_label": "English",
+      "evidence_case": "search-street-fighter-repeat"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 549547103,
+        "title": "Street Fighter",
+        "year": "2026",
+        "kind": 1,
+        "catalog_audio_label": "",
+        "evidence_case": "search-street-fighter-repeat"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Street Fighter",
+    "year": "1994",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 524385281,
+      "title": "Street Fighter",
+      "year": "1994",
+      "kind": 1,
+      "catalog_audio_label": "English",
+      "evidence_case": "search-street-fighter-repeat"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 1791142994,
+        "title": "Street Fighter",
+        "year": "1994",
+        "kind": 1,
+        "catalog_audio_label": "",
+        "evidence_case": "search-street-fighter-repeat"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Street Fighter: The Legend of Chun-Li",
+    "year": "2009",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 312623922,
+      "title": "Street Fighter: The Legend of Chun-Li",
+      "year": "2009",
+      "kind": 1,
+      "catalog_audio_label": "English",
+      "evidence_case": "search-street-fighter-repeat"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 266167282,
+        "title": "Street Fighter: The Legend of Chun-Li",
+        "year": "2009",
+        "kind": 1,
+        "catalog_audio_label": "",
+        "evidence_case": "search-street-fighter-repeat"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Street Woman Fighter - Season 1",
+    "year": "2021",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 360326478,
+      "title": "Street Woman Fighter - Season 1",
+      "year": "2021",
+      "kind": 2,
+      "catalog_audio_label": "Korean",
+      "evidence_case": "search-street-fighter-repeat"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 1284745121,
+        "title": "Street Woman Fighter - Season 1",
+        "year": "2021",
+        "kind": 2,
+        "catalog_audio_label": "",
+        "evidence_case": "search-street-fighter-repeat"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "The Paradise",
+    "year": "2026",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 2077341734,
+      "title": "The Paradise",
+      "year": "2026",
+      "kind": 1,
+      "catalog_audio_label": "Multilingual",
+      "evidence_case": "search-paradise"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 2084552761,
+        "title": "The Paradise",
+        "year": "2026",
+        "kind": 1,
+        "catalog_audio_label": "",
+        "evidence_case": "search-paradise"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "The Paradise Motel",
+    "year": "2022",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 897230128,
+      "title": "The Paradise Motel",
+      "year": "2022",
+      "kind": 1,
+      "catalog_audio_label": "English",
+      "evidence_case": "search-paradise"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 394380225,
+        "title": "The Paradise Motel",
+        "year": "2022",
+        "kind": 1,
+        "catalog_audio_label": "",
+        "evidence_case": "search-paradise"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "The Paradise of Thorns",
+    "year": "2024",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 313491828,
+      "title": "The Paradise of Thorns",
+      "year": "2024",
+      "kind": 1,
+      "catalog_audio_label": "English",
+      "evidence_case": "search-paradise"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 721492029,
+        "title": "The Paradise of Thorns",
+        "year": "2024",
+        "kind": 1,
+        "catalog_audio_label": "",
+        "evidence_case": "search-paradise"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Pandora: Beneath the Paradise - Season 1",
+    "year": "2023",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 826128899,
+      "title": "Pandora: Beneath the Paradise - Season 1",
+      "year": "2023",
+      "kind": 2,
+      "catalog_audio_label": "Korean",
+      "evidence_case": "search-paradise"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 1652355444,
+        "title": "Pandora: Beneath the Paradise - Season 1",
+        "year": "2023",
+        "kind": 2,
+        "catalog_audio_label": "",
+        "evidence_case": "search-paradise"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 20",
+    "year": "2026",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 74339693,
+      "title": "Bigg Boss - Season 20",
+      "year": "2026",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 74339693,
+        "title": "Bigg Boss - Season 20",
+        "year": "2026",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 13",
+    "year": "2019",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 1729691657,
+      "title": "Bigg Boss - Season 13",
+      "year": "2019",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 1729691657,
+        "title": "Bigg Boss - Season 13",
+        "year": "2019",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 16",
+    "year": "2022",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 888672396,
+      "title": "Bigg Boss - Season 16",
+      "year": "2022",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 888672396,
+        "title": "Bigg Boss - Season 16",
+        "year": "2022",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "BIGG BOSS Tamil - Season 10",
+    "year": "2026",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 1326549141,
+      "title": "BIGG BOSS Tamil - Season 10",
+      "year": "2026",
+      "kind": 2,
+      "catalog_audio_label": "Tamil",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 1326549141,
+        "title": "BIGG BOSS Tamil - Season 10",
+        "year": "2026",
+        "kind": 2,
+        "catalog_audio_label": "Tamil",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 17",
+    "year": "2023",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 2074112987,
+      "title": "Bigg Boss - Season 17",
+      "year": "2023",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 2074112987,
+        "title": "Bigg Boss - Season 17",
+        "year": "2023",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss Telugu - Season 10",
+    "year": "2026",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 874408442,
+      "title": "Bigg Boss Telugu - Season 10",
+      "year": "2026",
+      "kind": 2,
+      "catalog_audio_label": "Undetermined",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 874408442,
+        "title": "Bigg Boss Telugu - Season 10",
+        "year": "2026",
+        "kind": 2,
+        "catalog_audio_label": "Undetermined",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 14",
+    "year": "2020",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 88769205,
+      "title": "Bigg Boss - Season 14",
+      "year": "2020",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 88769205,
+        "title": "Bigg Boss - Season 14",
+        "year": "2020",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 19",
+    "year": "2025",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 1242596687,
+      "title": "Bigg Boss - Season 19",
+      "year": "2025",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 1242596687,
+        "title": "Bigg Boss - Season 19",
+        "year": "2025",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 18",
+    "year": "2024",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 1017666505,
+      "title": "Bigg Boss - Season 18",
+      "year": "2024",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 1017666505,
+        "title": "Bigg Boss - Season 18",
+        "year": "2024",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss OTT - Season 2",
+    "year": "2023",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 547556426,
+      "title": "Bigg Boss OTT - Season 2",
+      "year": "2023",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 547556426,
+        "title": "Bigg Boss OTT - Season 2",
+        "year": "2023",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 15",
+    "year": "2021",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 266463728,
+      "title": "Bigg Boss - Season 15",
+      "year": "2021",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 266463728,
+        "title": "Bigg Boss - Season 15",
+        "year": "2021",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 8",
+    "year": "2014",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 1137256091,
+      "title": "Bigg Boss - Season 8",
+      "year": "2014",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 1137256091,
+        "title": "Bigg Boss - Season 8",
+        "year": "2014",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 10",
+    "year": "2016",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 2006384865,
+      "title": "Bigg Boss - Season 10",
+      "year": "2016",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 2006384865,
+        "title": "Bigg Boss - Season 10",
+        "year": "2016",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 4",
+    "year": "2010",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 901428330,
+      "title": "Bigg Boss - Season 4",
+      "year": "2010",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 901428330,
+        "title": "Bigg Boss - Season 4",
+        "year": "2010",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 7",
+    "year": "2013",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 1032268572,
+      "title": "Bigg Boss - Season 7",
+      "year": "2013",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 1032268572,
+        "title": "Bigg Boss - Season 7",
+        "year": "2013",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss OTT - Season 3",
+    "year": "2024",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 1393603569,
+      "title": "Bigg Boss OTT - Season 3",
+      "year": "2024",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 1086548402,
+        "title": "Bigg Boss OTT - Season 3",
+        "year": "2024",
+        "kind": 2,
+        "catalog_audio_label": "",
+        "evidence_case": "search-bigg-boss"
+      },
+      {
+        "provider": "deepcine",
+        "provider_id": 1393603569,
+        "title": "Bigg Boss OTT - Season 3",
+        "year": "2024",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 9",
+    "year": "2015",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 513499509,
+      "title": "Bigg Boss - Season 9",
+      "year": "2015",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 513499509,
+        "title": "Bigg Boss - Season 9",
+        "year": "2015",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss Marathi - Season 5",
+    "year": "2024",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 933212919,
+      "title": "Bigg Boss Marathi - Season 5",
+      "year": "2024",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 206614805,
+        "title": "Bigg Boss Marathi - Season 5",
+        "year": "2024",
+        "kind": 2,
+        "catalog_audio_label": "",
+        "evidence_case": "search-bigg-boss"
+      },
+      {
+        "provider": "deepcine",
+        "provider_id": 933212919,
+        "title": "Bigg Boss Marathi - Season 5",
+        "year": "2024",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss - Season 6",
+    "year": "2012",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 812156793,
+      "title": "Bigg Boss - Season 6",
+      "year": "2012",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 812156793,
+        "title": "Bigg Boss - Season 6",
+        "year": "2012",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  },
+  {
+    "title": "Bigg Boss OTT - Season 1",
+    "year": "2021",
+    "movie": {
+      "provider": "movie",
+      "provider_id": 1035505932,
+      "title": "Bigg Boss OTT - Season 1",
+      "year": "2021",
+      "kind": 2,
+      "catalog_audio_label": "Hindi",
+      "evidence_case": "search-bigg-boss-hindi-interface"
+    },
+    "deepcine_candidates": [
+      {
+        "provider": "deepcine",
+        "provider_id": 1035505932,
+        "title": "Bigg Boss OTT - Season 1",
+        "year": "2021",
+        "kind": 2,
+        "catalog_audio_label": "Hindi",
+        "evidence_case": "search-bigg-boss-hindi-interface"
+      }
+    ],
+    "confidence": "title/year/kind candidate only; confirm actual content before automatic fallback",
+    "ids_interchangeable": false,
+    "audio_availability_interchangeable": false
+  }
+]

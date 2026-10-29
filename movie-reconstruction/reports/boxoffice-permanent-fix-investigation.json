@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-26",
+  "fixed": false,
+  "original_movie_apk_verified": true,
+  "phone_fresh_boxoffice_test": {
+    "uninstall_and_data_loss_explicitly_approved": true,
+    "replacement_notice_persists": true,
+    "api_host_and_fallback_match_original": true,
+    "api_configuration": {
+      "CACHE_DOMAIN_LIST": "[{\"api\":\"https://moviein.ajfysu.com/\",\"is_open\":1}]",
+      "KEY_PREF_APP_LANGUAGE": "en",
+      "KEY_PREF_BASE_URL40000": "https://moviein.ajfysu.com/"
+    }
+  },
+  "emulator_boxoffice_observation": {
+    "normal_detail_responses": 10,
+    "rebuilt_certificate_reports": 1,
+    "all_detail_titles": [
+      "The Paradise",
+      "The Paradise",
+      "The Paradise",
+      "The Paradise",
+      "The Paradise",
+      "The Paradise",
+      "The Paradise",
+      "The Paradise",
+      "The Paradise",
+      "The Paradise"
+    ]
+  },
+  "correction": "Certificate reporting alone is not established as cause; a rebuilt-certificate request returned genuine The Paradise metadata in the emulator.",
+  "remaining_unknowns": [
+    "server decision for phone account/device identity",
+    "differences in native verification results across phone and emulator"
+  ],
+  "required_for_verified_permanent_fix": "Backend request/decision logs or provider-authorized client configuration. No supported local player/configuration regression found.",
+  "phone_final_variant": "Normal non-debuggable BoxOffice restored successfully; package flags verified",
+  "diagnostic_variant": "temporary debuggable build; no tokens or IDs printed or stored in diagnostics"
+}

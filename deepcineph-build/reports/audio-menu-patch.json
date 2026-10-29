@@ -1,0 +1,11 @@
+{
+  "baseline_sha256": "6c3c451e07a91c39c14d7412db777954b5432d7f7a68f5c4ce68a75da2ba03cf",
+  "changed_dex": "classes5.dex",
+  "method": "com.mgs.carparking.ui.VideoPlayDetailActivity.onConfigurationChanged",
+  "offset": 8798382,
+  "before": "38040800",
+  "after": "00000000",
+  "change": "Remove only the conditional branch hiding the fullscreen audio/subtitle control for non-Hindi metadata",
+  "request_and_backend_changes": false,
+  "hindi_label_faked": false
+}

@@ -1,0 +1,6 @@
+{
+  "cause": "English-default preference read ran before VCUtils context initialization",
+  "fix": "Replace device-locale default in the existing first-run branch after VCUtils.e(context); preserve saved-language branch",
+  "context_before_default_verified": true,
+  "extra_early_preference_reads": false
+}

@@ -1,4 +1,133 @@
+# ==========================================
+# Smali, Bytecode & Decompiled Outputs
+# ==========================================
+*.smali
+**/smali/
+**/smali*/
+**/smali_classes*/
+**/apktool/
+**/apktool-smali/
+**/jadx-export/
+**/raw-apk/
+**/sdk-dex/
+**/source-app/src/main/java/
 
-smali7/
-smali5/
-smali8/
+# ==========================================
+# Build & Intermediate Output Directories
+# ==========================================
+**/build/
+**/output/
+**/working/
+**/ready/
+**/diagnostic/
+**/diagnostic-patched/
+**/patched/
+**/phone-capture/
+**/endpoint-variant/
+**/request-flow-audit/
+**/framework/
+**/temp/
+
+# Reconstruction specific output trees & huge dumps
+deepcineph-build/working/
+deepcineph-build/ready/
+deepcineph-build/output/
+deepcineph-build/diagnostic/
+deepcineph-reconstruction/jadx-export/
+deepcineph-reconstruction/apktool/
+deepcineph-reconstruction/raw-apk/
+deepcineph-reconstruction/temp/
+deepcineph-reconstruction/framework/
+deepcineph-reconstruction/source-index.json
+deepcineph-reconstruction/native-inventory.json
+deepcineph-reconstruction/raw-file-map.json
+
+# ==========================================
+# Binary Packages, Keystores & Archives
+# ==========================================
+*.apk
+*.apks
+*.aab
+*.xapk
+*.idsig
+*.dex
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+!**/gradle/wrapper/gradle-wrapper.jar
+*.zip
+*.tar*
+*.gz
+*.7z
+*.rar
+backups/
+**/backups/
+debug.keystore
+**/debug.keystore
+
+# ==========================================
+# Android & Java Build Tooling
+# ==========================================
+.gradle/
+**/.gradle/
+.gradle-user-home/
+**/.gradle-user-home/
+.android/
+**/.android/
+.java-tmp/
+**/.java-tmp/
+local.properties
+**/local.properties
+.cxx/
+**/captures/
+
+# ==========================================
+# Native Tracing & Dynamic Instrumentation
+# ==========================================
+**/tools/native-tracing/image/
+**/tools/native-tracing/avd/
+**/tools/native-tracing/node_modules/
+**/tools/native-tracing/frida-server
+**/tools/native-tracing/frida-gadget*
+**/tools/native-tracing/*.bundle.js
+**/tools/native-tracing/*.private
+**/tools/native-tracing/*.partial
+**/tools/native-tracing/*.xz
+
+# ==========================================
+# Node.js, Python & Package Managers
+# ==========================================
+node_modules/
+**/node_modules/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+**/venv/
+**/env/
+.turbo/
+**/.turbo/
+.cache/
+**/.cache/
+
+# ==========================================
+# Logs & Temporary Files
+# ==========================================
+*.log
+**/*.log
+*.tmp
+**/*.tmp
+
+# ==========================================
+# IDE & Operating System Files
+# ==========================================
+.idea/
+**/.idea/
+.vscode/
+**/.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db

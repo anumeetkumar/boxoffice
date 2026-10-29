@@ -31,4 +31,12 @@ The previous ad-free APK was installed on the user's SM-G998B using `adb install
 
 `tools/TestPlayerControls.mjs` with `native-tracing/test-player-controls.js` is an emulator-only harness using an in-memory Java proxy player. It exercises the compiled APK's touch handler and actual play/pause button listeners without media/network dependency. Results are in `reports/boxoffice-player-runtime-test.json`; this does not substitute for a physical-phone streaming and audible-volume check.
 
+## Request-flow equivalence audit
+
+`tools/AuditRequestFlow.java` compares canonical disassembly from both compiled APKs, without debug information or DEX-index artifacts. All 156 selected request/playback flow classes match, including the API interface, interceptors, device-ID helper, certificate helper, native SDK Java interface, video detail activity and its callbacks, playback view model, and network wrappers. The native libraries also remain byte-identical. `BuildBoxOffice.ps1` runs the audit and verification fails if any selected class differs.
+
+The three native SDK initialization call sites retain the previously verified local-signer configuration instead of the original-signer configuration. These intentionally changed initialization call sites are outside the 156 matching classes.
+
+This confirms that request fields and generation algorithms were retained; it does not claim identical dynamic values. Installed certificate, device identity, session token, timestamp and native verification output can differ. BoxOffice's replacement notice on the phone remains unresolved. The emulator returned correct Paradise metadata even for a request that reported the rebuilt certificate, so certificate reporting alone is not established as the cause. A fresh phone install and API-host comparison did not resolve the notice. See `reports/boxoffice-permanent-fix-investigation.json` and `reports/request-flow-audit/comparison.tsv`.
+
 See `reports/boxoffice-status.json`, `reports/boxoffice-verification.json`, `reports/boxoffice-ad-placement-patch.json`, `reports/boxoffice-preparation.json` and the saved app UI/log captures.

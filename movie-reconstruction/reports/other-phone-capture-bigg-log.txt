@@ -1,0 +1,1570 @@
+--------- beginning of main
+10-26 16:13:23.495 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.495 28567 28757 D skia    : SkJpegCodec::onGetPixels + (592, 841)
+10-26 16:13:23.495 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-26 16:13:23.496 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-26 16:13:23.497 28567 28567 I VRI[SplashActivity]@e76852f: stopped(true) old = false
+10-26 16:13:23.497 28567 28567 D VRI[SplashActivity]@e76852f: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.login.splash.SplashActivity set to true
+10-26 16:13:23.497 28567 28757 D skia    : SkJpegCodec::onGetPixels -
+10-26 16:13:23.506 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.507 28567 28567 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda16@c87c1ed
+10-26 16:13:23.507 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.511 28567 28649 I BLASTBufferQueue: [VRI[SplashActivity]@e76852f#0](f:0,a:1,s:0) destructor()
+10-26 16:13:23.511 28567 28649 D BufferQueueConsumer: [VRI[SplashActivity]@e76852f#0(BLAST Consumer)0](id:6f9700000000,api:0,p:-1,c:28567) disconnect
+10-26 16:13:23.512 28567 28567 D ViewRootImpl: Skipping stats log for color mode
+10-26 16:13:23.512 28567 28567 I VRI[SplashActivity]@e76852f: dispatchDetachedFromWindow
+10-26 16:13:23.517 28567 28567 D InputTransport: Input channel destroyed: 'bbfe37 ', fd=167
+10-26 16:13:23.533 28567 28589 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 16:13:23.540 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.541 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.551 28567 28567 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[MainActivity]@a33ee22 mNativeObject= 0xb400007928f5fcd0 sc.mNativeObject= 0xb400007a98f19850 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3574 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:13:23.551 28567 28567 I VRI[MainActivity]@a33ee22: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=true req=(1080,2400)0 dur=0 res=0x0 s={true 0xb400007a38f75a00} ch=false seqId=0
+10-26 16:13:23.552 28567 28567 I VRI[MainActivity]@a33ee22: registerCallbackForPendingTransactions
+10-26 16:13:23.558 28567 28567 D VRI[MainActivity]@a33ee22: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a38f75a00}
+10-26 16:13:23.560 28567 28567 D InputMethodManagerUtils: startInputInner - Id : 0
+10-26 16:13:23.560 28567 28567 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-26 16:13:23.563 28567 28579 D InputTransport: Input channel constructed: 'ClientS', fd=165
+10-26 16:13:23.565 28567 28567 I InputMethodManager: handleMessage: setImeVisibility visible=false
+10-26 16:13:23.565 28567 28567 D InsetsController: hide(ime(), fromIme=false)
+10-26 16:13:23.565 28567 28567 I ImeTracker: com.fvvcl.flickverse:6db323d5: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-26 16:13:23.566 28567 28687 I VRI[MainActivity]@a33ee22: mWNT: t=0xb400007988f896d0 mBlastBufferQueue=0xb400007928f5fcd0 fn= 5 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:6536 android.view.ViewRootImpl$4.onFrameDraw:2489 android.view.ThreadedRenderer$1.onFrameDraw:718 
+10-26 16:13:23.579 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.580 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.644 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.647 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.736 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.737 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.780 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.781 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.782 28567 28757 D skia    : SkJpegCodec::onGetPixels + (1920, 1080)
+10-26 16:13:23.782 28567 28757 I DMABUFHEAPS: Using DMA-BUF heap named: mtk_mm
+10-26 16:13:23.782 28567 28757 D skia    : stream getLength() not supported, use temp buffer for loading stream, buffer addr 0x76d3954000 length 534370
+10-26 16:13:23.782 28567 28757 D skia    : LoadInputStreamToMem va 0x76d3954000  size 536576
+10-26 16:13:23.784 28567 28757 D libjpeg-alpha: Huffman Builder run in subthread
+10-26 16:13:23.785 28567 28757 D libjpeg-alpha: Tile Decoder (#thread:4, size:512 512 512 384x272, alignment:256x16)
+10-26 16:13:23.817 28567 28757 D skia    : SkJpegCodec::onGetPixels -
+10-26 16:13:23.832 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.833 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:13:23.844 28567 28589 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 16:13:24.368 28567 28676 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:13:27.805 28567 28829 D ProfileInstaller: Installing profile for com.fvvcl.flickverse
+10-26 16:13:32.379 28567 28575 W vvcl.flickverse: Cleared Reference was only reachable from finalizer (only reported once)
+10-26 16:13:32.411 28567 28576 D InputTransport: Input channel destroyed: 'ClientS', fd=165
+10-26 16:13:39.247 28567 28841 W vvcl.flickverse: Openjdkjvmti plugin was loaded on a non-debuggable Runtime. Plugin was loaded too late to change runtime state to support all capabilities. Only kArtTiVersion (0x70010200) environments are available. Some functionality might not work properly.
+10-26 16:13:45.341 28567 28567 I VRI[MainActivity]@a33ee22: ViewPostIme pointer 0
+10-26 16:13:45.349 28567 28567 I VRI[MainActivity]@a33ee22: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a33ee22
+10-26 16:13:45.396 28567 28567 I VRI[MainActivity]@a33ee22: ViewPostIme pointer 1
+10-26 16:13:48.399 28567 28567 I VRI[MainActivity]@a33ee22: call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@a33ee22
+10-26 16:14:03.359 28567 28582 W vvcl.flickverse: Checksum mismatch for dex base.apk!classes5.dex
+10-26 16:14:03.360 28567 28582 W vvcl.flickverse: Could not add methods to the existing profiler. Clearing the profile data.
+10-26 16:14:08.126 28567 28567 I VRI[MainActivity]@a33ee22: ViewPostIme pointer 0
+10-26 16:14:08.129 28567 28567 I VRI[MainActivity]@a33ee22: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a33ee22
+10-26 16:14:08.158 28567 28567 I VRI[MainActivity]@a33ee22: ViewPostIme pointer 1
+10-26 16:14:11.160 28567 28567 I VRI[MainActivity]@a33ee22: call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@a33ee22
+10-26 16:14:16.734 28567 28567 I VRI[MainActivity]@a33ee22: ViewPostIme pointer 0
+10-26 16:14:16.744 28567 28567 I VRI[MainActivity]@a33ee22: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a33ee22
+10-26 16:14:16.747 28567 28567 I VRI[MainActivity]@a33ee22: ViewPostIme pointer 1
+10-26 16:14:16.836 28567 28677 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+--------- beginning of system
+10-26 16:14:16.851 28567 28567 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-26 16:14:16.891 28567 28567 I DecorView: setWindowBackground: isPopOver=false color=fffafafa d=android.graphics.drawable.ColorDrawable@ebca941
+10-26 16:14:16.897 28567 28567 I vvcl.flickverse: hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app) using reflection: allowed
+10-26 16:14:16.944 28567 28567 D RenderMeasure: videoWidth = 480 videoHeight = 270
+10-26 16:14:16.945 28567 28567 D SurfaceView: 30032028 setFixedSize -1x-1 -> 480x270
+10-26 16:14:16.971 28567 28567 E vvcl.flickverse: hiddenapi: Accessing hidden method Lcom/android/internal/R$dimen;-><init>()V (runtime_flags=0, domain=platform, api=max-target-q) from Lsa/m0; (domain=app) using reflection: denied
+10-26 16:14:16.972 28567 28567 W System.err: java.lang.InstantiationException: java.lang.Class<com.android.internal.R$dimen> has no zero argument constructor
+10-26 16:14:16.972 28567 28567 W System.err: 	at java.lang.Class.newInstance(Native Method)
+10-26 16:14:16.972 28567 28567 W System.err: 	at sa.m0.e(UIUtils.java:5)
+10-26 16:14:16.972 28567 28567 W System.err: 	at sa.m0.d(UIUtils.java:8)
+10-26 16:14:16.972 28567 28567 W System.err: 	at sa.m0.<init>(UIUtils.java:38)
+10-26 16:14:16.973 28567 28567 W System.err: 	at sa.m0.c(UIUtils.java:7)
+10-26 16:14:16.973 28567 28567 W System.err: 	at com.mgs.carparking.widgets.BatteryView.<init>(BatteryView.java:14)
+10-26 16:14:16.973 28567 28567 W System.err: 	at java.lang.reflect.Constructor.newInstance0(Native Method)
+10-26 16:14:16.973 28567 28567 W System.err: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+10-26 16:14:16.973 28567 28567 W System.err: 	at android.view.LayoutInflater.createView(LayoutInflater.java:759)
+10-26 16:14:16.973 28567 28567 W System.err: 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:911)
+10-26 16:14:16.974 28567 28567 W System.err: 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:866)
+10-26 16:14:16.974 28567 28567 W System.err: 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:1028)
+10-26 16:14:16.974 28567 28567 W System.err: 	at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:989)
+10-26 16:14:16.974 28567 28567 W System.err: 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:1031)
+10-26 16:14:16.974 28567 28567 W System.err: 	at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:989)
+10-26 16:14:16.975 28567 28567 W System.err: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:577)
+10-26 16:14:16.975 28567 28567 W System.err: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:468)
+10-26 16:14:16.975 28567 28567 W System.err: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:419)
+10-26 16:14:16.975 28567 28567 W System.err: 	at com.google.android.exoplayer2.ui.PlayerControlView.<init>(PlayerControlView.java:40)
+10-26 16:14:16.975 28567 28567 W System.err: 	at com.google.android.exoplayer2.ui.PlayerView.<init>(PlayerView.java:61)
+10-26 16:14:16.975 28567 28567 W System.err: 	at com.google.android.exoplayer2.ui.ExoPlayerView.<init>(ExoPlayerView.java:2)
+10-26 16:14:16.976 28567 28567 W System.err: 	at chuangyuan.ycj.videolibrary.widget.BaseView.<init>(BaseView.java:11)
+10-26 16:14:16.976 28567 28567 W System.err: 	at chuangyuan.ycj.videolibrary.widget.VideoPlayerView.<init>(VideoPlayerView.java:2)
+10-26 16:14:16.976 28567 28567 W System.err: 	at chuangyuan.ycj.videolibrary.widget.VideoPlayerView.<init>(VideoPlayerView.java:1)
+10-26 16:14:16.976 28567 28567 W System.err: 	at java.lang.reflect.Constructor.newInstance0(Native Method)
+10-26 16:14:16.976 28567 28567 W System.err: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+10-26 16:14:16.976 28567 28567 W System.err: 	at android.view.LayoutInflater.createView(LayoutInflater.java:759)
+10-26 16:14:16.977 28567 28567 W System.err: 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:911)
+10-26 16:14:16.977 28567 28567 W System.err: 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:866)
+10-26 16:14:16.977 28567 28567 W System.err: 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:1028)
+10-26 16:14:16.977 28567 28567 W System.err: 	at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:989)
+10-26 16:14:16.977 28567 28567 W System.err: 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:1031)
+10-26 16:14:16.977 28567 28567 W System.err: 	at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:989)
+10-26 16:14:16.978 28567 28567 W System.err: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:577)
+10-26 16:14:16.978 28567 28567 W System.err: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:468)
+10-26 16:14:16.978 28567 28567 W System.err: 	at android.view.LayoutInflater.inflate(LayoutInflater.java:419)
+10-26 16:14:16.978 28567 28567 W System.err: 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(AppCompatDelegateImpl.java:9)
+10-26 16:14:16.978 28567 28567 W System.err: 	at androidx.appcompat.app.AppCompatActivity.setContentView(AppCompatActivity.java:2)
+10-26 16:14:16.978 28567 28567 W System.err: 	at androidx.databinding.DataBindingUtil.setContentView(DataBindingUtil.java:2)
+10-26 16:14:16.979 28567 28567 W System.err: 	at androidx.databinding.DataBindingUtil.setContentView(DataBindingUtil.java:1)
+10-26 16:14:16.979 28567 28567 W System.err: 	at com.mgs.carparking.app.BaseActivity.l(BaseActivity.java:5)
+10-26 16:14:16.979 28567 28567 W System.err: 	at com.mgs.carparking.app.BaseActivity.onCreate(BaseActivity.java:55)
+10-26 16:14:16.979 28567 28567 W System.err: 	at com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity.onCreate(VideoPlayDetailActivity.java:1)
+10-26 16:14:16.979 28567 28567 W System.err: 	at android.app.Activity.performCreate(Activity.java:9519)
+10-26 16:14:16.980 28567 28567 W System.err: 	at android.app.Activity.performCreate(Activity.java:9488)
+10-26 16:14:16.980 28567 28567 W System.err: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1524)
+10-26 16:14:16.980 28567 28567 W System.err: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4692)
+10-26 16:14:16.980 28567 28567 W System.err: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:4941)
+10-26 16:14:16.980 28567 28567 W System.err: 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:222)
+10-26 16:14:16.980 28567 28567 W System.err: 	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:133)
+10-26 16:14:16.981 28567 28567 W System.err: 	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:103)
+10-26 16:14:16.981 28567 28567 W System.err: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+10-26 16:14:16.981 28567 28567 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:3150)
+10-26 16:14:16.981 28567 28567 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:110)
+10-26 16:14:16.981 28567 28567 W System.err: 	at android.os.Looper.loopOnce(Looper.java:273)
+10-26 16:14:16.981 28567 28567 W System.err: 	at android.os.Looper.loop(Looper.java:363)
+10-26 16:14:16.982 28567 28567 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:10060)
+10-26 16:14:16.982 28567 28567 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 16:14:16.982 28567 28567 W System.err: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:632)
+10-26 16:14:16.982 28567 28567 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:975)
+10-26 16:14:16.983 28567 28567 I lum     : mMainRect: RectF(3.0, 3.0, 65.0, 33.0)
+10-26 16:14:16.983 28567 28567 I lum     : mHeadRect: RectF(68.0, 13.0, 73.0, 23.0)
+10-26 16:14:17.216 28567 28567 D getUiMode: 1
+10-26 16:14:17.683 28567 28567 D ScrollView: initGoToTop
+10-26 16:14:17.808 28567 28567 I CircularImageView: Bitmap drawable!
+10-26 16:14:17.876 28567 28567 I CircularImageView: Bitmap drawable!
+10-26 16:14:17.903 28567 28567 I vvcl.flickverse: hiddenapi: Accessing hidden method Landroid/media/AudioTrack;->getLatency()I (runtime_flags=0, domain=platform, api=unsupported) from Lcom/google/android/exoplayer2/audio/b; (domain=app) using reflection: allowed
+10-26 16:14:17.908 28567 28567 I ExoPlayerImpl: Init 95529c0 [ExoPlayerLib/2.11.7] [m53x, SM-M536B, samsung, 36]
+10-26 16:14:17.949 28567 28567 D BaseViewModel.java: [ (BaseViewModel.java:3)#OnCreate ] onCreate
+10-26 16:14:17.977 28567 28567 I aaaaaaaaaaa: onResume---------false
+10-26 16:14:17.977 28567 28567 W AudioManager: Use of stream types is deprecated for operations other than volume control
+10-26 16:14:17.978 28567 28567 W AudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+10-26 16:14:17.979 28567 28567 D AudioSystem: onNewService: media.audio_policy service obtained 0xb400007958f97160
+10-26 16:14:17.980 28567 28567 D AudioSystem: getService: checking for service media.audio_policy: 0xb400007958f97160
+10-26 16:14:18.002 28567 28567 I ViewRootImpl: dVRR is disabled
+10-26 16:14:18.005 28567 28649 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-26 16:14:18.010 28567 28567 D InputTransport: Input channel constructed: '24ff3ca', fd=259
+10-26 16:14:18.016 28567 28567 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3026, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 90 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(506, 0 - 574, 90), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0,0 H -12.08888888888889 V 32 H 12.08888888888889 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=101, center=Point(101, 101)}, RoundedCorner{position=TopRight, radius=101, center=Point(979, 101)}, RoundedCorner{position=BottomRight, radius=101, center=Point(979, 2299)}, RoundedCorner{position=BottomLeft, radius=101, center=Point(101, 2299)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(956, 0 - 1080, 90) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2400 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {a4750001 mType=navigationBars mFrame=[0,2358][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {a4750004 mType=systemGestures mFrame=[0,0][84,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {a4750005 mType=mandatorySystemGestures mFrame=[0,2310][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {a4750006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {a4750024 mType=systemGestures mFrame=[996,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0000 mType=statusBars mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0005 mType=mandatorySystemGestures mFrame=[0,0][1080,124] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0006 mType=tappableElement mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-26 16:14:18.016 28567 28635 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:14:18.018 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: synced displayState. AttachInfo displayState=2
+10-26 16:14:18.019 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: setView = com.android.internal.policy.DecorView@8dd75ae IsHRR=false mFlingFrameRateChange=0 TM=true
+10-26 16:14:18.080 28567 28567 D RenderSurfaceView: onSurfaceViewAttachedToWindow
+10-26 16:14:18.081 28567 28567 I SV[55465999 VideoPlayDetailActivity]: onWindowVisibilityChanged(0) true com.google.android.exoplayer2.render.RenderSurfaceView{34e580f V.E...... ......I. 0,0-0,0} of VRI[VideoPlayDetailActivity]@18d36f3
+10-26 16:14:18.081 28567 28567 D SurfaceView: 55465999 updateSurface: has no frame
+10-26 16:14:18.082 28567 28567 E t.a     : onScrubMove0
+10-26 16:14:18.385 28567 28567 D BufferQueueConsumer: [](id:6f9700000002,api:0,p:-1,c:28567) connect: controlledByApp=false
+10-26 16:14:18.385 28567 28567 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@18d36f3#2](f:0,a:0,s:0) constructor()
+10-26 16:14:18.386 28567 28567 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[VideoPlayDetailActivity]@18d36f3 mNativeObject= 0xb400007928f64510 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3585 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 android.view.Choreographer.doCallbacks:1367 android.view.Choreographer.doFrame:1292 android.view.Choreographer$FrameDisplayEventReceiver.run:1870 
+10-26 16:14:18.387 28567 28567 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@18d36f3 mNativeObject= 0xb400007928f64510 sc.mNativeObject= 0xb400007a98f28250 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3590 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:14:18.387 28567 28567 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@18d36f3#2](f:0,a:0,s:0) update width=1080 height=2400 format=-3 mTransformHint=0
+10-26 16:14:18.388 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=13 res=0x3 s={true 0xb400007a39098850} ch=true seqId=0
+10-26 16:14:18.388 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: performConfigurationChange setNightDimText nightDimLevel=0
+10-26 16:14:18.391 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a39098850} hwInitialized=true
+10-26 16:14:18.519 28567 28567 D SurfaceView: 55465999 updateSurface: has no frame
+10-26 16:14:18.526 28567 28567 D ScrollView:  onsize change changed 
+10-26 16:14:18.530 28567 28567 I SV[55465999 VideoPlayDetailActivity]: windowStopped(false) true com.google.android.exoplayer2.render.RenderSurfaceView{34e580f V.E...... ......ID 1,0-1078,606} of VRI[VideoPlayDetailActivity]@18d36f3
+10-26 16:14:18.530 28567 28567 D SurfaceView: 55465999 updateSurface: has no frame
+10-26 16:14:18.531 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: reportNextDraw android.view.ViewRootImpl.performTraversals:5443 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 
+10-26 16:14:18.532 28567 28567 I SurfaceView: 55465999 Changes: creating=true format=true size=true visible=true alpha=false hint=false left=true top=true z=false attached=true lifecycleStrategy=false
+10-26 16:14:18.535 28567 28567 D BufferQueueConsumer: [](id:6f9700000003,api:0,p:-1,c:28567) connect: controlledByApp=false
+10-26 16:14:18.535 28567 28567 I BLASTBufferQueue: [34e580f SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#3](f:0,a:0,s:0) constructor()
+10-26 16:14:18.536 28567 28567 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= 34e580f SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0 mNativeObject= 0xb400007928f70bc0 caller= android.view.SurfaceView.createBlastSurfaceControls:1781 android.view.SurfaceView.updateSurface:1450 android.view.SurfaceView.lambda$new$0:280 android.view.SurfaceView.$r8$lambda$NfZyM_TG8F8lqzaOVZ7noREFjzU:0 android.view.SurfaceView$$ExternalSyntheticLambda1.onPreDraw:0 android.view.ViewTreeObserver.dispatchOnPreDraw:1229 android.view.ViewRootImpl.performTraversals:5448 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:14:18.537 28567 28567 I BLASTBufferQueue_Java: update, w= 480 h= 270 mName = 34e580f SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0 mNativeObject= 0xb400007928f70bc0 sc.mNativeObject= 0xb400007a98f289d0 format= 4 caller= android.view.SurfaceView.createBlastSurfaceControls:1782 android.view.SurfaceView.updateSurface:1450 android.view.SurfaceView.lambda$new$0:280 android.view.SurfaceView.$r8$lambda$NfZyM_TG8F8lqzaOVZ7noREFjzU:0 android.view.SurfaceView$$ExternalSyntheticLambda1.onPreDraw:0 android.view.ViewTreeObserver.dispatchOnPreDraw:1229 
+10-26 16:14:18.537 28567 28567 I BLASTBufferQueue: [34e580f SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#3](f:0,a:0,s:0) update width=480 height=270 format=4 mTransformHint=0
+10-26 16:14:18.537 28567 28567 I SurfaceView: 55465999 Cur surface: Surface(name=null mNativeObject=0)/@0x1b51d35
+10-26 16:14:18.537 28567 28567 I SV[55465999 VideoPlayDetailActivity]: pST: sr = Rect(1, 90 - 1078, 696) sw = 480 sh = 270
+10-26 16:14:18.538 28567 28567 D SurfaceView: 55465999 performSurfaceTransaction RenderWorker position = [1, 90, 1078, 696] surfaceSize = 480x270
+10-26 16:14:18.538 28567 28567 I SV[55465999 VideoPlayDetailActivity]: updateSurface: mVisible = true mSurface.isValid() = true
+10-26 16:14:18.538 28567 28567 I SV[55465999 VideoPlayDetailActivity]: updateSurface: mSurfaceCreated = false surfaceChanged = true visibleChanged = true
+10-26 16:14:18.538 28567 28567 I SurfaceView: 55465999 visibleChanged -- surfaceCreated
+10-26 16:14:18.539 28567 28567 I SV[55465999 VideoPlayDetailActivity]: surfaceCreated 1 #8 com.google.android.exoplayer2.render.RenderSurfaceView{34e580f V.E...... ......ID 1,0-1078,606}
+10-26 16:14:18.539 28567 28567 D RenderSurfaceView: <---surfaceCreated---->
+10-26 16:14:18.539 28567 28567 D com.google.android.exoplayer2.ui.ExoPlayerView: onSurfaceCreated : width = 0, height = 0
+10-26 16:14:18.540 28567 28567 I SurfaceView: 55465999 surfaceChanged -- format=4 w=480 h=270
+10-26 16:14:18.540 28567 28567 I SV[55465999 VideoPlayDetailActivity]: surfaceChanged (480,270) 2 #8 com.google.android.exoplayer2.render.RenderSurfaceView{34e580f V.E...... ......ID 1,0-1078,606}
+10-26 16:14:18.540 28567 28567 D RenderSurfaceView: surfaceChanged : width = 480 height = 270
+10-26 16:14:18.540 28567 28567 I SurfaceView: 55465999 surfaceRedrawNeeded
+10-26 16:14:18.542 28567 28567 I SurfaceView: 55465999 finishedDrawing
+10-26 16:14:18.542 28567 28567 V SurfaceView: Layout: x=1 y=90 w=1077 h=606, frame=Rect(0, 0 - 480, 270)
+10-26 16:14:18.542 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: Setup new sync=wmsSync-VRI[VideoPlayDetailActivity]@18d36f3#7
+10-26 16:14:18.543 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: Creating new active sync group VRI[VideoPlayDetailActivity]@18d36f3#8
+10-26 16:14:18.544 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: registerCallbacksForSync syncBuffer=false
+10-26 16:14:18.561 28567 28649 D SurfaceView: 55465999 updateSurfacePosition RenderWorker, frameNr = 1, position = [1, 90, 1078, 696] surfaceSize = 480x270
+10-26 16:14:18.561 28567 28649 I SV[55465999 VideoPlayDetailActivity]: uSP: rtp = Rect(1, 90 - 1078, 696) rtsw = 480 rtsh = 270
+10-26 16:14:18.561 28567 28649 I SV[55465999 VideoPlayDetailActivity]: onSSPAndSRT: pl = 1 pt = 90 sx = 2.24375 sy = 2.2444444
+10-26 16:14:18.563 28567 28649 I SV[55465999 VideoPlayDetailActivity]: aOrMT: VRI[VideoPlayDetailActivity]@18d36f3 t = android.view.SurfaceControl$Transaction@b5e7496 fN = 1 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1932 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:401 
+10-26 16:14:18.564 28567 28649 I VRI[VideoPlayDetailActivity]@18d36f3: mWNT: t=0xb400007988fbb150 mBlastBufferQueue=0xb400007928f64510 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.SurfaceView.applyOrMergeTransaction:1863 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1932 
+10-26 16:14:18.566 28567 28686 D VRI[VideoPlayDetailActivity]@18d36f3: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-26 16:14:18.566 28567 28686 I VRI[VideoPlayDetailActivity]@18d36f3: mWNT: t=0xb400007988fc2bd0 mBlastBufferQueue=0xb400007928f64510 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15441 android.view.ThreadedRenderer$1.onFrameDraw:718 <bottom of call stack> 
+10-26 16:14:18.566 28567 28686 I VRI[VideoPlayDetailActivity]@18d36f3: Setting up sync and frameCommitCallback
+10-26 16:14:18.573 28567 28649 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@18d36f3#2](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-26 16:14:18.573 28567 28649 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@18d36f3#2](f:0,a:1,s:0) acquireNextBufferLocked size=1080x2400 mFrameNumber=1 applyTransaction=true mTimestamp=451917198507781(auto) mPendingTransactions.size=0 graphicBufferId=122694330744844 transform=0
+10-26 16:14:18.573 28567 28649 I VRI[VideoPlayDetailActivity]@18d36f3: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-26 16:14:18.574 28567 28649 D HWUI    : CFMS:: SetUp Pid : 28567    Tid : 28649
+10-26 16:14:18.575 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: reportDrawFinished seqId=0
+10-26 16:14:18.581 28567 28651 I HWUI    : Davey! duration=748ms; Flags=1, FrameTimelineVsyncId=163809525, IntendedVsync=451916451288089, Vsync=451916651653793, InputEventId=0, HandleInputStart=451916657982243, AnimationStart=451916657992089, PerformTraversalsStart=451916658603166, DrawStart=451917169965320, FrameDeadline=451916467954756, FrameStartTime=451916657622628, FrameInterval=16697142, WorkloadTarget=16666667, SyncQueued=451917184930628, SyncStart=451917184983474, IssueDrawCommandsStart=451917190706858, SwapBuffers=451917198490320, FrameCompleted=451917199863474, DequeueBufferDuration=1811154, QueueBufferDuration=437539, GpuCompleted=451917199863474, SwapBuffersCompleted=451917199172166, DisplayPresentTime=0, CommandSubmissionCompleted=451917198490320, 
+10-26 16:14:18.622 28567 28649 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+10-26 16:14:18.622 28567 28567 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-26 16:14:18.632 28567 28567 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-26 16:14:18.633 28567 28567 I Choreographer: Skipped 35 frames!  The application may be doing too much work on its main thread.
+10-26 16:14:18.635 28567 28651 I HWUI    : Davey! duration=795ms; Flags=1, FrameTimelineVsyncId=163809525, IntendedVsync=451916451288089, Vsync=451916651653793, InputEventId=0, HandleInputStart=451916657982243, AnimationStart=451916657992089, PerformTraversalsStart=451916658603166, DrawStart=451917240589397, FrameDeadline=451916467954756, FrameStartTime=451916657622628, FrameInterval=16697142, WorkloadTarget=16666667, SyncQueued=451917243142012, SyncStart=451917243242320, IssueDrawCommandsStart=451917243447781, SwapBuffers=451917246214858, FrameCompleted=451917247266935, DequeueBufferDuration=21308, QueueBufferDuration=475616, GpuCompleted=451917247266935, SwapBuffersCompleted=451917247018628, DisplayPresentTime=451900973619857, CommandSubmissionCompleted=451917246214858, 
+10-26 16:14:18.656 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-26 16:14:18.658 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-26 16:14:18.668 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a39098850}
+10-26 16:14:18.679 28567 28567 D InputMethodManagerUtils: startInputInner - Id : 0
+10-26 16:14:18.679 28567 28567 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-26 16:14:18.685 28567 28567 I InputMethodManager: handleMessage: setImeVisibility visible=false
+10-26 16:14:18.685 28567 28651 D InputTransport: Input channel constructed: 'ClientS', fd=278
+10-26 16:14:18.685 28567 28567 D InsetsController: hide(ime(), fromIme=false)
+10-26 16:14:18.685 28567 28567 I ImeTracker: com.fvvcl.flickverse:24962e7f: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-26 16:14:18.782 28567 28691 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:14:18.819 28567 28678 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:14:18.837 28567 28567 D getUiMode: 1
+10-26 16:14:18.845 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:18.850 28567 28676 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:14:18.859 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:18.867 28567 28567 D t.a     : onPlayerStateChanged:2+playWhenReady:true
+10-26 16:14:18.907 28567 28635 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:14:18.954 28567 28567 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@18d36f3 mNativeObject= 0xb400007928f64510 sc.mNativeObject= 0xb400007a98f28250 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3574 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:14:18.954 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=true req=(1080,2400)0 dur=0 res=0x0 s={true 0xb400007a39098850} ch=false seqId=0
+10-26 16:14:18.955 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: updateBoundsLayer: t=android.view.SurfaceControl$Transaction@be6de48 sc=Surface(name=Bounds for - com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@0)/@0xcb6c4e1 frame=10
+10-26 16:14:18.973 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: registerCallbackForPendingTransactions
+10-26 16:14:18.980 28567 28687 I VRI[VideoPlayDetailActivity]@18d36f3: mWNT: t=0xb400007988f5dc90 mBlastBufferQueue=0xb400007928f64510 fn= 10 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:6536 android.view.ViewRootImpl$4.onFrameDraw:2489 android.view.ThreadedRenderer$1.onFrameDraw:718 
+10-26 16:14:18.982 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:19.000 28567 28567 E Toast   : setGravity() shouldn't be called on text toasts, the values won't be used
+10-26 16:14:19.000 28567 28567 I Toast   : setView: it's a custom toast
+10-26 16:14:19.010 28567 28567 I Toast   : show: caller = s.d.a:48 
+10-26 16:14:19.011 28567 28567 I Toast   : show: contextDispId = 0 mCustomDisplayId = -1 focusedDisplayId = 0 isActivityContext = false
+10-26 16:14:19.039 28567 28567 V ToastPresenter: yOffset = 0
+10-26 16:14:19.041 28567 28567 I WindowManager: WindowManagerGlobal#addView, ty=2005, view=android.widget.LinearLayout{e65a3d5 V.E...... ......I. 0,0-0,0}, caller=android.view.WindowManagerImpl.addView:158 android.widget.ToastPresenter.addToastView:424 android.widget.ToastPresenter.show:325 
+10-26 16:14:19.044 28567 28567 I ViewRootImpl: dVRR is disabled
+10-26 16:14:19.045 28567 28649 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-26 16:14:19.052 28567 28567 D InputTransport: Input channel constructed: 'bb8d3f7', fd=277
+10-26 16:14:19.058 28567 28567 I InsetsController: onStateChanged: host=Toast, from=android.view.ViewRootImpl.onInsetsStateChanged:3026, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 90 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(506, 0 - 574, 90), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0,0 H -12.08888888888889 V 32 H 12.08888888888889 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=101, center=Point(101, 101)}, RoundedCorner{position=TopRight, radius=101, center=Point(979, 101)}, RoundedCorner{position=BottomRight, radius=101, center=Point(979, 2299)}, RoundedCorner{position=BottomLeft, radius=101, center=Point(101, 2299)}]}  mRoundedCornerFrame=Rect(0, 0 - 0, 0), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(956, 0 - 1080, 90) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2400 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {a4750001 mType=navigationBars mFrame=[0,2358][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {a4750004 mType=systemGestures mFrame=[0,0][84,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {a4750005 mType=mandatorySystemGestures mFrame=[0,2310][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {a4750006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {a4750024 mType=systemGestures mFrame=[996,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0000 mType=statusBars mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0005 mType=mandatorySystemGestures mFrame=[0,0][1080,124] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0006 mType=tappableElement mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-26 16:14:19.060 28567 28567 I VRI[Toast]@4efd7ea: synced displayState. AttachInfo displayState=2
+10-26 16:14:19.060 28567 28567 I VRI[Toast]@4efd7ea: setView = android.widget.LinearLayout@e65a3d5 IsHRR=false mFlingFrameRateChange=0 TM=true
+10-26 16:14:19.093 28567 28567 D BufferQueueConsumer: [](id:6f9700000004,api:0,p:-1,c:28567) connect: controlledByApp=false
+10-26 16:14:19.094 28567 28567 I BLASTBufferQueue: [VRI[Toast]@4efd7ea#4](f:0,a:0,s:0) constructor()
+10-26 16:14:19.095 28567 28567 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[Toast]@4efd7ea mNativeObject= 0xb400007928f32a50 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3585 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 android.view.Choreographer.doCallbacks:1367 android.view.Choreographer.doFrame:1292 android.view.Choreographer$FrameDisplayEventReceiver.run:1870 
+10-26 16:14:19.096 28567 28567 I BLASTBufferQueue_Java: update, w= 337 h= 83 mName = VRI[Toast]@4efd7ea mNativeObject= 0xb400007928f32a50 sc.mNativeObject= 0xb400007a98f26bd0 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3590 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:14:19.096 28567 28567 I BLASTBufferQueue: [VRI[Toast]@4efd7ea#4](f:0,a:0,s:0) update width=337 height=83 format=-3 mTransformHint=0
+10-26 16:14:19.098 28567 28567 I VRI[Toast]@4efd7ea: Relayout returned: old=(0,90,1080,2358) new=(371,1182,708,1265) relayoutAsync=false req=(337,83)0 dur=16 res=0x3 s={true 0xb400007a390b5160} ch=true seqId=0
+10-26 16:14:19.100 28567 28567 I VRI[Toast]@4efd7ea: performConfigurationChange setNightDimText nightDimLevel=0
+10-26 16:14:19.103 28567 28567 D VRI[Toast]@4efd7ea: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a390b5160} hwInitialized=true
+10-26 16:14:19.106 28567 28567 D VRI[Toast]@4efd7ea: reportNextDraw android.view.ViewRootImpl.performTraversals:5443 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 
+10-26 16:14:19.106 28567 28567 D VRI[Toast]@4efd7ea: Setup new sync=wmsSync-VRI[Toast]@4efd7ea#9
+10-26 16:14:19.106 28567 28567 I VRI[Toast]@4efd7ea: Creating new active sync group VRI[Toast]@4efd7ea#10
+10-26 16:14:19.108 28567 28567 D VRI[Toast]@4efd7ea: registerCallbacksForSync syncBuffer=false
+10-26 16:14:19.110 28567 28686 D VRI[Toast]@4efd7ea: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-26 16:14:19.112 28567 28686 I VRI[Toast]@4efd7ea: mWNT: t=0xb400007988fd3cd0 mBlastBufferQueue=0xb400007928f32a50 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15441 android.view.ThreadedRenderer$1.onFrameDraw:718 <bottom of call stack> 
+10-26 16:14:19.112 28567 28686 I VRI[Toast]@4efd7ea: Setting up sync and frameCommitCallback
+10-26 16:14:19.118 28567 28649 I BLASTBufferQueue: [VRI[Toast]@4efd7ea#4](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-26 16:14:19.119 28567 28649 I BLASTBufferQueue: [VRI[Toast]@4efd7ea#4](f:0,a:1,s:0) acquireNextBufferLocked size=337x83 mFrameNumber=1 applyTransaction=true mTimestamp=451917743883474(auto) mPendingTransactions.size=0 graphicBufferId=122694330744852 transform=0
+10-26 16:14:19.120 28567 28649 I VRI[Toast]@4efd7ea: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-26 16:14:19.122 28567 28649 D HWUI    : CFMS:: SetUp Pid : 28567    Tid : 28649
+10-26 16:14:19.123 28567 28567 D VRI[Toast]@4efd7ea: reportDrawFinished seqId=0
+10-26 16:14:19.132 28567 28649 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+10-26 16:14:19.143 28567 28567 I VRI[MainActivity]@a33ee22: handleAppVisibility mAppVisible = true visible = false
+10-26 16:14:19.143 28567 28567 D VRI[MainActivity]@a33ee22: visibilityChanged oldVisibility=true newVisibility=false
+10-26 16:14:19.155 28567 28567 I VRI[MainActivity]@a33ee22: stopped(true) old = false
+10-26 16:14:19.155 28567 28567 D VRI[MainActivity]@a33ee22: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to true
+10-26 16:14:19.201 28567 28575 I vvcl.flickverse: Background concurrent mark compact GC freed 6197KB AllocSpace bytes, 9(420KB) LOS objects, 49% free, 23MB/46MB, paused 6.495ms,1.235ms total 88.986ms
+10-26 16:14:19.226 28567 28576 D InputTransport: Input channel destroyed: 'ClientS', fd=278
+10-26 16:14:19.238 28567 28649 I BLASTBufferQueue: [VRI[MainActivity]@a33ee22#1](f:0,a:3,s:0) destructor()
+10-26 16:14:19.238 28567 28649 D BufferQueueConsumer: [VRI[MainActivity]@a33ee22#1(BLAST Consumer)1](id:6f9700000001,api:0,p:-1,c:28567) disconnect
+10-26 16:14:19.253 28567 28567 I VRI[MainActivity]@a33ee22: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=10 res=0x2 s={false 0x0} ch=false seqId=0
+10-26 16:14:19.253 28567 28567 D VRI[MainActivity]@a33ee22: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+10-26 16:14:19.356 28567 28567 W System.err: java.lang.RuntimeException: Footer:com.scwang.smart.refresh.footer.BallPulseFooter{2395fdd V.E...... ........ 0,1662-1080,1831} NoMoreData is not supported.(不支持NoMoreData，请使用[ClassicsFooter]或者[自定义Footer并实现setNoMoreData方法且返回true])
+10-26 16:14:19.356 28567 28567 W System.err: 	at com.scwang.smart.refresh.layout.SmartRefreshLayout.J(SmartRefreshLayout.java:129)
+10-26 16:14:19.357 28567 28567 W System.err: 	at com.scwang.smart.refresh.layout.SmartRefreshLayout$h.run(SmartRefreshLayout.java:118)
+10-26 16:14:19.357 28567 28567 W System.err: 	at com.scwang.smart.refresh.layout.SmartRefreshLayout.p(SmartRefreshLayout.java:21)
+10-26 16:14:19.357 28567 28567 W System.err: 	at com.scwang.smart.refresh.layout.SmartRefreshLayout.r(SmartRefreshLayout.java:25)
+10-26 16:14:19.358 28567 28567 W System.err: 	at com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity.V1(VideoPlayDetailActivity.java:7)
+10-26 16:14:19.358 28567 28567 W System.err: 	at com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity.h0(Unknown Source:0)
+10-26 16:14:19.358 28567 28567 W System.err: 	at fa.m0.onChanged(Unknown Source:4)
+10-26 16:14:19.360 28567 28567 W System.err: 	at me.goldze.mvvmhabit.base.bus.event.SingleLiveEvent$a.onChanged(SingleLiveEvent.java:17)
+10-26 16:14:19.360 28567 28567 W System.err: 	at androidx.lifecycle.LiveData.considerNotify(LiveData.java:30)
+10-26 16:14:19.360 28567 28567 W System.err: 	at androidx.lifecycle.LiveData.dispatchingValue(LiveData.java:45)
+10-26 16:14:19.361 28567 28567 W System.err: 	at androidx.lifecycle.LiveData.setValue(LiveData.java:16)
+10-26 16:14:19.361 28567 28567 W System.err: 	at androidx.lifecycle.MutableLiveData.setValue(MutableLiveData.java:1)
+10-26 16:14:19.362 28567 28567 W System.err: 	at me.goldze.mvvmhabit.base.bus.event.SingleLiveEvent.setValue(SingleLiveEvent.java:7)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer: Player is accessed on the wrong thread. See https://exoplayer.dev/issues/player-accessed-on-wrong-thread
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:   java.lang.IllegalStateException
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:       at k3.u0.f0(SimpleExoPlayer.java:19)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:       at k3.u0.getPlaybackState(SimpleExoPlayer.java:1)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:       at t.a.H(ExoUserPlayer.java:7)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:       at com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity$j.d(VideoPlayDetailActivity.java:24)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:       at jl.c$a.run(DrawHandler.java:28)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:       at jl.c$c.b(DrawHandler.java:8)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:       at jl.a$b$f.handleMessage(CacheManagingDrawTask.java:358)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:       at android.os.Handler.dispatchMessage(Handler.java:110)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:       at android.os.Looper.loopOnce(Looper.java:273)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:       at android.os.Looper.loop(Looper.java:363)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer:       at android.os.HandlerThread.run(HandlerThread.java:85)
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer: Player is accessed on the wrong thread. See https://exoplayer.dev/issues/player-accessed-on-wrong-thread
+10-26 16:14:19.365 28567 28898 W SimpleExoPlayer: Player is accessed on the wrong thread. See https://exoplayer.dev/issues/player-accessed-on-wrong-thread
+10-26 16:14:19.366 28567 28567 W System.err: 	at me.goldze.mvvmhabit.base.bus.event.SingleLiveEvent.call(SingleLiveEvent.java:2)
+10-26 16:14:19.366 28567 28567 W System.err: 	at com.mgs.carparking.model.VIDEOPLAYDETAILVIEWMODEL$l.a(VIDEOPLAYDETAILVIEWMODEL.java:164)
+10-26 16:14:19.366 28567 28567 W System.err: 	at com.mgs.carparking.model.VIDEOPLAYDETAILVIEWMODEL$l.onSuccess(VIDEOPLAYDETAILVIEWMODEL.java:3)
+10-26 16:14:19.367 28567 28567 W System.err: 	at io.reactivex.internal.operators.single.SingleResumeNext$ResumeMainSingleObserver.onSuccess(SingleResumeNext.java:3)
+10-26 16:14:19.367 28567 28567 W System.err: 	at io.reactivex.internal.operators.single.SingleObserveOn$ObserveOnSingleObserver.run(SingleObserveOn.java:15)
+10-26 16:14:19.367 28567 28567 W System.err: 	at li.b$b.run(HandlerScheduler.java:3)
+10-26 16:14:19.368 28567 28567 W System.err: 	at android.os.Handler.handleCallback(Handler.java:995)
+10-26 16:14:19.368 28567 28567 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:103)
+10-26 16:14:19.368 28567 28567 W System.err: 	at android.os.Looper.loopOnce(Looper.java:273)
+10-26 16:14:19.368 28567 28567 W System.err: 	at android.os.Looper.loop(Looper.java:363)
+10-26 16:14:19.369 28567 28567 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:10060)
+10-26 16:14:19.369 28567 28567 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 16:14:19.369 28567 28567 W System.err: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:632)
+10-26 16:14:19.370 28567 28567 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:975)
+10-26 16:14:19.523 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:14:19.526 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:14:19.526 28567 28757 D skia    : SkJpegCodec::onGetPixels + (592, 841)
+10-26 16:14:19.535 28567 28757 D skia    : SkJpegCodec::onGetPixels -
+10-26 16:14:19.552 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:14:19.555 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:14:19.555 28567 28757 D skia    : SkJpegCodec::onGetPixels + (592, 841)
+10-26 16:14:19.561 28567 28757 D skia    : SkJpegCodec::onGetPixels -
+10-26 16:14:19.608 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:14:19.610 28567 28757 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:14:19.611 28567 28757 D skia    : SkJpegCodec::onGetPixels + (592, 841)
+10-26 16:14:19.618 28567 28757 D skia    : SkJpegCodec::onGetPixels -
+10-26 16:14:19.890 28567 28906 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:14:19.893 28567 28906 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:14:19.893 28567 28906 D skia    : SkJpegCodec::onGetPixels + (592, 841)
+10-26 16:14:19.905 28567 28906 D skia    : SkJpegCodec::onGetPixels -
+10-26 16:14:19.989 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:21.004 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:21.028 28567 28567 I WindowManager: WindowManagerGlobal#removeView, ty=2005, view=android.widget.LinearLayout{e65a3d5 V.E...... ........ 0,0-337,83}, caller=android.view.WindowManagerGlobal.removeView:654 android.view.WindowManagerImpl.removeViewImmediate:216 android.widget.ToastPresenter.hide:348 
+10-26 16:14:21.029 28567 28567 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda16@469a851
+10-26 16:14:21.033 28567 28567 I VRI[Toast]@4efd7ea: dispatchDetachedFromWindow
+10-26 16:14:21.034 28567 28567 I BLASTBufferQueue: [VRI[Toast]@4efd7ea#4](f:0,a:1,s:0) destructor()
+10-26 16:14:21.034 28567 28567 D BufferQueueConsumer: [VRI[Toast]@4efd7ea#4(BLAST Consumer)4](id:6f9700000004,api:0,p:-1,c:28567) disconnect
+10-26 16:14:21.043 28567 28567 D InputTransport: Input channel destroyed: 'bb8d3f7', fd=277
+10-26 16:14:22.023 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:23.042 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:24.062 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:25.077 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:26.093 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:27.111 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:28.134 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:29.157 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:30.176 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:31.194 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:32.214 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:33.233 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:34.252 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:35.274 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:36.302 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:37.320 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:38.337 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:39.359 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:40.387 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:41.404 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:42.420 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:43.107 28567 28575 W vvcl.flickverse: Suspending all threads took: 10.669ms
+10-26 16:14:43.151 28567 28575 I vvcl.flickverse: Background concurrent mark compact GC freed 408KB AllocSpace bytes, 7(45MB) LOS objects, 19% free, 96MB/120MB, paused 11.483ms,4.324ms total 102.115ms
+10-26 16:14:43.323 28567 28575 I vvcl.flickverse: Background concurrent mark compact GC freed 156KB AllocSpace bytes, 4(80MB) LOS objects, 31% free, 51MB/75MB, paused 2.440ms,2.086ms total 102.432ms
+10-26 16:14:43.428 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:43.495 28567 28892 D MetadataUtil: Skipped unknown metadata entry: desc
+10-26 16:14:44.438 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:45.460 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:46.479 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:47.500 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:48.528 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:49.550 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:50.581 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:51.602 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:52.630 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:53.650 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:54.673 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:54.697 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:54.710 28567 28883 W AudioCapabilities: Unsupported mediaType audio/x-ima
+10-26 16:14:54.711 28567 28883 W AudioCapabilities: Unsupported mediaType audio/mpeg-L1
+10-26 16:14:54.711 28567 28883 W AudioCapabilities: Unsupported mediaType audio/mpeg-L2
+10-26 16:14:54.711 28567 28883 W VideoCapabilities: Unsupported mime video/wvc1
+10-26 16:14:54.711 28567 28883 W VideoCapabilities: Unsupported mime video/x-ms-wmv
+10-26 16:14:54.721 28567 28883 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+10-26 16:14:54.722 28567 28883 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+10-26 16:14:54.725 28567 28883 W VideoCapabilities: Unrecognized profile/level 32768/256 for video/mp4v-es
+10-26 16:14:54.729 28567 28883 W VideoCapabilities: Unrecognized profile/level 32768/256 for video/mp4v-es
+10-26 16:14:54.749 28567 28883 W AudioCapabilities: Unsupported mime audio/x-ima
+10-26 16:14:54.754 28567 28883 W AudioCapabilities: Unsupported mime audio/mpeg-L1
+10-26 16:14:54.755 28567 28883 W AudioCapabilities: Unsupported mime audio/mpeg-L2
+10-26 16:14:54.757 28567 28883 W VideoCapabilities: Unsupported mime video/wvc1
+10-26 16:14:54.760 28567 28883 W VideoCapabilities: Unsupported mime video/wvc1
+10-26 16:14:54.762 28567 28883 W VideoCapabilities: Unsupported mime video/x-ms-wmv
+10-26 16:14:54.857 28567 28883 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+10-26 16:14:54.860 28567 28883 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+10-26 16:14:54.862 28567 28883 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+10-26 16:14:54.865 28567 28883 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+10-26 16:14:54.892 28567 28883 W VideoCapabilities: Unrecognized profile/level 32768/256 for video/mp4v-es
+10-26 16:14:54.896 28567 28883 W VideoCapabilities: Unrecognized profile/level 32768/256 for video/mp4v-es
+10-26 16:14:54.920 28567 28883 W VideoCapabilities: Unrecognized profile/level 32768/256 for video/mp4v-es
+10-26 16:14:55.136 28567 29019 I CCodec  : state->set(ALLOCATING)
+10-26 16:14:55.137 28567 29020 D RuntimeProperty: ro.soc.model: MT6877
+10-26 16:14:55.137 28567 29020 I CCodec  : allocate(c2.mtk.avc.decoder)
+10-26 16:14:55.137 28567 29020 D CCodec  : allocate(c2.mtk.avc.decoder)
+10-26 16:14:55.144 28567 29020 I ApexCodecsLazy: Failed to load libcom.android.media.swcodec.apexcodecs.so: dlopen failed: library "libcom.android.media.swcodec.apexcodecs.so" not found
+10-26 16:14:55.144 28567 29020 I Codec2Client: Available Codec2 services: "default" "default1" "software"
+10-26 16:14:55.146 28567 29020 I CCodec  : setting up 'default' as default (vendor) store
+10-26 16:14:55.172 28567 29020 I CCodec  : Created component [c2.mtk.avc.decoder] for [c2.mtk.avc.decoder]
+10-26 16:14:55.172 28567 29020 I CCodec  : [c2.mtk.avc.decoder] state->set(ALLOCATED)
+10-26 16:14:55.173 28567 29020 D CCodecConfig: read media type: video/avc
+10-26 16:14:55.175 28567 29020 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+10-26 16:14:55.176 28567 29020 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+10-26 16:14:55.176 28567 29020 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+10-26 16:14:55.176 28567 29020 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+10-26 16:14:55.176 28567 29020 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+10-26 16:14:55.176 28567 29020 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+10-26 16:14:55.176 28567 29020 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+10-26 16:14:55.178 28567 29020 D ReflectedParamUpdater: ignored struct field coded.color-format.locations
+10-26 16:14:55.183 28567 29020 D CCodecConfig: ignoring local param raw.size (0xd2001800) as it is already supported
+10-26 16:14:55.183 28567 29020 D CCodecConfig: ignoring local param raw.crop (0xd2001801) as it is already supported
+10-26 16:14:55.184 28567 29020 D CCodecConfig: ignoring local param default.color (0x5200180b) as it is already supported
+10-26 16:14:55.184 28567 29020 D CCodecConfig: ignoring local param raw.hdr-static-info (0xd200180a) as it is already supported
+10-26 16:14:55.185 28567 29020 I CCodec  : [c2.mtk.avc.decoder] config->initialize() : 0
+10-26 16:14:55.185 28567 29020 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+10-26 16:14:55.186 28567 29020 D CCodecConfig: c2 config diff is Dict {
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 algo.low-latency.value = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::i32 algo.priority.value = 1
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::float algo.rate.value = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::float coded.frame-rate.value = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 coded.pl.level = 20496
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 coded.pl.profile = 20481
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 default.color.matrix = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 default.color.primaries = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 default.color.range = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 default.color.transfer = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 2097152
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 input.delay.value = 4
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   string input.media-type.value = "video/avc"
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 output.delay.value = 12
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   string output.media-type.value = "video/raw"
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 raw.color.matrix = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 raw.color.primaries = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 raw.color.range = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 raw.color.transfer = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 raw.crop.height = 239
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 raw.crop.left = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 raw.crop.top = 0
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::u32 raw.crop.width = 319
+10-26 16:14:55.186 28567 29020 D CCodecConfig:   c2::float raw.hdr-static-info.master
+10-26 16:14:55.186 28567 29020 W ColorUtils: expected specified color aspects (0:0:0:0)
+10-26 16:14:55.186 28567 29020 I CCodec  : [c2.mtk.avc.decoder] config->queryConfiguration()
+10-26 16:14:55.186 28567 29020 I CCodec  : [c2.mtk.avc.decoder] mCallback->onComponentAllocated() IN
+10-26 16:14:55.186 28567 29020 I CCodec  : [c2.mtk.avc.decoder] mCallback->onComponentAllocated() OUT
+10-26 16:14:55.193 28567 28883 E MediaCodec: Media Quality Service not found.
+10-26 16:14:55.194 28567 29019 D SurfaceUtils: connecting to surface 0xb400007a39097b80, reason connectToSurface
+10-26 16:14:55.194 28567 29019 I MediaCodec: [c2.mtk.avc.decoder] setting surface generation to 29252609
+10-26 16:14:55.194 28567 29019 D SurfaceUtils: disconnecting from surface 0xb400007a39097b80, reason connectToSurface(reconnect)
+10-26 16:14:55.194 28567 29019 D SurfaceUtils: connecting to surface 0xb400007a39097b70, reason connectToSurface(reconnect-with-listener)
+10-26 16:14:55.195 28567 29020 D CCodec  : [c2.mtk.avc.decoder] buffers are bound to CCodec for this session
+10-26 16:14:55.196 28567 29020 I CCodec  : appPid(28567) width(1280) height(720)
+10-26 16:14:55.196 28567 29020 D CCodecConfig: no c2 equivalents for csd-1
+10-26 16:14:55.196 28567 29020 D CCodecConfig: no c2 equivalents for native-window
+10-26 16:14:55.196 28567 29020 D CCodecConfig: no c2 equivalents for native-window-generation
+10-26 16:14:55.196 28567 29020 D CCodecConfig: no c2 equivalents for flags
+10-26 16:14:55.197 28567 29020 D CCodecConfig: c2 config diff is   c2::i32 algo.priority.value = 0
+10-26 16:14:55.197 28567 29020 D CCodecConfig:   c2::float coded.frame-rate.value = 24
+10-26 16:14:55.197 28567 29020 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 2094080
+10-26 16:14:55.197 28567 29020 D CCodecConfig:   c2::u32 raw.max-size.height = 720
+10-26 16:14:55.197 28567 29020 D CCodecConfig:   c2::u32 raw.max-size.width = 1280
+10-26 16:14:55.197 28567 29020 D CCodecConfig:   c2::u32 raw.pixel-format.value = 34
+10-26 16:14:55.197 28567 29020 D CCodecConfig:   c2::u32 raw.size.height = 720
+10-26 16:14:55.197 28567 29020 D CCodecConfig:   c2::u32 raw.size.width = 1280
+10-26 16:14:55.197 28567 29020 D CCodec  : client requested max input size 203383, which is smaller than what component recommended (2094080); overriding with component recommendation.
+10-26 16:14:55.197 28567 29020 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+10-26 16:14:55.197 28567 29020 D CCodec  : encoding statistics level = 0
+10-26 16:14:55.197 28567 29020 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+10-26 16:14:55.197 28567 29020 D CCodec  :   string mime = "video/avc"
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t width = 1280
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t profile = 65536
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t priority = 0
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t frame-rate = 24
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t height = 720
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t level = 65536
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t max-input-size = 2094080
+10-26 16:14:55.197 28567 29020 D CCodec  :   Rect crop(0, 0, 318, 238)
+10-26 16:14:55.197 28567 29020 D CCodec  : }
+10-26 16:14:55.197 28567 29020 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t android._color-format = 2130708361
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t android._video-scaling = 1
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t sar-width = 1
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t color-standard = 4
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t color-range = 2
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t color-transfer = 3
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t android._dataspace = 259
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t width = 1280
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t rotation-degrees = 0
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t sar-height = 1
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t max-width = 1280
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t max-height = 720
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t priority = 0
+10-26 16:14:55.197 28567 29020 D CCodec  :   string mime = "video/raw"
+10-26 16:14:55.197 28567 29020 D CCodec  :   Rect crop(0, 0, 318, 238)
+10-26 16:14:55.197 28567 29020 D CCodec  :   Buffer hdr-static-info = {
+10-26 16:14:55.197 28567 29020 D CCodec  :     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+10-26 16:14:55.197 28567 29020 D CCodec  :     00000010:  00 00 00 00 00 00 00 00  00                       .........
+10-26 16:14:55.197 28567 29020 D CCodec  :   }
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t frame-rate = 24
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t height = 720
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t color-format = 2130708361
+10-26 16:14:55.197 28567 29020 D CCodec  :   int32_t p-extraBC = 6
+10-26 16:14:55.197 28567 29020 D CCodec  : }
+10-26 16:14:55.197 28567 29020 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+10-26 16:14:55.197 28567 29020 E vvcl.flickverse: Failed to query component interface for required system resources: 6
+10-26 16:14:55.200 28567 29019 I CCodec  : [c2.mtk.avc.decoder] state->set(STARTING)
+10-26 16:14:55.214 28567 29020 D C2Store : Using DMABUF Heaps
+10-26 16:14:55.216 28567 29020 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] Created input block pool with allocatorID 16 => poolID 17 - OK (0)
+10-26 16:14:55.216 28567 29020 I CCodecBufferChannel: [c2.mtk.avc.decoder#948] start: max output delay 19
+10-26 16:14:55.217 28567 29020 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] Query output surface allocator returned 0 params => BAD_INDEX (6)
+10-26 16:14:55.217 28567 29020 D Codec2Client: GraphicBufferAllocator created
+10-26 16:14:55.217 28567 29020 I CCodecBufferChannel: [c2.mtk.avc.decoder#948] Created output block pool with allocatorID 18 => poolID 2736 - OK
+10-26 16:14:55.217 28567 29020 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] Configured output block pool ids 2736 => OK
+10-26 16:14:55.218 28567 29020 D GraphicsTracker: new surface in configuration: maxDequeueRequested(0), maxDequeueCommitted(3)
+10-26 16:14:55.218 28567 29020 D GraphicsTracker: new surface configured with id:122694330744835 gen:29252609 maxDequeue:3
+10-26 16:14:55.218 28567 29020 D GraphicsTracker: maxDequeueCount committed to IGBP: 19
+10-26 16:14:55.218 28567 29020 D GraphicsTracker: Cache size 0 -> 0: maybe_cleared(0), dequeued(0)
+10-26 16:14:55.218 28567 29020 D GraphicsTracker: maxDqueueCount change 3 -> 19: pending: 0
+10-26 16:14:55.218 28567 29020 D Codec2Client: setOutputSurface -- generation=29252609 consumer usage=0x900
+10-26 16:14:55.218 28567 29020 I CCodec  : [c2.mtk.avc.decoder] state->set(RUNNING)
+10-26 16:14:55.219 28567 29020 I DMABUFHEAPS: Using DMA-BUF heap named: mtk_mm
+10-26 16:14:55.219 28567 29020 I CCodecBufferChannel: [c2.mtk.avc.decoder#948] 8 initial input buffers available
+10-26 16:14:55.229 28567 29019 W vvcl.flickverse: AIBinder_linkToDeath is being called with a non-null cookie and no onUnlink callback set. This might not be intended. AIBinder_DeathRecipient_setOnUnlinked should be called first.
+10-26 16:14:55.231 28567 29019 I MediaCodec: setCodecState state(0), called in 6, domain 1, 1
+10-26 16:14:55.249 28567 29061 I CCodec  : state->set(ALLOCATING)
+10-26 16:14:55.249 28567 29061 I CCodec  : allocate(c2.android.aac.decoder)
+10-26 16:14:55.249 28567 29061 D CCodec  : allocate(c2.android.aac.decoder)
+10-26 16:14:55.251 28567 29061 I CCodec  : setting up 'default' as default (vendor) store
+10-26 16:14:55.264 28567 29020 D CCodecConfig: c2 config diff is   c2::u32 output.delay.value = 13
+10-26 16:14:55.264 28567 29020 D CCodecConfig:   c2::u32 raw.color.range = 2
+10-26 16:14:55.266 28567 28891 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] Ignoring stale input buffer done callback: last flush index = 0, frameIndex = 0
+10-26 16:14:55.266 28567 29020 I CCodecBufferChannel: [c2.mtk.avc.decoder#948] updating max output delay 20
+10-26 16:14:55.266 28567 29020 D GraphicsTracker: maxDequeueCount committed to IGBP: 20
+10-26 16:14:55.266 28567 29020 D GraphicsTracker: Cache size 2 -> 2: maybe_cleared(0), dequeued(2)
+10-26 16:14:55.266 28567 29020 D GraphicsTracker: maxDqueueCount change 19 -> 20: pending: 0
+10-26 16:14:55.283 28567 29061 W vvcl.flickverse: AIBinder_linkToDeath is being called with a non-null cookie and no onUnlink callback set. This might not be intended. AIBinder_DeathRecipient_setOnUnlinked should be called first.
+10-26 16:14:55.283 28567 29061 I CCodec  : Created component [c2.android.aac.decoder] for [c2.android.aac.decoder]
+10-26 16:14:55.283 28567 29061 I CCodec  : [c2.android.aac.decoder] state->set(ALLOCATED)
+10-26 16:14:55.283 28567 29061 D CCodecConfig: read media type: audio/mp4a-latm
+10-26 16:14:55.285 28567 29061 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+10-26 16:14:55.286 28567 29061 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+10-26 16:14:55.286 28567 29061 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+10-26 16:14:55.286 28567 29061 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+10-26 16:14:55.286 28567 29061 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+10-26 16:14:55.286 28567 29061 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+10-26 16:14:55.286 28567 29061 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+10-26 16:14:55.288 28567 29020 D CCodecConfig: c2 config diff is   c2::u32 raw.crop.height = 720
+10-26 16:14:55.288 28567 29020 D CCodecConfig:   c2::u32 raw.crop.width = 1280
+10-26 16:14:55.288 28567 29020 D CCodecConfig:   c2::u32 raw.pixel-format.value = 2130706433
+10-26 16:14:55.288 28567 29020 D CCodecBuffers: [c2.mtk.avc.decoder#948:2D-Output] popFromStashAndRegister: at 3208333333us, output format changed to AMessage(what = 0x00000000) = {
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t android._color-format = 2130706433
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t android._video-scaling = 1
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t sar-width = 1
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t color-standard = 1
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t color-range = 2
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t color-transfer = 3
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t android._dataspace = 260
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t width = 1280
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t rotation-degrees = 0
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t sar-height = 1
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t max-width = 1280
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t max-height = 720
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t priority = 0
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   string mime = "video/raw"
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   Rect crop(0, 0, 1279, 719)
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   Buffer hdr-static-info = {
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:     00000010:  00 00 00 00 00 00 00 00  00                       .........
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   }
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t frame-rate = 24
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t height = 720
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t color-format = 2130708361
+10-26 16:14:55.288 28567 29020 D CCodecBuffers:   int32_t p-extraBC = 6
+10-26 16:14:55.288 28567 29020 D CCodecBuffers: }
+10-26 16:14:55.290 28567 29061 I CCodec  : [c2.android.aac.decoder] config->initialize() : 0
+10-26 16:14:55.290 28567 29061 I CCodecConfig: query failed after returning 21 values (BAD_INDEX)
+10-26 16:14:55.290 28567 29061 D CCodecConfig: c2 config diff is Dict {
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 coded.aac-packaging.value = 0
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 coded.pl.level = 0
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 coded.pl.profile = 8192
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::i32 coding.drc.album-mode.value = 0
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::float coding.drc.attenuation-factor.value = 1
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::float coding.drc.boost-factor.value = 1
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::i32 coding.drc.compression-mode.value = 3
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::i32 coding.drc.effect-type.value = 3
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::float coding.drc.encoded-level.value = 0.25
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::float coding.drc.reference-level.value = -16
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 8192
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 input.delay.value = 0
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   string input.media-type.value = "audio/mp4a-latm"
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 output.delay.value = 2
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::float output.drc.output-loudness.value = 0.25
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 output.large-frame.max-size = 0
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 output.large-frame.threshold-size = 0
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   string output.media-type.value = "audio/raw"
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 raw.channel-mask.value = 0
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 raw.max-channel-count.value = 8
+10-26 16:14:55.290 28567 29061 D CCodecConfig:   c2::u32 raw.sample-rate.value = 44100
+10-26 16:14:55.290 28567 29061 D CCodecConfig: }
+10-26 16:14:55.291 28567 29061 I CCodec  : [c2.android.aac.decoder] config->queryConfiguration()
+10-26 16:14:55.291 28567 29061 I CCodec  : [c2.android.aac.decoder] mCallback->onComponentAllocated() IN
+10-26 16:14:55.291 28567 29061 I CCodec  : [c2.android.aac.decoder] mCallback->onComponentAllocated() OUT
+10-26 16:14:55.294 28567 28883 E MediaCodec: Media Quality Service not found.
+10-26 16:14:55.295 28567 29061 D CCodec  : [c2.android.aac.decoder] buffers are bound to CCodec for this session
+10-26 16:14:55.295 28567 29061 I CCodec  : appPid(28567) width(0) height(0)
+10-26 16:14:55.295 28567 29061 D CCodecConfig: no c2 equivalents for flags
+10-26 16:14:55.298 28567 29061 D CCodecConfig: config failed => CORRUPTED
+10-26 16:14:55.298 28567 29061 D CCodecConfig: c2 config diff is   c2::u32 raw.sample-rate.value = 48000
+10-26 16:14:55.299 28567 29061 D CCodec  : client requested max input size 503, which is smaller than what component recommended (8192); overriding with component recommendation.
+10-26 16:14:55.299 28567 29061 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+10-26 16:14:55.299 28567 29061 D CCodec  : encoding statistics level = 0
+10-26 16:14:55.300 28567 29061 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-drc-album-mode = 0
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-drc-boost-level = 127
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-drc-cut-level = 127
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-drc-effect-type = 3
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-encoded-target-level = -1
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-max-output-channel_count = 8
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-target-ref-level = 64
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t bitrate = 64000
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t channel-count = 1
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t channel-mask = 0
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t level = 0
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t max-input-size = 8192
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t max-output-channel-count = 8
+10-26 16:14:55.300 28567 29061 D CCodec  :   string mime = "audio/mp4a-latm"
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t profile = 2
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t sample-rate = 48000
+10-26 16:14:55.300 28567 29061 D CCodec  : }
+10-26 16:14:55.300 28567 29061 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-drc-album-mode = 0
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-drc-boost-level = 127
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-drc-cut-level = 127
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-drc-effect-type = 3
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-drc-output-loudness = -1
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-encoded-target-level = -1
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-max-output-channel_count = 8
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t aac-target-ref-level = 64
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t buffer-batch-max-output-size = 0
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t buffer-batch-threshold-output-size = 0
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t channel-count = 1
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t channel-mask = 0
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t max-output-channel-count = 8
+10-26 16:14:55.300 28567 29061 D CCodec  :   string mime = "audio/raw"
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t sample-rate = 48000
+10-26 16:14:55.300 28567 29061 D CCodec  :   int32_t android._config-pcm-encoding = 2
+10-26 16:14:55.300 28567 29061 D CCodec  : }
+10-26 16:14:55.300 28567 29061 I CCodecConfig: query failed after returning 21 values (BAD_INDEX)
+10-26 16:14:55.300 28567 29061 E vvcl.flickverse: Failed to query component interface for required system resources: 6
+10-26 16:14:55.302 28567 29061 I CCodec  : [c2.android.aac.decoder] state->set(STARTING)
+10-26 16:14:55.305 28567 29061 D CCodecBufferChannel: [c2.android.aac.decoder#359] Created input block pool with allocatorID 16 => poolID 18 - OK (0)
+10-26 16:14:55.307 28567 29061 I CCodecBufferChannel: [c2.android.aac.decoder#359] Created output block pool with allocatorID 16 => poolID 21963 - OK
+10-26 16:14:55.308 28567 29061 D CCodecBufferChannel: [c2.android.aac.decoder#359] Configured output block pool ids 21963 => OK
+10-26 16:14:55.308 28567 29061 I CCodec  : [c2.android.aac.decoder] state->set(RUNNING)
+10-26 16:14:55.312 28567 29061 I CCodecBufferChannel: [c2.android.aac.decoder#359] 4 initial input buffers available
+10-26 16:14:55.318 28567 29061 W vvcl.flickverse: AIBinder_linkToDeath is being called with a non-null cookie and no onUnlink callback set. This might not be intended. AIBinder_DeathRecipient_setOnUnlinked should be called first.
+10-26 16:14:55.330 28567 29019 I MediaCodec: setCodecState state(1), called in 6, domain 1, 1
+10-26 16:14:55.477 28567 29061 D CCodecConfig: c2 config diff is   c2::u32 raw.channel-mask.value = 4
+10-26 16:14:55.478 28567 29061 D CCodecBuffers: [c2.android.aac.decoder#359:Output[N]] popFromStashAndRegister: at 3215360000us, output format changed to AMessage(what = 0x00000000) = {
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t aac-drc-album-mode = 0
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t aac-drc-boost-level = 127
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t aac-drc-cut-level = 127
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t aac-drc-effect-type = 3
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t aac-drc-output-loudness = -1
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t aac-encoded-target-level = -1
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t aac-max-output-channel_count = 8
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t aac-target-ref-level = 64
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t buffer-batch-max-output-size = 0
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t buffer-batch-threshold-output-size = 0
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t channel-count = 1
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t channel-mask = 4
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t max-output-channel-count = 8
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   string mime = "audio/raw"
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t sample-rate = 48000
+10-26 16:14:55.478 28567 29061 D CCodecBuffers:   int32_t android._config-pcm-encoding = 2
+10-26 16:14:55.478 28567 29061 D CCodecBuffers: }
+10-26 16:14:55.542 28567 28883 D AudioSystem: onNewServiceWithAdapter: media.audio_flinger service obtained 0xb400007948fd2180
+10-26 16:14:55.546 28567 28883 D AudioSystem: getService: checking for service media.audio_flinger: 0xb400007958f99f50
+10-26 16:14:55.581 28567 28883 D AudioTrack: setVolume(1.000000, 1.000000) pid : 28567
+10-26 16:14:55.706 28567 28567 E t.a     : onScrubMove3215376
+10-26 16:14:56.181 28567 28567 D RenderMeasure: videoWidth = 1280 videoHeight = 720
+10-26 16:14:56.184 28567 28567 D SurfaceView: 30032028 setFixedSize 480x270 -> 1280x720
+10-26 16:14:56.184 28567 29019 I BLASTBufferQueue: [34e580f SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#3](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-26 16:14:56.185 28567 29019 I BLASTBufferQueue: [34e580f SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#3](f:0,a:1,s:0) acquireNextBufferLocked size=480x270 mFrameNumber=1 applyTransaction=true mTimestamp=451954805960707 mPendingTransactions.size=0 graphicBufferId=122694330744867 transform=0
+10-26 16:14:56.201 28567 28567 I SurfaceView: 55465999 Changes: creating=false format=false size=true visible=false alpha=false hint=false left=false top=false z=false attached=true lifecycleStrategy=false
+10-26 16:14:56.201 28567 28567 I SurfaceView: 55465999 Cur surface: Surface(name=null mNativeObject=-5476376621939582048)/@0x1b51d35
+10-26 16:14:56.204 28567 28567 I BLASTBufferQueue_Java: update, w= 1280 h= 720 mName = 34e580f SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0 mNativeObject= 0xb400007928f70bc0 sc.mNativeObject= 0xb400007a98f289d0 format= 4 caller= android.view.SurfaceView.setBufferSize:1703 android.view.SurfaceView.performSurfaceTransaction:1238 android.view.SurfaceView.updateSurface:1467 android.view.SurfaceView.setFrame:716 android.view.View.layout:26931 android.widget.FrameLayout.layoutChildren:345 
+10-26 16:14:56.204 28567 28567 I BLASTBufferQueue: [34e580f SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#3](f:0,a:1,s:0) update width=1280 height=720 format=4 mTransformHint=0
+10-26 16:14:56.204 28567 28567 I SV[55465999 VideoPlayDetailActivity]: pST: sr = Rect(1, 90 - 1078, 696) sw = 1280 sh = 720
+10-26 16:14:56.206 28567 28567 D SurfaceView: 55465999 performSurfaceTransaction RenderWorker position = [1, 90, 1078, 696] surfaceSize = 1280x720
+10-26 16:14:56.206 28567 28567 I SV[55465999 VideoPlayDetailActivity]: updateSurface: mVisible = true mSurface.isValid() = true
+10-26 16:14:56.206 28567 28567 I SV[55465999 VideoPlayDetailActivity]: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-26 16:14:56.206 28567 28567 I SurfaceView: 55465999 surfaceChanged -- format=4 w=1280 h=720
+10-26 16:14:56.207 28567 28567 I SV[55465999 VideoPlayDetailActivity]: surfaceChanged (1280,720) 2 #5 com.google.android.exoplayer2.render.RenderSurfaceView{34e580f V.E...... ......I. 1,0-1078,606}
+10-26 16:14:56.208 28567 28567 D RenderSurfaceView: surfaceChanged : width = 1280 height = 720
+10-26 16:14:56.208 28567 28567 I SurfaceView: 55465999 surfaceRedrawNeeded
+10-26 16:14:56.210 28567 28567 I SurfaceView: 55465999 finishedDrawing
+10-26 16:14:56.210 28567 28567 V SurfaceView: Layout: x=1 y=90 w=1077 h=606, frame=Rect(0, 0 - 1280, 720)
+10-26 16:14:56.221 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: registerCallbackForPendingTransactions
+10-26 16:14:56.234 28567 28649 D SurfaceView: 55465999 updateSurfacePosition RenderWorker, frameNr = 2189, position = [1, 90, 1078, 696] surfaceSize = 1280x720
+10-26 16:14:56.235 28567 28649 I SV[55465999 VideoPlayDetailActivity]: uSP: rtp = Rect(1, 90 - 1078, 696) rtsw = 1280 rtsh = 720
+10-26 16:14:56.236 28567 28649 I SV[55465999 VideoPlayDetailActivity]: onSSPAndSRT: pl = 1 pt = 90 sx = 0.8414062 sy = 0.84166664
+10-26 16:14:56.237 28567 28649 I SV[55465999 VideoPlayDetailActivity]: aOrMT: VRI[VideoPlayDetailActivity]@18d36f3 t = android.view.SurfaceControl$Transaction@fa53a46 fN = 2189 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1932 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:401 
+10-26 16:14:56.239 28567 28649 I VRI[VideoPlayDetailActivity]@18d36f3: mWNT: t=0xb400007988f59f50 mBlastBufferQueue=0xb400007928f64510 fn= 2189 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.SurfaceView.applyOrMergeTransaction:1863 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1932 
+10-26 16:14:56.242 28567 28687 I VRI[VideoPlayDetailActivity]@18d36f3: mWNT: t=0xb400007988fb9e10 mBlastBufferQueue=0xb400007928f64510 fn= 2189 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:6536 android.view.ViewRootImpl$4.onFrameDraw:2489 android.view.ThreadedRenderer$1.onFrameDraw:718 
+10-26 16:14:56.349 28567 28567 E t.a     : onScrubMove3215381
+10-26 16:14:56.358 28567 28567 D t.a     : onPlayerStateChanged:3+playWhenReady:true
+10-26 16:14:56.360 28567 28567 D t.a     : onPlayerStateChanged:准备播放
+10-26 16:14:56.361 28567 28567 I wangyi  : 开始播放
+10-26 16:14:56.361 28567 28567 D checkAudio: Format(2, null, null, audio/mp4a-latm, null, -1, hi, [-1, -1, -1.0], [1, 48000])
+10-26 16:14:56.361 28567 28567 D checkAudio: Format(3, null, null, audio/mp4a-latm, null, -1, kn, [-1, -1, -1.0], [1, 48000])
+10-26 16:14:56.362 28567 28567 D checkAudio: Format(4, null, null, audio/mp4a-latm, null, -1, ml, [-1, -1, -1.0], [1, 48000])
+10-26 16:14:56.362 28567 28567 D checkAudio: Format(5, null, null, audio/mp4a-latm, null, -1, ta, [-1, -1, -1.0], [1, 48000])
+10-26 16:14:56.362 28567 28567 D checkAudio: Format(6, null, null, audio/mp4a-latm, null, -1, te, [-1, -1, -1.0], [1, 48000])
+10-26 16:14:56.362 28567 28567 D checkSubTitle: Format(7, null, null, application/x-quicktime-tx3g, null, -1, en, [-1, -1, -1.0], [-1, -1])
+10-26 16:14:56.372 28567 28567 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@18d36f3 mNativeObject= 0xb400007928f64510 sc.mNativeObject= 0xb400007a98f28250 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3574 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:14:56.373 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=true req=(1080,2400)0 dur=1 res=0x0 s={true 0xb400007a39098850} ch=false seqId=0
+10-26 16:14:56.374 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: updateBoundsLayer: t=android.view.SurfaceControl$Transaction@be6de48 sc=Surface(name=Bounds for - com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@0)/@0xcb6c4e1 frame=2196
+10-26 16:14:56.381 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: registerCallbackForPendingTransactions
+10-26 16:14:56.387 28567 28686 I VRI[VideoPlayDetailActivity]@18d36f3: mWNT: t=0xb400007988faf0d0 mBlastBufferQueue=0xb400007928f64510 fn= 2196 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:6536 android.view.ViewRootImpl$4.onFrameDraw:2489 android.view.ThreadedRenderer$1.onFrameDraw:718 
+10-26 16:14:56.413 28567 28883 D AudioTrack: getTimestamp_l(14007): stale timestamp time corrected, currentTimeNanos: 451859324228086 < limitNs: 451954717165707 < mStartNs: 451954845165707
+10-26 16:14:57.360 28567 28567 E t.a     : onScrubMove3216268
+10-26 16:14:58.388 28567 28567 E t.a     : onScrubMove3217298
+10-26 16:14:59.416 28567 28567 E t.a     : onScrubMove3218321
+10-26 16:15:00.414 28567 29019 D AidlBufferPool: bufferpool2 0xb400007a28f74f28 : 9(18846720 size) total buffers - 8(16752640 size) used buffers - 283/293 (recycle/alloc) - 10/293 (fetch/transfer)
+10-26 16:15:00.436 28567 28567 E t.a     : onScrubMove3219350
+10-26 16:15:00.801 28567 29061 D AidlBufferPool: bufferpool2 0xb400007a28f67378 : 5(40960 size) total buffers - 1(8192 size) used buffers - 233/238 (recycle/alloc) - 5/237 (fetch/transfer)
+10-26 16:15:01.465 28567 28567 E t.a     : onScrubMove3220357
+10-26 16:15:02.492 28567 28567 E t.a     : onScrubMove3221403
+10-26 16:15:03.517 28567 28567 E t.a     : onScrubMove3222421
+10-26 16:15:04.543 28567 28567 E t.a     : onScrubMove3223456
+10-26 16:15:05.558 28567 28567 E t.a     : onScrubMove3224461
+10-26 16:15:05.582 28567 28581 D AidlBufferPool: bufferpool2 0xb400007a28f74f28 : 9(18846720 size) total buffers - 9(18846720 size) used buffers - 407/417 (recycle/alloc) - 10/416 (fetch/transfer)
+10-26 16:15:05.879 28567 29061 D AidlBufferPool: bufferpool2 0xb400007a28f67378 : 5(40960 size) total buffers - 1(8192 size) used buffers - 472/477 (recycle/alloc) - 5/476 (fetch/transfer)
+10-26 16:15:06.579 28567 28567 E t.a     : onScrubMove3225481
+10-26 16:15:07.598 28567 28567 E t.a     : onScrubMove3226510
+10-26 16:15:08.617 28567 28567 E t.a     : onScrubMove3227523
+10-26 16:15:09.648 28567 28567 E t.a     : onScrubMove3228549
+10-26 16:15:10.669 28567 28567 E t.a     : onScrubMove3229564
+10-26 16:15:10.703 28567 28651 D AidlBufferPool: bufferpool2 0xb400007a28f74f28 : 9(18846720 size) total buffers - 9(18846720 size) used buffers - 530/540 (recycle/alloc) - 10/539 (fetch/transfer)
+10-26 16:15:10.999 28567 29061 D AidlBufferPool: bufferpool2 0xb400007a28f67378 : 5(40960 size) total buffers - 1(8192 size) used buffers - 711/716 (recycle/alloc) - 5/715 (fetch/transfer)
+10-26 16:15:11.342 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: ViewPostIme key 0
+10-26 16:15:11.343 28567 28567 D Activity: onKeyDown(KEYCODE_BACK), activity=com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@f5bc209
+10-26 16:15:11.365 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: ViewPostIme key 1
+10-26 16:15:11.369 28567 28567 D Activity: onBackInvoked, activity=com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@f5bc209, caller=android.app.Activity.onBackPressed:4470 androidx.activity.ComponentActivity.access$onBackPressed$s1027565324:1 androidx.activity.ComponentActivity$onBackPressedDispatcher$2.invoke$lambda$0:7 
+10-26 16:15:11.371 28567 28567 D getUiMode: 1
+10-26 16:15:11.452 28567 28567 E t.a     : onScrubMove3230364
+10-26 16:15:11.469 28567 28567 E t.a     : onScrubMove3230364
+10-26 16:15:11.477 28567 28567 D t.a     : onPlayerStateChanged:3+playWhenReady:false
+10-26 16:15:11.515 28567 28567 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@18d36f3 mNativeObject= 0xb400007928f64510 sc.mNativeObject= 0xb400007a98f28250 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3574 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:15:11.516 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=true req=(1080,2400)0 dur=0 res=0x0 s={true 0xb400007a39098850} ch=false seqId=0
+10-26 16:15:11.517 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: updateBoundsLayer: t=android.view.SurfaceControl$Transaction@be6de48 sc=Surface(name=Bounds for - com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@0)/@0xcb6c4e1 frame=3081
+10-26 16:15:11.525 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: registerCallbackForPendingTransactions
+10-26 16:15:11.531 28567 28567 I VRI[MainActivity]@a33ee22: handleAppVisibility mAppVisible = false visible = true
+10-26 16:15:11.532 28567 28567 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-26 16:15:11.534 28567 28687 I VRI[VideoPlayDetailActivity]@18d36f3: mWNT: t=0xb400007988fc2bd0 mBlastBufferQueue=0xb400007928f64510 fn= 3081 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:6536 android.view.ViewRootImpl$4.onFrameDraw:2489 android.view.ThreadedRenderer$1.onFrameDraw:718 
+10-26 16:15:11.542 28567 28567 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-26 16:15:11.543 28567 28567 I VRI[MainActivity]@a33ee22: stopped(false) old = true
+10-26 16:15:11.543 28567 28567 D VRI[MainActivity]@a33ee22: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to false
+10-26 16:15:11.640 28567 28567 D BufferQueueConsumer: [](id:6f9700000005,api:0,p:-1,c:28567) connect: controlledByApp=false
+10-26 16:15:11.640 28567 28567 I BLASTBufferQueue: [VRI[MainActivity]@a33ee22#5](f:0,a:0,s:0) constructor()
+10-26 16:15:11.641 28567 28567 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[MainActivity]@a33ee22 mNativeObject= 0xb400007928f72fe0 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3585 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 android.view.Choreographer.doCallbacks:1367 android.view.Choreographer.doFrame:1292 android.view.Choreographer$FrameDisplayEventReceiver.run:1870 
+10-26 16:15:11.641 28567 28567 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[MainActivity]@a33ee22 mNativeObject= 0xb400007928f72fe0 sc.mNativeObject= 0xb400007a98f31190 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3590 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:15:11.641 28567 28567 I BLASTBufferQueue: [VRI[MainActivity]@a33ee22#5](f:0,a:0,s:0) update width=1080 height=2400 format=-1 mTransformHint=0
+10-26 16:15:11.642 28567 28567 I VRI[MainActivity]@a33ee22: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=8 res=0x3 s={true 0xb400007a390bf8c0} ch=true seqId=0
+10-26 16:15:11.643 28567 28567 D VRI[MainActivity]@a33ee22: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a390bf8c0} hwInitialized=true
+10-26 16:15:11.647 28567 28567 D VRI[MainActivity]@a33ee22: reportNextDraw android.view.ViewRootImpl.performTraversals:5443 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 
+10-26 16:15:11.647 28567 28567 D VRI[MainActivity]@a33ee22: Setup new sync=wmsSync-VRI[MainActivity]@a33ee22#12
+10-26 16:15:11.647 28567 28567 I VRI[MainActivity]@a33ee22: Creating new active sync group VRI[MainActivity]@a33ee22#13
+10-26 16:15:11.648 28567 28567 D VRI[MainActivity]@a33ee22: Start draw after previous draw not visible
+10-26 16:15:11.648 28567 28567 D VRI[MainActivity]@a33ee22: registerCallbacksForSync syncBuffer=false
+10-26 16:15:11.676 28567 28686 D VRI[MainActivity]@a33ee22: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-26 16:15:11.677 28567 28686 I VRI[MainActivity]@a33ee22: mWNT: t=0xb400007988f47b10 mBlastBufferQueue=0xb400007928f72fe0 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15441 android.view.ThreadedRenderer$1.onFrameDraw:718 <bottom of call stack> 
+10-26 16:15:11.677 28567 28686 I VRI[MainActivity]@a33ee22: Setting up sync and frameCommitCallback
+10-26 16:15:11.681 28567 28649 I BLASTBufferQueue: [VRI[MainActivity]@a33ee22#5](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-26 16:15:11.682 28567 28649 I BLASTBufferQueue: [VRI[MainActivity]@a33ee22#5](f:0,a:1,s:0) acquireNextBufferLocked size=1080x2400 mFrameNumber=1 applyTransaction=true mTimestamp=451970306676708(auto) mPendingTransactions.size=0 graphicBufferId=122694330745428 transform=0
+10-26 16:15:11.682 28567 28649 I VRI[MainActivity]@a33ee22: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-26 16:15:11.684 28567 28567 D VRI[MainActivity]@a33ee22: reportDrawFinished seqId=0
+10-26 16:15:11.718 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-26 16:15:11.719 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-26 16:15:11.742 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-26 16:15:11.743 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-26 16:15:11.861 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-26 16:15:11.862 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity
+10-26 16:15:11.863 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: handleAppVisibility mAppVisible = true visible = false
+10-26 16:15:11.863 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: visibilityChanged oldVisibility=true newVisibility=false
+10-26 16:15:11.877 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: stopped(true) old = false
+10-26 16:15:11.877 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity set to true
+10-26 16:15:11.878 28567 28649 D SurfaceView: 66455433 windowPositionLost, frameNr = 0
+10-26 16:15:11.879 28567 28649 I SV[55465999 VideoPlayDetailActivity]: aOrMT: VRI[VideoPlayDetailActivity]@18d36f3 t = android.view.SurfaceControl$Transaction@303238e fN = 0 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionLost:2025 android.graphics.RenderNode$CompositePositionUpdateListener.positionLost:418 
+10-26 16:15:11.879 28567 28649 I VRI[VideoPlayDetailActivity]@18d36f3: mWNT: t=0xb400007988f36310 mBlastBufferQueue=0xb400007928f64510 fn= 0 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.SurfaceView.applyOrMergeTransaction:1863 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionLost:2025 
+10-26 16:15:11.881 28567 28567 I SV[55465999 VideoPlayDetailActivity]: windowStopped(true) false com.google.android.exoplayer2.render.RenderSurfaceView{34e580f V.E...... ........ 1,0-1078,606} of VRI[VideoPlayDetailActivity]@18d36f3
+10-26 16:15:11.881 28567 28567 I SurfaceView: 55465999 Changes: creating=false format=false size=false visible=true alpha=false hint=false left=false top=false z=false attached=true lifecycleStrategy=false
+10-26 16:15:11.881 28567 28567 I SurfaceView: 55465999 Cur surface: Surface(name=null mNativeObject=-5476376621939582048)/@0x1b51d35
+10-26 16:15:11.881 28567 28567 I SurfaceView: 55465999 surfaceDestroyed
+10-26 16:15:11.882 28567 28567 I SV[55465999 VideoPlayDetailActivity]: surfaceDestroyed callback.size 2 #1 com.google.android.exoplayer2.render.RenderSurfaceView{34e580f V.E...... ........ 1,0-1078,606}
+10-26 16:15:11.882 28567 28567 D RenderSurfaceView: ***surfaceDestroyed***
+10-26 16:15:11.882 28567 28567 D com.google.android.exoplayer2.ui.ExoPlayerView: onSurfaceDestroy...com.google.android.exoplayer2.render.RenderSurfaceView{34e580f V.E...... ........ 1,0-1078,606}
+10-26 16:15:11.890 28567 29143 D libMEOW : meow new tls: 0xb400007999136230
+10-26 16:15:11.891 28567 29143 D libMEOW : meow reload base cfg path: na
+10-26 16:15:11.891 28567 29143 D libMEOW : meow reload overlay cfg path: na
+10-26 16:15:11.893 28567 29143 W QT      : qt_process_init() called
+10-26 16:15:11.894 28567 29143 E QT      : [QT]file does not exist
+10-26 16:15:11.894 28567 29143 W QT      : Support!!
+10-26 16:15:11.898 28567 29143 E QT      : [QT]file does not exist
+10-26 16:15:11.899 28567 29143 D libMEOW : applied 1 plugins for [com.fvvcl.flickverse]:
+10-26 16:15:11.899 28567 29143 D libMEOW :   plugin 1: [libMEOW_gift.so]:
+10-26 16:15:11.902 28567 29143 D MMUD    : mtk_memory_debug_init com.fvvcl.flickverse 0xb400007b46c31400
+10-26 16:15:11.903 28567 29158 E vvcl.flickverse: setpriority success to 100 : mali-cmar-backend
+10-26 16:15:11.927 28567 29143 D BufferQueueConsumer: [](id:6f9700000006,api:0,p:-1,c:28567) connect: controlledByApp=true
+10-26 16:15:11.928 28567 29019 D SurfaceUtils: connecting to surface 0xb400007a39054200, reason connectToSurface
+10-26 16:15:11.928 28567 29019 I MediaCodec: [c2.mtk.avc.decoder] setting surface generation to 29252610
+10-26 16:15:11.928 28567 29019 D SurfaceUtils: disconnecting from surface 0xb400007a39054200, reason connectToSurface(reconnect)
+10-26 16:15:11.928 28567 29019 D SurfaceUtils: connecting to surface 0xb400007a390541f0, reason connectToSurface(reconnect-with-listener)
+10-26 16:15:11.929 28567 29019 D GraphicsTracker: new surface in configuration: maxDequeueRequested(0), maxDequeueCommitted(20)
+10-26 16:15:11.929 28567 29019 D GraphicsTracker: new surface configured with id:122694330744838 gen:29252610 maxDequeue:20
+10-26 16:15:11.929 28567 29019 D GraphicsTracker: maxDequeueCount is already 20
+10-26 16:15:11.929 28567 29019 D Codec2Client: setOutputSurface -- generation=29252610 consumer usage=0x900
+10-26 16:15:11.929 28567 29019 D SurfaceUtils: disconnecting from surface 0xb400007a39097b80, reason disconnectFromSurface
+10-26 16:15:11.930 28567 28567 I SV[55465999 VideoPlayDetailActivity]: updateSurface: mVisible = false mSurface.isValid() = true
+10-26 16:15:11.930 28567 28567 I BLASTBufferQueue: [34e580f SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#3](f:0,a:1,s:0) destructor()
+10-26 16:15:11.930 28567 28567 D BufferQueueConsumer: [34e580f SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#3(BLAST Consumer)3](id:6f9700000003,api:0,p:-1,c:28567) disconnect
+10-26 16:15:11.930 28567 28567 I SV[55465999 VideoPlayDetailActivity]: releaseSurfaces: viewRoot = VRI[VideoPlayDetailActivity]@18d36f3
+10-26 16:15:11.931 28567 28567 V SurfaceView: Layout: x=1 y=90 w=1077 h=606, frame=Rect(0, 0 - 1280, 720)
+10-26 16:15:11.963 28567 28678 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:15:11.963 28567 28567 D BaseViewModel.java: [ (BaseViewModel.java:26)#OnDestroy ] onDestroy:com.mgs.carparking.model.VIDEOPLAYDETAILVIEWMODEL
+10-26 16:15:11.963 28567 28567 D BaseViewModel.java: [ (BaseViewModel.java:6)#OnCleared ] onCleared
+10-26 16:15:11.974 28567 29019 I CCodec  : [c2.mtk.avc.decoder] state->set(FLUSHING)
+10-26 16:15:11.976 28567 28567 E t.a     : onScrubMove3230364
+10-26 16:15:11.978 28567 29020 I CCodec  : [c2.mtk.avc.decoder] state->set(FLUSHED)
+10-26 16:15:11.978 28567 29019 I CCodec  : [c2.mtk.avc.decoder] state->set(RESUMING)
+10-26 16:15:11.979 28567 29019 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+10-26 16:15:11.979 28567 29019 D CCodecConfig: c2 config diff is   c2::u32 coded.vui.color.range = 2
+10-26 16:15:11.981 28567 29019 I CCodecBufferChannel: [c2.mtk.avc.decoder#948] 8 initial input buffers available
+10-26 16:15:11.982 28567 29019 I CCodec  : [c2.mtk.avc.decoder] state->set(RUNNING)
+10-26 16:15:11.982 28567 28567 I ExoPlayerImpl: Release 95529c0 [ExoPlayerLib/2.11.7] [m53x, SM-M536B, samsung, 36] [goog.exo.core, goog.exo.ui]
+10-26 16:15:11.984 28567 29061 I CCodec  : [c2.android.aac.decoder] state->set(FLUSHING)
+10-26 16:15:11.985 28567 29061 I CCodec  : [c2.android.aac.decoder] state->set(FLUSHED)
+10-26 16:15:11.985 28567 29061 D CCodecBuffers: [c2.android.aac.decoder#359:1D-Output.Impl[N]] Client returned a buffer it does not own according to our record: 0
+10-26 16:15:11.985 28567 29061 I CCodec  : [c2.android.aac.decoder] state->set(RESUMING)
+10-26 16:15:11.985 28567 29061 I CCodecConfig: query failed after returning 21 values (BAD_INDEX)
+10-26 16:15:11.985 28567 29061 I CCodecBufferChannel: [c2.android.aac.decoder#359] 4 initial input buffers available
+10-26 16:15:11.986 28567 29061 I CCodec  : [c2.android.aac.decoder] state->set(RUNNING)
+10-26 16:15:11.988 28567 29019 I CCodec  : [c2.mtk.avc.decoder] state->set(STOPPING)
+10-26 16:15:11.988 28567 29019 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] MediaCodec discarded an unknown buffer
+10-26 16:15:11.988 28567 29019 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] MediaCodec discarded an unknown buffer
+10-26 16:15:11.988 28567 29019 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] MediaCodec discarded an unknown buffer
+10-26 16:15:11.988 28567 29019 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] MediaCodec discarded an unknown buffer
+10-26 16:15:11.989 28567 29019 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] MediaCodec discarded an unknown buffer
+10-26 16:15:11.989 28567 29019 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] MediaCodec discarded an unknown buffer
+10-26 16:15:11.989 28567 29019 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] MediaCodec discarded an unknown buffer
+10-26 16:15:11.989 28567 29020 I CCodec  : [stop][3271] component -> surface
+10-26 16:15:11.989 28567 29019 D CCodecBufferChannel: [c2.mtk.avc.decoder#948] MediaCodec discarded an unknown buffer
+10-26 16:15:11.989 28567 29067 D BufferQueueConsumer: [](id:6f9700000007,api:0,p:-1,c:28567) connect: controlledByApp=false
+10-26 16:15:11.991 28567 29067 D vvcl.flickverse: Can't load libmbrainSDK
+10-26 16:15:11.991 28567 29067 D vvcl.flickverse: initMbrain failed
+10-26 16:15:11.991 28567 29067 D GraphicsTracker: allocateed 1 buffer after stop
+10-26 16:15:11.992 28567 29020 I CCodec  : [c2.mtk.avc.decoder] state->set(ALLOCATED)
+10-26 16:15:11.992 28567 29019 D SurfaceUtils: disconnecting from surface 0xb400007a39054200, reason disconnectFromSurface
+10-26 16:15:11.992 28567 29019 I CCodec  : [c2.mtk.avc.decoder] state->set(RELEASING)
+10-26 16:15:11.993 28567 29168 I CCodec  : [release][3405] component -> surface
+10-26 16:15:11.993 28567 29143 D BufferQueueConsumer: [SurfaceTexture-1-28567-0](id:6f9700000006,api:0,p:-1,c:28567) disconnect
+10-26 16:15:11.993 28567 29061 I CCodec  : [c2.android.aac.decoder] state->set(STOPPING)
+10-26 16:15:11.995 28567 29061 D CCodecBufferChannel: [c2.android.aac.decoder#359] MediaCodec discarded an unknown buffer
+10-26 16:15:11.996 28567 29061 D CCodecBufferChannel: [c2.android.aac.decoder#359] MediaCodec discarded an unknown buffer
+10-26 16:15:11.996 28567 29061 D CCodecBufferChannel: [c2.android.aac.decoder#359] MediaCodec discarded an unknown buffer
+10-26 16:15:11.996 28567 29061 D CCodecBufferChannel: [c2.android.aac.decoder#359] MediaCodec discarded an unknown buffer
+10-26 16:15:11.996 28567 29061 I CCodec  : [stop][3271] component -> surface
+10-26 16:15:11.996 28567 29061 I CCodec  : [c2.android.aac.decoder] state->set(ALLOCATED)
+10-26 16:15:11.997 28567 29061 I CCodec  : [c2.android.aac.decoder] state->set(RELEASING)
+10-26 16:15:11.998 28567 29169 I CCodec  : [release][3405] component -> surface
+10-26 16:15:11.998 28567 29169 I CCodec  : [c2.android.aac.decoder] state->set(RELEASED)
+10-26 16:15:11.998 28567 29143 D libMEOW : meow delete tls: 0xb400007999136230
+10-26 16:15:11.998 28567 29061 I Codec2Client: Component destructing
+10-26 16:15:11.999 28567 29061 I MediaCodec: Codec shutdown complete
+10-26 16:15:12.002 28567 29061 I CCodecBufferChannel: CCodecBufferChannel destructing c2.android.aac.decoder#359
+10-26 16:15:12.005 28567 28567 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda16@1d8df0c
+10-26 16:15:12.007 28567 28567 I SV[55465999 VideoPlayDetailActivity]: onWindowVisibilityChanged(8) false com.google.android.exoplayer2.render.RenderSurfaceView{34e580f V.E...... ........ 1,0-1078,606} of VRI[VideoPlayDetailActivity]@18d36f3
+10-26 16:15:12.007 28567 28567 D SV[55465999 VideoPlayDetailActivity]: updateSurface: surface is not valid
+10-26 16:15:12.007 28567 28567 I SV[55465999 VideoPlayDetailActivity]: releaseSurfaces: viewRoot = VRI[VideoPlayDetailActivity]@18d36f3
+10-26 16:15:12.007 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: applyTransactionOnDraw applyImmediately
+10-26 16:15:12.008 28567 28567 I SurfaceView: 55465999 Detaching SV
+10-26 16:15:12.008 28567 28567 D SV[55465999 VideoPlayDetailActivity]: updateSurface: surface is not valid
+10-26 16:15:12.008 28567 28567 I SV[55465999 VideoPlayDetailActivity]: releaseSurfaces: viewRoot = VRI[VideoPlayDetailActivity]@18d36f3
+10-26 16:15:12.008 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: applyTransactionOnDraw applyImmediately
+10-26 16:15:12.009 28567 28567 I SV[55465999 VideoPlayDetailActivity]: onDetachedFromWindow: tryReleaseSurfaces()
+10-26 16:15:12.009 28567 28567 I SV[55465999 VideoPlayDetailActivity]: releaseSurfaces: viewRoot = VRI[VideoPlayDetailActivity]@18d36f3
+10-26 16:15:12.009 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: applyTransactionOnDraw applyImmediately
+10-26 16:15:12.009 28567 28567 D RenderSurfaceView: onSurfaceViewDetachedFromWindow
+10-26 16:15:12.010 28567 29168 I CCodec  : [c2.mtk.avc.decoder] state->set(RELEASED)
+10-26 16:15:12.010 28567 29020 I Codec2Client: Component destructing
+10-26 16:15:12.011 28567 29019 I MediaCodec: Codec shutdown complete
+10-26 16:15:12.016 28567 28651 E GraphicsTracker: cannot deallocate due to being stopped
+10-26 16:15:12.016 28567 28651 W Codec2-GraphicBufferAllocator: deallocate() 122694330745442 was not successful 1
+10-26 16:15:12.018 28567 29087 E Surface : freeAllBuffers: 1 buffers were freed while being dequeued!
+10-26 16:15:12.018 28567 29087 D BufferQueueConsumer: [unnamed-28567-7](id:6f9700000007,api:0,p:-1,c:28567) disconnect
+10-26 16:15:12.019 28567 29019 I CCodecBufferChannel: CCodecBufferChannel destructing c2.mtk.avc.decoder#948
+10-26 16:15:12.061 28567 28649 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@18d36f3#2](f:0,a:3,s:0) destructor()
+10-26 16:15:12.061 28567 28649 D BufferQueueConsumer: [VRI[VideoPlayDetailActivity]@18d36f3#2(BLAST Consumer)2](id:6f9700000002,api:0,p:-1,c:28567) disconnect
+10-26 16:15:12.061 28567 28567 D ViewRootImpl: Skipping stats log for color mode
+10-26 16:15:12.061 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: dispatchDetachedFromWindow
+10-26 16:15:12.067 28567 28567 D InputTransport: Input channel destroyed: '24ff3ca', fd=259
+10-26 16:15:12.068 28567 28567 D VRI[VideoPlayDetailActivity]@18d36f3: Pending transaction will not be applied in sync with a draw due to shutting down VRI
+10-26 16:15:12.068 28567 28567 I VRI[VideoPlayDetailActivity]@18d36f3: mWNT: t=0xb400007988f28690 mBlastBufferQueue=0xnull fn= 0 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl.handleSyncRequestWhenNoAsyncDraw:6733 android.view.ViewRootImpl.doDie:12312 android.view.ViewRootImpl.die:12237 
+10-26 16:15:12.070 28567 28567 D VRI[MainActivity]@a33ee22: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a390bf8c0}
+10-26 16:15:12.077 28567 28567 D InputMethodManagerUtils: startInputInner - Id : 0
+10-26 16:15:12.077 28567 28567 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-26 16:15:12.083 28567 28567 I InputMethodManager: handleMessage: setImeVisibility visible=false
+10-26 16:15:12.084 28567 28567 D InsetsController: hide(ime(), fromIme=false)
+10-26 16:15:12.084 28567 28567 I ImeTracker: com.fvvcl.flickverse:46174acd: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-26 16:15:12.084 28567 29087 D InputTransport: Input channel constructed: 'ClientS', fd=167
+10-26 16:15:12.469 28567 28567 I Response: 异常为：com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 4 column 15 path $.result
+10-26 16:15:16.219 28567 29029 D AidlBufferPool: bufferpool2 0xb400007a28f67378 : 0(0 size) total buffers - 0(0 size) used buffers - 740/745 (recycle/alloc) - 5/740 (fetch/transfer)
+10-26 16:15:16.220 28567 29029 D AidlBufferPoolAcc: evictor expired: 1, evicted: 1
+10-26 16:15:17.220 28567 29029 D AidlBufferPool: bufferpool2 0xb400007a28f74f28 : 0(0 size) total buffers - 0(0 size) used buffers - 558/568 (recycle/alloc) - 10/568 (fetch/transfer)
+10-26 16:15:17.220 28567 29029 D AidlBufferPoolAcc: evictor expired: 1, evicted: 1
+10-26 16:15:21.467 28567 28567 I VRI[MainActivity]@a33ee22: ViewPostIme pointer 0
+10-26 16:15:21.469 28567 28567 I VRI[MainActivity]@a33ee22: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a33ee22
+10-26 16:15:21.513 28567 28567 I VRI[MainActivity]@a33ee22: ViewPostIme pointer 1
+10-26 16:15:24.525 28567 28567 I VRI[MainActivity]@a33ee22: call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@a33ee22
+10-26 16:15:28.463 28567 28567 I VRI[MainActivity]@a33ee22: ViewPostIme pointer 0
+10-26 16:15:28.474 28567 28567 I VRI[MainActivity]@a33ee22: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a33ee22
+10-26 16:15:28.477 28567 28567 I VRI[MainActivity]@a33ee22: ViewPostIme pointer 1
+10-26 16:15:28.522 28567 28678 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:15:28.559 28567 28567 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-26 16:15:28.589 28567 28567 I DecorView: setWindowBackground: isPopOver=false color=fffafafa d=android.graphics.drawable.ColorDrawable@b34b567
+10-26 16:15:28.637 28567 28567 D RenderMeasure: videoWidth = 480 videoHeight = 270
+10-26 16:15:28.639 28567 28567 D SurfaceView: 257708464 setFixedSize -1x-1 -> 480x270
+10-26 16:15:28.656 28567 28567 I lum     : mMainRect: RectF(3.0, 3.0, 65.0, 33.0)
+10-26 16:15:28.656 28567 28567 I lum     : mHeadRect: RectF(68.0, 13.0, 73.0, 23.0)
+10-26 16:15:28.759 28567 28567 D getUiMode: 1
+10-26 16:15:29.011 28567 28567 D ScrollView: initGoToTop
+10-26 16:15:29.122 28567 28567 I CircularImageView: Bitmap drawable!
+10-26 16:15:29.172 28567 28567 I CircularImageView: Bitmap drawable!
+10-26 16:15:29.182 28567 28567 I ExoPlayerImpl: Init 5aa67cd [ExoPlayerLib/2.11.7] [m53x, SM-M536B, samsung, 36]
+10-26 16:15:29.207 28567 28567 D BaseViewModel.java: [ (BaseViewModel.java:3)#OnCreate ] onCreate
+10-26 16:15:29.233 28567 28567 I aaaaaaaaaaa: onResume---------false
+10-26 16:15:29.233 28567 28567 W AudioManager: Use of stream types is deprecated for operations other than volume control
+10-26 16:15:29.233 28567 28567 W AudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+10-26 16:15:29.238 28567 28678 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:15:29.248 28567 28567 I ViewRootImpl: dVRR is disabled
+10-26 16:15:29.251 28567 28649 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-26 16:15:29.256 28567 28567 D InputTransport: Input channel constructed: '93fd593', fd=258
+10-26 16:15:29.263 28567 28567 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3026, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 90 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(506, 0 - 574, 90), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0,0 H -12.08888888888889 V 32 H 12.08888888888889 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=101, center=Point(101, 101)}, RoundedCorner{position=TopRight, radius=101, center=Point(979, 101)}, RoundedCorner{position=BottomRight, radius=101, center=Point(979, 2299)}, RoundedCorner{position=BottomLeft, radius=101, center=Point(101, 2299)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(956, 0 - 1080, 90) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2400 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {a4750001 mType=navigationBars mFrame=[0,2358][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {a4750004 mType=systemGestures mFrame=[0,0][84,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {a4750005 mType=mandatorySystemGestures mFrame=[0,2310][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {a4750006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {a4750024 mType=systemGestures mFrame=[996,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0000 mType=statusBars mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0005 mType=mandatorySystemGestures mFrame=[0,0][1080,124] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0006 mType=tappableElement mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-26 16:15:29.265 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: synced displayState. AttachInfo displayState=2
+10-26 16:15:29.266 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: setView = com.android.internal.policy.DecorView@ce75866 IsHRR=false mFlingFrameRateChange=0 TM=true
+10-26 16:15:29.321 28567 28567 D RenderSurfaceView: onSurfaceViewAttachedToWindow
+10-26 16:15:29.321 28567 28567 I SV[51409139 VideoPlayDetailActivity]: onWindowVisibilityChanged(0) true com.google.android.exoplayer2.render.RenderSurfaceView{31070f3 V.E...... ......I. 0,0-0,0} of VRI[VideoPlayDetailActivity]@f2979cb
+10-26 16:15:29.321 28567 28567 D SurfaceView: 51409139 updateSurface: has no frame
+10-26 16:15:29.323 28567 28567 E t.a     : onScrubMove0
+10-26 16:15:29.489 28567 28567 D BufferQueueConsumer: [](id:6f9700000008,api:0,p:-1,c:28567) connect: controlledByApp=false
+10-26 16:15:29.489 28567 28567 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@f2979cb#6](f:0,a:0,s:0) constructor()
+10-26 16:15:29.490 28567 28567 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[VideoPlayDetailActivity]@f2979cb mNativeObject= 0xb400007928f68d50 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3585 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 android.view.Choreographer.doCallbacks:1367 android.view.Choreographer.doFrame:1292 android.view.Choreographer$FrameDisplayEventReceiver.run:1870 
+10-26 16:15:29.491 28567 28567 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@f2979cb mNativeObject= 0xb400007928f68d50 sc.mNativeObject= 0xb400007a98f391d0 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3590 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:15:29.491 28567 28567 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@f2979cb#6](f:0,a:0,s:0) update width=1080 height=2400 format=-3 mTransformHint=0
+10-26 16:15:29.492 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=12 res=0x3 s={true 0xb400007a39127c10} ch=true seqId=0
+10-26 16:15:29.493 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: performConfigurationChange setNightDimText nightDimLevel=0
+10-26 16:15:29.496 28567 28567 D VRI[VideoPlayDetailActivity]@f2979cb: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a39127c10} hwInitialized=true
+10-26 16:15:29.591 28567 28567 D SurfaceView: 51409139 updateSurface: has no frame
+10-26 16:15:29.598 28567 28567 D ScrollView:  onsize change changed 
+10-26 16:15:29.602 28567 28567 I SV[51409139 VideoPlayDetailActivity]: windowStopped(false) true com.google.android.exoplayer2.render.RenderSurfaceView{31070f3 V.E...... ......ID 1,0-1078,606} of VRI[VideoPlayDetailActivity]@f2979cb
+10-26 16:15:29.602 28567 28567 D SurfaceView: 51409139 updateSurface: has no frame
+10-26 16:15:29.603 28567 28567 D VRI[VideoPlayDetailActivity]@f2979cb: reportNextDraw android.view.ViewRootImpl.performTraversals:5443 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 
+10-26 16:15:29.603 28567 28567 I SurfaceView: 51409139 Changes: creating=true format=true size=true visible=true alpha=false hint=false left=true top=true z=false attached=true lifecycleStrategy=false
+10-26 16:15:29.606 28567 28567 D BufferQueueConsumer: [](id:6f9700000009,api:0,p:-1,c:28567) connect: controlledByApp=false
+10-26 16:15:29.606 28567 28567 I BLASTBufferQueue: [31070f3 SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#7](f:0,a:0,s:0) constructor()
+10-26 16:15:29.607 28567 28567 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= 31070f3 SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0 mNativeObject= 0xb400007928f70bc0 caller= android.view.SurfaceView.createBlastSurfaceControls:1781 android.view.SurfaceView.updateSurface:1450 android.view.SurfaceView.lambda$new$0:280 android.view.SurfaceView.$r8$lambda$NfZyM_TG8F8lqzaOVZ7noREFjzU:0 android.view.SurfaceView$$ExternalSyntheticLambda1.onPreDraw:0 android.view.ViewTreeObserver.dispatchOnPreDraw:1229 android.view.ViewRootImpl.performTraversals:5448 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:15:29.608 28567 28567 I BLASTBufferQueue_Java: update, w= 480 h= 270 mName = 31070f3 SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0 mNativeObject= 0xb400007928f70bc0 sc.mNativeObject= 0xb400007a98f2e010 format= 4 caller= android.view.SurfaceView.createBlastSurfaceControls:1782 android.view.SurfaceView.updateSurface:1450 android.view.SurfaceView.lambda$new$0:280 android.view.SurfaceView.$r8$lambda$NfZyM_TG8F8lqzaOVZ7noREFjzU:0 android.view.SurfaceView$$ExternalSyntheticLambda1.onPreDraw:0 android.view.ViewTreeObserver.dispatchOnPreDraw:1229 
+10-26 16:15:29.608 28567 28567 I BLASTBufferQueue: [31070f3 SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#7](f:0,a:0,s:0) update width=480 height=270 format=4 mTransformHint=0
+10-26 16:15:29.608 28567 28567 I SurfaceView: 51409139 Cur surface: Surface(name=null mNativeObject=0)/@0x63eeae4
+10-26 16:15:29.608 28567 28567 I SV[51409139 VideoPlayDetailActivity]: pST: sr = Rect(1, 90 - 1078, 696) sw = 480 sh = 270
+10-26 16:15:29.609 28567 28567 D SurfaceView: 51409139 performSurfaceTransaction RenderWorker position = [1, 90, 1078, 696] surfaceSize = 480x270
+10-26 16:15:29.609 28567 28567 I SV[51409139 VideoPlayDetailActivity]: updateSurface: mVisible = true mSurface.isValid() = true
+10-26 16:15:29.609 28567 28567 I SV[51409139 VideoPlayDetailActivity]: updateSurface: mSurfaceCreated = false surfaceChanged = true visibleChanged = true
+10-26 16:15:29.609 28567 28567 I SurfaceView: 51409139 visibleChanged -- surfaceCreated
+10-26 16:15:29.610 28567 28567 I SV[51409139 VideoPlayDetailActivity]: surfaceCreated 1 #8 com.google.android.exoplayer2.render.RenderSurfaceView{31070f3 V.E...... ......ID 1,0-1078,606}
+10-26 16:15:29.610 28567 28567 D RenderSurfaceView: <---surfaceCreated---->
+10-26 16:15:29.610 28567 28567 D com.google.android.exoplayer2.ui.ExoPlayerView: onSurfaceCreated : width = 0, height = 0
+10-26 16:15:29.610 28567 28567 I SurfaceView: 51409139 surfaceChanged -- format=4 w=480 h=270
+10-26 16:15:29.611 28567 28567 I SV[51409139 VideoPlayDetailActivity]: surfaceChanged (480,270) 2 #8 com.google.android.exoplayer2.render.RenderSurfaceView{31070f3 V.E...... ......ID 1,0-1078,606}
+10-26 16:15:29.611 28567 28567 D RenderSurfaceView: surfaceChanged : width = 480 height = 270
+10-26 16:15:29.611 28567 28567 I SurfaceView: 51409139 surfaceRedrawNeeded
+10-26 16:15:29.612 28567 28567 I SurfaceView: 51409139 finishedDrawing
+10-26 16:15:29.612 28567 28567 V SurfaceView: Layout: x=1 y=90 w=1077 h=606, frame=Rect(0, 0 - 480, 270)
+10-26 16:15:29.612 28567 28567 D VRI[VideoPlayDetailActivity]@f2979cb: Setup new sync=wmsSync-VRI[VideoPlayDetailActivity]@f2979cb#15
+10-26 16:15:29.612 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: Creating new active sync group VRI[VideoPlayDetailActivity]@f2979cb#16
+10-26 16:15:29.613 28567 28567 D VRI[VideoPlayDetailActivity]@f2979cb: registerCallbacksForSync syncBuffer=false
+10-26 16:15:29.630 28567 28649 D SurfaceView: 51409139 updateSurfacePosition RenderWorker, frameNr = 1, position = [1, 90, 1078, 696] surfaceSize = 480x270
+10-26 16:15:29.630 28567 28649 I SV[51409139 VideoPlayDetailActivity]: uSP: rtp = Rect(1, 90 - 1078, 696) rtsw = 480 rtsh = 270
+10-26 16:15:29.630 28567 28649 I SV[51409139 VideoPlayDetailActivity]: onSSPAndSRT: pl = 1 pt = 90 sx = 2.24375 sy = 2.2444444
+10-26 16:15:29.631 28567 28649 I SV[51409139 VideoPlayDetailActivity]: aOrMT: VRI[VideoPlayDetailActivity]@f2979cb t = android.view.SurfaceControl$Transaction@21caf49 fN = 1 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1932 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:401 
+10-26 16:15:29.631 28567 28649 I VRI[VideoPlayDetailActivity]@f2979cb: mWNT: t=0xb400007988f89510 mBlastBufferQueue=0xb400007928f68d50 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.SurfaceView.applyOrMergeTransaction:1863 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1932 
+10-26 16:15:29.632 28567 28687 D VRI[VideoPlayDetailActivity]@f2979cb: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-26 16:15:29.632 28567 28687 I VRI[VideoPlayDetailActivity]@f2979cb: mWNT: t=0xb400007988fd7d90 mBlastBufferQueue=0xb400007928f68d50 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15441 android.view.ThreadedRenderer$1.onFrameDraw:718 <bottom of call stack> 
+10-26 16:15:29.632 28567 28687 I VRI[VideoPlayDetailActivity]@f2979cb: Setting up sync and frameCommitCallback
+10-26 16:15:29.637 28567 28649 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@f2979cb#6](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-26 16:15:29.637 28567 28649 I BLASTBufferQueue: [VRI[VideoPlayDetailActivity]@f2979cb#6](f:0,a:1,s:0) acquireNextBufferLocked size=1080x2400 mFrameNumber=1 applyTransaction=true mTimestamp=451988262530632(auto) mPendingTransactions.size=0 graphicBufferId=122694330745443 transform=0
+10-26 16:15:29.637 28567 28649 I VRI[VideoPlayDetailActivity]@f2979cb: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-26 16:15:29.638 28567 28649 D HWUI    : CFMS:: SetUp Pid : 28567    Tid : 28649
+10-26 16:15:29.639 28567 28567 D VRI[VideoPlayDetailActivity]@f2979cb: reportDrawFinished seqId=0
+10-26 16:15:29.641 28567 28649 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+10-26 16:15:29.642 28567 28567 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-26 16:15:29.652 28567 28567 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+10-26 16:15:29.665 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-26 16:15:29.666 28567 28567 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity
+10-26 16:15:29.709 28567 28567 D VRI[VideoPlayDetailActivity]@f2979cb: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a39127c10}
+10-26 16:15:29.717 28567 28567 D InputMethodManagerUtils: startInputInner - Id : 0
+10-26 16:15:29.717 28567 28567 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-26 16:15:29.721 28567 28579 D InputTransport: Input channel constructed: 'ClientS', fd=276
+10-26 16:15:29.723 28567 28567 I InputMethodManager: handleMessage: setImeVisibility visible=false
+10-26 16:15:29.723 28567 28567 D InsetsController: hide(ime(), fromIme=false)
+10-26 16:15:29.723 28567 28567 I ImeTracker: com.fvvcl.flickverse:3befed3a: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-26 16:15:30.178 28567 28567 I VRI[MainActivity]@a33ee22: handleAppVisibility mAppVisible = true visible = false
+10-26 16:15:30.178 28567 28567 D VRI[MainActivity]@a33ee22: visibilityChanged oldVisibility=true newVisibility=false
+10-26 16:15:30.216 28567 28567 I BLASTBufferQueue: [VRI[MainActivity]@a33ee22#5](f:0,a:3,s:0) destructor()
+10-26 16:15:30.216 28567 28567 D BufferQueueConsumer: [VRI[MainActivity]@a33ee22#5(BLAST Consumer)5](id:6f9700000005,api:0,p:-1,c:28567) disconnect
+10-26 16:15:30.217 28567 28567 I VRI[MainActivity]@a33ee22: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=14 res=0x2 s={false 0x0} ch=true seqId=0
+10-26 16:15:30.218 28567 28567 D VRI[MainActivity]@a33ee22: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+10-26 16:15:30.222 28567 28567 I VRI[MainActivity]@a33ee22: stopped(true) old = false
+10-26 16:15:30.223 28567 28567 D VRI[MainActivity]@a33ee22: WindowStopped on com.fvvcl.flickverse/com.mgs.carparking.ui.MainActivity set to true
+10-26 16:15:30.262 28567 28567 I VRI[MainActivity]@a33ee22: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)8 dur=8 res=0x2 s={false 0x0} ch=false seqId=0
+10-26 16:15:30.370 28567 28678 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:15:30.394 28567 28567 D getUiMode: 1
+10-26 16:15:30.402 28567 28567 E t.a     : onScrubMove0
+10-26 16:15:30.409 28567 29195 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:15:30.413 28567 29196 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:15:30.416 28567 28567 E t.a     : onScrubMove0
+10-26 16:15:30.426 28567 28567 D t.a     : onPlayerStateChanged:2+playWhenReady:true
+10-26 16:15:30.457 28567 29198 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 16:15:30.592 28567 28567 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@f2979cb mNativeObject= 0xb400007928f68d50 sc.mNativeObject= 0xb400007a98f391d0 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3574 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:15:30.592 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=true req=(1080,2400)0 dur=1 res=0x0 s={true 0xb400007a39127c10} ch=false seqId=0
+10-26 16:15:30.593 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: updateBoundsLayer: t=android.view.SurfaceControl$Transaction@b1e1102 sc=Surface(name=Bounds for - com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@0)/@0xe880a13 frame=36
+10-26 16:15:30.614 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: registerCallbackForPendingTransactions
+10-26 16:15:30.630 28567 28567 E t.a     : onScrubMove0
+10-26 16:15:30.630 28567 28686 I VRI[VideoPlayDetailActivity]@f2979cb: mWNT: t=0xb400007988fa56d0 mBlastBufferQueue=0xb400007928f68d50 fn= 36 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:6536 android.view.ViewRootImpl$4.onFrameDraw:2489 android.view.ThreadedRenderer$1.onFrameDraw:718 
+10-26 16:15:30.645 28567 28567 E Toast   : setGravity() shouldn't be called on text toasts, the values won't be used
+10-26 16:15:30.645 28567 28567 I Toast   : setView: it's a custom toast
+10-26 16:15:30.649 28567 28567 I Toast   : show: caller = s.d.a:48 
+10-26 16:15:30.650 28567 28567 I Toast   : show: contextDispId = 0 mCustomDisplayId = -1 focusedDisplayId = 0 isActivityContext = false
+10-26 16:15:30.705 28567 28567 V ToastPresenter: yOffset = 0
+10-26 16:15:30.706 28567 28567 I WindowManager: WindowManagerGlobal#addView, ty=2005, view=android.widget.LinearLayout{8684d68 V.E...... ......I. 0,0-0,0}, caller=android.view.WindowManagerImpl.addView:158 android.widget.ToastPresenter.addToastView:424 android.widget.ToastPresenter.show:325 
+10-26 16:15:30.709 28567 28567 I ViewRootImpl: dVRR is disabled
+10-26 16:15:30.710 28567 28649 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-26 16:15:30.716 28567 28567 D InputTransport: Input channel constructed: 'cbd7f5c', fd=232
+10-26 16:15:30.722 28567 28567 I InsetsController: onStateChanged: host=Toast, from=android.view.ViewRootImpl.onInsetsStateChanged:3026, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 90 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(506, 0 - 574, 90), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0,0 H -12.08888888888889 V 32 H 12.08888888888889 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=101, center=Point(101, 101)}, RoundedCorner{position=TopRight, radius=101, center=Point(979, 101)}, RoundedCorner{position=BottomRight, radius=101, center=Point(979, 2299)}, RoundedCorner{position=BottomLeft, radius=101, center=Point(101, 2299)}]}  mRoundedCornerFrame=Rect(0, 0 - 0, 0), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(956, 0 - 1080, 90) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2400 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {a4750001 mType=navigationBars mFrame=[0,2358][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {a4750004 mType=systemGestures mFrame=[0,0][84,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {a4750005 mType=mandatorySystemGestures mFrame=[0,2310][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {a4750006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {a4750024 mType=systemGestures mFrame=[996,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0000 mType=statusBars mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0005 mType=mandatorySystemGestures mFrame=[0,0][1080,124] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {441b0006 mType=tappableElement mFrame=[0,0][1080,90] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null} }
+10-26 16:15:30.725 28567 28567 I VRI[Toast]@d634267: synced displayState. AttachInfo displayState=2
+10-26 16:15:30.725 28567 28567 I VRI[Toast]@d634267: setView = android.widget.LinearLayout@8684d68 IsHRR=false mFlingFrameRateChange=0 TM=true
+10-26 16:15:30.774 28567 28567 D BufferQueueConsumer: [](id:6f970000000a,api:0,p:-1,c:28567) connect: controlledByApp=false
+10-26 16:15:30.775 28567 28567 I BLASTBufferQueue: [VRI[Toast]@d634267#8](f:0,a:0,s:0) constructor()
+10-26 16:15:30.776 28567 28567 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[Toast]@d634267 mNativeObject= 0xb400007928f5b490 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3585 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 android.view.Choreographer.doCallbacks:1367 android.view.Choreographer.doFrame:1292 android.view.Choreographer$FrameDisplayEventReceiver.run:1870 
+10-26 16:15:30.777 28567 28567 I BLASTBufferQueue_Java: update, w= 337 h= 83 mName = VRI[Toast]@d634267 mNativeObject= 0xb400007928f5b490 sc.mNativeObject= 0xb400007a98f3a0d0 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3590 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:15:30.777 28567 28567 I BLASTBufferQueue: [VRI[Toast]@d634267#8](f:0,a:0,s:0) update width=337 height=83 format=-3 mTransformHint=0
+10-26 16:15:30.778 28567 28567 I VRI[Toast]@d634267: Relayout returned: old=(0,90,1080,2358) new=(371,1182,708,1265) relayoutAsync=false req=(337,83)0 dur=13 res=0x3 s={true 0xb400007a39141e80} ch=true seqId=0
+10-26 16:15:30.780 28567 28567 I VRI[Toast]@d634267: performConfigurationChange setNightDimText nightDimLevel=0
+10-26 16:15:30.783 28567 28567 D VRI[Toast]@d634267: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a39141e80} hwInitialized=true
+10-26 16:15:30.784 28567 28567 D VRI[Toast]@d634267: reportNextDraw android.view.ViewRootImpl.performTraversals:5443 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 
+10-26 16:15:30.785 28567 28567 D VRI[Toast]@d634267: Setup new sync=wmsSync-VRI[Toast]@d634267#17
+10-26 16:15:30.785 28567 28567 I VRI[Toast]@d634267: Creating new active sync group VRI[Toast]@d634267#18
+10-26 16:15:30.786 28567 28567 D VRI[Toast]@d634267: registerCallbacksForSync syncBuffer=false
+10-26 16:15:30.788 28567 28687 D VRI[Toast]@d634267: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-26 16:15:30.789 28567 28687 I VRI[Toast]@d634267: mWNT: t=0xb400007988feeed0 mBlastBufferQueue=0xb400007928f5b490 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15441 android.view.ThreadedRenderer$1.onFrameDraw:718 <bottom of call stack> 
+10-26 16:15:30.789 28567 28687 I VRI[Toast]@d634267: Setting up sync and frameCommitCallback
+10-26 16:15:30.792 28567 28649 I BLASTBufferQueue: [VRI[Toast]@d634267#8](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-26 16:15:30.792 28567 28649 I BLASTBufferQueue: [VRI[Toast]@d634267#8](f:0,a:1,s:0) acquireNextBufferLocked size=337x83 mFrameNumber=1 applyTransaction=true mTimestamp=451989417653093(auto) mPendingTransactions.size=0 graphicBufferId=122694330745453 transform=0
+10-26 16:15:30.792 28567 28649 I VRI[Toast]@d634267: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-26 16:15:30.795 28567 28649 D HWUI    : CFMS:: SetUp Pid : 28567    Tid : 28649
+10-26 16:15:30.796 28567 28567 D VRI[Toast]@d634267: reportDrawFinished seqId=0
+10-26 16:15:30.797 28567 28649 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+10-26 16:15:30.904 28567 28567 W System.err: java.lang.RuntimeException: Footer:com.scwang.smart.refresh.footer.BallPulseFooter{ee12861 V.E...... ........ 0,1662-1080,1831} NoMoreData is not supported.(不支持NoMoreData，请使用[ClassicsFooter]或者[自定义Footer并实现setNoMoreData方法且返回true])
+10-26 16:15:30.905 28567 28567 W System.err: 	at com.scwang.smart.refresh.layout.SmartRefreshLayout.J(SmartRefreshLayout.java:129)
+10-26 16:15:30.905 28567 28567 W System.err: 	at com.scwang.smart.refresh.layout.SmartRefreshLayout$h.run(SmartRefreshLayout.java:118)
+10-26 16:15:30.906 28567 28567 W System.err: 	at com.scwang.smart.refresh.layout.SmartRefreshLayout.p(SmartRefreshLayout.java:21)
+10-26 16:15:30.906 28567 28567 W System.err: 	at com.scwang.smart.refresh.layout.SmartRefreshLayout.r(SmartRefreshLayout.java:25)
+10-26 16:15:30.906 28567 28567 W System.err: 	at com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity.V1(VideoPlayDetailActivity.java:7)
+10-26 16:15:30.907 28567 28567 W System.err: 	at com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity.h0(Unknown Source:0)
+10-26 16:15:30.907 28567 28567 W System.err: 	at fa.m0.onChanged(Unknown Source:4)
+10-26 16:15:30.907 28567 28567 W System.err: 	at me.goldze.mvvmhabit.base.bus.event.SingleLiveEvent$a.onChanged(SingleLiveEvent.java:17)
+10-26 16:15:30.908 28567 28567 W System.err: 	at androidx.lifecycle.LiveData.considerNotify(LiveData.java:30)
+10-26 16:15:30.908 28567 28567 W System.err: 	at androidx.lifecycle.LiveData.dispatchingValue(LiveData.java:45)
+10-26 16:15:30.909 28567 28567 W System.err: 	at androidx.lifecycle.LiveData.setValue(LiveData.java:16)
+10-26 16:15:30.909 28567 28567 W System.err: 	at androidx.lifecycle.MutableLiveData.setValue(MutableLiveData.java:1)
+10-26 16:15:30.909 28567 28567 W System.err: 	at me.goldze.mvvmhabit.base.bus.event.SingleLiveEvent.setValue(SingleLiveEvent.java:7)
+10-26 16:15:30.910 28567 28567 W System.err: 	at me.goldze.mvvmhabit.base.bus.event.SingleLiveEvent.call(SingleLiveEvent.java:2)
+10-26 16:15:30.910 28567 28567 W System.err: 	at com.mgs.carparking.model.VIDEOPLAYDETAILVIEWMODEL$l.a(VIDEOPLAYDETAILVIEWMODEL.java:164)
+10-26 16:15:30.911 28567 28567 W System.err: 	at com.mgs.carparking.model.VIDEOPLAYDETAILVIEWMODEL$l.onSuccess(VIDEOPLAYDETAILVIEWMODEL.java:3)
+10-26 16:15:30.911 28567 28567 W System.err: 	at io.reactivex.internal.operators.single.SingleResumeNext$ResumeMainSingleObserver.onSuccess(SingleResumeNext.java:3)
+10-26 16:15:30.912 28567 28567 W System.err: 	at io.reactivex.internal.operators.single.SingleObserveOn$ObserveOnSingleObserver.run(SingleObserveOn.java:15)
+10-26 16:15:30.912 28567 28567 W System.err: 	at li.b$b.run(HandlerScheduler.java:3)
+10-26 16:15:30.912 28567 28567 W System.err: 	at android.os.Handler.handleCallback(Handler.java:995)
+10-26 16:15:30.913 28567 28567 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:103)
+10-26 16:15:30.913 28567 28567 W System.err: 	at android.os.Looper.loopOnce(Looper.java:273)
+10-26 16:15:30.913 28567 28567 W System.err: 	at android.os.Looper.loop(Looper.java:363)
+10-26 16:15:30.914 28567 28567 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:10060)
+10-26 16:15:30.914 28567 28567 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 16:15:30.914 28567 28567 W System.err: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:632)
+10-26 16:15:30.915 28567 28567 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:975)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer: Player is accessed on the wrong thread. See https://exoplayer.dev/issues/player-accessed-on-wrong-thread
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:   java.lang.IllegalStateException
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:       at k3.u0.f0(SimpleExoPlayer.java:19)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:       at k3.u0.getPlaybackState(SimpleExoPlayer.java:1)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:       at t.a.H(ExoUserPlayer.java:7)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:       at com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity$j.d(VideoPlayDetailActivity.java:24)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:       at jl.c$a.run(DrawHandler.java:28)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:       at jl.c$c.b(DrawHandler.java:8)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:       at jl.a$b$f.handleMessage(CacheManagingDrawTask.java:358)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:       at android.os.Handler.dispatchMessage(Handler.java:110)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:       at android.os.Looper.loopOnce(Looper.java:273)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:       at android.os.Looper.loop(Looper.java:363)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer:       at android.os.HandlerThread.run(HandlerThread.java:85)
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer: Player is accessed on the wrong thread. See https://exoplayer.dev/issues/player-accessed-on-wrong-thread
+10-26 16:15:30.919 28567 29214 W SimpleExoPlayer: Player is accessed on the wrong thread. See https://exoplayer.dev/issues/player-accessed-on-wrong-thread
+10-26 16:15:31.100 28567 28880 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:15:31.116 28567 28880 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:15:31.138 28567 28575 I vvcl.flickverse: Background concurrent mark compact GC freed 13MB AllocSpace bytes, 148(86MB) LOS objects, 49% free, 21MB/42MB, paused 2.272ms,1.783ms total 133.638ms
+10-26 16:15:31.142 28567 28576 D InputTransport: Input channel destroyed: 'ClientS', fd=167
+10-26 16:15:31.150 28567 28901 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:15:31.192 28567 28576 D InputTransport: Input channel destroyed: 'ClientS', fd=276
+10-26 16:15:31.197 28567 28901 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:15:31.229 28567 28758 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:15:31.234 28567 28758 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:15:31.235 28567 28758 D skia    : SkJpegCodec::onGetPixels + (424, 632)
+10-26 16:15:31.235 28567 28758 I DMABUFHEAPS: Using DMA-BUF heap named: mtk_mm
+10-26 16:15:31.235 28567 28758 D skia    : stream getLength() not supported, use temp buffer for loading stream, buffer addr 0x785ed1d000 length 203176
+10-26 16:15:31.235 28567 28758 D skia    : LoadInputStreamToMem va 0x785ed1d000  size 205440
+10-26 16:15:31.253 28567 28758 D skia    : SkJpegCodec::onGetPixels -
+10-26 16:15:31.421 28567 28906 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:15:31.426 28567 28906 I Kumiho-Kumiho: getPackageName: com.fvvcl.flickverse
+10-26 16:15:31.426 28567 28906 D skia    : SkJpegCodec::onGetPixels + (592, 841)
+10-26 16:15:31.435 28567 28906 D skia    : SkJpegCodec::onGetPixels -
+10-26 16:15:31.645 28567 28567 E t.a     : onScrubMove0
+10-26 16:15:32.664 28567 28567 I WindowManager: WindowManagerGlobal#removeView, ty=2005, view=android.widget.LinearLayout{8684d68 V.E...... ........ 0,0-337,83}, caller=android.view.WindowManagerGlobal.removeView:654 android.view.WindowManagerImpl.removeViewImmediate:216 android.widget.ToastPresenter.hide:348 
+10-26 16:15:32.666 28567 28567 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda16@f40beb2
+10-26 16:15:32.681 28567 28567 I VRI[Toast]@d634267: dispatchDetachedFromWindow
+10-26 16:15:32.682 28567 28567 I BLASTBufferQueue: [VRI[Toast]@d634267#8](f:0,a:1,s:0) destructor()
+10-26 16:15:32.682 28567 28567 D BufferQueueConsumer: [VRI[Toast]@d634267#8(BLAST Consumer)8](id:6f970000000a,api:0,p:-1,c:28567) disconnect
+10-26 16:15:32.699 28567 28567 D InputTransport: Input channel destroyed: 'cbd7f5c', fd=232
+10-26 16:15:32.708 28567 28567 E t.a     : onScrubMove0
+10-26 16:15:33.521 28567 29190 D MediaCodecInfo: NoSupport [sizeAndRate.support, 1920x1080x24.99964714050293] [c2.android.avc.decoder, video/avc] [m53x, SM-M536B, samsung, 36]
+10-26 16:15:33.524 28567 29190 D MediaCodecInfo: NoSupport [sizeAndRate.support, 1920x1080x24.99964714050293] [c2.android.avc.decoder, video/avc] [m53x, SM-M536B, samsung, 36]
+10-26 16:15:33.525 28567 28567 E t.a     : onScrubMove0
+10-26 16:15:33.538 28567 29190 D MediaCodecInfo: NoSupport [sizeAndRate.support, 1920x1080x24.99964714050293] [c2.android.avc.decoder, video/avc] [m53x, SM-M536B, samsung, 36]
+10-26 16:15:33.542 28567 29229 I CCodec  : state->set(ALLOCATING)
+10-26 16:15:33.542 28567 29230 I CCodec  : allocate(c2.mtk.avc.decoder)
+10-26 16:15:33.543 28567 29230 D CCodec  : allocate(c2.mtk.avc.decoder)
+10-26 16:15:33.544 28567 29230 I CCodec  : setting up 'default' as default (vendor) store
+10-26 16:15:33.559 28567 29230 W vvcl.flickverse: AIBinder_linkToDeath is being called with a non-null cookie and no onUnlink callback set. This might not be intended. AIBinder_DeathRecipient_setOnUnlinked should be called first.
+10-26 16:15:33.559 28567 29230 I CCodec  : Created component [c2.mtk.avc.decoder] for [c2.mtk.avc.decoder]
+10-26 16:15:33.559 28567 29230 I CCodec  : [c2.mtk.avc.decoder] state->set(ALLOCATED)
+10-26 16:15:33.560 28567 29230 D CCodecConfig: read media type: video/avc
+10-26 16:15:33.562 28567 29230 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+10-26 16:15:33.562 28567 29230 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+10-26 16:15:33.563 28567 29230 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+10-26 16:15:33.563 28567 29230 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+10-26 16:15:33.563 28567 29230 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+10-26 16:15:33.563 28567 29230 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+10-26 16:15:33.563 28567 29230 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+10-26 16:15:33.565 28567 29230 D ReflectedParamUpdater: ignored struct field coded.color-format.locations
+10-26 16:15:33.569 28567 29230 D CCodecConfig: ignoring local param raw.size (0xd2001800) as it is already supported
+10-26 16:15:33.569 28567 29230 D CCodecConfig: ignoring local param raw.crop (0xd2001801) as it is already supported
+10-26 16:15:33.569 28567 29230 D CCodecConfig: ignoring local param default.color (0x5200180b) as it is already supported
+10-26 16:15:33.569 28567 29230 D CCodecConfig: ignoring local param raw.hdr-static-info (0xd200180a) as it is already supported
+10-26 16:15:33.569 28567 29230 I CCodec  : [c2.mtk.avc.decoder] config->initialize() : 0
+10-26 16:15:33.570 28567 29230 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+10-26 16:15:33.570 28567 29230 D CCodecConfig: c2 config diff is Dict {
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 algo.low-latency.value = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::i32 algo.priority.value = 1
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::float algo.rate.value = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::float coded.frame-rate.value = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 coded.pl.level = 20496
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 coded.pl.profile = 20481
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 default.color.matrix = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 default.color.primaries = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 default.color.range = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 default.color.transfer = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 2097152
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 input.delay.value = 4
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   string input.media-type.value = "video/avc"
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 output.delay.value = 12
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   string output.media-type.value = "video/raw"
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 raw.color.matrix = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 raw.color.primaries = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 raw.color.range = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 raw.color.transfer = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 raw.crop.height = 239
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 raw.crop.left = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 raw.crop.top = 0
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::u32 raw.crop.width = 319
+10-26 16:15:33.570 28567 29230 D CCodecConfig:   c2::float raw.hdr-static-info.master
+10-26 16:15:33.571 28567 29230 W ColorUtils: expected specified color aspects (0:0:0:0)
+10-26 16:15:33.571 28567 29230 I CCodec  : [c2.mtk.avc.decoder] config->queryConfiguration()
+10-26 16:15:33.571 28567 29230 I CCodec  : [c2.mtk.avc.decoder] mCallback->onComponentAllocated() IN
+10-26 16:15:33.571 28567 29230 I CCodec  : [c2.mtk.avc.decoder] mCallback->onComponentAllocated() OUT
+10-26 16:15:33.576 28567 29190 E MediaCodec: Media Quality Service not found.
+10-26 16:15:33.576 28567 29229 D SurfaceUtils: connecting to surface 0xb400007a390d94d0, reason connectToSurface
+10-26 16:15:33.576 28567 29229 I MediaCodec: [c2.mtk.avc.decoder] setting surface generation to 29252611
+10-26 16:15:33.576 28567 29229 D SurfaceUtils: disconnecting from surface 0xb400007a390d94d0, reason connectToSurface(reconnect)
+10-26 16:15:33.576 28567 29229 D SurfaceUtils: connecting to surface 0xb400007a390d94c0, reason connectToSurface(reconnect-with-listener)
+10-26 16:15:33.577 28567 29230 D CCodec  : [c2.mtk.avc.decoder] buffers are bound to CCodec for this session
+10-26 16:15:33.578 28567 29230 I CCodec  : appPid(28567) width(1920) height(1080)
+10-26 16:15:33.578 28567 29230 D CCodecConfig: no c2 equivalents for csd-1
+10-26 16:15:33.578 28567 29230 D CCodecConfig: no c2 equivalents for native-window
+10-26 16:15:33.578 28567 29230 D CCodecConfig: no c2 equivalents for native-window-generation
+10-26 16:15:33.578 28567 29230 D CCodecConfig: no c2 equivalents for flags
+10-26 16:15:33.579 28567 29230 D CCodecConfig: c2 config diff is   c2::i32 algo.priority.value = 0
+10-26 16:15:33.579 28567 29230 D CCodecConfig:   c2::float coded.frame-rate.value = 24.9996
+10-26 16:15:33.579 28567 29230 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 2094080
+10-26 16:15:33.579 28567 29230 D CCodecConfig:   c2::u32 raw.max-size.height = 1080
+10-26 16:15:33.579 28567 29230 D CCodecConfig:   c2::u32 raw.max-size.width = 1920
+10-26 16:15:33.579 28567 29230 D CCodecConfig:   c2::u32 raw.pixel-format.value = 34
+10-26 16:15:33.579 28567 29230 D CCodecConfig:   c2::u32 raw.size.height = 1080
+10-26 16:15:33.579 28567 29230 D CCodecConfig:   c2::u32 raw.size.width = 1920
+10-26 16:15:33.580 28567 29230 D CCodec  : client requested max input size 270969, which is smaller than what component recommended (2094080); overriding with component recommendation.
+10-26 16:15:33.580 28567 29230 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+10-26 16:15:33.580 28567 29230 D CCodec  : encoding statistics level = 0
+10-26 16:15:33.580 28567 29230 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+10-26 16:15:33.580 28567 29230 D CCodec  :   string mime = "video/avc"
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t width = 1920
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t profile = 65536
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t priority = 0
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t frame-rate = 25
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t height = 1080
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t level = 65536
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t max-input-size = 2094080
+10-26 16:15:33.580 28567 29230 D CCodec  :   Rect crop(0, 0, 318, 238)
+10-26 16:15:33.580 28567 29230 D CCodec  : }
+10-26 16:15:33.580 28567 29230 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t android._color-format = 2130708361
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t android._video-scaling = 1
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t sar-width = 1
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t color-standard = 4
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t color-range = 2
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t color-transfer = 3
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t android._dataspace = 259
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t width = 1920
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t rotation-degrees = 0
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t sar-height = 1
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t max-width = 1920
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t max-height = 1080
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t priority = 0
+10-26 16:15:33.580 28567 29230 D CCodec  :   string mime = "video/raw"
+10-26 16:15:33.580 28567 29230 D CCodec  :   Rect crop(0, 0, 318, 238)
+10-26 16:15:33.580 28567 29230 D CCodec  :   Buffer hdr-static-info = {
+10-26 16:15:33.580 28567 29230 D CCodec  :     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+10-26 16:15:33.580 28567 29230 D CCodec  :     00000010:  00 00 00 00 00 00 00 00  00                       .........
+10-26 16:15:33.580 28567 29230 D CCodec  :   }
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t frame-rate = 25
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t height = 1080
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t color-format = 2130708361
+10-26 16:15:33.580 28567 29230 D CCodec  :   int32_t p-extraBC = 6
+10-26 16:15:33.580 28567 29230 D CCodec  : }
+10-26 16:15:33.580 28567 29230 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+10-26 16:15:33.580 28567 29230 E vvcl.flickverse: Failed to query component interface for required system resources: 6
+10-26 16:15:33.582 28567 29229 I CCodec  : [c2.mtk.avc.decoder] state->set(STARTING)
+10-26 16:15:33.596 28567 29230 D CCodecBufferChannel: [c2.mtk.avc.decoder#285] Created input block pool with allocatorID 16 => poolID 19 - OK (0)
+10-26 16:15:33.596 28567 29230 I CCodecBufferChannel: [c2.mtk.avc.decoder#285] start: max output delay 19
+10-26 16:15:33.597 28567 29230 D CCodecBufferChannel: [c2.mtk.avc.decoder#285] Query output surface allocator returned 0 params => BAD_INDEX (6)
+10-26 16:15:33.597 28567 29230 D Codec2Client: GraphicBufferAllocator created
+10-26 16:15:33.597 28567 29230 I CCodecBufferChannel: [c2.mtk.avc.decoder#285] Created output block pool with allocatorID 18 => poolID 2737 - OK
+10-26 16:15:33.598 28567 29230 D CCodecBufferChannel: [c2.mtk.avc.decoder#285] Configured output block pool ids 2737 => OK
+10-26 16:15:33.598 28567 29230 D GraphicsTracker: new surface in configuration: maxDequeueRequested(0), maxDequeueCommitted(3)
+10-26 16:15:33.598 28567 29230 D GraphicsTracker: new surface configured with id:122694330744841 gen:29252611 maxDequeue:3
+10-26 16:15:33.598 28567 29230 D GraphicsTracker: maxDequeueCount committed to IGBP: 19
+10-26 16:15:33.598 28567 29230 D GraphicsTracker: Cache size 0 -> 0: maybe_cleared(0), dequeued(0)
+10-26 16:15:33.598 28567 29230 D GraphicsTracker: maxDqueueCount change 3 -> 19: pending: 0
+10-26 16:15:33.598 28567 29230 D Codec2Client: setOutputSurface -- generation=29252611 consumer usage=0x900
+10-26 16:15:33.598 28567 29230 I CCodec  : [c2.mtk.avc.decoder] state->set(RUNNING)
+10-26 16:15:33.599 28567 29230 I CCodecBufferChannel: [c2.mtk.avc.decoder#285] 8 initial input buffers available
+10-26 16:15:33.605 28567 28581 D AidlBufferPool: bufferpool2 0xb400007a28f74f28 : 0(0 size) total buffers - 0(0 size) used buffers - 558/568 (recycle/alloc) - 10/568 (fetch/transfer)
+10-26 16:15:33.605 28567 28581 D AidlBufferPool: Destruction - bufferpool2 0xb400007a28f74f28 cached: 0/0M, 0/0% in use; allocs: 568, 98% recycled; transfers: 568, 98% unfetched
+10-26 16:15:33.606 28567 29229 W vvcl.flickverse: AIBinder_linkToDeath is being called with a non-null cookie and no onUnlink callback set. This might not be intended. AIBinder_DeathRecipient_setOnUnlinked should be called first.
+10-26 16:15:33.608 28567 29229 I MediaCodec: setCodecState state(0), called in 6, domain 1, 1
+10-26 16:15:33.625 28567 29247 I CCodec  : state->set(ALLOCATING)
+10-26 16:15:33.626 28567 29247 I CCodec  : allocate(c2.android.aac.decoder)
+10-26 16:15:33.626 28567 29247 D CCodec  : allocate(c2.android.aac.decoder)
+10-26 16:15:33.627 28567 29247 I CCodec  : setting up 'default' as default (vendor) store
+10-26 16:15:33.643 28567 29230 D CCodecConfig: c2 config diff is   c2::u32 raw.color.matrix = 1
+10-26 16:15:33.643 28567 29230 D CCodecConfig:   c2::u32 raw.color.primaries = 1
+10-26 16:15:33.643 28567 29230 D CCodecConfig:   c2::u32 raw.color.range = 2
+10-26 16:15:33.643 28567 29230 D CCodecConfig:   c2::u32 raw.color.transfer = 3
+10-26 16:15:33.643 28567 29230 I CCodecBufferChannel: [c2.mtk.avc.decoder#285] updating max output delay 19
+10-26 16:15:33.643 28567 29230 D GraphicsTracker: maxDequeueCount is already 19
+10-26 16:15:33.644 28567 28651 D AidlBufferPool: bufferpool2 0xb400007a28f67378 : 0(0 size) total buffers - 0(0 size) used buffers - 740/745 (recycle/alloc) - 5/740 (fetch/transfer)
+10-26 16:15:33.644 28567 28651 D AidlBufferPool: Destruction - bufferpool2 0xb400007a28f67378 cached: 0/0M, 0/0% in use; allocs: 745, 99% recycled; transfers: 740, 99% unfetched
+10-26 16:15:33.645 28567 29247 W vvcl.flickverse: AIBinder_linkToDeath is being called with a non-null cookie and no onUnlink callback set. This might not be intended. AIBinder_DeathRecipient_setOnUnlinked should be called first.
+10-26 16:15:33.645 28567 29247 I CCodec  : Created component [c2.android.aac.decoder] for [c2.android.aac.decoder]
+10-26 16:15:33.645 28567 29247 I CCodec  : [c2.android.aac.decoder] state->set(ALLOCATED)
+10-26 16:15:33.646 28567 29247 D CCodecConfig: read media type: audio/mp4a-latm
+10-26 16:15:33.652 28567 29247 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+10-26 16:15:33.654 28567 29247 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+10-26 16:15:33.655 28567 29247 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+10-26 16:15:33.655 28567 29247 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+10-26 16:15:33.655 28567 29247 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+10-26 16:15:33.655 28567 29247 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+10-26 16:15:33.655 28567 29247 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+10-26 16:15:33.665 28567 29247 I CCodec  : [c2.android.aac.decoder] config->initialize() : 0
+10-26 16:15:33.666 28567 29247 I CCodecConfig: query failed after returning 21 values (BAD_INDEX)
+10-26 16:15:33.666 28567 29247 D CCodecConfig: c2 config diff is Dict {
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 coded.aac-packaging.value = 0
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 coded.pl.level = 0
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 coded.pl.profile = 8192
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::i32 coding.drc.album-mode.value = 0
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::float coding.drc.attenuation-factor.value = 1
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::float coding.drc.boost-factor.value = 1
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::i32 coding.drc.compression-mode.value = 3
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::i32 coding.drc.effect-type.value = 3
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::float coding.drc.encoded-level.value = 0.25
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::float coding.drc.reference-level.value = -16
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 8192
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 input.delay.value = 0
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   string input.media-type.value = "audio/mp4a-latm"
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 output.delay.value = 2
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::float output.drc.output-loudness.value = 0.25
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 output.large-frame.max-size = 0
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 output.large-frame.threshold-size = 0
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   string output.media-type.value = "audio/raw"
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 raw.channel-mask.value = 0
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 raw.max-channel-count.value = 8
+10-26 16:15:33.666 28567 29247 D CCodecConfig:   c2::u32 raw.sample-rate.value = 44100
+10-26 16:15:33.666 28567 29247 D CCodecConfig: }
+10-26 16:15:33.666 28567 29247 I CCodec  : [c2.android.aac.decoder] config->queryConfiguration()
+10-26 16:15:33.666 28567 29247 I CCodec  : [c2.android.aac.decoder] mCallback->onComponentAllocated() IN
+10-26 16:15:33.666 28567 29247 I CCodec  : [c2.android.aac.decoder] mCallback->onComponentAllocated() OUT
+10-26 16:15:33.670 28567 29190 E MediaCodec: Media Quality Service not found.
+10-26 16:15:33.670 28567 29247 D CCodec  : [c2.android.aac.decoder] buffers are bound to CCodec for this session
+10-26 16:15:33.670 28567 29247 I CCodec  : appPid(28567) width(0) height(0)
+10-26 16:15:33.670 28567 29247 D CCodecConfig: no c2 equivalents for flags
+10-26 16:15:33.671 28567 29247 D CCodecConfig: config failed => CORRUPTED
+10-26 16:15:33.671 28567 29247 D CCodecConfig: c2 config diff is   c2::u32 raw.sample-rate.value = 48000
+10-26 16:15:33.671 28567 29247 D CCodec  : client requested max input size 617, which is smaller than what component recommended (8192); overriding with component recommendation.
+10-26 16:15:33.671 28567 29247 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+10-26 16:15:33.671 28567 29247 D CCodec  : encoding statistics level = 0
+10-26 16:15:33.672 28567 29247 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-drc-album-mode = 0
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-drc-boost-level = 127
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-drc-cut-level = 127
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-drc-effect-type = 3
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-encoded-target-level = -1
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-max-output-channel_count = 8
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-target-ref-level = 64
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t bitrate = 64000
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t channel-count = 1
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t channel-mask = 0
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t level = 0
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t max-input-size = 8192
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t max-output-channel-count = 8
+10-26 16:15:33.672 28567 29247 D CCodec  :   string mime = "audio/mp4a-latm"
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t profile = 2
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t sample-rate = 48000
+10-26 16:15:33.672 28567 29247 D CCodec  : }
+10-26 16:15:33.672 28567 29247 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-drc-album-mode = 0
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-drc-boost-level = 127
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-drc-cut-level = 127
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-drc-effect-type = 3
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-drc-output-loudness = -1
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-encoded-target-level = -1
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-max-output-channel_count = 8
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t aac-target-ref-level = 64
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t buffer-batch-max-output-size = 0
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t buffer-batch-threshold-output-size = 0
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t channel-count = 1
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t channel-mask = 0
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t max-output-channel-count = 8
+10-26 16:15:33.672 28567 29247 D CCodec  :   string mime = "audio/raw"
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t sample-rate = 48000
+10-26 16:15:33.672 28567 29247 D CCodec  :   int32_t android._config-pcm-encoding = 2
+10-26 16:15:33.672 28567 29247 D CCodec  : }
+10-26 16:15:33.672 28567 29247 I CCodecConfig: query failed after returning 21 values (BAD_INDEX)
+10-26 16:15:33.672 28567 29247 E vvcl.flickverse: Failed to query component interface for required system resources: 6
+10-26 16:15:33.674 28567 29247 I CCodec  : [c2.android.aac.decoder] state->set(STARTING)
+10-26 16:15:33.676 28567 29230 D CCodecConfig: c2 config diff is   c2::u32 raw.crop.height = 1080
+10-26 16:15:33.676 28567 29230 D CCodecConfig:   c2::u32 raw.crop.width = 1920
+10-26 16:15:33.676 28567 29230 D CCodecConfig:   c2::u32 raw.pixel-format.value = 271
+10-26 16:15:33.676 28567 29230 D CCodecBuffers: [c2.mtk.avc.decoder#285:2D-Output] popFromStashAndRegister: at 80000us, output format changed to AMessage(what = 0x00000000) = {
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t android._color-format = 271
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t android._video-scaling = 1
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t sar-width = 1
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t color-standard = 1
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t color-range = 2
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t color-transfer = 3
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t android._dataspace = 260
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t width = 1920
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t rotation-degrees = 0
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t sar-height = 1
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t max-width = 1920
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t max-height = 1080
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t priority = 0
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   string mime = "video/raw"
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   Rect crop(0, 0, 1919, 1079)
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   Buffer hdr-static-info = {
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:     00000010:  00 00 00 00 00 00 00 00  00                       .........
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   }
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t frame-rate = 25
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t height = 1080
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t color-format = 2130708361
+10-26 16:15:33.676 28567 29230 D CCodecBuffers:   int32_t p-extraBC = 6
+10-26 16:15:33.676 28567 29230 D CCodecBuffers: }
+10-26 16:15:33.678 28567 29247 D CCodecBufferChannel: [c2.android.aac.decoder#466] Created input block pool with allocatorID 16 => poolID 20 - OK (0)
+10-26 16:15:33.681 28567 29247 I CCodecBufferChannel: [c2.android.aac.decoder#466] Created output block pool with allocatorID 16 => poolID 21965 - OK
+10-26 16:15:33.681 28567 29247 D CCodecBufferChannel: [c2.android.aac.decoder#466] Configured output block pool ids 21965 => OK
+10-26 16:15:33.682 28567 29247 I CCodec  : [c2.android.aac.decoder] state->set(RUNNING)
+10-26 16:15:33.683 28567 29247 I CCodecBufferChannel: [c2.android.aac.decoder#466] 4 initial input buffers available
+10-26 16:15:33.688 28567 29247 W vvcl.flickverse: AIBinder_linkToDeath is being called with a non-null cookie and no onUnlink callback set. This might not be intended. AIBinder_DeathRecipient_setOnUnlinked should be called first.
+10-26 16:15:33.699 28567 29247 D CCodecConfig: c2 config diff is   c2::u32 raw.channel-mask.value = 4
+10-26 16:15:33.699 28567 29247 D CCodecBuffers: [c2.android.aac.decoder#466:Output[N]] popFromStashAndRegister: at 0us, output format changed to AMessage(what = 0x00000000) = {
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t aac-drc-album-mode = 0
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t aac-drc-boost-level = 127
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t aac-drc-cut-level = 127
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t aac-drc-effect-type = 3
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t aac-drc-output-loudness = -1
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t aac-encoded-target-level = -1
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t aac-max-output-channel_count = 8
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t aac-target-ref-level = 64
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t buffer-batch-max-output-size = 0
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t buffer-batch-threshold-output-size = 0
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t channel-count = 1
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t channel-mask = 4
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t max-output-channel-count = 8
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   string mime = "audio/raw"
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t sample-rate = 48000
+10-26 16:15:33.699 28567 29247 D CCodecBuffers:   int32_t android._config-pcm-encoding = 2
+10-26 16:15:33.699 28567 29247 D CCodecBuffers: }
+10-26 16:15:33.711 28567 28567 D RenderMeasure: videoWidth = 1920 videoHeight = 1080
+10-26 16:15:33.711 28567 29229 I BLASTBufferQueue: [31070f3 SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#7](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-26 16:15:33.711 28567 29229 I BLASTBufferQueue: [31070f3 SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#7](f:0,a:1,s:0) acquireNextBufferLocked size=480x270 mFrameNumber=1 applyTransaction=true mTimestamp=451992335999555 mPendingTransactions.size=0 graphicBufferId=122694330745456 transform=0
+10-26 16:15:33.712 28567 29229 I MediaCodec: setCodecState state(1), called in 6, domain 1, 1
+10-26 16:15:33.715 28567 28567 D SurfaceView: 257708464 setFixedSize 480x270 -> 1920x1080
+10-26 16:15:33.727 28567 28567 I SurfaceView: 51409139 Changes: creating=false format=false size=true visible=false alpha=false hint=false left=false top=false z=false attached=true lifecycleStrategy=false
+10-26 16:15:33.727 28567 28567 I SurfaceView: 51409139 Cur surface: Surface(name=null mNativeObject=-5476376621938993712)/@0x63eeae4
+10-26 16:15:33.728 28567 28567 I BLASTBufferQueue_Java: update, w= 1920 h= 1080 mName = 31070f3 SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0 mNativeObject= 0xb400007928f70bc0 sc.mNativeObject= 0xb400007a98f2e010 format= 4 caller= android.view.SurfaceView.setBufferSize:1703 android.view.SurfaceView.performSurfaceTransaction:1238 android.view.SurfaceView.updateSurface:1467 android.view.SurfaceView.setFrame:716 android.view.View.layout:26931 android.widget.FrameLayout.layoutChildren:345 
+10-26 16:15:33.728 28567 28567 I BLASTBufferQueue: [31070f3 SurfaceView[com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity]@0#7](f:0,a:1,s:0) update width=1920 height=1080 format=4 mTransformHint=0
+10-26 16:15:33.728 28567 28567 I SV[51409139 VideoPlayDetailActivity]: pST: sr = Rect(1, 90 - 1078, 696) sw = 1920 sh = 1080
+10-26 16:15:33.729 28567 28567 D SurfaceView: 51409139 performSurfaceTransaction RenderWorker position = [1, 90, 1078, 696] surfaceSize = 1920x1080
+10-26 16:15:33.730 28567 28567 I SV[51409139 VideoPlayDetailActivity]: updateSurface: mVisible = true mSurface.isValid() = true
+10-26 16:15:33.730 28567 28567 I SV[51409139 VideoPlayDetailActivity]: updateSurface: mSurfaceCreated = true surfaceChanged = false visibleChanged = false
+10-26 16:15:33.730 28567 28567 I SurfaceView: 51409139 surfaceChanged -- format=4 w=1920 h=1080
+10-26 16:15:33.731 28567 28567 I SV[51409139 VideoPlayDetailActivity]: surfaceChanged (1920,1080) 2 #5 com.google.android.exoplayer2.render.RenderSurfaceView{31070f3 V.E...... ......I. 1,0-1078,606}
+10-26 16:15:33.731 28567 28567 D RenderSurfaceView: surfaceChanged : width = 1920 height = 1080
+10-26 16:15:33.731 28567 28567 I SurfaceView: 51409139 surfaceRedrawNeeded
+10-26 16:15:33.733 28567 28567 I SurfaceView: 51409139 finishedDrawing
+10-26 16:15:33.734 28567 28567 V SurfaceView: Layout: x=1 y=90 w=1077 h=606, frame=Rect(0, 0 - 1920, 1080)
+10-26 16:15:33.741 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: registerCallbackForPendingTransactions
+10-26 16:15:33.746 28567 28649 D SurfaceView: 51409139 updateSurfacePosition RenderWorker, frameNr = 190, position = [1, 90, 1078, 696] surfaceSize = 1920x1080
+10-26 16:15:33.746 28567 28649 I SV[51409139 VideoPlayDetailActivity]: uSP: rtp = Rect(1, 90 - 1078, 696) rtsw = 1920 rtsh = 1080
+10-26 16:15:33.746 28567 28649 I SV[51409139 VideoPlayDetailActivity]: onSSPAndSRT: pl = 1 pt = 90 sx = 0.5609375 sy = 0.5611111
+10-26 16:15:33.747 28567 28649 I SV[51409139 VideoPlayDetailActivity]: aOrMT: VRI[VideoPlayDetailActivity]@f2979cb t = android.view.SurfaceControl$Transaction@83c69bb fN = 190 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1932 android.graphics.RenderNode$CompositePositionUpdateListener.positionChanged:401 
+10-26 16:15:33.747 28567 28649 I VRI[VideoPlayDetailActivity]@f2979cb: mWNT: t=0xb400007988fc1a50 mBlastBufferQueue=0xb400007928f68d50 fn= 190 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.SurfaceView.applyOrMergeTransaction:1863 android.view.SurfaceView.-$$Nest$mapplyOrMergeTransaction:0 android.view.SurfaceView$SurfaceViewPositionUpdateListener.positionChanged:1932 
+10-26 16:15:33.749 28567 29190 D AudioTrack: setVolume(1.000000, 1.000000) pid : 28567
+10-26 16:15:33.750 28567 28686 I VRI[VideoPlayDetailActivity]@f2979cb: mWNT: t=0xb400007988f8bb90 mBlastBufferQueue=0xb400007928f68d50 fn= 190 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:6536 android.view.ViewRootImpl$4.onFrameDraw:2489 android.view.ThreadedRenderer$1.onFrameDraw:718 
+10-26 16:15:33.874 28567 28567 E t.a     : onScrubMove0
+10-26 16:15:33.887 28567 28567 D t.a     : onPlayerStateChanged:3+playWhenReady:true
+10-26 16:15:33.889 28567 28567 D t.a     : onPlayerStateChanged:准备播放
+10-26 16:15:33.890 28567 28567 I wangyi  : 开始播放
+10-26 16:15:33.891 28567 28567 D checkAudio: Format(2, null, null, audio/mp4a-latm, null, -1, hi, [-1, -1, -1.0], [1, 48000])
+10-26 16:15:33.906 28567 28567 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[VideoPlayDetailActivity]@f2979cb mNativeObject= 0xb400007928f68d50 sc.mNativeObject= 0xb400007a98f391d0 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3574 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+10-26 16:15:33.907 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=true req=(1080,2400)0 dur=3 res=0x0 s={true 0xb400007a39127c10} ch=false seqId=0
+10-26 16:15:33.908 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: updateBoundsLayer: t=android.view.SurfaceControl$Transaction@b1e1102 sc=Surface(name=Bounds for - com.fvvcl.flickverse/com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity@0)/@0xe880a13 frame=198
+10-26 16:15:33.914 28567 29190 D AudioTrack: getTimestamp_l(14008): device stall time corrected using current time 451992539670247
+10-26 16:15:33.918 28567 29190 D MediaCodecInfo: NoSupport [sizeAndRate.support, 1920x1080x24.99964714050293] [c2.android.avc.decoder, video/avc] [m53x, SM-M536B, samsung, 36]
+10-26 16:15:33.919 28567 29190 D MediaCodecInfo: NoSupport [sizeAndRate.support, 1920x1080x24.99964714050293] [c2.android.avc.decoder, video/avc] [m53x, SM-M536B, samsung, 36]
+10-26 16:15:33.925 28567 28567 I VRI[VideoPlayDetailActivity]@f2979cb: registerCallbackForPendingTransactions
+10-26 16:15:33.932 28567 28687 I VRI[VideoPlayDetailActivity]@f2979cb: mWNT: t=0xb400007988f87c90 mBlastBufferQueue=0xb400007928f68d50 fn= 198 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:6536 android.view.ViewRootImpl$4.onFrameDraw:2489 android.view.ThreadedRenderer$1.onFrameDraw:718 
+10-26 16:15:33.934 28567 29190 D AudioTrack: getTimestamp_l(14008): stale timestamp time corrected, currentTimeNanos: 451971092603477 < limitNs: 451992270069017 < mStartNs: 451992398069017
+10-26 16:15:33.934 28567 29190 W AudioTrack: getTimestamp_l(14008): retrograde timestamp time corrected, 451992270069017 < 451992550073324
+10-26 16:15:34.887 28567 28567 E t.a     : onScrubMove867
+10-26 16:15:35.907 28567 28567 E t.a     : onScrubMove1880
+10-26 16:15:36.135 28567 28579 D PipelineWatcher: onInputBufferReleased: frameIndex not found (70); ignored
+10-26 16:15:36.934 28567 28567 E t.a     : onScrubMove2909
+10-26 16:15:37.955 28567 28567 E t.a     : onScrubMove3923
+10-26 16:15:38.854 28567 28651 D AidlBufferPool: bufferpool2 0xb400007a28fb51e8 : 9(18846720 size) total buffers - 9(18846720 size) used buffers - 137/147 (recycle/alloc) - 10/146 (fetch/transfer)
+10-26 16:15:38.976 28567 28567 E t.a     : onScrubMove4931
+10-26 16:15:39.047 28567 29247 D AidlBufferPool: bufferpool2 0xb400007a28fb2848 : 5(40960 size) total buffers - 1(8192 size) used buffers - 265/270 (recycle/alloc) - 5/269 (fetch/transfer)
+10-26 16:15:39.595 28567 29029 D AidlBufferPoolAcc: evictor expired: 2, evicted: 0
+10-26 16:15:39.996 28567 28567 E t.a     : onScrubMove5966
+10-26 16:15:41.014 28567 28567 E t.a     : onScrubMove6989
+10-26 16:15:42.039 28567 28567 E t.a     : onScrubMove8009
+10-26 16:15:43.052 28567 28567 E t.a     : onScrubMove9024
+10-26 16:15:44.044 28567 29259 D AidlBufferPool: bufferpool2 0xb400007a28fb51e8 : 9(18846720 size) total buffers - 9(18846720 size) used buffers - 267/277 (recycle/alloc) - 10/276 (fetch/transfer)
+10-26 16:15:44.075 28567 28567 E t.a     : onScrubMove10052
+10-26 16:15:44.362 28567 29065 D PipelineWatcher: onInputBufferReleased: frameIndex not found (276); ignored
+10-26 16:15:44.372 28567 29247 D AidlBufferPool: bufferpool2 0xb400007a28fb2848 : 5(40960 size) total buffers - 1(8192 size) used buffers - 515/520 (recycle/alloc) - 5/519 (fetch/transfer)
+10-26 16:15:45.094 28567 28567 E t.a     : onScrubMove11066
+10-26 16:15:46.108 28567 28567 E t.a     : onScrubMove12080
+10-26 16:15:47.133 28567 28567 E t.a     : onScrubMove13105
+10-26 16:15:48.160 28567 28567 E t.a     : onScrubMove14133
+10-26 16:15:49.177 28567 28567 E t.a     : onScrubMove15156
+10-26 16:15:49.206 28567 29065 D AidlBufferPool: bufferpool2 0xb400007a28fb51e8 : 9(18846720 size) total buffers - 9(18846720 size) used buffers - 396/406 (recycle/alloc) - 10/405 (fetch/transfer)
+10-26 16:15:49.796 28567 29247 D AidlBufferPool: bufferpool2 0xb400007a28fb2848 : 5(40960 size) total buffers - 1(8192 size) used buffers - 768/773 (recycle/alloc) - 5/772 (fetch/transfer)
+10-26 16:15:50.197 28567 28567 E t.a     : onScrubMove16157
+10-26 16:15:51.217 28567 28567 E t.a     : onScrubMove17192
+10-26 16:15:52.231 28567 28567 E t.a     : onScrubMove18195
+10-26 16:15:53.249 28567 28567 E t.a     : onScrubMove19225
+10-26 16:15:54.259 28567 28567 E t.a     : onScrubMove20237
+10-26 16:15:54.362 28567 29065 D AidlBufferPool: bufferpool2 0xb400007a28fb51e8 : 9(18846720 size) total buffers - 9(18846720 size) used buffers - 525/535 (recycle/alloc) - 10/534 (fetch/transfer)
+10-26 16:15:55.260 28567 29247 D AidlBufferPool: bufferpool2 0xb400007a28fb2848 : 5(40960 size) total buffers - 1(8192 size) used buffers - 1025/1030 (recycle/alloc) - 5/1029 (fetch/transfer)
+10-26 16:15:55.272 28567 28567 E t.a     : onScrubMove21233
+10-26 16:15:56.296 28567 28567 E t.a     : onScrubMove22270
+10-26 16:15:57.305 28567 28567 E t.a     : onScrubMove23276
+10-26 16:15:58.317 28567 28567 E t.a     : onScrubMove24295
+10-26 16:15:59.329 28567 28567 E t.a     : onScrubMove25295
+10-26 16:15:59.570 28567 28579 D AidlBufferPool: bufferpool2 0xb400007a28fb51e8 : 9(18846720 size) total buffers - 9(18846720 size) used buffers - 655/665 (recycle/alloc) - 10/664 (fetch/transfer)
+10-26 16:16:00.341 28567 28567 E t.a     : onScrubMove26302
+10-26 16:16:00.629 28567 29247 D AidlBufferPool: bufferpool2 0xb400007a28fb2848 : 5(40960 size) total buffers - 4(32768 size) used buffers - 1279/1284 (recycle/alloc) - 5/1281 (fetch/transfer)
+10-26 16:16:01.355 28567 28567 E t.a     : onScrubMove27327
+10-26 16:16:02.377 28567 28567 E t.a     : onScrubMove28352
+10-26 16:16:03.400 28567 28567 E t.a     : onScrubMove29377
+10-26 16:16:04.422 28567 28567 E t.a     : onScrubMove30395
+10-26 16:16:04.747 28567 29229 D AidlBufferPool: bufferpool2 0xb400007a28fb51e8 : 9(18846720 size) total buffers - 8(16752640 size) used buffers - 784/794 (recycle/alloc) - 10/794 (fetch/transfer)
+10-26 16:16:05.440 28567 28567 E t.a     : onScrubMove31418
+10-26 16:16:06.131 28567 29247 D AidlBufferPool: bufferpool2 0xb400007a28fb2848 : 5(40960 size) total buffers - 1(8192 size) used buffers - 1534/1539 (recycle/alloc) - 5/1538 (fetch/transfer)
+10-26 16:16:06.458 28567 28567 E t.a     : onScrubMove32428
+10-26 16:16:07.478 28567 28567 E t.a     : onScrubMove33448
+10-26 16:16:08.502 28567 28567 E t.a     : onScrubMove34461
+10-26 16:16:09.513 28567 28567 E t.a     : onScrubMove35489
+10-26 16:16:09.909 28567 29229 D AidlBufferPool: bufferpool2 0xb400007a28fb51e8 : 9(18846720 size) total buffers - 8(16752640 size) used buffers - 913/923 (recycle/alloc) - 10/923 (fetch/transfer)
+10-26 16:16:10.532 28567 28567 E t.a     : onScrubMove36500
+10-26 16:16:11.553 28567 28567 E t.a     : onScrubMove37528
+10-26 16:16:11.647 28567 29247 D AidlBufferPool: bufferpool2 0xb400007a28fb2848 : 5(40960 size) total buffers - 1(8192 size) used buffers - 1793/1798 (recycle/alloc) - 5/1797 (fetch/transfer)
+10-26 16:16:12.565 28567 28567 E t.a     : onScrubMove38543
+10-26 16:16:13.579 28567 28567 E t.a     : onScrubMove39555
+10-26 16:16:14.595 28567 28567 E t.a     : onScrubMove40559
+10-26 16:16:15.083 28567 29087 D AidlBufferPool: bufferpool2 0xb400007a28fb51e8 : 9(18846720 size) total buffers - 9(18846720 size) used buffers - 1043/1053 (recycle/alloc) - 10/1052 (fetch/transfer)
+10-26 16:16:15.612 28567 28567 E t.a     : onScrubMove41583
+10-26 16:16:16.639 28567 28567 E t.a     : onScrubMove42615
+10-26 16:16:17.013 28567 29247 D AidlBufferPool: bufferpool2 0xb400007a28fb2848 : 5(40960 size) total buffers - 1(8192 size) used buffers - 2044/2049 (recycle/alloc) - 5/2048 (fetch/transfer)
+10-26 16:16:17.659 28567 28567 E t.a     : onScrubMove43633
+10-26 16:16:18.674 28567 28567 E t.a     : onScrubMove44650
+10-26 16:16:19.693 28567 28567 E t.a     : onScrubMove45671
+10-26 16:16:20.282 28567 29229 D AidlBufferPool: bufferpool2 0xb400007a28fb51e8 : 9(18846720 size) total buffers - 8(16752640 size) used buffers - 1172/1182 (recycle/alloc) - 10/1182 (fetch/transfer)
+10-26 16:16:20.709 28567 28567 E t.a     : onScrubMove46683
+10-26 16:16:21.730 28567 28567 E t.a     : onScrubMove47686
+10-26 16:16:22.473 28567 29247 D AidlBufferPool: bufferpool2 0xb400007a28fb2848 : 5(40960 size) total buffers - 1(8192 size) used buffers - 2301/2306 (recycle/alloc) - 5/2305 (fetch/transfer)
+10-26 16:16:22.748 28567 28567 E t.a     : onScrubMove48722
+10-26 16:16:23.765 28567 28567 E t.a     : onScrubMove49737
+10-26 16:16:24.784 28567 28567 E t.a     : onScrubMove50760
+10-26 16:16:25.467 28567 29229 D AidlBufferPool: bufferpool2 0xb400007a28fb51e8 : 9(18846720 size) total buffers - 8(16752640 size) used buffers - 1302/1312 (recycle/alloc) - 10/1312 (fetch/transfer)
+10-26 16:16:25.800 28567 28567 E t.a     : onScrubMove51771
+10-26 16:16:26.821 28567 28567 E t.a     : onScrubMove52792
+10-26 16:16:27.841 28567 28567 E t.a     : onScrubMove53815
+10-26 16:16:27.977 28567 29247 D AidlBufferPool: bufferpool2 0xb400007a28fb2848 : 5(40960 size) total buffers - 1(8192 size) used buffers - 2558/2563 (recycle/alloc) - 5/2562 (fetch/transfer)

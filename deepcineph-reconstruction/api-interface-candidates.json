@@ -1,0 +1,739 @@
+[
+  {
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "annotations": [
+      {
+        "line": 78,
+        "text": "@POST(\"/api/ad/get_list\")"
+      },
+      {
+        "line": 81,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 82,
+        "text": "@POST(\"/api/log/ad\")"
+      },
+      {
+        "line": 85,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 86,
+        "text": "@POST(\"/api/eye/feed_list\")"
+      },
+      {
+        "line": 89,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 90,
+        "text": "@POST(\"/api/eye/img_category\")"
+      },
+      {
+        "line": 93,
+        "text": "@POST(\"/api/type/get_list\")"
+      },
+      {
+        "line": 96,
+        "text": "@POST(\"/api/ad/get_clipbrd\")"
+      },
+      {
+        "line": 99,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 100,
+        "text": "@POST(\"/api/user_vod/get_list\")"
+      },
+      {
+        "line": 103,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 104,
+        "text": "@POST(\"/api/user_vod/get_list\")"
+      },
+      {
+        "line": 107,
+        "text": "@POST(\"/sunshine/user/updateDeviceToken\")"
+      },
+      {
+        "line": 110,
+        "text": "@POST(\"/api/user/my_invited\")"
+      },
+      {
+        "line": 113,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 114,
+        "text": "@POST(\"/api/eye/topic\")"
+      },
+      {
+        "line": 117,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 118,
+        "text": "@POST(\"/api/user/feedback_list\")"
+      },
+      {
+        "line": 121,
+        "text": "@POST(\"/sunshine/user/getSuggestTypes\")"
+      },
+      {
+        "line": 124,
+        "text": "@POST(\"/sunshine/user/getSuggetReplyState\")"
+      },
+      {
+        "line": 127,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 128,
+        "text": "@POST(\"/api/search/screen\")"
+      },
+      {
+        "line": 131,
+        "text": "@POST(\"/sunshine/user/getDefault9headImg\")"
+      },
+      {
+        "line": 134,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 135,
+        "text": "@POST(\"/api/channel/get_list\")"
+      },
+      {
+        "line": 138,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 139,
+        "text": "@POST(\"/api/vod/info\")"
+      },
+      {
+        "line": 142,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 143,
+        "text": "@POST(\"/api/vod/info_new\")"
+      },
+      {
+        "line": 146,
+        "text": "@POST(\"/sunshine/video/showHomePageVideosForPage\")"
+      },
+      {
+        "line": 149,
+        "text": "@POST(\"/sunshine/video/getSlideVideos\")"
+      },
+      {
+        "line": 152,
+        "text": "@POST(\"/sunshine/video/getHotSearch\")"
+      },
+      {
+        "line": 155,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 156,
+        "text": "@POST(\"/api/public/login\")"
+      },
+      {
+        "line": 159,
+        "text": "@POST(\"/api/user/get_activity\")"
+      },
+      {
+        "line": 162,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 163,
+        "text": "@POST(\"/api/eye/user_history\")"
+      },
+      {
+        "line": 166,
+        "text": "@POST(\"/sunshine/user/getFavoriteList\")"
+      },
+      {
+        "line": 169,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 170,
+        "text": "@POST(\"/api/user_vod/get_list\")"
+      },
+      {
+        "line": 173,
+        "text": "@POST(\"/sunshine/user/login\")"
+      },
+      {
+        "line": 176,
+        "text": "@POST(\"/sunshine/video/getUploadVideoList\")"
+      },
+      {
+        "line": 179,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 180,
+        "text": "@POST(\"/api/user/info\")"
+      },
+      {
+        "line": 183,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 184,
+        "text": "@POST(\"/api/user/update\")"
+      },
+      {
+        "line": 187,
+        "text": "@POST(\"/api/search/hot_search\")"
+      },
+      {
+        "line": 190,
+        "text": "@POST(\"/api/vod_short/list_new\")"
+      },
+      {
+        "line": 193,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 194,
+        "text": "@POST(\"/api/order/add\")"
+      },
+      {
+        "line": 197,
+        "text": "@POST(\"/api/order/get_list\")"
+      },
+      {
+        "line": 200,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 201,
+        "text": "@POST(\"/api/public/get_sys_conf\")"
+      },
+      {
+        "line": 204,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 205,
+        "text": "@POST(\"/api/public/get_sys_conf\")"
+      },
+      {
+        "line": 208,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 209,
+        "text": "@POST(\"/api/public/get_sys_conf\")"
+      },
+      {
+        "line": 212,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 213,
+        "text": "@POST(\"/api/topic/vod_list\")"
+      },
+      {
+        "line": 216,
+        "text": "@POST(\"/sunshine/video/getRankList\")"
+      },
+      {
+        "line": 219,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 220,
+        "text": "@POST(\"/api/public/register\")"
+      },
+      {
+        "line": 223,
+        "text": "@POST(\"/sunshine/user/registerUser\")"
+      },
+      {
+        "line": 226,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 227,
+        "text": "@POST(\"/api/search/suggest\")"
+      },
+      {
+        "line": 230,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 231,
+        "text": "@POST(\"/api/search/result\")"
+      },
+      {
+        "line": 234,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 235,
+        "text": "@POST(\"/api/search/screen\")"
+      },
+      {
+        "line": 238,
+        "text": "@POST(\"/sunshine/user/getShareInfo\")"
+      },
+      {
+        "line": 241,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 242,
+        "text": "@POST(\"/api/playlet/channel_info\")"
+      },
+      {
+        "line": 245,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 246,
+        "text": "@POST(\"/api/playlet/screen\")"
+      },
+      {
+        "line": 249,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 250,
+        "text": "@POST(\"/api/playlet/type\")"
+      },
+      {
+        "line": 253,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 254,
+        "text": "@POST(\"/api/playlet/channel_list\")"
+      },
+      {
+        "line": 257,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 258,
+        "text": "@POST(\"/api/playlet/info_recommend\")"
+      },
+      {
+        "line": 261,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 262,
+        "text": "@POST(\"/api/v1/shoply\")"
+      },
+      {
+        "line": 265,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 266,
+        "text": "@POST(\"/api/playlet/back_popup\")"
+      },
+      {
+        "line": 269,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 270,
+        "text": "@POST(\"/api/playlet/suggest\")"
+      },
+      {
+        "line": 273,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 274,
+        "text": "@POST(\"/api/playlet/result\")"
+      },
+      {
+        "line": 277,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 278,
+        "text": "@POST(\"/api/playlet/topic_video_list\")"
+      },
+      {
+        "line": 281,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 282,
+        "text": "@POST(\"/api/playlet/topic_list\")"
+      },
+      {
+        "line": 285,
+        "text": "@POST(\"/sunshine/video/getShortVideoList\")"
+      },
+      {
+        "line": 288,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 289,
+        "text": "@POST(\"/api/topic/like_list\")"
+      },
+      {
+        "line": 292,
+        "text": "@POST(\"/api/vod_short/list\")"
+      },
+      {
+        "line": 295,
+        "text": "@POST(\"/sunshine/user/getFavoriteList\")"
+      },
+      {
+        "line": 298,
+        "text": "@POST(\"/sunshine/video/getPorjectVideosById\")"
+      },
+      {
+        "line": 301,
+        "text": "@POST(\"/sunshine/user/operModuleToFavorite\")"
+      },
+      {
+        "line": 304,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 305,
+        "text": "@POST(\"/api/topic/vod_list\")"
+      },
+      {
+        "line": 308,
+        "text": "@POST(\"/sunshine/video/projectList\")"
+      },
+      {
+        "line": 311,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 312,
+        "text": "@POST(\"/api/topic/list\")"
+      },
+      {
+        "line": 315,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 316,
+        "text": "@POST(\"/api/data/action\")"
+      },
+      {
+        "line": 319,
+        "text": "@POST(\"/api/vod_short/list\")"
+      },
+      {
+        "line": 322,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 323,
+        "text": "@POST(\"/api/topic/list\")"
+      },
+      {
+        "line": 326,
+        "text": "@POST(\"/api/public/upload_file\")"
+      },
+      {
+        "line": 327,
+        "text": "@Multipart"
+      },
+      {
+        "line": 330,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 331,
+        "text": "@POST(\"/api/vod_info/urge_more\")"
+      },
+      {
+        "line": 334,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 335,
+        "text": "@POST(\"/api/user_vod/get_list\")"
+      },
+      {
+        "line": 338,
+        "text": "@POST(\"/sunshine/video/addCopyCodeClickNum\")"
+      },
+      {
+        "line": 341,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 342,
+        "text": "@POST(\"/api/eye/feed_info\")"
+      },
+      {
+        "line": 345,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 346,
+        "text": "@POST(\"/api/invited/vod_share\")"
+      },
+      {
+        "line": 349,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 350,
+        "text": "@POST(\"/api/payment/get_list\")"
+      },
+      {
+        "line": 353,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 354,
+        "text": "@POST(\"/api/public/feedback\")"
+      },
+      {
+        "line": 357,
+        "text": "@POST(\"/api/playlet/index_recommend\")"
+      },
+      {
+        "line": 360,
+        "text": "@POST(\"/api/user/active_vip\")"
+      },
+      {
+        "line": 363,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 364,
+        "text": "@POST(\"/api/user/down\")"
+      },
+      {
+        "line": 367,
+        "text": "@POST(\"/api/invited/my_spread\")"
+      },
+      {
+        "line": 370,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 371,
+        "text": "@POST(\"/api/public/init\")"
+      },
+      {
+        "line": 374,
+        "text": "@POST(\"/sunshine/video/getVideoByCopyCode\")"
+      },
+      {
+        "line": 377,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 378,
+        "text": "@POST(\"/api/playlet/report_start_play\")"
+      },
+      {
+        "line": 381,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 382,
+        "text": "@POST(\"/api/user_vod/remove_new\")"
+      },
+      {
+        "line": 385,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 386,
+        "text": "@POST(\"/api/search/recommend\")"
+      },
+      {
+        "line": 389,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 390,
+        "text": "@POST(\"/api/channel/get_info\")"
+      },
+      {
+        "line": 393,
+        "text": "@POST(\"/sunshine/video/newChangeBatch\")"
+      },
+      {
+        "line": 396,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 397,
+        "text": "@POST(\"/api/topic/change\")"
+      },
+      {
+        "line": 400,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 401,
+        "text": "@POST(\"/api/topic/vod_list\")"
+      },
+      {
+        "line": 404,
+        "text": "@POST(\"/sunshine/video/getHomePageFilterCondition\")"
+      },
+      {
+        "line": 407,
+        "text": "@POST(\"/sunshine/video/getSimpleWordsFilter\")"
+      },
+      {
+        "line": 410,
+        "text": "@POST(\"/sunshine/video/getHomePageVides\")"
+      },
+      {
+        "line": 413,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 414,
+        "text": "@POST(\"/api/barrage/add\")"
+      },
+      {
+        "line": 417,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 418,
+        "text": "@POST(\"/api/discuss/add\")"
+      },
+      {
+        "line": 421,
+        "text": "@POST(\"/sunshine/video/addPlayError\")"
+      },
+      {
+        "line": 424,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 425,
+        "text": "@POST(\"/api/barrage/get_list\")"
+      },
+      {
+        "line": 428,
+        "text": "@POST(\"/sunshine/user/cancelFavorite\")"
+      },
+      {
+        "line": 431,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 432,
+        "text": "@POST(\"/api/user_vod/add\")"
+      },
+      {
+        "line": 435,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 436,
+        "text": "@POST(\"/api/discuss/get_list_new\")"
+      },
+      {
+        "line": 439,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 440,
+        "text": "@POST(\"/api/user_vod/remove_topic\")"
+      },
+      {
+        "line": 443,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 444,
+        "text": "@POST(\"/api/discuss/remove\")"
+      },
+      {
+        "line": 447,
+        "text": "@POST(\"/sunshine/user/insertSuggest\")"
+      },
+      {
+        "line": 450,
+        "text": "@POST(\"/sunshine/video/addCommentReport\")"
+      },
+      {
+        "line": 453,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 454,
+        "text": "@POST(\"/api/user_history/add\")"
+      },
+      {
+        "line": 457,
+        "text": "@POST(\"/sunshine/video/showHomePageVideos\")"
+      },
+      {
+        "line": 460,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 461,
+        "text": "@POST(\"/api/eye/feed\")"
+      },
+      {
+        "line": 464,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 465,
+        "text": "@POST(\"/api/eye/search\")"
+      },
+      {
+        "line": 468,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 469,
+        "text": "@POST(\"/api/public/report_ad_info\")"
+      },
+      {
+        "line": 472,
+        "text": "@GET(\"/api/v2/site_report\")"
+      },
+      {
+        "line": 475,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 476,
+        "text": "@POST(\"/api/playlet/collect\")"
+      },
+      {
+        "line": 479,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 480,
+        "text": "@POST(\"/api/playlet/info\")"
+      },
+      {
+        "line": 483,
+        "text": "@FormUrlEncoded"
+      },
+      {
+        "line": 484,
+        "text": "@POST(\"/api/playlet/like\")"
+      }
+    ]
+  }
+]

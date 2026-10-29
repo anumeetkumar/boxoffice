@@ -33,6 +33,8 @@ try {
     Checked "$bt\apksigner.bat" @('sign','--ks','tools\debug.keystore','--ks-pass','pass:android','--key-pass','pass:android','--ks-key-alias','androiddebugkey','--v1-signing-enabled','false','--out',"$out\BoxOffice.apk","$out\boxoffice-aligned.apk")
     Checked "$bt\apksigner.bat" @('verify','--verbose','--print-certs',"$out\BoxOffice.apk")
     Checked "$bt\zipalign.exe" @('-c','-P','16','4',"$out\BoxOffice.apk")
+    Checked "$javaHome\bin\javac.exe" @('-cp','tools\apktool.jar','-d','tools\native-tracing','tools\AuditRequestFlow.java')
+    Checked "$javaHome\bin\java.exe" @('-Xmx2048m','-cp','tools\apktool.jar;tools\native-tracing','AuditRequestFlow','..\Movie.apk',"$out\BoxOffice.apk",'reports\request-flow-audit')
     Checked $python @('tools\VerifyBoxOffice.py')
     Write-Output "BoxOffice APK: $out\BoxOffice.apk"
 } finally { Pop-Location }

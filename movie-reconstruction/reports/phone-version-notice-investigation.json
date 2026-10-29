@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-26",
+  "phone": "SM-G998B",
+  "installed_apk_sha256": "262cafd73263e8d03a306763a020824f6f597a2bec58df1bd0c657970d2b7a14",
+  "latest_build_matches": true,
+  "previous_boxoffice_build_tested_on_same_phone": true,
+  "previous_build_same_notice": true,
+  "sample_opened": "Bigg Boss - Season 20 from Home recommendations",
+  "response_screen": {
+    "title": "-",
+    "year": "2000",
+    "language": "Legendado",
+    "video_notice": "This version is no longer maintained; download the latest version"
+  },
+  "latest_build_restored": true,
+  "data_cleared": false,
+  "fix_verified": false,
+  "inference": "Replacement metadata and video suggest a server-supplied fallback rather than the newly modified player controls. Exact policy, host, token and version cause not established.",
+  "needed": "APK/build details from the other phone where The Paradise and Bigg Boss currently work",
+  "evidence": [
+    "phone-version-playback-log.txt",
+    "phone-version-current-ui.xml",
+    "phone-previous-player-ui.xml",
+    "phone-previous-player.png"
+  ]
+}

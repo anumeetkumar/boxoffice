@@ -1,0 +1,12 @@
+[
+  {
+    "package": "com.fvvcl.flickverse",
+    "sha256": "983170b637179f7c83eeeaf7cece6ce2cfb763e7e883c9a674615ad9d400c30f",
+    "exact_backup_restored": true
+  },
+  {
+    "package": "com.velvetreel.shorttv",
+    "sha256": "43d84fbbea013308315b1d426216dbbd546ddc733080e7409982d8a88dfa691b",
+    "exact_backup_restored": true
+  }
+]

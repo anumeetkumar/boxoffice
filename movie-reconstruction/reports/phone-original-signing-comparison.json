@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-26",
+  "working_original_matches_Movie_apk": true,
+  "original_sha1_certificate": "d1e6b521a2f7cb72c80c67f962236671632fb13a",
+  "boxoffice_sha1_certificate": "811126d154f63935b685c4ddd9c80423370e2c1e",
+  "static_findings": {
+    "sa.e.l": "Reads installed APK certificate SHA1",
+    "sa.e.j": "Uniform integer from 0 through 19",
+    "video_detail": "S0 adds vi certificate field when j()==12",
+    "search": "Adds sr certificate field when j()==15",
+    "home": "Adds cgi certificate field when j()==8"
+  },
+  "interpretation": "Certificate-based backend handling is a strong candidate. Random reporting explains a possible delayed difference, but server-side rejection and persistence have not been observed directly.",
+  "native_playback_sdk_config": "Previously updated for local test signer; does not authorize the separate catalog backend",
+  "fixed": false,
+  "phone_left_with": "Working original APK installed by user; not uninstalled or modified in this investigation",
+  "next_requirement": "Server-side approval of replacement signing certificate, or original signing keystore and authorized build configuration",
+  "later_counterevidence": "BoxOffice emulator returned The Paradise metadata even on a request carrying its actual rebuilt vi fingerprint. Certificate reporting alone is not confirmed as cause."
+}

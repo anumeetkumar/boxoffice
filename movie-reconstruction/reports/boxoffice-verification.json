@@ -95,5 +95,8 @@
     }
   ],
   "ad_placement_getters_disabled": 25,
-  "runtime_verified": false
+  "runtime_verified": false,
+  "original_request_flow_identical_classes": 156,
+  "request_schema_verified": true,
+  "runtime_dynamic_values_equal": "Not asserted: certificate/device/session/time-dependent values differ legitimately; backend acceptance remains unresolved"
 }

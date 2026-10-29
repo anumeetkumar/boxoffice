@@ -1,0 +1,69 @@
+{
+  "before": {
+    "event": "sdk.state.before",
+    "port": 7000,
+    "configuration": {
+      "redacted": true,
+      "length": 413,
+      "hmac_sha256": "290620253f1d36ae7977ef49b1547761a99914023cc9ed2db464540c6f1d129e"
+    }
+  },
+  "after": {
+    "event": "sdk.state.after",
+    "port": 7000,
+    "configuration": {
+      "redacted": true,
+      "length": 413,
+      "hmac_sha256": "290620253f1d36ae7977ef49b1547761a99914023cc9ed2db464540c6f1d129e"
+    }
+  },
+  "configuration_changed": false,
+  "native_reloads": [
+    {
+      "event": "native.sdk.loaded",
+      "package": "com.fvvcl.flickverse",
+      "channel": "63",
+      "configuration": {
+        "redacted": true,
+        "length": 413,
+        "hmac_sha256": "290620253f1d36ae7977ef49b1547761a99914023cc9ed2db464540c6f1d129e"
+      },
+      "mode": "1",
+      "returned_port": 7000
+    }
+  ],
+  "responses": [
+    {
+      "path": "/api/vod/info_new",
+      "conf_key": null,
+      "http_status": 200,
+      "title": "-"
+    },
+    {
+      "path": "/api/vod/info_new",
+      "conf_key": null,
+      "http_status": 200,
+      "title": "-"
+    },
+    {
+      "path": "/api/public/get_sys_conf",
+      "conf_key": "p2p_config",
+      "http_status": 200,
+      "title": null
+    },
+    {
+      "path": "/api/vod/info_new",
+      "conf_key": null,
+      "http_status": 200,
+      "title": "-"
+    },
+    {
+      "path": "/api/vod/info_new",
+      "conf_key": null,
+      "http_status": 200,
+      "title": "-"
+    }
+  ],
+  "result": "Configuration fetched through original sa.c.h(true), native SDK reloaded at port 7000; replacement metadata persisted",
+  "fixed": false
+}

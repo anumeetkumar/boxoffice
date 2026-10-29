@@ -1,0 +1,187 @@
+{
+  "provider": "deepcine",
+  "targets": [
+    {
+      "label": "street-fighter",
+      "id": 549547103,
+      "title": "Street Fighter"
+    },
+    {
+      "label": "paradise",
+      "id": 2084552761,
+      "title": "The Paradise"
+    },
+    {
+      "label": "bigg-boss",
+      "id": 1086548402,
+      "title": "Bigg Boss OTT - Season 3"
+    }
+  ],
+  "results": [
+    {
+      "operation": "filters",
+      "case_id": "filters",
+      "completed": true,
+      "elapsed_ms": 932
+    },
+    {
+      "operation": "channels",
+      "case_id": "channels",
+      "completed": true,
+      "elapsed_ms": 543
+    },
+    {
+      "operation": "hot",
+      "case_id": "hot-search",
+      "completed": true,
+      "elapsed_ms": 1123
+    },
+    {
+      "operation": "config",
+      "case_id": "p2p-config",
+      "completed": true,
+      "elapsed_ms": 463
+    },
+    {
+      "operation": "suggest",
+      "case_id": "suggest-bigg-boss",
+      "completed": true,
+      "elapsed_ms": 571
+    },
+    {
+      "operation": "search",
+      "case_id": "search-street-fighter",
+      "completed": true,
+      "elapsed_ms": 1291
+    },
+    {
+      "operation": "search",
+      "case_id": "search-paradise",
+      "completed": true,
+      "elapsed_ms": 870
+    },
+    {
+      "operation": "search",
+      "case_id": "search-bigg-boss",
+      "completed": true,
+      "elapsed_ms": 567
+    },
+    {
+      "operation": "search",
+      "case_id": "search-bigg-boss-20",
+      "completed": true,
+      "elapsed_ms": 536
+    },
+    {
+      "operation": "search",
+      "case_id": "search-bigg-boss-21",
+      "completed": true,
+      "elapsed_ms": 526
+    },
+    {
+      "operation": "search",
+      "case_id": "search-bigg-boss-page-2",
+      "completed": true,
+      "elapsed_ms": 510
+    },
+    {
+      "operation": "search",
+      "case_id": "search-bigg-boss-hindi-interface",
+      "completed": true,
+      "elapsed_ms": 1191
+    },
+    {
+      "operation": "screen",
+      "case_id": "screen-latest-movies",
+      "completed": true,
+      "elapsed_ms": 1105
+    },
+    {
+      "operation": "screen",
+      "case_id": "screen-latest-tv",
+      "completed": true,
+      "elapsed_ms": 1009
+    },
+    {
+      "operation": "recommend",
+      "case_id": "recommend-movies",
+      "completed": true,
+      "elapsed_ms": 555
+    },
+    {
+      "operation": "topics",
+      "case_id": "topics-movies",
+      "completed": true,
+      "elapsed_ms": 481
+    },
+    {
+      "operation": "channel",
+      "case_id": "first-own-channel",
+      "completed": true,
+      "elapsed_ms": 2529
+    },
+    {
+      "operation": "details",
+      "case_id": "detail-street-fighter-audio-0",
+      "completed": true,
+      "elapsed_ms": 601
+    },
+    {
+      "operation": "details",
+      "case_id": "detail-street-fighter-audio-1",
+      "completed": true,
+      "elapsed_ms": 519
+    },
+    {
+      "operation": "details",
+      "case_id": "detail-street-fighter-audio-2",
+      "completed": true,
+      "elapsed_ms": 524
+    },
+    {
+      "operation": "details",
+      "case_id": "detail-paradise-audio-0",
+      "completed": true,
+      "elapsed_ms": 549
+    },
+    {
+      "operation": "details",
+      "case_id": "detail-paradise-audio-1",
+      "completed": true,
+      "elapsed_ms": 539
+    },
+    {
+      "operation": "details",
+      "case_id": "detail-paradise-audio-2",
+      "completed": true,
+      "elapsed_ms": 531
+    },
+    {
+      "operation": "details",
+      "case_id": "detail-bigg-boss-audio-0",
+      "completed": true,
+      "elapsed_ms": 969
+    },
+    {
+      "operation": "details",
+      "case_id": "detail-bigg-boss-audio-1",
+      "completed": true,
+      "elapsed_ms": 954
+    },
+    {
+      "operation": "details",
+      "case_id": "detail-bigg-boss-audio-2",
+      "completed": true,
+      "elapsed_ms": 966
+    },
+    {
+      "operation": "search",
+      "case_id": "search-street-fighter-repeat",
+      "completed": true,
+      "elapsed_ms": 917
+    }
+  ],
+  "exchanges": 27,
+  "read_only": true,
+  "original_publisher_apk_instrumented": false
+}

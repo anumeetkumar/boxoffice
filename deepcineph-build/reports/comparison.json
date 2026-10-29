@@ -1,0 +1,145 @@
+{
+  "old_sdk_configuration": "9d0ed3d8efd5204654f4e6ca4a0e52fd",
+  "new_sdk_configuration": "691c5f5ff7b2d3054de60e744c53c242",
+  "dex_to_reassemble": [
+    "classes.dex",
+    "classes3.dex"
+  ],
+  "native_comparison": [
+    {
+      "path": "lib/arm64-v8a/liballiance.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/arm64-v8a/libapminsighta.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/arm64-v8a/libapminsightb.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/arm64-v8a/libapplovin-native-crash-reporter.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/arm64-v8a/libbuffer_pgl.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/arm64-v8a/libfile_lock_pgl.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/arm64-v8a/libjiagu_sdk_pp_hlsProtected.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/arm64-v8a/libkste.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/arm64-v8a/libnms.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/arm64-v8a/libpglarmor.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/arm64-v8a/libpp_hls.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/arm64-v8a/libsgcore.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/arm64-v8a/libsigner.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/arm64-v8a/libtt_ugen_layout.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/arm64-v8a/libut.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/arm64-v8a/libweapon.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/armeabi-v7a/liballiance.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/armeabi-v7a/libapminsighta.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/armeabi-v7a/libapminsightb.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/armeabi-v7a/libapplovin-native-crash-reporter.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/armeabi-v7a/libbuffer_pgl.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/armeabi-v7a/libfile_lock_pgl.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/armeabi-v7a/libjiagu_sdk_pp_hlsProtected.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/armeabi-v7a/libkste.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/armeabi-v7a/libnms.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/armeabi-v7a/libpglarmor.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/armeabi-v7a/libpp_hls.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/armeabi-v7a/libsgcore.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/armeabi-v7a/libsigner.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/armeabi-v7a/libtt_ugen_layout.so",
+      "same_as_movie": true
+    },
+    {
+      "path": "lib/armeabi-v7a/libut.so",
+      "same_as_movie": false
+    },
+    {
+      "path": "lib/armeabi-v7a/libweapon.so",
+      "same_as_movie": false
+    }
+  ],
+  "movie_backend": "https://moviein.ajfysu.com/",
+  "deepcine_backend": "https://velvetreel.7nkznc.com/",
+  "deepcine_app_id": "deepcineph",
+  "package": "com.velvetreel.shorttv",
+  "native_channel": "65",
+  "playback_flow": "Same verify control request pattern, device ID plus vod ID plus timestamp; response proof forwarded to /api/vod/info_new",
+  "conclusion": "Different service identity; no verified fix for the Movie backend device-specific replacement response. Rebuilt DeepCine requires independent runtime validation."
+}

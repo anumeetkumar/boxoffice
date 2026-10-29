@@ -1,0 +1,114 @@
+{
+  "provider": "deepcine",
+  "targets": [
+    {
+      "label": "paradise",
+      "id": 2077341734
+    },
+    {
+      "label": "bigg-boss-20",
+      "id": 74339693
+    }
+  ],
+  "results": [
+    {
+      "operation": "filters",
+      "case_id": "hi-filters-confirm",
+      "completed": true,
+      "elapsed_ms": 652
+    },
+    {
+      "operation": "channels",
+      "case_id": "hi-channels-confirm",
+      "completed": true,
+      "elapsed_ms": 381
+    },
+    {
+      "operation": "hot",
+      "case_id": "hi-hot-confirm",
+      "completed": true,
+      "elapsed_ms": 550
+    },
+    {
+      "operation": "suggest",
+      "case_id": "hi-suggest-bigg-boss",
+      "completed": true,
+      "elapsed_ms": 897
+    },
+    {
+      "operation": "search",
+      "case_id": "hi-source-search-paradise",
+      "completed": true,
+      "elapsed_ms": 453
+    },
+    {
+      "operation": "search",
+      "case_id": "hi-source-search-bigg-boss-20",
+      "completed": true,
+      "elapsed_ms": 412
+    },
+    {
+      "operation": "screen",
+      "case_id": "hi-screen-latest-movies",
+      "completed": true,
+      "elapsed_ms": 840
+    },
+    {
+      "operation": "screen",
+      "case_id": "hi-screen-latest-tv",
+      "completed": true,
+      "elapsed_ms": 661
+    },
+    {
+      "operation": "recommend",
+      "case_id": "hi-recommend-movies",
+      "completed": true,
+      "elapsed_ms": 572
+    },
+    {
+      "operation": "topics",
+      "case_id": "hi-topics-movies",
+      "completed": true,
+      "elapsed_ms": 443
+    },
+    {
+      "operation": "channel",
+      "case_id": "hi-first-own-channel",
+      "completed": true,
+      "elapsed_ms": 3022
+    },
+    {
+      "operation": "details",
+      "case_id": "hi-source-detail-paradise",
+      "completed": true,
+      "elapsed_ms": 430
+    },
+    {
+      "operation": "details",
+      "case_id": "hi-source-detail-bigg-boss-20",
+      "completed": true,
+      "elapsed_ms": 928
+    },
+    {
+      "operation": "search",
+      "case_id": "en-after-hindi-control",
+      "completed": true,
+      "elapsed_ms": 800
+    },
+    {
+      "operation": "search",
+      "case_id": "hi-after-english-control",
+      "completed": true,
+      "elapsed_ms": 604
+    },
+    {
+      "operation": "search",
+      "case_id": "search-street-fighter-repeat",
+      "completed": true,
+      "elapsed_ms": 794
+    }
+  ],
+  "exchanges": 18,
+  "read_only": true,
+  "original_publisher_apk_instrumented": false
+}

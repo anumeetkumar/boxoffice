@@ -1,0 +1,198 @@
+--------- beginning of main
+10-26 15:43:06.016 22107 22107 I vvcl.flickverse: Using CollectorTypeCC GC.
+10-26 15:43:06.018 22107 22107 E vvcl.flickverse: Not starting debugger since process cannot load the jdwp agent.
+10-26 15:43:06.021 22107 22107 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+10-26 15:43:06.027 22107 22107 D ActivityThread: setConscryptValidator
+10-26 15:43:06.027 22107 22107 D ActivityThread: setConscryptValidator - put
+10-26 15:43:06.115 22107 22107 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/org.apache.http.legacy.jar
+10-26 15:43:06.115 22107 22107 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+10-26 15:43:06.115 22107 22107 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+10-26 15:43:06.118 22107 22107 D nativeloader: Configuring clns-7 for other apk /data/app/~~LIsUJBBfxqNTQMTz3yr0xQ==/com.fvvcl.flickverse-NWSF3j0oB3r4GeB0eVs2YA==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~LIsUJBBfxqNTQMTz3yr0xQ==/com.fvvcl.flickverse-NWSF3j0oB3r4GeB0eVs2YA==/lib/arm64:/data/app/~~LIsUJBBfxqNTQMTz3yr0xQ==/com.fvvcl.flickverse-NWSF3j0oB3r4GeB0eVs2YA==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.fvvcl.flickverse
+10-26 15:43:06.132 22107 22107 V GraphicsEnvironment: Currently set values for:
+10-26 15:43:06.132 22107 22107 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+10-26 15:43:06.132 22107 22107 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+10-26 15:43:06.132 22107 22107 V GraphicsEnvironment: Global.Settings values are invalid: number of packages: 0, number of values: 0
+10-26 15:43:06.132 22107 22107 V GraphicsEnvironment: App is not on the allowlist for updatable production driver.
+10-26 15:43:06.140 22107 22107 I MultiDex: VM with version 2.1.0 has multidex support
+10-26 15:43:06.140 22107 22107 I MultiDex: Installing application
+10-26 15:43:06.140 22107 22107 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+10-26 15:43:06.140 22107 22107 I MultiDex: Installing application
+10-26 15:43:06.140 22107 22107 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+10-26 15:43:06.144 22107 22107 D nativeloader: Load /data/app/~~LIsUJBBfxqNTQMTz3yr0xQ==/com.fvvcl.flickverse-NWSF3j0oB3r4GeB0eVs2YA==/base.apk!/lib/arm64-v8a/libjiagu_sdk_pp_hlsProtected.so using ns clns-7 from class loader (caller=/data/app/~~LIsUJBBfxqNTQMTz3yr0xQ==/com.fvvcl.flickverse-NWSF3j0oB3r4GeB0eVs2YA==/base.apk!classes2.dex): ok
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse: ----- class 'Lcom/jiagu/sdk/pp_hlsProtected;' cl=0x15a33ea8 -----
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse:   objectSize=228 (224 from super)
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse:   access=0x0000.0001
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse:   super='java.lang.Class<java.lang.Object>' (cl=0x0)
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse:   vtable (0 entries, 11 in super):
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse:   direct methods (4 entries):
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse:      0: void com.jiagu.sdk.pp_hlsProtected.<clinit>()
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse:      1: java.lang.String com.jiagu.sdk.pp_hlsProtected.a(int)
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse:      2: void com.jiagu.sdk.pp_hlsProtected.b(android.app.Application)
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse:      3: java.lang.String com.jiagu.sdk.pp_hlsProtected.interface14(int)
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse:   static fields (1 entries):
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse:      0: java.util.Map com.jiagu.sdk.pp_hlsProtected.a
+10-26 15:43:06.153 22107 22107 E vvcl.flickverse: Failed to register native method com.jiagu.sdk.pp_hlsProtected.interface11(I)V in /data/app/~~LIsUJBBfxqNTQMTz3yr0xQ==/com.fvvcl.flickverse-NWSF3j0oB3r4GeB0eVs2YA==/base.apk!classes2.dex
+10-26 15:43:06.185 22107 22107 I MultiDex: VM with version 2.1.0 has multidex support
+10-26 15:43:06.185 22107 22107 I MultiDex: install
+10-26 15:43:06.185 22107 22107 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+10-26 15:43:06.187 22107 22107 I CustomActivityOnCrash: CustomActivityOnCrash has been installed.
+10-26 15:43:06.200 22107 22107 D WM-WrkMgrInitializer: Initializing WorkManager with default configuration.
+10-26 15:43:06.221 22107 22107 W q1.k0   : Please set a value for AutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+10-26 15:43:06.221 22107 22107 W q1.k0   : You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+10-26 15:43:06.245 22107 22107 E Myapplication: creat
+10-26 15:43:06.245 22107 22107 E Myapplication: MyApplication pid is 22107
+10-26 15:43:06.253 22107 22147 W vvcl.flickverse: ClassLoaderContext classpath size mismatch. expected=1, found=0 (DLC[];PCL[base.apk*487350534]{PCL[/system/framework/org.apache.http.legacy.jar*3637333363]#PCL[/system/system_ext/framework/org.carconnectivity.android.digitalkey.rangingintent.jar*560278203]#PCL[/system/system_ext/framework/org.carconnectivity.android.digitalkey.secureelement.jar*3277496667]#PCL[/system_ext/framework/org.carconnectivity.android.digitalkey.timesync.jar*1887653037]#PCL[/system/framework/com.android.location.provider.jar*3414091812]#PCL[/system/framework/com.android.media.remotedisplay.jar*2042759013]#PCL[/system_ext/framework/com.android.extensions.appfunctions.jar*2921093691]#PCL[/system_ext/framework/androidx.window.extensions.jar*393752484]#PCL[/system_ext/framework/androidx.window.sidecar.jar*3240773605]} | DLC[];PCL[])
+10-26 15:43:06.258 22107 22147 I DynamiteModule: Considering local module com.google.android.gms.cronet_dynamite:0 and remote module com.google.android.gms.cronet_dynamite:4911
+10-26 15:43:06.258 22107 22147 I DynamiteModule: Selected remote version of com.google.android.gms.cronet_dynamite, version >= 4911
+10-26 15:43:06.258 22107 22147 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+10-26 15:43:06.268 22107 22147 W System  : ClassLoader referenced unknown path: 
+10-26 15:43:06.268 22107 22147 D nativeloader: Configuring clns-8 for other apk . target_sdk_version=37, uses_libraries=, library_path=/data/app/~~Y_w-42RjKOocc32FfVyd8w==/com.google.android.gms-uVRByRUqcL2GG8h_mJLY0A==/lib/arm64:/data/app/~~Y_w-42RjKOocc32FfVyd8w==/com.google.android.gms-uVRByRUqcL2GG8h_mJLY0A==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.gms
+10-26 15:43:06.273 22107 22172 I SafeDK  : SafeDK Device ID: 37a7e50f-7f27-45f5-af3e-b939483ac075
+10-26 15:43:06.273 22107 22172 I SafeDK  : SafeDK version: 5.4.0
+10-26 15:43:06.276 22107 22147 W vvcl.flickverse: ClassLoaderContext classpath element checksum mismatch. expected=487350534, found=2109356215 (DLC[];PCL[base.apk*487350534]{PCL[/system/framework/org.apache.http.legacy.jar*3637333363]#PCL[/system/system_ext/framework/org.carconnectivity.android.digitalkey.rangingintent.jar*560278203]#PCL[/system/system_ext/framework/org.carconnectivity.android.digitalkey.secureelement.jar*3277496667]#PCL[/system_ext/framework/org.carconnectivity.android.digitalkey.timesync.jar*1887653037]#PCL[/system/framework/com.android.location.provider.jar*3414091812]#PCL[/system/framework/com.android.media.remotedisplay.jar*2042759013]#PCL[/system_ext/framework/com.android.extensions.appfunctions.jar*2921093691]#PCL[/system_ext/framework/androidx.window.extensions.jar*393752484]#PCL[/system_ext/framework/androidx.window.sidecar.jar*3240773605]} | DLC[];PCL[/data/app/~~LIsUJBBfxqNTQMTz3yr0xQ==/com.fvvcl.flickverse-NWSF3j0oB3r4GeB0eVs2YA==/base.apk*2109356215]{PCL[/system/framework/org.apache.http.legacy.jar*3637333363]#PCL[/system/system_ext/framework/androidx.window.extensions.jar*393752484]#PCL[/system/system_ext/framework/androidx.window.sidecar.jar*3240773605]})
+10-26 15:43:06.280 22107 22107 E conftime: AppApplicationconf开始:1793009586280
+10-26 15:43:06.304 22107 22183 E getGAID : 
+10-26 15:43:06.305 22107 22107 D CompatChangeReporter: Compat change id reported: 183155436; UID 10285; state: ENABLED
+10-26 15:43:06.312 22107 22185 I AppMetrica: AppMetrica [16603-IAA-CDE-1] Initializing of AppMetrica, Release type, Version 7.14.0, API Level 116, Dated 26.11.2025.
+--------- beginning of system
+10-26 15:43:06.327 22107 22107 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-26 15:43:06.327 22107 22107 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+10-26 15:43:06.328 22107 22182 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 15:43:06.340 22107 22183 E getGAID : gaid用户禁止获取:false
+10-26 15:43:06.341 22107 22182 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 15:43:06.344 22107 22191 W AppLocalesStorageHelper: Reading app Locales : Locales record file not found: androidx.appcompat.app.AppCompatDelegate.application_locales_record_file
+10-26 15:43:06.345 22107 22188 D HWUI    : CacheManager constructor. deviceInfo=(1080, 1920)
+10-26 15:43:06.387 22107 22107 I DecorView: setWindowBackground: isPopOver=false color=fffafafa d=android.graphics.drawable.ColorDrawable@17cc7bf
+10-26 15:43:06.397 22107 22107 D ActivityThread: com.fvvcl.flickverse will use render engine as VK
+10-26 15:43:06.449 22107 22107 I DecorView: setWindowBackground: isPopOver=false color=fff1f1f3 d=android.graphics.drawable.LayerDrawable@884c702
+10-26 15:43:06.455 22107 22183 E getGAID : gaid:82152676-452c-4fa4-a02c-5e7a27b6f11f
+10-26 15:43:06.491 22107 22185 I LevelPlaySDK: API: LevelPlay addImpressionDataListener - adding listener: c
+10-26 15:43:06.501 22107 22107 D ELog    : sql建表语句 >>>>>> CREATE TABLE IF NOT EXISTS VIDEO_SEARCH_HISTORY (CONTENT TEXT, create_time BIGINT )
+10-26 15:43:06.501 22107 22107 D ELog    : sql建表语句 >>>>>> CREATE TABLE IF NOT EXISTS download_history (url TEXT, file_name TEXT, origin_file_name TEXT, length BIGINT, progress INTEGER, curr_position BIGINT, status INTEGER, file_type INTEGER, create_time BIGINT, local_path TEXT )
+10-26 15:43:06.502 22107 22107 D ELog    : sql建表语句 >>>>>> CREATE TABLE IF NOT EXISTS video_history (audiotype TEXT, collection INTEGER, contentPosition BIGINT, coverUrl TEXT, current INTEGER, duration BIGINT, id INTEGER, is_not_share INTEGER, name TEXT, subtitletype TEXT, updateTime BIGINT, url TEXT, videoDesc TEXT, videoType INTEGER )
+10-26 15:43:06.502 22107 22107 D ELog    : sql建表语句 >>>>>> CREATE TABLE IF NOT EXISTS video_download (audio_type INTEGER, collection INTEGER, complete INTEGER, complete_name TEXT, coverUrl TEXT, down_url TEXT, id INTEGER, last_name TEXT, name TEXT, orginal_url TEXT, size BIGINT, status INTEGER, streamid TEXT, updateTime BIGINT, url TEXT, videoType INTEGER, video_position INTEGER )
+10-26 15:43:06.503 22107 22107 D ELog    : sql建表语句 >>>>>> CREATE TABLE IF NOT EXISTS video_stay (duration BIGINT, id INTEGER, name TEXT )
+10-26 15:43:06.503 22107 22107 D ELog    : sql建表语句 >>>>>> CREATE TABLE IF NOT EXISTS video_collection (id INTEGER, type_pid INTEGER, vod_actor TEXT, vod_area TEXT, vod_director TEXT, vod_douban_score TEXT, vod_name TEXT, vod_pic TEXT, vod_year TEXT )
+10-26 15:43:06.503 22107 22107 D ELog    : sql建表语句 >>>>>> CREATE TABLE IF NOT EXISTS special_collection (content TEXT, icon TEXT, id INTEGER, name TEXT, user_num INTEGER )
+10-26 15:43:06.503 22107 22107 D ELog    : sql建表语句 >>>>>> CREATE TABLE IF NOT EXISTS video_share (id INTEGER, name TEXT )
+10-26 15:43:06.504 22107 22107 D ELog    : sql建表语句 >>>>>> CREATE TABLE IF NOT EXISTS VIDEO_AD_LOOK (CONTENT TEXT, VIDEOLOOKTIME BIGINT )
+10-26 15:43:06.510 22107 22107 D ELog    : sql建表语句 >>>>>> CREATE TABLE IF NOT EXISTS ad_shownum (bannerMoreIndex INTEGER, bannerTdNum INTEGER, bannerVideoPauseIndex INTEGER, bannerWxNum INTEGER, clingRewardAdIndex INTEGER, csjInterstitialHome INTEGER, csjRewardAd INTEGER, downloadIndex INTEGER, downloadMobNum INTEGER, downloadTdNum INTEGER, downloadThirdNum INTEGER, downloadWxNum INTEGER, floatViewAdIndex INTEGER, gdtInterstitialHome INTEGER, gdtRewardAd INTEGER, id INTEGER, interstitialHomeIndex INTEGER, interstitialHomeIndex3 INTEGER, openSetInterstitialHome3 INTEGER, osetClingRewardAd INTEGER, osetVideoPause INTEGER, plaTdInfo INTEGER, plaWxInfo INTEGER, playCenterIndex INTEGER, playIndex INTEGER, playInfoIndex INTEGER, playMobInfo INTEGER, playMobNum INTEGER, plaTdCenter INTEGER, playTdNum INTEGER, playThirdCenter INTEGER, playThirdInfo INTEGER, playThirdNum INTEGER, plaWxCenter INTEGER, playWxNum INTEGER, rankBannerAdIndex INTEGER, rotationIndex INTEGER, rotationMobNum INTEGER, rotationTdNum INTEGER, rotationThirdNum INTEGER, rotationWxNum INTEGER, searchBannerAdIndex INTEGER, searchIndex INTEGER, searchTdInfo INTEGER, searchThirdInfo INTEGER, searchWxInfo INTEGER, splashIndex INTEGER, splashMobNum INTEGER, splashTdNum INTEGER, splashThirdNum INTEGER, splashWxNum INTEGER, tdRewardAd INTEGER, updateAdSetNum INTEGER, updateIndex INTEGER, updateTdNum INTEGER, updateWxNum INTEGER, wxBannerMore INTEGER, wxBannerVideoPause INTEGER, wxClingRewardAd INTEGER, wxFloatViewAd INTEGER, wxInterstitialHome3 INTEGER, wxRankBannerAd INTEGER, wxSearchBannerAd INTEGER )
+10-26 15:43:06.510 22107 22107 D ELog    : sql建表语句 >>>>>> CREATE TABLE IF NOT EXISTS video_skip (id INTEGER, progress_end INTEGER, progress_head INTEGER )
+10-26 15:43:06.517 22107 22232 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 15:43:06.517 22107 22233 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 15:43:06.518 22107 22107 E conftime: conf开始:1793009586518
+10-26 15:43:06.520 22107 22185 I LevelPlaySDK: API: r b - add impression data listener to eb
+10-26 15:43:06.520 22107 22107 I wangyi  : 应用处于前台
+10-26 15:43:06.521 22107 22107 W System.err: java.text.ParseException: Unparseable date: ""
+10-26 15:43:06.521 22107 22234 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 15:43:06.521 22107 22107 W System.err: 	at java.text.DateFormat.parse(DateFormat.java:400)
+10-26 15:43:06.521 22107 22107 W System.err: 	at sa.l0.a(TimeUtil.kt:9)
+10-26 15:43:06.521 22107 22107 W System.err: 	at sa.g.a(CacheDataUtil.java:5)
+10-26 15:43:06.521 22107 22107 W System.err: 	at com.mgs.carparking.app.AppApplication$a.a(AppApplication.java:85)
+10-26 15:43:06.521 22107 22107 W System.err: 	at xa.a$a.onActivityStarted(AppFrontBackHelper.java:23)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.Application.dispatchActivityStarted(Application.java:420)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.Activity.dispatchActivityStarted(Activity.java:1611)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.Activity.onStart(Activity.java:2169)
+10-26 15:43:06.521 22107 22107 W System.err: 	at androidx.fragment.app.FragmentActivity.onStart(FragmentActivity.java:6)
+10-26 15:43:06.521 22107 22107 W System.err: 	at androidx.appcompat.app.AppCompatActivity.onStart(AppCompatActivity.java:1)
+10-26 15:43:06.521 22107 22107 W System.err: 	at com.mgs.carparking.ui.login.splash.SplashActivity.onStart(SplashActivity.java:1)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.Instrumentation.callActivityOnStart(Instrumentation.java:1701)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.Activity.performStart(Activity.java:9406)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.ActivityThread.handleStartActivity(ActivityThread.java:4488)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:270)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:250)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.servertransaction.TransactionExecutor.executeLifecycleItem(TransactionExecutor.java:222)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:107)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:81)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2895)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.os.Looper.loopOnce(Looper.java:257)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.os.Looper.loop(Looper.java:342)
+10-26 15:43:06.521 22107 22107 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:9634)
+10-26 15:43:06.521 22107 22107 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 15:43:06.521 22107 22107 W System.err: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:619)
+10-26 15:43:06.521 22107 22107 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+10-26 15:43:06.522 22107 22185 I AppMetrica: AppMetrica [16603-IAA-CDE-1] Activate AppMetrica with APIKey 5b6fae87-xxxx-xxxx-xxxx-xxxxxxxx1029
+10-26 15:43:06.531 22107 22185 I AppMetrica: AppMetrica [16603-IAA-CDE-1] Activate reporter with APIKey 20799a27-xxxx-xxxx-xxxx-xxxxxxxx4180
+10-26 15:43:06.537 22107 22107 I ViewRootImpl: dVRR is disabled
+10-26 15:43:06.537 22107 22107 D HardwareRenderer: onDisplayChanged. displayId=0 current wxh=1080x2400 mLargest wxh=0x0
+10-26 15:43:06.537 22107 22107 D HardwareRenderer: Set largestWidth and largestHeight as logical resolution. (1080x2400)
+10-26 15:43:06.538 22107 22188 D HWUI    : setMaxSurfaceArea requested wxh=(1080,2400) requestedSurfaceArea(2592000) mMaxSurfaceArea(2073600)
+10-26 15:43:06.539 22107 22188 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+10-26 15:43:06.544 22107 22107 I InsetsController: setRequestedVisibleTypes: visible=false, mask=statusBars navigationBars captionBar, host=com.fvvcl.flickverse/com.mgs.carparking.ui.login.splash.SplashActivity, from=android.view.InsetsController.controlAnimationUnchecked:1498 android.view.InsetsController.applyAnimation:2228 android.view.InsetsController.applyAnimation:2159 android.view.InsetsController.hide:1452 android.view.InsetsController.hide:1368 android.view.ViewRootImpl.controlInsetsForCompatibility:3953 android.view.ViewRootImpl.setView:1955 android.view.WindowManagerGlobal.addView:578 android.view.WindowManagerImpl.addView:158 android.app.ActivityThread.handleResumeActivity:6060 
+10-26 15:43:06.556 22107 22107 D InputTransport: Input channel constructed: '8265a06', fd=160
+10-26 15:43:06.556 22107 22107 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.login.splash.SplashActivity, from=android.view.ViewRootImpl.setView:1999, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {1fea0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {1fea0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {1fea0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3fb10001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {3fb10004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {3fb10005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {3fb10006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {3fb10024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null} }
+10-26 15:43:06.561 22107 22107 I VRI[SplashActivity]@b420c21: synced displayState. AttachInfo displayState=2
+10-26 15:43:06.561 22107 22107 I VRI[SplashActivity]@b420c21: setView = com.android.internal.policy.DecorView@92495d IsHRR=false TM=true
+10-26 15:43:06.561 22107 22107 I IDS_TAG : Starting IDS observe window
+10-26 15:43:06.561 22107 22107 I IDS_TAG : Getting Shared Preference for com.mgs.carparking.app.AppApplication@f49bb0d uid = 10285
+10-26 15:43:06.561 22107 22107 I IDS_TAG : App com.mgs.carparking.app.AppApplication@f49bb0d has not finished training
+10-26 15:43:06.662 22107 22107 E SQLiteLog: (1) no such table: binary_data in "SELECT * FROM binary_data WHERE data_key = ?"
+10-26 15:43:06.696 22107 22188 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+10-26 15:43:06.696 22107 22107 I IDS_TAG : Closing IDS observe window
+10-26 15:43:06.696 22107 22107 I IDS_TAG : Getting Shared Preference for com.mgs.carparking.app.AppApplication@f49bb0d uid = 10285
+10-26 15:43:06.696 22107 22107 I IDS_TAG : IDS count updated to 1 for com.mgs.carparking.app.AppApplication@f49bb0d
+10-26 15:43:06.706 22107 22107 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[SplashActivity]@b420c21 mNativeObject= 0xb400007824277d30 sc.mNativeObject= 0xb40000787426d5d0 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 android.view.Choreographer.doCallbacks:1216 android.view.Choreographer.doFrame:1142 android.view.Choreographer$FrameDisplayEventReceiver.run:1707 
+10-26 15:43:06.706 22107 22107 I BLASTBufferQueue_Java: update, w= 1080 h= 2400 mName = VRI[SplashActivity]@b420c21 mNativeObject= 0xb400007824277d30 sc.mNativeObject= 0xb40000787426d5d0 format= -3 caller= android.graphics.BLASTBufferQueue.<init>:88 android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3397 android.view.ViewRootImpl.relayoutWindow:11361 android.view.ViewRootImpl.performTraversals:4544 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 
+10-26 15:43:06.707 22107 22107 I VRI[SplashActivity]@b420c21: Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) relayoutAsync=false req=(1080,2400)0 dur=6 res=0x3 s={true 0xb4000079942c3e70} ch=true seqId=0
+10-26 15:43:06.709 22107 22107 I VRI[SplashActivity]@b420c21: performConfigurationChange setNightDimText nightDimLevel=0
+10-26 15:43:06.710 22107 22107 D VRI[SplashActivity]@b420c21: mThreadedRenderer.initialize() mSurface={isValid=true 0xb4000079942c3e70} hwInitialized=true
+10-26 15:43:06.710 22107 22107 D VRI[SplashActivity]@b420c21: reportNextDraw android.view.ViewRootImpl.performTraversals:5193 android.view.ViewRootImpl.doTraversal:3708 android.view.ViewRootImpl$TraversalRunnable.run:12542 android.view.Choreographer$CallbackRecord.run:1751 android.view.Choreographer$CallbackRecord.run:1760 
+10-26 15:43:06.710 22107 22107 D VRI[SplashActivity]@b420c21: Setup new sync=wmsSync-VRI[SplashActivity]@b420c21#0
+10-26 15:43:06.711 22107 22107 I VRI[SplashActivity]@b420c21: Creating new active sync group VRI[SplashActivity]@b420c21#1
+10-26 15:43:06.712 22107 22107 D VRI[SplashActivity]@b420c21: registerCallbacksForSync syncBuffer=false
+10-26 15:43:06.718 22107 22259 D VRI[SplashActivity]@b420c21: Received frameDrawingCallback syncResult=0 frameNum=1.
+10-26 15:43:06.718 22107 22259 I VRI[SplashActivity]@b420c21: mWNT: t=0xb400007a642b0550 mBlastBufferQueue=0xb400007824277d30 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$11.onFrameDraw:15016 android.view.ThreadedRenderer$1.onFrameDraw:761 <bottom of call stack> 
+10-26 15:43:06.718 22107 22259 I VRI[SplashActivity]@b420c21: Setting up sync and frameCommitCallback
+10-26 15:43:06.736 22107 22188 I BLASTBufferQueue: [VRI[SplashActivity]@b420c21#0](f:0,a:0,s:0) onFrameAvailable the first frame is available
+10-26 15:43:06.736 22107 22188 I VRI[SplashActivity]@b420c21: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+10-26 15:43:06.737 22107 22188 D HWUI    : CFMS:: SetUp Pid : 22107    Tid : 22188
+10-26 15:43:06.737 22107 22107 D VRI[SplashActivity]@b420c21: reportDrawFinished seqId=0
+10-26 15:43:06.754 22107 22107 I InsetsController: onStateChanged: host=com.fvvcl.flickverse/com.mgs.carparking.ui.login.splash.SplashActivity, from=android.view.ViewRootImpl.handleInsetsControlChanged:2888, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2400), mDisplayCutout=DisplayCutout{insets=Rect(0, 75 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(511, 0 - 569, 75), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2400 physicalDisplayWidth=1080 physicalDisplayHeight=2400 density={2.8125} cutoutSpec={M 0, 0 H -10.4 V 26.66666666666667 H 10.4 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=100, center=Point(100, 100)}, RoundedCorner{position=TopRight, radius=100, center=Point(980, 100)}, RoundedCorner{position=BottomRight, radius=100, center=Point(980, 2300)}, RoundedCorner{position=BottomLeft, radius=100, center=Point(100, 2300)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2400), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(964, 0 - 1080, 77) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3200 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,75] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {1fea0000 mType=statusBars mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {1fea0005 mType=mandatorySystemGestures mFrame=[0,0][1080,107] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {1fea0006 mType=tappableElement mFrame=[0,0][1080,77] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3fb10001 mType=navigationBars mFrame=[0,2361][1080,2400] mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {3fb10004 mType=systemGestures mFrame=[0,0][59,2400] mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {3fb10005 mType=mandatorySystemGestures mFrame=[0,2316][1080,2400] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {3fb10006 mType=tappableElement mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {3fb10024 mType=systemGestures mFrame=[1021,0][1080,2400] mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null} }
+10-26 15:43:06.756 22107 22107 I InsetsController: controlAnimationUncheckedInner: Added types=statusBars navigationBars, animType=1, host=com.fvvcl.flickverse/com.mgs.carparking.ui.login.splash.SplashActivity, from=android.view.InsetsController.controlAnimationUnchecked:1502 android.view.InsetsController.applyAnimation:2228 android.view.InsetsController.applyAnimation:2159 
+10-26 15:43:06.756 22107 22107 I VRI[SplashActivity]@b420c21: handleResized, frames=ClientWindowFrames{frame=[0,0][1080,2400] display=[0,0][1080,2400] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+10-26 15:43:06.756 22107 22107 I VRI[SplashActivity]@b420c21: handleResized mSyncSeqId = 0
+10-26 15:43:06.756 22107 22107 D VRI[SplashActivity]@b420c21: reportNextDraw android.view.ViewRootImpl.handleResized:2864 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$W.resized:13691 android.app.servertransaction.WindowStateResizeItem.execute:64 android.app.servertransaction.WindowStateTransactionItem.execute:59 
+10-26 15:43:06.762 22107 22265 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 15:43:06.763 22107 22107 D VRI[SplashActivity]@b420c21: Setup new sync=wmsSync-VRI[SplashActivity]@b420c21#2
+10-26 15:43:06.763 22107 22107 I VRI[SplashActivity]@b420c21: Creating new active sync group VRI[SplashActivity]@b420c21#3
+10-26 15:43:06.763 22107 22107 D VRI[SplashActivity]@b420c21: registerCallbacksForSync syncBuffer=false
+10-26 15:43:06.763 22107 22260 D VRI[SplashActivity]@b420c21: Received frameDrawingCallback syncResult=0 frameNum=2.
+10-26 15:43:06.763 22107 22260 I VRI[SplashActivity]@b420c21: Setting up sync and frameCommitCallback
+10-26 15:43:06.763 22107 22188 I VRI[SplashActivity]@b420c21: Received frameCommittedCallback lastAttemptedDrawFrameNum=2 didProduceBuffer=false
+10-26 15:43:06.763 22107 22188 I BLASTBufferQueue_Java: gatherPendingTransactions, mName= VRI[SplashActivity]@b420c21 mNativeObject= 0xb400007824277d30 frameNumber= 2 caller= android.view.ViewRootImpl$11.lambda$onFrameDraw$3:15100 android.view.ViewRootImpl$11.$r8$lambda$lOIKKNnrcWn9ZndeJebfX4H5mOg:0 android.view.ViewRootImpl$11$$ExternalSyntheticLambda3.onFrameCommit:0 android.view.ThreadedRenderer$1.lambda$onFrameDraw$0:773 android.view.ThreadedRenderer$1$$ExternalSyntheticLambda0.onFrameCommit:0 <bottom of call stack> 
+10-26 15:43:06.764 22107 22107 D VRI[SplashActivity]@b420c21: reportDrawFinished seqId=0
+10-26 15:43:06.777 22107 22107 D VRI[SplashActivity]@b420c21: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb4000079942c3e70}
+10-26 15:43:06.794 22107 22107 D InputMethodManagerUtils: startInputInner - Id : 0
+10-26 15:43:06.794 22107 22107 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+10-26 15:43:06.808 22107 22124 D InputTransport: Input channel constructed: 'ClientS', fd=197
+10-26 15:43:06.818 22107 22107 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=false, type=ime, host=com.fvvcl.flickverse/com.mgs.carparking.ui.login.splash.SplashActivity
+10-26 15:43:06.908 22107 22281 E ActivityThread: Failed to find provider info for com.huawei.appmarket.commondata
+10-26 15:43:07.140 22107 22107 I InsetsController: cancelAnimation: types=statusBars navigationBars, animType=1, host=com.fvvcl.flickverse/com.mgs.carparking.ui.login.splash.SplashActivity, from=android.view.InsetsController.notifyFinished:1890 android.view.InsetsAnimationThreadControlRunner$1.lambda$notifyFinished$0:87 android.view.InsetsAnimationThreadControlRunner$1.$r8$lambda$cDFF0h4Ncq-8EXdGszv69jrUu7c:0 
+10-26 15:43:07.140 22107 22266 W InteractionJankMonitor: Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.fvvcl.flickverse
+10-26 15:43:08.060 22107 22253 I AppMetrica: AppMetrica-Attribution [16623-IAA-STE-10] Update distribution data: ClidsInfo(chosen=Candidate(clids=null, source=UNDEFINED), candidates=[]) -> ClidsInfo(chosen=Candidate(clids=null, source=APP), candidates=[Candidate(clids=null, source=APP)])
+10-26 15:43:08.061 22107 22253 I AppMetrica: AppMetrica-Attribution [16623-IAA-STE-10] Satellite content provider with clids was not found.
+10-26 15:43:08.223 22107 22253 I AppMetrica: AppMetrica-Attribution [16623-IAA-STE-10] Satellite content provider with preload info was not found.
+10-26 15:43:08.503 22107 22152 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 15:43:08.644 22107 22154 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 15:43:09.152 22107 22150 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 15:43:10.182 22107 22152 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 15:43:10.521 22107 22154 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 15:43:11.870 22107 22398 D ProfileInstaller: Installing profile for com.fvvcl.flickverse
+10-26 15:43:20.197 22107 22265 I wangyi  : 进入了
+10-26 15:43:20.199 22107 22265 I wangyi  : get net error, it will try after 1000 millisecond, retry count 0
+10-26 15:43:20.199 22107 22107 I Response: 异常为：java.net.SocketTimeoutException: timeout
+10-26 15:43:20.202 22107 22107 I wangyi  : 进入了
+10-26 15:43:20.203 22107 22107 I wangyi  : get net error, it will try after 1000 millisecond, retry count 0
+10-26 15:43:21.206 22107 22232 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 15:43:21.207 22107 22431 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 15:43:22.219 22107 22152 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 15:43:22.256 22107 22153 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 15:43:27.763 22107 22155 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 15:43:29.278 22107 22150 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 15:43:29.950 22107 22107 I Response: 异常为：java.net.SocketTimeoutException: timeout
+10-26 15:43:29.951 22107 22107 I wangyi  : 进入了
+10-26 15:43:29.952 22107 22107 I wangyi  : get net error, it will try after 1000 millisecond, retry count 0
+10-26 15:43:30.955 22107 22265 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+10-26 15:43:37.933 22107 22152 E q1.z    : {HttpStatus: 400, errorCode: 190, subErrorCode: -1, errorType: OAuthException, errorMessage: Error validating application. Application has been deleted.}
+10-26 15:43:40.974 22107 22107 I Response: 异常为：java.net.UnknownHostException: Unable to resolve host "moviein.ajfysu.com": No address associated with hostname

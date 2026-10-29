@@ -1,0 +1,64 @@
+{
+  "declared_requests": 162,
+  "unique_routes": 104,
+  "shared_routes": 39,
+  "providers": {
+    "movie": {
+      "cases_attempted": 27,
+      "calls_completed": 27,
+      "captured_exchanges": 27,
+      "distinct_routes_tested": 11,
+      "host": [
+        "moviein.ajfysu.com"
+      ],
+      "outcomes": {
+        "normal_api_response": 18,
+        "replacement_detail": 9
+      },
+      "http_interceptor_median_ms": 631,
+      "sample_note": "One bounded sequential run on S21; no media download, streaming benchmark or representative latency claim."
+    },
+    "deepcine": {
+      "cases_attempted": 27,
+      "calls_completed": 27,
+      "captured_exchanges": 27,
+      "distinct_routes_tested": 11,
+      "host": [
+        "deepcineph.7nkznc.com"
+      ],
+      "outcomes": {
+        "normal_api_response": 18,
+        "normal_detail_metadata": 9
+      },
+      "http_interceptor_median_ms": 515,
+      "sample_note": "One bounded sequential run on S21; no media download, streaming benchmark or representative latency claim."
+    }
+  },
+  "live_tested_distinct_routes": 11,
+  "candidate_title_matches": 28,
+  "language_profiles": {
+    "movie": {
+      "wire_language_header": "hi",
+      "same_returned_title_set": true,
+      "request_identity_changed": false
+    },
+    "deepcine": {
+      "wire_language_header": "hi",
+      "same_returned_title_set": false,
+      "request_identity_changed": false
+    }
+  },
+  "restoration": [
+    {
+      "package": "com.fvvcl.flickverse",
+      "sha256": "983170b637179f7c83eeeaf7cece6ce2cfb763e7e883c9a674615ad9d400c30f",
+      "exact_backup_restored": true
+    },
+    {
+      "package": "com.velvetreel.shorttv",
+      "sha256": "43d84fbbea013308315b1d426216dbbd546ddc733080e7409982d8a88dfa691b",
+      "exact_backup_restored": true
+    }
+  ],
+  "conclusion": "A provider-neutral catalog client is feasible. Use provider-specific IDs, sessions and native proof. Existing overlap permits content-match candidates; it does not supply Movie-only seasons or Hindi assets through DeepCine. Movie playback details remain replacement responses on the tested S21 session."
+}

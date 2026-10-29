@@ -1,0 +1,130 @@
+{
+  "collapsed_views": [
+    {
+      "file": "res\\layout\\activity_video_play_detail.xml",
+      "id": "vpLayout",
+      "text": ""
+    },
+    {
+      "file": "res\\layout\\activity_video_play_detail.xml",
+      "id": "joinSkipAd",
+      "text": "@string/str_join_vp"
+    },
+    {
+      "file": "res\\layout\\activity_video_play_detail.xml",
+      "id": "tvRightJoin",
+      "text": "@string/str_subscription"
+    },
+    {
+      "file": "res\\layout\\exo_playback_top_my_new.xml",
+      "id": "tv_openvip_horizontal",
+      "text": "@string/str_detail_open_vip"
+    },
+    {
+      "file": "res\\layout\\exo_playback_top_my_new.xml",
+      "id": "flPauseAd",
+      "text": ""
+    },
+    {
+      "file": "res\\layout\\fragment_mine.xml",
+      "id": "vipBg",
+      "text": ""
+    },
+    {
+      "file": "res\\layout\\fragment_mine.xml",
+      "id": "tvTopVp",
+      "text": "@string/str_join_vp_noad"
+    },
+    {
+      "file": "res\\layout\\fragment_mine.xml",
+      "id": "",
+      "text": "@string/str_subscription"
+    },
+    {
+      "file": "res\\layout\\item_tiktok.xml",
+      "id": "tvLookAD",
+      "text": "@string/text_home_detail_look_ad_lock"
+    },
+    {
+      "file": "res\\layout\\item_tiktok.xml",
+      "id": "vipAD",
+      "text": "@string/str_vip_tip1"
+    },
+    {
+      "file": "res\\layout\\layout_tiktok_controller.xml",
+      "id": "tvLookAD",
+      "text": "\u770b\u89c6\u9891\u514d\u8d39\u89e3\u9501"
+    },
+    {
+      "file": "res\\layout\\layout_tiktok_controller.xml",
+      "id": "vipAD",
+      "text": "\u4f1a\u5458\u514d\u5e7f\u544a"
+    },
+    {
+      "file": "res\\layout\\pop_layout_show_ad_download.xml",
+      "id": "tv_feedback_submit",
+      "text": "@string/str_look_ad"
+    },
+    {
+      "file": "res\\layout\\simple_exo_barrage_view.xml",
+      "id": "video_top_ad",
+      "text": ""
+    },
+    {
+      "file": "res\\layout\\simple_exo_play_ad_reward.xml",
+      "id": "iv_ad_click_player",
+      "text": "\u89c2\u770b\u5e7f\u544a"
+    },
+    {
+      "file": "res\\layout\\simple_exo_play_ad_reward.xml",
+      "id": "iv_ad_share_click_player",
+      "text": "\u63a8\u5e7f\u514d\u5e7f\u544a"
+    },
+    {
+      "file": "res\\layout\\simple_exo_play_ad_reward_my.xml",
+      "id": "",
+      "text": "@string/str_lookad_tip"
+    },
+    {
+      "file": "res\\layout\\simple_exo_play_ad_reward_my.xml",
+      "id": "",
+      "text": "@string/str_lookad_tip2"
+    },
+    {
+      "file": "res\\layout\\simple_exo_play_ad_reward_my.xml",
+      "id": "iv_ad_click_player",
+      "text": "@string/str_look_ad"
+    },
+    {
+      "file": "res\\layout\\simple_exo_play_ad_reward_my.xml",
+      "id": "iv_ad_share_click_player",
+      "text": "@string/str_detail_share"
+    },
+    {
+      "file": "res\\layout\\simple_exo_play_vip_my.xml",
+      "id": "tv_hint",
+      "text": "@string/str_viptip2"
+    },
+    {
+      "file": "res\\layout\\simple_exo_play_vip_my.xml",
+      "id": "but_vip",
+      "text": "@string/str_detail_open_vip"
+    }
+  ],
+  "removed_ad_initializers": [
+    "com.yk.e.provider.MainProvider",
+    "com.secmtp.sdk.core.api.ATInitializationProvider",
+    "com.applovin.sdk.AppLovinInitProvider",
+    "com.google.android.gms.ads.MobileAdsInitProvider",
+    "com.vungle.ads.VungleProvider",
+    "com.facebook.ads.AudienceNetworkContentProvider",
+    "com.ironsource.lifecycle.IronsourceLifecycleProvider",
+    "com.ironsource.lifecycle.LevelPlayActivityLifecycleProvider",
+    "sg.bigo.ads.controller.provider.BigoAdsProvider",
+    "com.tramini.plugin.api.TraminiContentProvider",
+    "com.smartdigimkt.sdk.api.SDMInitializationProvider",
+    "com.mbridge.msdk.config.component.status.MBComponentLifecycleProvider"
+  ],
+  "package": "com.velvetreel.shorttv",
+  "brand": "DeepCine"
+}

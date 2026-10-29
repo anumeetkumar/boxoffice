@@ -1,0 +1,13 @@
+{
+  "endpoint": "https://deepcineph.7nkznc.com/",
+  "app_language": "hi",
+  "device_model": "SM-G998B",
+  "startup_configuration_business_code": 20010,
+  "message_translation": "Request parameters are invalid",
+  "observed_message": "अनुरोध पैरामीटर अवैध है",
+  "failure_behavior": "SplashActivity.isConf(false) does not advance; process remains running",
+  "root_cause_scope": "Endpoint-only migration rejected during startup; exact invalid field not identified",
+  "credentials_logged": false,
+  "resolution": "Restore pre-update APK and original endpoint/session; candidate is not production-ready",
+  "deepcine_working_build_modified": false
+}

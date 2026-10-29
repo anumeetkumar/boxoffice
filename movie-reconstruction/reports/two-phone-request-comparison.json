@@ -1,0 +1,62 @@
+{
+  "diagnostic_apk_sha256": "b41aa55ee6327d4f4d1f8904c591caf3dbede60ffbaa44bce4237b5a748acd43",
+  "same_diagnostic_apk_on_both_phones": true,
+  "base_apk_sha256": "983170b637179f7c83eeeaf7cece6ce2cfb763e7e883c9a674615ad9d400c30f",
+  "same_certificate_sha1": "811126d154f63935b685c4ddd9c80423370e2c1e",
+  "working_phone": "SM-M536B Android 16",
+  "failing_phone": "SM-G998B Android 15",
+  "privacy": "All token, device-ID, GAID, signature and media-URL values HMAC-redacted in the app before capture; redaction key retained privately locally",
+  "pairs": [
+    {
+      "catalog_id": "2077341734",
+      "working_title": "The Paradise",
+      "failing_title": "-",
+      "working_http_status": 200,
+      "failing_http_status": 200,
+      "same_host": true,
+      "same_header_names": true,
+      "same_body_field_names": true,
+      "different_header_values": [
+        "androidid",
+        "cur_time",
+        "device_id",
+        "gaid",
+        "mobmodel",
+        "sign",
+        "sysrelease",
+        "token"
+      ],
+      "working_native_signature_forwarded": true,
+      "failing_native_signature_forwarded": true,
+      "working_native_timestamp_forwarded": true,
+      "failing_native_timestamp_forwarded": true
+    },
+    {
+      "catalog_id": "74339693",
+      "working_title": "Bigg Boss - Season 20",
+      "failing_title": "-",
+      "working_http_status": 200,
+      "failing_http_status": 200,
+      "same_host": true,
+      "same_header_names": true,
+      "same_body_field_names": true,
+      "different_header_values": [
+        "androidid",
+        "cur_time",
+        "device_id",
+        "gaid",
+        "mobmodel",
+        "sign",
+        "sysrelease",
+        "token"
+      ],
+      "working_native_signature_forwarded": true,
+      "failing_native_signature_forwarded": true,
+      "working_native_timestamp_forwarded": true,
+      "failing_native_timestamp_forwarded": true
+    }
+  ],
+  "confirmed": "Server response itself replaces requested movie metadata and URL on S21, despite identical request schema and unchanged forwarding of native proofs",
+  "not_confirmed": "Which backend rule, device/account state, native-proof validity check or routing condition caused replacement; HTTP status and response code report success without a rejection reason",
+  "playback_fix_verified": false
+}

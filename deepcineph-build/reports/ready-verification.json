@@ -1,0 +1,901 @@
+{
+  "apk": "C:\\Users\\AlphaDell-60\\Documents\\code\\personal\\rea-test\\deepcineph-build\\output\\DeepCine-India.apk",
+  "sha256": "36425131ccb410320fbbe5b180cec1aa552285ad7f9528693549271fc6c28733",
+  "signature_verified": true,
+  "alignment_verified": true,
+  "api_profile": "hi constant at request interceptor; session/package/SDK identity retained",
+  "display_language": "saved setting; unset preference initializes en",
+  "ad_placements_disabled": 33,
+  "ad_init_methods_disabled": 3,
+  "ad_providers_removed": 12,
+  "collapsed_ad_upsell_views": 22,
+  "native_libraries_unchanged": 32,
+  "payloads_checked": 174,
+  "changed_dex": [
+    "classes.dex",
+    "classes10.dex",
+    "classes3.dex",
+    "classes4.dex",
+    "classes8.dex",
+    "classes9.dex"
+  ],
+  "diagnostic_library_present": false,
+  "source_java_compiled": false,
+  "runtime_test_pending": false,
+  "payloads": [
+    {
+      "path": "classes.dex",
+      "unchanged": false,
+      "sha256": "248156b22629f73d07fc7e1481e465dd255edc47ff8bddcf438e1d9f9fb68166"
+    },
+    {
+      "path": "classes10.dex",
+      "unchanged": false,
+      "sha256": "d7144ed95d74b64872c5d9e2e1d30c48d0bc8195f3c837f4d44f7cf580417f71"
+    },
+    {
+      "path": "classes2.dex",
+      "unchanged": true,
+      "sha256": "280527d4fb657422b2fee80ce2f4c5c635aa763f7525dd7fdefd10ea44844411"
+    },
+    {
+      "path": "classes3.dex",
+      "unchanged": false,
+      "sha256": "39cf76795ca1fe52643098857b54cc84f2f2ed25368eac914ecd5366b9000ec7"
+    },
+    {
+      "path": "classes4.dex",
+      "unchanged": false,
+      "sha256": "eac61e194606936ef1af98096a4f3b30b5cc36db40894479ad2210b795394665"
+    },
+    {
+      "path": "classes5.dex",
+      "unchanged": true,
+      "sha256": "751901217cbf075aabf43a4a7271b8fb44375f3c3fa036601dcf31bb33f58dca"
+    },
+    {
+      "path": "classes6.dex",
+      "unchanged": true,
+      "sha256": "37062f334bf107077f7fa1b546d2ac8d3c2bcf526ec979981b1ee7cde1d08231"
+    },
+    {
+      "path": "classes7.dex",
+      "unchanged": true,
+      "sha256": "76c49b89ce2b690a5582d0f5cfd51c92da13264658b9f6f6e5235a3168146d09"
+    },
+    {
+      "path": "classes8.dex",
+      "unchanged": false,
+      "sha256": "bcbd179b55df2c0f446fb30694808fc5fb1a9f65954ff93d76889a6012a6062c"
+    },
+    {
+      "path": "classes9.dex",
+      "unchanged": false,
+      "sha256": "0963f70ad519ce9d97c33ff6397e624f54f3b99bc751f9fe3b2a4ea973640ab3"
+    },
+    {
+      "path": "assets/ad-viewer/omid-session-client-v1.js",
+      "unchanged": true,
+      "sha256": "f15e5ce012c87bd32c15d71d2fd0b954b9b2fd9d5818d817b3820af3d93d5a35"
+    },
+    {
+      "path": "assets/ad-viewer/omsdk-v1.js",
+      "unchanged": true,
+      "sha256": "896cf905b2b562818da58e19e25b525083f18638f6b9b0d7c6aea411a9907585"
+    },
+    {
+      "path": "assets/audience_network.dex",
+      "unchanged": true,
+      "sha256": "07fef7ea41d84ccf44ef2e2a6de8d23e3d3dd5920c87979a1d501a9cb6272496"
+    },
+    {
+      "path": "assets/dexopt/baseline.prof",
+      "unchanged": true,
+      "sha256": "870fcee67c004f6fa6d852b9d89e687659f82a2ff2c35a5a251deadbddb48ee9"
+    },
+    {
+      "path": "assets/dexopt/baseline.profm",
+      "unchanged": true,
+      "sha256": "a6b421aa6e713e026121bb9f7cdb3b1cd49b779deeceed0bbf9639a4afac0933"
+    },
+    {
+      "path": "assets/dic",
+      "unchanged": true,
+      "sha256": "08a598423c6747c3c23fffb2fb12c2c3cf611986436a367d99b5acca3e6590c7"
+    },
+    {
+      "path": "assets/fyb_iframe_endcard_tmpl.html",
+      "unchanged": true,
+      "sha256": "e042e304cecd19bb6816de0150d3895e2717e66dda91f7e189610687c049dae6"
+    },
+    {
+      "path": "assets/fyb_static_endcard_tmpl.html",
+      "unchanged": true,
+      "sha256": "77d33780c591c0ce29a40b354ba6d7d68533702b8e4a558ff40e700f26adc4f6"
+    },
+    {
+      "path": "assets/iads/controllerVersion",
+      "unchanged": true,
+      "sha256": "90e855751509be9e52994273c9fcd5326bb2588d3fe93e9c2e45ae542124ff2b"
+    },
+    {
+      "path": "assets/iads/index.css",
+      "unchanged": true,
+      "sha256": "3718103d1ff40e2aed9f6f81325b1498c1e827b46784d3eb5bc7bba1b40db525"
+    },
+    {
+      "path": "assets/iads/index.html",
+      "unchanged": true,
+      "sha256": "e513631c4c38eb9b41dc775b773954f1a0bc2524b4609bc1f5b29a3b3c1583de"
+    },
+    {
+      "path": "assets/iads/index.js",
+      "unchanged": true,
+      "sha256": "40407a81055c1901152e7ca35360e9fa439031f68fc87a815eead64a8706b24d"
+    },
+    {
+      "path": "assets/iads/mobileController.html",
+      "unchanged": true,
+      "sha256": "2c2693229d5df4d4bd0136049c64d84969ebf6f94a32c00e1d1b4cc43b9c07e6"
+    },
+    {
+      "path": "assets/iads/mobileController.min.css",
+      "unchanged": true,
+      "sha256": "900c64fe65c24f082c1f0c31f76cd456a83a92b7ffccd07e0597278dcc864ac3"
+    },
+    {
+      "path": "assets/iads/sdk_controller.min.gz.js",
+      "unchanged": true,
+      "sha256": "4bdb1cb2b25dc6f413f141267d14f7619c14679f8f1439e041d2b389b02dd39a"
+    },
+    {
+      "path": "assets/ia_js_load_monitor.txt",
+      "unchanged": true,
+      "sha256": "7dd00d954c6e1a6f2dfbce3d84346ea97f4d760732c7f4d29e4179fe54c5b32c"
+    },
+    {
+      "path": "assets/ia_mraid_bridge.txt",
+      "unchanged": true,
+      "sha256": "5bbfc33714217320d51e82609f4d07b0519fa60eba54ab6398952b5dc7bdd3a1"
+    },
+    {
+      "path": "assets/idc.json",
+      "unchanged": true,
+      "sha256": "e8b56337c775e7bea7a78c293c5b8b72644c4d28c8ed11a7bceb5ee330d8bd8a"
+    },
+    {
+      "path": "assets/kste_res/1e785005-09c5-42fb-9b5d-f66da1b3640d",
+      "unchanged": true,
+      "sha256": "95ee4c72f8d5bf733b04c996bac14f65fea350b9c8b4619bb1a7d64e23bd8c0a"
+    },
+    {
+      "path": "assets/kste_res/fad53b68-1781-4fc7-968e-d93582d35cce",
+      "unchanged": true,
+      "sha256": "edcdb3a6d7db3483442aba27a374a37fc2598afeb0fac348d00861c63cfeb3ea"
+    },
+    {
+      "path": "assets/lottie/data.json",
+      "unchanged": true,
+      "sha256": "4c42c08d2bdfef411f7ca79803a7c048c181742ee7c2a5da4b569dbad5f11209"
+    },
+    {
+      "path": "assets/lottie/player.json",
+      "unchanged": true,
+      "sha256": "900ed95672f3ee373e620a04459d4a9db499047e5c2399c7e325aa5228614aab"
+    },
+    {
+      "path": "assets/lottie/player_new.json",
+      "unchanged": true,
+      "sha256": "5bcf6a1d0f16aa4f2816ba32cf4bbc5f52098f1093ff54d32997887b2e8455ea"
+    },
+    {
+      "path": "assets/mbridge_download_dialog_view.xml",
+      "unchanged": true,
+      "sha256": "31697662a3a21ac12371f7e844e4495188dd94849cdb0500b28eb134802010e9"
+    },
+    {
+      "path": "assets/okt_sdk_config",
+      "unchanged": true,
+      "sha256": "b5d2375964642862f48ae058a9a3bc9dece612d37d17707d8ebf008902e9b823"
+    },
+    {
+      "path": "assets/okt_sdk_preset_80005",
+      "unchanged": true,
+      "sha256": "7fb524e3e656f133e8f9cccc1b8e13e8efd6c72df90d2eeb2dd9335315c60d15"
+    },
+    {
+      "path": "assets/rv_binddatas.xml",
+      "unchanged": true,
+      "sha256": "b1293a8346ac6472b151956167b3d83034db197a65a61d4f27f051acb87506d8"
+    },
+    {
+      "path": "lib/arm64-v8a/liballiance.so",
+      "unchanged": true,
+      "sha256": "1a9b3956247457f11306c9af1cc41ee844f0cca3615ff4c05aa91a95d4e192e9"
+    },
+    {
+      "path": "lib/arm64-v8a/libapminsighta.so",
+      "unchanged": true,
+      "sha256": "b1a70dabf68e95e1910bb080dbe1c78ae628a0bf7332f7ba41db23d9bbe282c0"
+    },
+    {
+      "path": "lib/arm64-v8a/libapminsightb.so",
+      "unchanged": true,
+      "sha256": "c36885b7189dc5173627ff9afb5a49cb94420b9b98341536b4476b792babab61"
+    },
+    {
+      "path": "lib/arm64-v8a/libapplovin-native-crash-reporter.so",
+      "unchanged": true,
+      "sha256": "eb0a1d4ee2ad2dfec8cef21368d8c6326e37608bec4cb6a1e1d3bce382809adb"
+    },
+    {
+      "path": "lib/arm64-v8a/libbuffer_pgl.so",
+      "unchanged": true,
+      "sha256": "d416381c202993e4a03fd6ae0c5b407f1531f61fc45f518ad5b7f4620d5a2133"
+    },
+    {
+      "path": "lib/arm64-v8a/libfile_lock_pgl.so",
+      "unchanged": true,
+      "sha256": "d14096b150b4b2f21263fdb4f1c61eea3fcd76804c776de2395b13dfbe1d8ca0"
+    },
+    {
+      "path": "lib/arm64-v8a/libjiagu_sdk_pp_hlsProtected.so",
+      "unchanged": true,
+      "sha256": "fb364ba2b716feec727c0806f075d3de82cde238d1a619cc5754ed02a52f3ee1"
+    },
+    {
+      "path": "lib/arm64-v8a/libkste.so",
+      "unchanged": true,
+      "sha256": "cc8db6aad028257886028ca14f80d77d18659369fcf8908514ac040758bdda00"
+    },
+    {
+      "path": "lib/arm64-v8a/libnms.so",
+      "unchanged": true,
+      "sha256": "9919554cceb1ecebbb9f3628b06dab7f99d261cf1c19126bb4c373416924fe25"
+    },
+    {
+      "path": "lib/arm64-v8a/libpglarmor.so",
+      "unchanged": true,
+      "sha256": "c590266c06f99a194ff209b9c32036191903f0cbe3421919df540851b3bb958c"
+    },
+    {
+      "path": "lib/arm64-v8a/libpp_hls.so",
+      "unchanged": true,
+      "sha256": "4f46f78b983e4ec57a1ec1777060cd56116b3cfbd3cfa75dddbabbecf6b8f8f6"
+    },
+    {
+      "path": "lib/arm64-v8a/libsgcore.so",
+      "unchanged": true,
+      "sha256": "2af68ea1f4dcb72e02a21c0e7dd0577d9a687e60defe9834161ede9b49dff5fc"
+    },
+    {
+      "path": "lib/arm64-v8a/libsigner.so",
+      "unchanged": true,
+      "sha256": "210fcbc181f93bfe444e10af13928424d27be2a3473837488c5a8064d233ab04"
+    },
+    {
+      "path": "lib/arm64-v8a/libtt_ugen_layout.so",
+      "unchanged": true,
+      "sha256": "6356784adf27dac5d18cd14a052d4ab9c161fb74eb4df3d4107d00f2549edeb2"
+    },
+    {
+      "path": "lib/arm64-v8a/libut.so",
+      "unchanged": true,
+      "sha256": "3a9bc7d2421db3f0ea08806213776f6b9f97017ec3ce4540bd1c84f6ea769410"
+    },
+    {
+      "path": "lib/arm64-v8a/libweapon.so",
+      "unchanged": true,
+      "sha256": "0be94d93f4cee2906f29940e6724b6f48d51b1cc267cecd54a3c55a3e8c974e6"
+    },
+    {
+      "path": "lib/armeabi-v7a/liballiance.so",
+      "unchanged": true,
+      "sha256": "0b9b259300f454d654ab1a5bff5779564c010c5216ac337e40e8b78d476d6459"
+    },
+    {
+      "path": "lib/armeabi-v7a/libapminsighta.so",
+      "unchanged": true,
+      "sha256": "bb08cd264170375bb94ac11ec08fb3c161b4ee72a376cf05aceb7c0f0a13db08"
+    },
+    {
+      "path": "lib/armeabi-v7a/libapminsightb.so",
+      "unchanged": true,
+      "sha256": "ffae9546e59fc4e136dc9cfd54451a131c7e523454fba45e36299d4e3f60b0a5"
+    },
+    {
+      "path": "lib/armeabi-v7a/libapplovin-native-crash-reporter.so",
+      "unchanged": true,
+      "sha256": "5e96fc780036525cabc0f34e772a2d0110f41f84acc3b1a2e9e8b2c0ec1b0619"
+    },
+    {
+      "path": "lib/armeabi-v7a/libbuffer_pgl.so",
+      "unchanged": true,
+      "sha256": "1959f8616e7ed8ae3a4c4edc4bb557c55d1fea3de0096b3842e37f42e2e7222a"
+    },
+    {
+      "path": "lib/armeabi-v7a/libfile_lock_pgl.so",
+      "unchanged": true,
+      "sha256": "f9e3402f0cff891a4dcf38e7c1876c889b97ab61daa426fe36ca28b28c1fed85"
+    },
+    {
+      "path": "lib/armeabi-v7a/libjiagu_sdk_pp_hlsProtected.so",
+      "unchanged": true,
+      "sha256": "c15e16423aa7cb79accc74ef6b79a7dba9ae62ff4eea7821df36fd29bb5e01de"
+    },
+    {
+      "path": "lib/armeabi-v7a/libkste.so",
+      "unchanged": true,
+      "sha256": "d73540fed3370777e677c1a3aa08f938125e23391f32ed0ad2b715c43b100fe0"
+    },
+    {
+      "path": "lib/armeabi-v7a/libnms.so",
+      "unchanged": true,
+      "sha256": "50661a1f2aaa496ecbae90195e3fa509b67bc30308e004d88408b7049e27f01d"
+    },
+    {
+      "path": "lib/armeabi-v7a/libpglarmor.so",
+      "unchanged": true,
+      "sha256": "4c6b307d2c0a500513c2051d0db21a432ce354617ce21c49588a11c18583dfe4"
+    },
+    {
+      "path": "lib/armeabi-v7a/libpp_hls.so",
+      "unchanged": true,
+      "sha256": "06e9366490502764c3b7d97da74b2720195d139b27c04d86b7e7971f7b87c30c"
+    },
+    {
+      "path": "lib/armeabi-v7a/libsgcore.so",
+      "unchanged": true,
+      "sha256": "6287ef622c51b6284d2c20d9bd141dd7e4e027145868ab6d44a3e68cb5309587"
+    },
+    {
+      "path": "lib/armeabi-v7a/libsigner.so",
+      "unchanged": true,
+      "sha256": "8b22bfeeeab007a63a8f9fae0766397acb58a7f89b04e8ac53c83cf9fdcd6902"
+    },
+    {
+      "path": "lib/armeabi-v7a/libtt_ugen_layout.so",
+      "unchanged": true,
+      "sha256": "368f2e815971bcecb8804d23c8f1e54e758923630d247e9c2d54d090fb2495ed"
+    },
+    {
+      "path": "lib/armeabi-v7a/libut.so",
+      "unchanged": true,
+      "sha256": "81e05c45fcaf5a0e8a7d3c3b2d115825937ef57abc43e30004decb8475eac2f5"
+    },
+    {
+      "path": "lib/armeabi-v7a/libweapon.so",
+      "unchanged": true,
+      "sha256": "0f72e1c111600f2b04cfffc11495a7488a0fd9743c135ab82e384f000c9d61ee"
+    },
+    {
+      "path": "androidsupportmultidexversion.txt",
+      "unchanged": true,
+      "sha256": "a1c3b0007bcaecc29cb7b7fa4a2ace25036988d66a354c0fd6bdea6eb51568fa"
+    },
+    {
+      "path": "com/applovin/shadow/okhttp3/internal/publicsuffix/NOTICE",
+      "unchanged": true,
+      "sha256": "8a9c58fbded5ea3474315e4a9824ca8b1486098a1a03e897e0b19419d5e1876a"
+    },
+    {
+      "path": "com/applovin/shadow/okhttp3/internal/publicsuffix/publicsuffixes.gz",
+      "unchanged": true,
+      "sha256": "9af43e9995ec749e7a30eec4e5a87770d7e2027847084a07cca82060eff0c791"
+    },
+    {
+      "path": "com/appsflyer/internal/a-",
+      "unchanged": true,
+      "sha256": "b0e580b122addcaa19f63e32128cafed93c37d04d7f67708d59d6cc3f4a6b748"
+    },
+    {
+      "path": "com/appsflyer/internal/b-",
+      "unchanged": true,
+      "sha256": "cc8959601cceab3bc9d847bb6e62fcfdac9991a7fc313d7ac4a655855cf58f5d"
+    },
+    {
+      "path": "com/appsflyer/internal/c-",
+      "unchanged": true,
+      "sha256": "a722b6a3de994b7901096bd95b52ba6b7a2d0a91212ab43cd95e856bd8b0b46f"
+    },
+    {
+      "path": "com/appsflyer/internal/d-",
+      "unchanged": true,
+      "sha256": "96b4a3f6a4c5ba337825882a7feae48de1b2cb0b30f48e8764034cccd4c1eed2"
+    },
+    {
+      "path": "com/liulishuo/filedownloader/i/IFileDownloadIPCCallback.aidl",
+      "unchanged": true,
+      "sha256": "24d2098233cd70f00f17c1061e3dd0cba31fd9112119bc584cdfcd62c02cfb88"
+    },
+    {
+      "path": "com/liulishuo/filedownloader/i/IFileDownloadIPCService.aidl",
+      "unchanged": true,
+      "sha256": "9eb89345aedd2194ce392f96a1804d927dbe2cac059f726b49c38a509ae17b8c"
+    },
+    {
+      "path": "com/liulishuo/filedownloader/message/MessageSnapshot.aidl",
+      "unchanged": true,
+      "sha256": "ea4061f72a531f3af48708cd4b9daaa78f244534c1213f78c8a35ae83ac4e2eb"
+    },
+    {
+      "path": "com/liulishuo/filedownloader/model/FileDownloadHeader.aidl",
+      "unchanged": true,
+      "sha256": "f4e51322cc9361dbd46b6344a88a6491f7408be4539a4656dd731fff60950ab6"
+    },
+    {
+      "path": "com/liulishuo/filedownloader/model/FileDownloadTaskAtom.aidl",
+      "unchanged": true,
+      "sha256": "3c56b9a5b4fd221a46fbce8f04229a93785746e67373c935955aa8f49aa38a26"
+    },
+    {
+      "path": "DebugProbesKt.bin",
+      "unchanged": true,
+      "sha256": "cd3da36122413f84be484c77cde4a77729f9e8f81a285408d073300c8385ca3a"
+    },
+    {
+      "path": "google/protobuf/any.proto",
+      "unchanged": true,
+      "sha256": "bcf5de6ce463b1a38ff76b77955aa7e580b4ec12af34a927b1d45c9efb0faf66"
+    },
+    {
+      "path": "google/protobuf/api.proto",
+      "unchanged": true,
+      "sha256": "e1745f7d6e9953f624b027b37da29ffc6521c45bce9aa96f39666748879fc915"
+    },
+    {
+      "path": "google/protobuf/duration.proto",
+      "unchanged": true,
+      "sha256": "a3f7301ff2956ec2e30c2241ece07197e4a86c752348d5607224819d4921c9fe"
+    },
+    {
+      "path": "google/protobuf/empty.proto",
+      "unchanged": true,
+      "sha256": "ecef3d54cc9e079673b9816c67bac770f7f3bf6dada2d4596ba69d71daa971e6"
+    },
+    {
+      "path": "google/protobuf/field_mask.proto",
+      "unchanged": true,
+      "sha256": "17b0f342cc3a262e317d56884f3f575afbfac512ad0579349cc7450e41f26891"
+    },
+    {
+      "path": "google/protobuf/source_context.proto",
+      "unchanged": true,
+      "sha256": "37d3401de89af1d1496fc949924a5f2011bd2fadfbeb0da1caa277159a96776d"
+    },
+    {
+      "path": "google/protobuf/struct.proto",
+      "unchanged": true,
+      "sha256": "1bf07ba8b9a24e3a0390dddac3ad0db41c63287d252788b02398220b9abc900f"
+    },
+    {
+      "path": "google/protobuf/timestamp.proto",
+      "unchanged": true,
+      "sha256": "14052c6042c1dd2d0b50245f2812eaab6eaf82db0b6e8ce483eae527f73b6ee8"
+    },
+    {
+      "path": "google/protobuf/type.proto",
+      "unchanged": true,
+      "sha256": "e230e0e4aeb87c95e9f1c6acbfc0c713db3f88094f149b154717a51d020f750b"
+    },
+    {
+      "path": "google/protobuf/wrappers.proto",
+      "unchanged": true,
+      "sha256": "a26c1d6ec73a592ac31796289a61ceffe2db2453ff427dfdd7697aac50844280"
+    },
+    {
+      "path": "javax/servlet/http/LocalStrings.properties",
+      "unchanged": true,
+      "sha256": "091f4cde1721df3944c68d84edb488c7ff7cc82cc6c3d35f4d2166cbe544c216"
+    },
+    {
+      "path": "javax/servlet/http/LocalStrings_es.properties",
+      "unchanged": true,
+      "sha256": "da139c4bd5b3d1b2a00e24a00744319ae166e28cae8f9833e34a91cbe902c3cf"
+    },
+    {
+      "path": "javax/servlet/http/LocalStrings_fr.properties",
+      "unchanged": true,
+      "sha256": "fa86a3bd15b80a5f70e82bc20fe19ca4c7a764e34f5434cb5ec93ad964109c10"
+    },
+    {
+      "path": "javax/servlet/http/LocalStrings_ja.properties",
+      "unchanged": true,
+      "sha256": "07a502d2e4a8ecd2971cf01c7523d51eb432027d51a7d43852d0e0ba386b52be"
+    },
+    {
+      "path": "javax/servlet/LocalStrings.properties",
+      "unchanged": true,
+      "sha256": "bbe56cf0e9068823372364afb3f87be80eef10e34884b12d96752331c3f95183"
+    },
+    {
+      "path": "javax/servlet/LocalStrings_fr.properties",
+      "unchanged": true,
+      "sha256": "d0bdbf59fd5bb880c44b00326df94bec34a0e258f98dc246f773bd87d3d3a06c"
+    },
+    {
+      "path": "javax/servlet/LocalStrings_ja.properties",
+      "unchanged": true,
+      "sha256": "e0d4b3a3818e901a8b811a53843053dec979ab5c48003a7b46cf5e7e79e2036b"
+    },
+    {
+      "path": "jetty-dir.css",
+      "unchanged": true,
+      "sha256": "9fedebd5428a855320fe33788776213f2524dc006dc0fa42e3d8751c1591ab62"
+    },
+    {
+      "path": "kotlin/annotation/annotation.kotlin_builtins",
+      "unchanged": true,
+      "sha256": "5f75d4352e432664b2a235c472b991cf88365c73f5fcb5e1f9cc2cbe4b410abe"
+    },
+    {
+      "path": "kotlin/collections/collections.kotlin_builtins",
+      "unchanged": true,
+      "sha256": "0e654e03a38e119de0f4d11633711bd57e1e8b1a876eda74a90100a2a6e7daa4"
+    },
+    {
+      "path": "kotlin/concurrent/atomics/atomics.kotlin_builtins",
+      "unchanged": true,
+      "sha256": "955035527393d165a22da4cb9d992f42b4a30b6f070918f3e2b1f2678f83cc9d"
+    },
+    {
+      "path": "kotlin/coroutines/coroutines.kotlin_builtins",
+      "unchanged": true,
+      "sha256": "98ab3a3c18fcb237528dd63fa489815c583e1d6c13debd2a27ac6d74ccf8717b"
+    },
+    {
+      "path": "kotlin/internal/internal.kotlin_builtins",
+      "unchanged": true,
+      "sha256": "64712f94840e6b3f8123f522f32d08c46f083d87c312a74901f7c00224de775e"
+    },
+    {
+      "path": "kotlin/kotlin.kotlin_builtins",
+      "unchanged": true,
+      "sha256": "c4240215bc20e71b01cc62b43edebd02749b3249d7daa8e7f1dc1514f064c274"
+    },
+    {
+      "path": "kotlin/ranges/ranges.kotlin_builtins",
+      "unchanged": true,
+      "sha256": "f9d35b836ccb5380803aab5e6c76d708b1536fc6c82f27185e8cff5913824e1c"
+    },
+    {
+      "path": "kotlin/reflect/reflect.kotlin_builtins",
+      "unchanged": true,
+      "sha256": "23ecbc7cbb354f31ba37a1be1793d3bb53c00c92cdcf3867759d09d938a1d7c3"
+    },
+    {
+      "path": "kotlin-tooling-metadata.json",
+      "unchanged": true,
+      "sha256": "b5c7238fd502b850fa99a2e0783bbaed7d8dfe64c0a886ed36f606caa757d213"
+    },
+    {
+      "path": "okhttp3/internal/publicsuffix/NOTICE",
+      "unchanged": true,
+      "sha256": "8a9c58fbded5ea3474315e4a9824ca8b1486098a1a03e897e0b19419d5e1876a"
+    },
+    {
+      "path": "okhttp3/internal/publicsuffix/publicsuffixes.gz",
+      "unchanged": true,
+      "sha256": "a1ef3d0e4ec2cbce14c1884ab0f3a4fef46e258de83530dc562ebb805bdb12fd"
+    },
+    {
+      "path": "org/eclipse/jetty/favicon.ico",
+      "unchanged": true,
+      "sha256": "981bbee0ea0e46529f52f67a286ffd8b74f9d6a364c46650ddba5902eb7b04c6"
+    },
+    {
+      "path": "org/eclipse/jetty/http/encoding.properties",
+      "unchanged": true,
+      "sha256": "ab425d47c66066944e7c12294830882bb7b476759df38d5f44a5828f68810f80"
+    },
+    {
+      "path": "org/eclipse/jetty/http/mime.properties",
+      "unchanged": true,
+      "sha256": "d89f732e7df3ef844a65be476a915f05820d16def7bab4a177718f42045a7034"
+    },
+    {
+      "path": "org/eclipse/jetty/http/useragents",
+      "unchanged": true,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "org/eclipse/jetty/server/handler/jmx/AbstractHandler-mbean.properties",
+      "unchanged": true,
+      "sha256": "6fe581e0dd090f47ab7e195966c5906cbb12d3d9a63adcd097b85931b9ea7286"
+    },
+    {
+      "path": "org/eclipse/jetty/server/handler/jmx/ContextHandler-mbean.properties",
+      "unchanged": true,
+      "sha256": "6465103257258e8242146adf728e0737ff35d4de026a9d51039515013e92ad93"
+    },
+    {
+      "path": "org/eclipse/jetty/server/handler/jmx/ContextHandlerCollection-mbean.properties",
+      "unchanged": true,
+      "sha256": "8f0cf579fb2a16d6f08af1361880567078955e7f6da51036e3de4fc24e6442c6"
+    },
+    {
+      "path": "org/eclipse/jetty/server/handler/jmx/HandlerCollection-mbean.properties",
+      "unchanged": true,
+      "sha256": "7abbdf7bd66a7f38ef0f0f2d6f15de77fbe887fc0fdd645363ff2ab2505689c4"
+    },
+    {
+      "path": "org/eclipse/jetty/server/handler/jmx/HandlerWrapper-mbean.properties",
+      "unchanged": true,
+      "sha256": "aca872a0b1dfe535d1cfd7f309f4973275e19ad285d68ca9d289612332659577"
+    },
+    {
+      "path": "org/eclipse/jetty/server/handler/jmx/StatisticsHandler-mbean.properties",
+      "unchanged": true,
+      "sha256": "fdbb3ed6462ed07f382e4d89d03c078ebb477fdfec60e6ea5ad408c3865db096"
+    },
+    {
+      "path": "org/eclipse/jetty/server/jmx/AbstractConnector-mbean.properties",
+      "unchanged": true,
+      "sha256": "ddf9ce45d1fbbe1513241730d7f9740b1fea366212d847298f7f840dc1ca7550"
+    },
+    {
+      "path": "org/eclipse/jetty/server/jmx/Connector-mbean.properties",
+      "unchanged": true,
+      "sha256": "e58cde69ad0b4b6925299a4b7a4efc28dc7ac2612194e446474ffee67d441665"
+    },
+    {
+      "path": "org/eclipse/jetty/server/jmx/Handler-mbean.properties",
+      "unchanged": true,
+      "sha256": "d001b3cc43135cbc27150d73adc3500fb8652d924992749418ac31c45e6aaa67"
+    },
+    {
+      "path": "org/eclipse/jetty/server/jmx/HandlerContainer-mbean.properties",
+      "unchanged": true,
+      "sha256": "bd33c657f1d019be1d0c83c1d961f9401ab0def9884758fae5b4358d2d1ae781"
+    },
+    {
+      "path": "org/eclipse/jetty/server/jmx/NCSARequestLog-mbean.properties",
+      "unchanged": true,
+      "sha256": "498d497616aa0bda8a7ad0ea1d9995153d4c86c3256712007f056bcc0d71830e"
+    },
+    {
+      "path": "org/eclipse/jetty/server/jmx/Server-mbean.properties",
+      "unchanged": true,
+      "sha256": "252d31e38e16ff859187c152b6dad94a03b1b2be692023c228c874dde3ac362e"
+    },
+    {
+      "path": "org/eclipse/jetty/server/nio/jmx/SelectChannelConnector-mbean.properties",
+      "unchanged": true,
+      "sha256": "ffc1fae5fbe389f60ce157c9e4bbefd2588fff0f324b4dc7ff707bbf695bf0b5"
+    },
+    {
+      "path": "org/eclipse/jetty/server/session/jmx/AbstractSessionManager-mbean.properties",
+      "unchanged": true,
+      "sha256": "ec480496833b389883e5a9a91d26a74f9354e124f0314089f4d445f0cbfe9401"
+    },
+    {
+      "path": "org/eclipse/jetty/servlet/jmx/FilterMapping-mbean.properties",
+      "unchanged": true,
+      "sha256": "fb4e7ae3a7d5f2399485564dc9001e0e60bf81322ce78fd4bc896a3bb84410b5"
+    },
+    {
+      "path": "org/eclipse/jetty/servlet/jmx/Holder-mbean.properties",
+      "unchanged": true,
+      "sha256": "877f47cc37c67f16f687a0ba1619193c0a74c9ec6e01cd7768e89d6a7bb9868c"
+    },
+    {
+      "path": "org/eclipse/jetty/servlet/jmx/ServletContextHandler-mbean.properties",
+      "unchanged": true,
+      "sha256": "9a4e4c986272db9579ac5e559bbbf4107550ef653308e8b1539f405aef83db4f"
+    },
+    {
+      "path": "org/eclipse/jetty/servlet/jmx/ServletHandler-mbean.properties",
+      "unchanged": true,
+      "sha256": "f8266623999907cb9f7375c790b68c5db9cbb40cf23c4d8af745ff5e101172ae"
+    },
+    {
+      "path": "org/eclipse/jetty/servlet/jmx/ServletHolder-mbean.properties",
+      "unchanged": true,
+      "sha256": "5caa24fc9e591dc7996bda0ca8f832400f6cc2d836d48e8ea112db3cfd2325a6"
+    },
+    {
+      "path": "org/eclipse/jetty/servlet/jmx/ServletMapping-mbean.properties",
+      "unchanged": true,
+      "sha256": "00cc3458ced2328d6599ef053398d55cfc8adc9b5ddfaf5ad657ce5b4e4d6fb8"
+    },
+    {
+      "path": "org/fourthline/cling/support/avtransport/metadata-1.0-avt.xsd",
+      "unchanged": true,
+      "sha256": "2aea5b6e4eb4f60289bc4e9ff1978e5bf473c8d4b91bcb018e2c365f7cb8f7fb"
+    },
+    {
+      "path": "org/fourthline/cling/support/avtransport/metadata-1.01-avt.xsd",
+      "unchanged": true,
+      "sha256": "cfa2e0a95b1b3fd6878f7544ccfa78a65b3efe50c19b72be54e90856ea19e08e"
+    },
+    {
+      "path": "org/fourthline/cling/support/contentdirectory/descriptor/dc-elements-1.1.xsd",
+      "unchanged": true,
+      "sha256": "3bdf6e20379cc40c296e8acf7900274f3f8be1539a78c64143bc1bd4055ffd65"
+    },
+    {
+      "path": "org/fourthline/cling/support/contentdirectory/descriptor/didl-lite-1.0.xsd",
+      "unchanged": true,
+      "sha256": "4ab6717994dd660eb004060944b2f38447c3b5937f17bcd71f1976748498002e"
+    },
+    {
+      "path": "org/fourthline/cling/support/contentdirectory/descriptor/upnp-cds-1.0.xsd",
+      "unchanged": true,
+      "sha256": "69ef86d79bd8afee9461c10fc2467523fb37928fb3c15bb390e0f975047345b0"
+    },
+    {
+      "path": "org/fourthline/cling/support/renderingcontrol/metadata-1.0-rcs.xsd",
+      "unchanged": true,
+      "sha256": "0fd90edb824f8c7156b998c361a304f851028b838fd6edd11108db7b71fcb14e"
+    },
+    {
+      "path": "org/jacoco/core/jacoco.properties",
+      "unchanged": true,
+      "sha256": "50405229dd77d8f5df08c1bb347f604e45af7fa5c512ee79bd3872a74ac784f8"
+    },
+    {
+      "path": "org/seamless/schemas/xhtml1-strict.xsd",
+      "unchanged": true,
+      "sha256": "c7f44631b6a1a4e4ec7bd65ad0427350805ab0910e1312299c72b0af3eba80be"
+    },
+    {
+      "path": "org/seamless/schemas/xml.xsd",
+      "unchanged": true,
+      "sha256": "7140553b0674689cdfb94af80f46ea6b0ec241f6f43dba20a882d3ab720fd7fc"
+    },
+    {
+      "path": "org/seamless/swing/logging/img/configure.png",
+      "unchanged": true,
+      "sha256": "0def612e22ada773e38949d07b44ac95a2653cdbf060f3a646ccbb6f51e9c4f7"
+    },
+    {
+      "path": "org/seamless/swing/logging/img/copyclipboard.png",
+      "unchanged": true,
+      "sha256": "3937d051b807fb891919b52977b9fc8c90206eaa0752d1faa5dc89e257140472"
+    },
+    {
+      "path": "org/seamless/swing/logging/img/debug.png",
+      "unchanged": true,
+      "sha256": "a8abca11968e20a4265cd83ffac2a23e80564522d2bccdb93909d7a6ae7efe98"
+    },
+    {
+      "path": "org/seamless/swing/logging/img/info.png",
+      "unchanged": true,
+      "sha256": "d56fa0e50ebd9ce66dd11a5b35c741a8eee6a3b972163e86ed16840097f88312"
+    },
+    {
+      "path": "org/seamless/swing/logging/img/pause.png",
+      "unchanged": true,
+      "sha256": "87786a17f4d9f2fd2e71d71615dafbd67b661d1f52e6faf33a82fbc3b49e3a8f"
+    },
+    {
+      "path": "org/seamless/swing/logging/img/removetext.png",
+      "unchanged": true,
+      "sha256": "7541f3b69467c0000b7189b937dd65d36223aa950f4a06deb0f4e820a7324f7c"
+    },
+    {
+      "path": "org/seamless/swing/logging/img/trace.png",
+      "unchanged": true,
+      "sha256": "4db9f993466ac1cd0835b49c26710a8ed62322c5620d27ff8f8031cd50ee299b"
+    },
+    {
+      "path": "org/seamless/swing/logging/img/viewtext.png",
+      "unchanged": true,
+      "sha256": "73a46e5e8f66f2bb1ad778235ecf8bf7de1abaff7afe6f0fd53e9719a9cd14b9"
+    },
+    {
+      "path": "org/seamless/swing/logging/img/warn.png",
+      "unchanged": true,
+      "sha256": "e10e0e589f88eba48d36e81996d9e112ebe8f1a155f9e8d6c090079ed25552b5"
+    },
+    {
+      "path": "play-services-ads-api.properties",
+      "unchanged": true,
+      "sha256": "5852f59c0c6a398e29f6d6c4758137d93a36a640e1b87a288a6c164960252b33"
+    },
+    {
+      "path": "play-services-ads-identifier.properties",
+      "unchanged": true,
+      "sha256": "bacaf6149bdc30c0c2227e29957b33ec9a2b3c40cdc4c5e887e715da11fac22f"
+    },
+    {
+      "path": "play-services-ads.properties",
+      "unchanged": true,
+      "sha256": "a31461497f12284917f1ff6542679421b53c9ca45b43cd5cc836b0eb9a5d7170"
+    },
+    {
+      "path": "play-services-appset.properties",
+      "unchanged": true,
+      "sha256": "cb5b5e2bfc6091056427773b9fc87e787c1757d7dd4d38b81752e3d6582a7b4c"
+    },
+    {
+      "path": "play-services-base.properties",
+      "unchanged": true,
+      "sha256": "8d3f6754abfac37a2cd34b08b4c528baa8754ec9ff59878ef3d4ac6b01f4d58f"
+    },
+    {
+      "path": "play-services-basement.properties",
+      "unchanged": true,
+      "sha256": "f104c265304c046ad9ba4807df8a0537204caf35dae11cc090cd8a34be6ee1da"
+    },
+    {
+      "path": "play-services-cronet.properties",
+      "unchanged": true,
+      "sha256": "b9a56ed44fbcff953fbe59e6cf18acd1a17f4b7dcfc5556e91d2c31d5b400d7a"
+    },
+    {
+      "path": "play-services-measurement-base.properties",
+      "unchanged": true,
+      "sha256": "844201e577d48fea2d8216daef1a892bb0824aeca7664af75eb40eb067796bd4"
+    },
+    {
+      "path": "play-services-measurement-sdk-api.properties",
+      "unchanged": true,
+      "sha256": "123b3ed623216fd86c4ae7064d28bb5f183312a439190fa84e21df147faa56a5"
+    },
+    {
+      "path": "play-services-tasks.properties",
+      "unchanged": true,
+      "sha256": "e82b1e7f5fbe3788895488f92aee879f1c431fc100fc7f337d429f213971dd88"
+    },
+    {
+      "path": "src/google/protobuf/any.proto",
+      "unchanged": true,
+      "sha256": "bcf5de6ce463b1a38ff76b77955aa7e580b4ec12af34a927b1d45c9efb0faf66"
+    },
+    {
+      "path": "src/google/protobuf/api.proto",
+      "unchanged": true,
+      "sha256": "e1745f7d6e9953f624b027b37da29ffc6521c45bce9aa96f39666748879fc915"
+    },
+    {
+      "path": "src/google/protobuf/duration.proto",
+      "unchanged": true,
+      "sha256": "a3f7301ff2956ec2e30c2241ece07197e4a86c752348d5607224819d4921c9fe"
+    },
+    {
+      "path": "src/google/protobuf/empty.proto",
+      "unchanged": true,
+      "sha256": "ecef3d54cc9e079673b9816c67bac770f7f3bf6dada2d4596ba69d71daa971e6"
+    },
+    {
+      "path": "src/google/protobuf/field_mask.proto",
+      "unchanged": true,
+      "sha256": "17b0f342cc3a262e317d56884f3f575afbfac512ad0579349cc7450e41f26891"
+    },
+    {
+      "path": "src/google/protobuf/source_context.proto",
+      "unchanged": true,
+      "sha256": "37d3401de89af1d1496fc949924a5f2011bd2fadfbeb0da1caa277159a96776d"
+    },
+    {
+      "path": "src/google/protobuf/struct.proto",
+      "unchanged": true,
+      "sha256": "1bf07ba8b9a24e3a0390dddac3ad0db41c63287d252788b02398220b9abc900f"
+    },
+    {
+      "path": "src/google/protobuf/timestamp.proto",
+      "unchanged": true,
+      "sha256": "14052c6042c1dd2d0b50245f2812eaab6eaf82db0b6e8ce483eae527f73b6ee8"
+    },
+    {
+      "path": "src/google/protobuf/type.proto",
+      "unchanged": true,
+      "sha256": "e230e0e4aeb87c95e9f1c6acbfc0c713db3f88094f149b154717a51d020f750b"
+    },
+    {
+      "path": "src/google/protobuf/wrappers.proto",
+      "unchanged": true,
+      "sha256": "a26c1d6ec73a592ac31796289a61ceffe2db2453ff427dfdd7697aac50844280"
+    },
+    {
+      "path": "user-messaging-platform.properties",
+      "unchanged": true,
+      "sha256": "00a56db523c42386524871d9a24ddb9c82fe2d644ad503367ff8aad3e4600a53"
+    }
+  ],
+  "runtime_startup_verified": true,
+  "runtime_movie_sample_verified": true,
+  "comprehensive_runtime_verification": false,
+  "runtime_report": "reports/ready-runtime-check.json"
+}

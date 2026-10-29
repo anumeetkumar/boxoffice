@@ -1,0 +1,3368 @@
+[
+  {
+    "url": "https://www.example.com",
+    "path": "jadx-export/sources/androidx/browser/browseractions/BrowserActionsIntent.java",
+    "line": 45,
+    "application": false
+  },
+  {
+    "url": "http://schemas.android.com/apk/res/android",
+    "path": "jadx-export/sources/androidx/core/content/pm/ShortcutXmlParser.java",
+    "line": 73,
+    "application": false
+  },
+  {
+    "url": "http://schemas.android.com/apk/res/android",
+    "path": "jadx-export/sources/androidx/core/content/res/TypedArrayUtils.java",
+    "line": 21,
+    "application": false
+  },
+  {
+    "url": "http://schemas.android.com/apk/res/android",
+    "path": "jadx-export/sources/androidx/core/content/res/TypedArrayUtils.java",
+    "line": 35,
+    "application": false
+  },
+  {
+    "url": "https://issuetracker.google.com/issues/116541301",
+    "path": "jadx-export/sources/androidx/databinding/ViewDataBinding.java",
+    "line": 522,
+    "application": false
+  },
+  {
+    "url": "https://issuetracker.google.com/issues/new?component=907884&template=1466542",
+    "path": "jadx-export/sources/androidx/datastore/core/SingleProcessDataStore$data$1.java",
+    "line": 180,
+    "application": false
+  },
+  {
+    "url": "http://ns.adobe.com/xap/1.0/",
+    "path": "jadx-export/sources/androidx/exifinterface/media/ExifInterface.java",
+    "line": 1425,
+    "application": false
+  },
+  {
+    "url": "https://developer.android.com/guide/topics/media/issues/cleartext-not-permitted",
+    "path": "jadx-export/sources/androidx/media3/datasource/HttpDataSource.java",
+    "line": 56,
+    "application": false
+  },
+  {
+    "url": "http://g.co/dev/packagevisibility.",
+    "path": "jadx-export/sources/androidx/media3/datasource/RawResourceDataSource.java",
+    "line": 131,
+    "application": false
+  },
+  {
+    "url": "https://x",
+    "path": "jadx-export/sources/androidx/media3/exoplayer/drm/FrameworkMediaDrm.java",
+    "line": 52,
+    "application": false
+  },
+  {
+    "url": "https://x",
+    "path": "jadx-export/sources/androidx/media3/exoplayer/drm/FrameworkMediaDrm.java",
+    "line": 53,
+    "application": false
+  },
+  {
+    "url": "https://default.url",
+    "path": "jadx-export/sources/androidx/media3/exoplayer/drm/FrameworkMediaDrm.java",
+    "line": 142,
+    "application": false
+  },
+  {
+    "url": "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+    "path": "jadx-export/sources/androidx/media3/exoplayer/drm/HttpMediaDrmCallback.java",
+    "line": 126,
+    "application": false
+  },
+  {
+    "url": "https://developer.android.com/guide/topics/media/issues/player-accessed-on-wrong-thread",
+    "path": "jadx-export/sources/androidx/media3/exoplayer/ExoPlayerImpl.java",
+    "line": 1716,
+    "application": false
+  },
+  {
+    "url": "http://ns.adobe.com/xap/1.0/",
+    "path": "jadx-export/sources/androidx/media3/extractor/jpeg/JpegMotionPhotoExtractor.java",
+    "line": 22,
+    "application": false
+  },
+  {
+    "url": "https://aomedia.org/emsg/ID3",
+    "path": "jadx-export/sources/androidx/media3/extractor/metadata/emsg/EventMessage.java",
+    "line": 19,
+    "application": false
+  },
+  {
+    "url": "https://developer.apple.com/streaming/emsg-id3",
+    "path": "jadx-export/sources/androidx/media3/extractor/metadata/emsg/EventMessage.java",
+    "line": 20,
+    "application": false
+  },
+  {
+    "url": "https://aomedia.org/emsg/ID3",
+    "path": "jadx-export/sources/androidx/media3/extractor/metadata/emsg/EventMessage.java",
+    "line": 86,
+    "application": false
+  },
+  {
+    "url": "https://developer.apple.com/streaming/emsg-id3",
+    "path": "jadx-export/sources/androidx/media3/extractor/metadata/emsg/EventMessage.java",
+    "line": 87,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/ns/ttml#parameter",
+    "path": "jadx-export/sources/androidx/media3/extractor/text/ttml/TtmlParser.java",
+    "line": 44,
+    "application": false
+  },
+  {
+    "url": "https://github.com/adjust/android_sdk#can-i-trigger-an-event-at-application-launch",
+    "path": "jadx-export/sources/com/adjust/sdk/ActivityHandler.java",
+    "line": 1958,
+    "application": false
+  },
+  {
+    "url": "https://app.adjust.com",
+    "path": "jadx-export/sources/com/adjust/sdk/Constants.java",
+    "line": 14,
+    "application": false
+  },
+  {
+    "url": "https://app.%s",
+    "path": "jadx-export/sources/com/adjust/sdk/Constants.java",
+    "line": 15,
+    "application": false
+  },
+  {
+    "url": "https://%s",
+    "path": "jadx-export/sources/com/adjust/sdk/Constants.java",
+    "line": 16,
+    "application": false
+  },
+  {
+    "url": "https://gdpr.adjust.com",
+    "path": "jadx-export/sources/com/adjust/sdk/Constants.java",
+    "line": 30,
+    "application": false
+  },
+  {
+    "url": "https://gdpr.%s",
+    "path": "jadx-export/sources/com/adjust/sdk/Constants.java",
+    "line": 31,
+    "application": false
+  },
+  {
+    "url": "https://ssrv.adjust.com",
+    "path": "jadx-export/sources/com/adjust/sdk/Constants.java",
+    "line": 51,
+    "application": false
+  },
+  {
+    "url": "https://ssrv.%s",
+    "path": "jadx-export/sources/com/adjust/sdk/Constants.java",
+    "line": 52,
+    "application": false
+  },
+  {
+    "url": "https://subscription.adjust.com",
+    "path": "jadx-export/sources/com/adjust/sdk/Constants.java",
+    "line": 66,
+    "application": false
+  },
+  {
+    "url": "https://subscription.%s",
+    "path": "jadx-export/sources/com/adjust/sdk/Constants.java",
+    "line": 67,
+    "application": false
+  },
+  {
+    "url": "https://app.adjust.io",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 11,
+    "application": false
+  },
+  {
+    "url": "https://gdpr.adjust.io",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 12,
+    "application": false
+  },
+  {
+    "url": "https://ssrv.adjust.io",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 13,
+    "application": false
+  },
+  {
+    "url": "https://subscription.adjust.io",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 14,
+    "application": false
+  },
+  {
+    "url": "https://app.adjust.com",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 56,
+    "application": false
+  },
+  {
+    "url": "https://app.",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 62,
+    "application": false
+  },
+  {
+    "url": "https://gdpr.adjust.com",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 77,
+    "application": false
+  },
+  {
+    "url": "https://gdpr.",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 83,
+    "application": false
+  },
+  {
+    "url": "https://ssrv.adjust.com",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 97,
+    "application": false
+  },
+  {
+    "url": "https://ssrv.",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 103,
+    "application": false
+  },
+  {
+    "url": "https://subscription.adjust.com",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 117,
+    "application": false
+  },
+  {
+    "url": "https://subscription.",
+    "path": "jadx-export/sources/com/adjust/sdk/network/UrlStrategy.java",
+    "line": 123,
+    "application": false
+  },
+  {
+    "url": "http://purl.org/dc/elements/1.1/",
+    "path": "jadx-export/sources/com/android/cast/dlna/dmc/control/MetadataUtils.java",
+    "line": 32,
+    "application": false
+  },
+  {
+    "url": "http://schemas.applovin.com/android/1.0",
+    "path": "jadx-export/sources/com/applovin/adview/AppLovinAdView.java",
+    "line": 28,
+    "application": false
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=",
+    "path": "jadx-export/sources/com/applovin/impl/adview/a.java",
+    "line": 754,
+    "application": false
+  },
+  {
+    "url": "https://support.google.com/admob/answer/13554116",
+    "path": "jadx-export/sources/com/applovin/impl/b7.java",
+    "line": 202,
+    "application": false
+  },
+  {
+    "url": "https://monetization-support.applovin.com/hc/en-us/articles/236114328-How-can-I-expose-verbose-logging-for-the-SDK",
+    "path": "jadx-export/sources/com/applovin/impl/e6.java",
+    "line": 59,
+    "application": false
+  },
+  {
+    "url": "https://monetization-support.applovin.com/hc/en-us/articles/236114328-How-can-I-expose-verbose-logging-for-the-SDK",
+    "path": "jadx-export/sources/com/applovin/impl/e6.java",
+    "line": 63,
+    "application": false
+  },
+  {
+    "url": "https://ms.applovin.com/1.0/sdk/error",
+    "path": "jadx-export/sources/com/applovin/impl/g2.java",
+    "line": 312,
+    "application": false
+  },
+  {
+    "url": "https://support.axon.ai/en/max/getting-started#step-2-create-an-ad-unit",
+    "path": "jadx-export/sources/com/applovin/impl/h6.java",
+    "line": 218,
+    "application": false
+  },
+  {
+    "url": "https://support.axon.ai/en/max/android/overview/integration",
+    "path": "jadx-export/sources/com/applovin/impl/i3.java",
+    "line": 246,
+    "application": false
+  },
+  {
+    "url": "https://support.axon.ai/en/max/getting-started#step-2-create-an-ad-unit",
+    "path": "jadx-export/sources/com/applovin/impl/i6.java",
+    "line": 249,
+    "application": false
+  },
+  {
+    "url": "https://compliance.iabtechnologylab.com/compliance-js/omid-validation-verification-script-v1-APPLOVIN-01102024.js",
+    "path": "jadx-export/sources/com/applovin/impl/m4.java",
+    "line": 87,
+    "application": false
+  },
+  {
+    "url": "https://support.axon.ai/en/max/android/ad-formats/banner-and-mrec-ads#adaptive-banners",
+    "path": "jadx-export/sources/com/applovin/impl/mediation/ads/MaxAdViewImpl.java",
+    "line": 880,
+    "application": false
+  },
+  {
+    "url": "https://support.axon.ai/en/max/android/overview/advanced-settings#selective-init",
+    "path": "jadx-export/sources/com/applovin/impl/mediation/MediationServiceImpl.java",
+    "line": 278,
+    "application": false
+  },
+  {
+    "url": "https://applovin.com.",
+    "path": "jadx-export/sources/com/applovin/impl/o3.java",
+    "line": 201,
+    "application": false
+  },
+  {
+    "url": "https://support.axon.ai/en/max/android/overview/terms-and-privacy-policy-flow#enabling-google-ump",
+    "path": "jadx-export/sources/com/applovin/impl/privacy/cmp/CmpServiceImpl.java",
+    "line": 164,
+    "application": false
+  },
+  {
+    "url": "https://support.google.com/admob/answer/13554116",
+    "path": "jadx-export/sources/com/applovin/impl/q3.java",
+    "line": 386,
+    "application": false
+  },
+  {
+    "url": "https://support.axon.ai/en/max/android/overview/terms-and-privacy-policy-flow",
+    "path": "jadx-export/sources/com/applovin/impl/q3.java",
+    "line": 403,
+    "application": false
+  },
+  {
+    "url": "https://support.axon.ai/en/max/android/overview/integration",
+    "path": "jadx-export/sources/com/applovin/impl/q3.java",
+    "line": 781,
+    "application": false
+  },
+  {
+    "url": "https://dash.applovin.com/o/account?r=2#app_ads_txt",
+    "path": "jadx-export/sources/com/applovin/impl/q3.java",
+    "line": 812,
+    "application": false
+  },
+  {
+    "url": "https://dash.applovin.com/o/account?r=2#app_ads_txt",
+    "path": "jadx-export/sources/com/applovin/impl/q3.java",
+    "line": 818,
+    "application": false
+  },
+  {
+    "url": "https://dash.applovin.com/o/account?r=2#app_ads_txt",
+    "path": "jadx-export/sources/com/applovin/impl/q3.java",
+    "line": 820,
+    "application": false
+  },
+  {
+    "url": "http://schemas.applovin.com/android/1.0",
+    "path": "jadx-export/sources/com/applovin/impl/s.java",
+    "line": 19,
+    "application": false
+  },
+  {
+    "url": "http://schemas.applovin.com/android/1.0",
+    "path": "jadx-export/sources/com/applovin/impl/s.java",
+    "line": 27,
+    "application": false
+  },
+  {
+    "url": "https://assets.applovin.com/sound_off.png",
+    "path": "jadx-export/sources/com/applovin/impl/sdk/ad/b.java",
+    "line": 419,
+    "application": false
+  },
+  {
+    "url": "https://p.applov.in/",
+    "path": "jadx-export/sources/com/applovin/impl/sdk/ad/b.java",
+    "line": 547,
+    "application": false
+  },
+  {
+    "url": "https://assets.applovin.com/sound_on.png",
+    "path": "jadx-export/sources/com/applovin/impl/sdk/ad/b.java",
+    "line": 587,
+    "application": false
+  },
+  {
+    "url": "https://support.axon.ai/en/max/android/overview/integration",
+    "path": "jadx-export/sources/com/applovin/impl/sdk/l.java",
+    "line": 1778,
+    "application": false
+  },
+  {
+    "url": "https://www.applovin.com/privacy/",
+    "path": "jadx-export/sources/com/applovin/impl/sdk/nativeAd/AppLovinNativeAdImpl.java",
+    "line": 52,
+    "application": false
+  },
+  {
+    "url": "https://www.applovin.com/privacy/",
+    "path": "jadx-export/sources/com/applovin/impl/sdk/nativeAd/AppLovinNativeAdImpl.java",
+    "line": 617,
+    "application": false
+  },
+  {
+    "url": "https://ms.applovin.com/",
+    "path": "jadx-export/sources/com/applovin/impl/t3.java",
+    "line": 86,
+    "application": false
+  },
+  {
+    "url": "https://ms.applvn.com/",
+    "path": "jadx-export/sources/com/applovin/impl/t3.java",
+    "line": 87,
+    "application": false
+  },
+  {
+    "url": "https://md.applovin.com/",
+    "path": "jadx-export/sources/com/applovin/impl/t3.java",
+    "line": 152,
+    "application": false
+  },
+  {
+    "url": "https://md.applvn.com/",
+    "path": "jadx-export/sources/com/applovin/impl/t3.java",
+    "line": 153,
+    "application": false
+  },
+  {
+    "url": "http://developer.android.com/google/play-services/setup.html.",
+    "path": "jadx-export/sources/com/applovin/impl/v.java",
+    "line": 172,
+    "application": false
+  },
+  {
+    "url": "http://developer.android.com/google/play-services/setup.html.",
+    "path": "jadx-export/sources/com/applovin/impl/v.java",
+    "line": 175,
+    "application": false
+  },
+  {
+    "url": "http://developer.android.com/google/play-services/setup.html.",
+    "path": "jadx-export/sources/com/applovin/impl/v.java",
+    "line": 243,
+    "application": false
+  },
+  {
+    "url": "http://developer.android.com/google/play-services/setup.html.",
+    "path": "jadx-export/sources/com/applovin/impl/v.java",
+    "line": 250,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/applovin/impl/w5.java",
+    "line": 77,
+    "application": false
+  },
+  {
+    "url": "https://sts.applovin.com/v1/stats/sdk",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 621,
+    "application": false
+  },
+  {
+    "url": "https://prod-a.applovin.com,https://rt.applovin.com/4.0/pix,",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 656,
+    "application": false
+  },
+  {
+    "url": "https://rt.applvn.com/4.0/pix,https://ms.applovin.com/,https://ms.applvn.com/",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 656,
+    "application": false
+  },
+  {
+    "url": "https://ms.applovin.com/",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 657,
+    "application": false
+  },
+  {
+    "url": "https://ms.applvn.com/",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 658,
+    "application": false
+  },
+  {
+    "url": "https://a.applovin.com/",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 659,
+    "application": false
+  },
+  {
+    "url": "https://a.applvn.com/",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 660,
+    "application": false
+  },
+  {
+    "url": "https://d.applovin.com/",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 661,
+    "application": false
+  },
+  {
+    "url": "https://d.applvn.com/",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 662,
+    "application": false
+  },
+  {
+    "url": "https://rt.applovin.com/",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 663,
+    "application": false
+  },
+  {
+    "url": "https://rt.applvn.com/",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 664,
+    "application": false
+  },
+  {
+    "url": "https://b.applovin.com/",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 665,
+    "application": false
+  },
+  {
+    "url": "https://vid.applovin.com/,https://stage-vid.applovin.com/,https://pdn.applovin.com/,https://stage-pdn.applovin.com/,https://img.applovin.com/,https://stage-img.applovin.com/,https://d.applovin.com/,https://assets.applovin.com/,https://stage-assets.applovin.com/,https://cdnjs.cloudflare.com/,http://vid.applovin.com/,http://stage-vid.applovin.com/,http://pdn.applovin.com/,http://stage-pdn.applovin.com/,http://img.applovin.com/,http://stage-img.applovin.com/,http://d.applovin.com/,http://assets.applovin.com/,http://stage-assets.applovin.com/,http://cdnjs.cloudflare.com/,http://u.appl.vn/,https://u.appl.vn/,https://res.applovin.com/,https://res1.applovin.com/,https://res2.applovin.com/,https://res3.applovin.com/,http://res.applovin.com/,http://res1.applovin.com/,http://res2.applovin.com/,http://res3.applovin.com/",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 680,
+    "application": false
+  },
+  {
+    "url": "https://support.axon.ai/en/max/android/overview/terms-and-privacy-policy-flow",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 1016,
+    "application": false
+  },
+  {
+    "url": "https://support.axon.ai/en/max/unity/overview/terms-and-privacy-policy-flow",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 1017,
+    "application": false
+  },
+  {
+    "url": "https://applovin.com",
+    "path": "jadx-export/sources/com/applovin/impl/z4.java",
+    "line": 1026,
+    "application": false
+  },
+  {
+    "url": "http://schemas.applovin.com/android/1.0",
+    "path": "jadx-export/sources/com/applovin/mediation/ads/MaxAdView.java",
+    "line": 320,
+    "application": false
+  },
+  {
+    "url": "http://schemas.applovin.com/android/1.0",
+    "path": "jadx-export/sources/com/applovin/mediation/ads/MaxAdView.java",
+    "line": 321,
+    "application": false
+  },
+  {
+    "url": "http://schemas.android.com/apk/res/android",
+    "path": "jadx-export/sources/com/applovin/mediation/ads/MaxAdView.java",
+    "line": 328,
+    "application": false
+  },
+  {
+    "url": "https://%sstats.%s/stats",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFa1dSDK.java",
+    "line": 1989,
+    "application": false
+  },
+  {
+    "url": "https://%ssdk-services.%s/validate-android-signature",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFa1kSDK.java",
+    "line": 25,
+    "application": false
+  },
+  {
+    "url": "https://%svalidate.%s/api/v",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFa1kSDK.java",
+    "line": 38,
+    "application": false
+  },
+  {
+    "url": "https://%sdlsdk.%s/v1.0/android/",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFb1sSDK.java",
+    "line": 39,
+    "application": false
+  },
+  {
+    "url": "https://%scdn-%ssettings.%s/android/v1/%s/settings",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFc1cSDK.java",
+    "line": 55,
+    "application": false
+  },
+  {
+    "url": "https://%scdn-%stestsettings.%s/android/v1/%s/settings",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFc1cSDK.java",
+    "line": 58,
+    "application": false
+  },
+  {
+    "url": "https://%sviap.%s/api/v1/android/validate_purchase?app_id=",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFc1qSDK.java",
+    "line": 57,
+    "application": false
+  },
+  {
+    "url": "https://%sars.%s/api/v2/android/validate_subscription?app_id=",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFc1qSDK.java",
+    "line": 126,
+    "application": false
+  },
+  {
+    "url": "https://%smonitorsdk.%s/remote-debug?app_id=",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFc1qSDK.java",
+    "line": 188,
+    "application": false
+  },
+  {
+    "url": "https://%sgcdsdk.%s/install_data/v5.0/",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFc1qSDK.java",
+    "line": 189,
+    "application": false
+  },
+  {
+    "url": "https://%sonelink.%s/shortlink-sdk/v2",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFc1qSDK.java",
+    "line": 190,
+    "application": false
+  },
+  {
+    "url": "https://%smonitorsdk.%s/remote-debug/exception-manager",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFc1rSDK.java",
+    "line": 41,
+    "application": false
+  },
+  {
+    "url": "https://%sviap.%s/api/v1/android/validate_purchase?app_id=",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFd1kSDK.java",
+    "line": 30,
+    "application": false
+  },
+  {
+    "url": "https://%sregister.%s/api/v",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFe1sSDK.java",
+    "line": 29,
+    "application": false
+  },
+  {
+    "url": "https://%sapp.%s",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFg1xSDK.java",
+    "line": 5,
+    "application": false
+  },
+  {
+    "url": "https://%sattr.%s/api/v",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFg1zSDK.java",
+    "line": 88,
+    "application": false
+  },
+  {
+    "url": "https://%sadrevenue.%s/api/v2/generic/v6.12.1/android?app_id=",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFg1zSDK.java",
+    "line": 91,
+    "application": false
+  },
+  {
+    "url": "https://%sadrevenue.%s/api/v2/log/AdImpression/v6.12.1/android?app_id=",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFg1zSDK.java",
+    "line": 92,
+    "application": false
+  },
+  {
+    "url": "https://%sconversions.%s/api/v",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFg1zSDK.java",
+    "line": 93,
+    "application": false
+  },
+  {
+    "url": "https://%slaunches.%s/api/v",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFg1zSDK.java",
+    "line": 96,
+    "application": false
+  },
+  {
+    "url": "https://%sinapps.%s/api/v",
+    "path": "jadx-export/sources/com/appsflyer/internal/AFg1zSDK.java",
+    "line": 99,
+    "application": false
+  },
+  {
+    "url": "https://%simpression.%s",
+    "path": "jadx-export/sources/com/appsflyer/share/CrossPromotionHelper.java",
+    "line": 21,
+    "application": false
+  },
+  {
+    "url": "https://%s/%s",
+    "path": "jadx-export/sources/com/appsflyer/share/LinkGenerator.java",
+    "line": 215,
+    "application": false
+  },
+  {
+    "url": "https://%s/%s",
+    "path": "jadx-export/sources/com/appsflyer/share/LinkGenerator.java",
+    "line": 220,
+    "application": false
+  },
+  {
+    "url": "https://sf16-static.i18n-pglstatp.com/obj/ad-pattern-sg/static/images/",
+    "path": "jadx-export/sources/com/bytedance/sdk/component/adexpress/dynamic/bme/nb.java",
+    "line": 6,
+    "application": false
+  },
+  {
+    "url": "https://www.pangleglobal.com/",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/activity/single/TTWebsiteActivity.java",
+    "line": 235,
+    "application": false
+  },
+  {
+    "url": "https://www.pangleglobal.com/",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/activity/single/TTWebsiteActivity.java",
+    "line": 602,
+    "application": false
+  },
+  {
+    "url": "http://xmlpull.org/v1/doc/features.html#process-namespaces",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/core/bz/nb/nb/bme.java",
+    "line": 85,
+    "application": false
+  },
+  {
+    "url": "https://lf-static.tiktokpangle-cdn-us.com/obj/ad-pattern-tx/static/images/2023620white.jpeg",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/core/feh.java",
+    "line": 915,
+    "application": false
+  },
+  {
+    "url": "https://pag_open_icon_id/appicon.png",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/core/icm/nb/feh.java",
+    "line": 26,
+    "application": false
+  },
+  {
+    "url": "https://api16-access-sg.pangle.io/api/ad/union/sdk/get_ads/?aid=1371&device_platform=android&version_code=4250",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/core/mr/hkl.java",
+    "line": 148,
+    "application": false
+  },
+  {
+    "url": "https://api16-access-sg.pangle.io/api/ad/union/sdk/get_ads/?aid=1371&device_platform=android&version_code=4250",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/core/mr/hkl.java",
+    "line": 153,
+    "application": false
+  },
+  {
+    "url": "http://www.example.com",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/core/nb/nb.java",
+    "line": 38,
+    "application": false
+  },
+  {
+    "url": "https://lf-static.tiktokpangle-cdn-us.com/obj/ad-pattern-tx/",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/core/settings/cc.java",
+    "line": 280,
+    "application": false
+  },
+  {
+    "url": "https://lf-static.tiktokpangle-cdn-us.com/obj/ad-pattern-tx/",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/core/settings/mr.java",
+    "line": 463,
+    "application": false
+  },
+  {
+    "url": "https://lf-static.tiktokpangle-cdn-us.com/obj/ad-pattern-tx/3p_monitor.9db44671.js",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/core/settings/on.java",
+    "line": 19,
+    "application": false
+  },
+  {
+    "url": "https://lf-static.tiktokpangle-cdn-us.com/obj/ad-pattern-tx/3p_monitor.9db44671.js",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/core/settings/on.java",
+    "line": 25,
+    "application": false
+  },
+  {
+    "url": "https://www.pangleglobal.com/",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/TTAdConstant.java",
+    "line": 90,
+    "application": false
+  },
+  {
+    "url": "https://lf-static.tiktokpangle-cdn-us.com/obj/ad-pattern-tx/renderer/package_tx.json",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/utils/ih.java",
+    "line": 328,
+    "application": false
+  },
+  {
+    "url": "https://%s",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/utils/ih.java",
+    "line": 385,
+    "application": false
+  },
+  {
+    "url": "https://api16-access-ttp.tiktokpangle.us/service/2/app_log/",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/utils/ih.java",
+    "line": 534,
+    "application": false
+  },
+  {
+    "url": "https://www.example.com",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/utils/ih.java",
+    "line": 741,
+    "application": false
+  },
+  {
+    "url": "https://www.pangleglobal.com/",
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/utils/qtr.java",
+    "line": 101,
+    "application": false
+  },
+  {
+    "url": "http://%s:%d/%s",
+    "path": "jadx-export/sources/com/danikula/videocache/HttpProxyCacheServer.java",
+    "line": 144,
+    "application": false
+  },
+  {
+    "url": "https://github.com/danikula/AndroidVideoCache/issues/88.",
+    "path": "jadx-export/sources/com/danikula/videocache/HttpUrlSource.java",
+    "line": 182,
+    "application": false
+  },
+  {
+    "url": "https://github.com/danikula/AndroidVideoCache/issues/43.",
+    "path": "jadx-export/sources/com/danikula/videocache/HttpUrlSource.java",
+    "line": 185,
+    "application": false
+  },
+  {
+    "url": "https://github.com/danikula/AndroidVideoCache/issues.",
+    "path": "jadx-export/sources/com/danikula/videocache/HttpUrlSource.java",
+    "line": 185,
+    "application": false
+  },
+  {
+    "url": "https://github.com/danikula/AndroidVideoCache/issues/43.",
+    "path": "jadx-export/sources/com/danikula/videocache/HttpUrlSource.java",
+    "line": 188,
+    "application": false
+  },
+  {
+    "url": "https://github.com/danikula/AndroidVideoCache/issues.",
+    "path": "jadx-export/sources/com/danikula/videocache/HttpUrlSource.java",
+    "line": 188,
+    "application": false
+  },
+  {
+    "url": "https://github.com/danikula/AndroidVideoCache/issues/134.",
+    "path": "jadx-export/sources/com/danikula/videocache/Pinger.java",
+    "line": 56,
+    "application": false
+  },
+  {
+    "url": "http://%s:%d/%s",
+    "path": "jadx-export/sources/com/danikula/videocache/Pinger.java",
+    "line": 61,
+    "application": false
+  },
+  {
+    "url": "http://xml.apache.org/xslt}indent-amount",
+    "path": "jadx-export/sources/com/elvishew/xlog/formatter/message/xml/DefaultXmlFormatter.java",
+    "line": 26,
+    "application": false
+  },
+  {
+    "url": "https://www.facebook.com/adnw_logging/",
+    "path": "jadx-export/sources/com/facebook/ads/internal/dynamicloading/DexLoadErrorReporter.java",
+    "line": 28,
+    "application": false
+  },
+  {
+    "url": "https://github.com/androidx/media/pull/1742",
+    "path": "jadx-export/sources/com/facebook/ads/redexgen/core/AnonymousClass94.java",
+    "line": 12,
+    "application": false
+  },
+  {
+    "url": "https://github.com/androidx/media/pull/1754",
+    "path": "jadx-export/sources/com/facebook/ads/redexgen/core/AnonymousClass99.java",
+    "line": 24,
+    "application": false
+  },
+  {
+    "url": "https://github.com/google/ExoPlayer/commit/9f352434c72da527d1fa7963447c3cf680db884f",
+    "path": "jadx-export/sources/com/facebook/ads/redexgen/core/C9X.java",
+    "line": 92,
+    "application": false
+  },
+  {
+    "url": "https://github.com/androidx/media/pull/1768",
+    "path": "jadx-export/sources/com/facebook/ads/redexgen/core/CW.java",
+    "line": 35,
+    "application": false
+  },
+  {
+    "url": "https://github.com/androidx/media/pull/1768",
+    "path": "jadx-export/sources/com/facebook/ads/redexgen/core/CW.java",
+    "line": 65,
+    "application": false
+  },
+  {
+    "url": "https://github.com/androidx/media/pull/1754",
+    "path": "jadx-export/sources/com/facebook/ads/redexgen/core/InterfaceExecutorC1115Ez.java",
+    "line": 8,
+    "application": false
+  },
+  {
+    "url": "https://developers.facebook.com/docs/android/getting-started#add-app_id",
+    "path": "jadx-export/sources/com/facebook/FacebookSdk.java",
+    "line": 569,
+    "application": false
+  },
+  {
+    "url": "https://developers.facebook.com/docs/android/getting-started#client-token",
+    "path": "jadx-export/sources/com/facebook/GraphRequest.java",
+    "line": 1425,
+    "application": false
+  },
+  {
+    "url": "https://developers.facebook.com/docs/android/troubleshooting/#faq_267321845055988",
+    "path": "jadx-export/sources/com/facebook/internal/NativeProtocol.java",
+    "line": 330,
+    "application": false
+  },
+  {
+    "url": "https://graph.%s",
+    "path": "jadx-export/sources/com/facebook/internal/ServerProtocol.java",
+    "line": 47,
+    "application": false
+  },
+  {
+    "url": "https://graph.%s",
+    "path": "jadx-export/sources/com/facebook/internal/ServerProtocol.java",
+    "line": 61,
+    "application": false
+  },
+  {
+    "url": "https://graph.%s",
+    "path": "jadx-export/sources/com/facebook/internal/ServerProtocol.java",
+    "line": 69,
+    "application": false
+  },
+  {
+    "url": "https://graph-video.%s",
+    "path": "jadx-export/sources/com/facebook/internal/ServerProtocol.java",
+    "line": 76,
+    "application": false
+  },
+  {
+    "url": "https://facebook.com",
+    "path": "jadx-export/sources/com/facebook/internal/Utility.java",
+    "line": 630,
+    "application": false
+  },
+  {
+    "url": "https://.facebook.com",
+    "path": "jadx-export/sources/com/facebook/internal/Utility.java",
+    "line": 631,
+    "application": false
+  },
+  {
+    "url": "https://developers.facebook.com/docs/sharing/android",
+    "path": "jadx-export/sources/com/facebook/internal/Validate.java",
+    "line": 53,
+    "application": false
+  },
+  {
+    "url": "https://developers.facebook.com/docs/android/getting-started",
+    "path": "jadx-export/sources/com/facebook/internal/Validate.java",
+    "line": 109,
+    "application": false
+  },
+  {
+    "url": "https://developers.facebook.com/docs/android/getting-started",
+    "path": "jadx-export/sources/com/facebook/internal/Validate.java",
+    "line": 111,
+    "application": false
+  },
+  {
+    "url": "https://developers.facebook.com/docs/android/getting-started/#client-access-token",
+    "path": "jadx-export/sources/com/facebook/internal/Validate.java",
+    "line": 184,
+    "application": false
+  },
+  {
+    "url": "https://facebook.com/device?user_code=%1$s&qr=1",
+    "path": "jadx-export/sources/com/facebook/login/DeviceAuthDialog.java",
+    "line": 282,
+    "application": false
+  },
+  {
+    "url": "https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.",
+    "path": "jadx-export/sources/com/facebook/UserSettingsManager.java",
+    "line": 432,
+    "application": false
+  },
+  {
+    "url": "https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.",
+    "path": "jadx-export/sources/com/facebook/UserSettingsManager.java",
+    "line": 435,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/client/fyber-i-icon/index.html",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/activities/FyberReportAdActivity.java",
+    "line": 142,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/ia-sdk-config/config_android.json",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/cache/e.java",
+    "line": 42,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/client/ia-js-tags/dt-mraid-video-controller.js",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/cache/k.java",
+    "line": 39,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/client/ia-js-tags/dt-mraid-video-controller.js",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/cache/k.java",
+    "line": 40,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/IA-JSTag/Production/centering_v1.css",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/cache/k.java",
+    "line": 42,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/IA-JSTag/Production/centering_v1.js",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/cache/k.java",
+    "line": 43,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/client/ia-js-tags/playable_detect.js",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/cache/k.java",
+    "line": 48,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/click/e.java",
+    "line": 81,
+    "application": false
+  },
+  {
+    "url": "http://www.fyber.com",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/click/l.java",
+    "line": 65,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/ia-sdk-config/features_config.json",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/config/global/m.java",
+    "line": 40,
+    "application": false
+  },
+  {
+    "url": "https://fonts.googleapis.com",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/flow/storepromo/controller/webview/b.java",
+    "line": 30,
+    "application": false
+  },
+  {
+    "url": "https://fonts.googleapis.com",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/flow/storepromo/controller/webview/b.java",
+    "line": 30,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/app-detail-page-v0/[BUNDLE_ID].html",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/flow/w.java",
+    "line": 65,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/client/ia-js-tags/omsdk/",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/measurement/e.java",
+    "line": 43,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/client/ia-js-tags/omsdk/omid-session-client-",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/measurement/e.java",
+    "line": 44,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/client/ia-js-tags/omsdk/dt-omsdk-mraid-video-tracker.js",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/measurement/e.java",
+    "line": 45,
+    "application": false
+  },
+  {
+    "url": "https://init-mp.fyber.com/init",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/network/a1.java",
+    "line": 27,
+    "application": false
+  },
+  {
+    "url": "http://xmlpull.org/v1/doc/features.html#process-namespaces",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/response/h.java",
+    "line": 25,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/client/ia-js-tags/dt-mraid-video-controller.js",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/util/d.java",
+    "line": 67,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/IA-JSTag/Production/centering_v1.css",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/util/d.java",
+    "line": 83,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/IA-JSTag/Production/centering_v1.js",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/util/d.java",
+    "line": 90,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/client/ia-js-tags/dt-mraid-video-controller.js",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/util/d.java",
+    "line": 142,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/client/ia-js-tags/dt-mraid-video-controller.js",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/util/d.java",
+    "line": 144,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/IA-JSTag/Production/centering_v1.css",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/util/d.java",
+    "line": 156,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/IA-JSTag/Production/centering_v1.css",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/util/d.java",
+    "line": 158,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/IA-JSTag/Production/centering_v1.js",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/util/d.java",
+    "line": 161,
+    "application": false
+  },
+  {
+    "url": "https://cdn2.inner-active.mobi/IA-JSTag/Production/centering_v1.js",
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/util/d.java",
+    "line": 163,
+    "application": false
+  },
+  {
+    "url": "https://x",
+    "path": "jadx-export/sources/com/google/android/exoplayer/drm/FrameworkMediaDrm.java",
+    "line": 88,
+    "application": false
+  },
+  {
+    "url": "https://x",
+    "path": "jadx-export/sources/com/google/android/exoplayer/drm/FrameworkMediaDrm.java",
+    "line": 234,
+    "application": false
+  },
+  {
+    "url": "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+    "path": "jadx-export/sources/com/google/android/exoplayer/drm/HttpMediaDrmCallback.java",
+    "line": 118,
+    "application": false
+  },
+  {
+    "url": "https://aomedia.org/emsg/ID3",
+    "path": "jadx-export/sources/com/google/android/exoplayer/metadata/emsg/EventMessage.java",
+    "line": 88,
+    "application": false
+  },
+  {
+    "url": "https://developer.apple.com/streaming/emsg-id3",
+    "path": "jadx-export/sources/com/google/android/exoplayer/metadata/emsg/EventMessage.java",
+    "line": 89,
+    "application": false
+  },
+  {
+    "url": "https://exoplayer.dev/issues/player-accessed-on-wrong-thread",
+    "path": "jadx-export/sources/com/google/android/exoplayer/SimpleExoPlayer.java",
+    "line": 953,
+    "application": false
+  },
+  {
+    "url": "http://dashif.org/guidelines/trickmode",
+    "path": "jadx-export/sources/com/google/android/exoplayer/source/dash/DashMediaPeriod.java",
+    "line": 421,
+    "application": false
+  },
+  {
+    "url": "http://dashif.org/guidelines/last-segment-number",
+    "path": "jadx-export/sources/com/google/android/exoplayer/source/dash/manifest/DashManifestParser.java",
+    "line": 149,
+    "application": false
+  },
+  {
+    "url": "http://dashif.org/guidelines/trickmode",
+    "path": "jadx-export/sources/com/google/android/exoplayer/source/dash/manifest/DashManifestParser.java",
+    "line": 361,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/ns/ttml#parameter",
+    "path": "jadx-export/sources/com/google/android/exoplayer/text/ttml/TtmlDecoder.java",
+    "line": 195,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/ns/ttml#parameter",
+    "path": "jadx-export/sources/com/google/android/exoplayer/text/ttml/TtmlDecoder.java",
+    "line": 197,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/ns/ttml#parameter",
+    "path": "jadx-export/sources/com/google/android/exoplayer/text/ttml/TtmlDecoder.java",
+    "line": 209,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/ns/ttml#parameter",
+    "path": "jadx-export/sources/com/google/android/exoplayer/text/ttml/TtmlDecoder.java",
+    "line": 214,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/ns/ttml#parameter",
+    "path": "jadx-export/sources/com/google/android/exoplayer/text/ttml/TtmlDecoder.java",
+    "line": 515,
+    "application": false
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+    "path": "jadx-export/sources/com/google/android/gms/ads/identifier/zza.java",
+    "line": 16,
+    "application": false
+  },
+  {
+    "url": "https://goo.gle/admob-android-update-manifest",
+    "path": "jadx-export/sources/com/google/android/gms/ads/internal/client/zzev.java",
+    "line": 36,
+    "application": false
+  },
+  {
+    "url": "https://goo.gle/ad-manager-android-update-manifest.",
+    "path": "jadx-export/sources/com/google/android/gms/ads/internal/client/zzev.java",
+    "line": 36,
+    "application": false
+  },
+  {
+    "url": "https://goo.gle/admob-android-update-manifest.",
+    "path": "jadx-export/sources/com/google/android/gms/ads/internal/client/zzev.java",
+    "line": 41,
+    "application": false
+  },
+  {
+    "url": "https://goo.gle/ad-manager-android-update-manifest.",
+    "path": "jadx-export/sources/com/google/android/gms/ads/internal/client/zzev.java",
+    "line": 41,
+    "application": false
+  },
+  {
+    "url": "https://support.google.com/dfp_premium/answer/7160685#push",
+    "path": "jadx-export/sources/com/google/android/gms/ads/internal/util/zzav.java",
+    "line": 20,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/games.firstparty",
+    "path": "jadx-export/sources/com/google/android/gms/common/FirstPartyScopes.java",
+    "line": 14,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/appstate",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 10,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/datastoremobile",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 13,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/drive.appdata",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 16,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/drive.apps",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 20,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/drive.file",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 23,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/drive",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 27,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/games",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 33,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/games_lite",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 37,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/userinfo.email",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 41,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/userinfo.profile",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 45,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/plus.login",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 53,
+    "application": false
+  },
+  {
+    "url": "https://www.googleapis.com/auth/plus.me",
+    "path": "jadx-export/sources/com/google/android/gms/common/Scopes.java",
+    "line": 56,
+    "application": false
+  },
+  {
+    "url": "http://ns.adobe.com/xap/1.0/",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzaim.java",
+    "line": 153,
+    "application": false
+  },
+  {
+    "url": "http://ns.adobe.com/xap/1.0/",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzaim.java",
+    "line": 244,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/ns/ttml#parameter",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzaoe.java",
+    "line": 779,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 887,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 887,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/sdk/native/sdk-core-v40.html",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 888,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/sdk/native/sdk-core-v40.html",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 888,
+    "application": false
+  },
+  {
+    "url": "https://mediation.goog/mads/static/sdk/native/sdk-core-v40.html",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 889,
+    "application": false
+  },
+  {
+    "url": "https://mediation.goog/mads/static/sdk/native/sdk-core-v40.html",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 889,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_banner.js",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 976,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_banner.js",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 976,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_expanded_banner.js",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 977,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_expanded_banner.js",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 977,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_interstitial.js",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 978,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_interstitial.js",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 978,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1033,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1033,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1211,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1211,
+    "application": false
+  },
+  {
+    "url": "https://imasdk.googleapis.com/admob/sdkloader/native_video.html",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1212,
+    "application": false
+  },
+  {
+    "url": "https://imasdk.googleapis.com/admob/sdkloader/native_video.html",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1212,
+    "application": false
+  },
+  {
+    "url": "https://www.google.com/dfp/linkDevice",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1284,
+    "application": false
+  },
+  {
+    "url": "https://www.google.com/dfp/linkDevice",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1284,
+    "application": false
+  },
+  {
+    "url": "https://www.google.com/dfp/inAppPreview",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1285,
+    "application": false
+  },
+  {
+    "url": "https://www.google.com/dfp/inAppPreview",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1285,
+    "application": false
+  },
+  {
+    "url": "https://www.google.com/dfp/debugSignals",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1286,
+    "application": false
+  },
+  {
+    "url": "https://www.google.com/dfp/debugSignals",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1286,
+    "application": false
+  },
+  {
+    "url": "https://www.google.com/dfp/sendDebugData",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1287,
+    "application": false
+  },
+  {
+    "url": "https://www.google.com/dfp/sendDebugData",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1287,
+    "application": false
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/ping?e=2&f=1",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1519,
+    "application": false
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/ping?e=2&f=1",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1519,
+    "application": false
+  },
+  {
+    "url": "https://admob-gmats.uc.r.appspot.com/",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1536,
+    "application": false
+  },
+  {
+    "url": "https://admob-gmats.uc.r.appspot.com/",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1536,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net,https://pubads.g.doubleclick.net",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1811,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net,https://pubads.g.doubleclick.net",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbie.java",
+    "line": 1811,
+    "application": false
+  },
+  {
+    "url": "http://www.example.com",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbjf.java",
+    "line": 84,
+    "application": false
+  },
+  {
+    "url": "https://csi.gstatic.com/csi",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbjy.java",
+    "line": 9,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzbko.java",
+    "line": 9,
+    "application": false
+  },
+  {
+    "url": "http://www.google.com",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzcau.java",
+    "line": 70,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/d",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzcnn.java",
+    "line": 19,
+    "application": false
+  },
+  {
+    "url": "https://goo.gle/admob-interstitial-policies",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzcut.java",
+    "line": 67,
+    "application": false
+  },
+  {
+    "url": "https://goo.gle/admob-interstitial-policies",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzdln.java",
+    "line": 108,
+    "application": false
+  },
+  {
+    "url": "https://goo.gle/admob-interstitial-policies",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzdva.java",
+    "line": 121,
+    "application": false
+  },
+  {
+    "url": "https://developers.google.com/admob/android/test-ads#enable_test_devices",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzecf.java",
+    "line": 287,
+    "application": false
+  },
+  {
+    "url": "http://www.google.com",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzfcj.java",
+    "line": 86,
+    "application": false
+  },
+  {
+    "url": "http://www.example.com",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzfcj.java",
+    "line": 151,
+    "application": false
+  },
+  {
+    "url": "https://developers.google.com/admob/android/test-ads#enable_test_devices",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzflo.java",
+    "line": 98,
+    "application": false
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/ping?e=2&f=1",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzgdg.java",
+    "line": 9,
+    "application": false
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/mads/asp",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzgdi.java",
+    "line": 17,
+    "application": false
+  },
+  {
+    "url": "https://developers.google.com/tink/faq/registration_errors",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzhlg.java",
+    "line": 27,
+    "application": false
+  },
+  {
+    "url": "https://developers.google.com/tink/faq/registration_errors",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzhnb.java",
+    "line": 34,
+    "application": false
+  },
+  {
+    "url": "https://developer.android.com/guide/topics/media/issues/cleartext-not-permitted",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzhx.java",
+    "line": 8,
+    "application": false
+  },
+  {
+    "url": "https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzibq.java",
+    "line": 429,
+    "application": false
+  },
+  {
+    "url": "https://github.com/google/gson/blob/main/Troubleshooting.md#",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzibq.java",
+    "line": 1745,
+    "application": false
+  },
+  {
+    "url": "http://g.co/dev/packagevisibility.",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzif.java",
+    "line": 135,
+    "application": false
+  },
+  {
+    "url": "https://www.example.com",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzimy.java",
+    "line": 32,
+    "application": false
+  },
+  {
+    "url": "https://developer.android.com/guide/topics/media/issues/player-accessed-on-wrong-thread",
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzlb.java",
+    "line": 1696,
+    "application": false
+  },
+  {
+    "url": "https://fundingchoicesmessages.google.com/a/consent",
+    "path": "jadx-export/sources/com/google/android/gms/internal/consent_sdk/zzw.java",
+    "line": 62,
+    "application": false
+  },
+  {
+    "url": "https://goo.gl/J1sWQy",
+    "path": "jadx-export/sources/com/google/android/gms/internal/measurement/zzee.java",
+    "line": 308,
+    "application": false
+  },
+  {
+    "url": "http://schemas.android.com/apk/res/android",
+    "path": "jadx-export/sources/com/google/android/material/chip/Chip.java",
+    "line": 71,
+    "application": false
+  },
+  {
+    "url": "http://schemas.android.com/apk/res-auto",
+    "path": "jadx-export/sources/com/google/android/material/chip/ChipDrawable.java",
+    "line": 61,
+    "application": false
+  },
+  {
+    "url": "http://schemas.android.com/apk/lib/com.inmobi.ads",
+    "path": "jadx-export/sources/com/inmobi/ads/InMobiAudio.java",
+    "line": 138,
+    "application": false
+  },
+  {
+    "url": "http://schemas.android.com/apk/lib/com.inmobi.ads",
+    "path": "jadx-export/sources/com/inmobi/ads/InMobiBanner.java",
+    "line": 204,
+    "application": false
+  },
+  {
+    "url": "http://schemas.android.com/apk/lib/com.inmobi.ads",
+    "path": "jadx-export/sources/com/inmobi/ads/InMobiBanner.java",
+    "line": 205,
+    "application": false
+  },
+  {
+    "url": "http://www.google.com",
+    "path": "jadx-export/sources/com/inmobi/media/AbstractC2807i5.java",
+    "line": 33,
+    "application": false
+  },
+  {
+    "url": "https://www.123.com",
+    "path": "jadx-export/sources/com/inmobi/media/AbstractC3223yk.java",
+    "line": 75,
+    "application": false
+  },
+  {
+    "url": "https://www.123.com",
+    "path": "jadx-export/sources/com/inmobi/media/AbstractC3223yk.java",
+    "line": 76,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/d?",
+    "path": "jadx-export/sources/com/inmobi/media/ads/network/common/model/InlineParams.java",
+    "line": 202,
+    "application": false
+  },
+  {
+    "url": "https://ads.inmobi.com/sdk",
+    "path": "jadx-export/sources/com/inmobi/media/C2979p0.java",
+    "line": 42,
+    "application": false
+  },
+  {
+    "url": "https://ads.inmobi.com/sdk",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/AdConfig.java",
+    "line": 47,
+    "application": false
+  },
+  {
+    "url": "https://ads.inmobi.com/sdk",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/AdConfig.java",
+    "line": 146,
+    "application": false
+  },
+  {
+    "url": "https://supply.inmobicdn.net/lagom-icons/AdChoices-11.png",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/AdConfig.java",
+    "line": 173,
+    "application": false
+  },
+  {
+    "url": "https://www.inmobi.com",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/AdConfig.java",
+    "line": 176,
+    "application": false
+  },
+  {
+    "url": "https://supply.inmobicdn.net/sdk/sdk/1110/android/mraid.js",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/AdConfig.java",
+    "line": 1964,
+    "application": false
+  },
+  {
+    "url": "https://supply.inmobicdn.net/javascript/1.5.7/omsdk-service.js",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/AdConfig.java",
+    "line": 2002,
+    "application": false
+  },
+  {
+    "url": "https://crash-metrics.sdk.inmobi.com/trace",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/CrashConfig.java",
+    "line": 39,
+    "application": false
+  },
+  {
+    "url": "https://crash-metrics.sdk.inmobi.com/trace",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/CrashConfig.java",
+    "line": 43,
+    "application": false
+  },
+  {
+    "url": "https://config.inmobi.com/config-server/v1/config/secure.cfg",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/RootConfig.java",
+    "line": 32,
+    "application": false
+  },
+  {
+    "url": "https://config.inmobi.com/config-server/v1/config/secure.cfg",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/RootConfig.java",
+    "line": 166,
+    "application": false
+  },
+  {
+    "url": "https://spadsync.com/sync",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/SignalsConfig.java",
+    "line": 152,
+    "application": false
+  },
+  {
+    "url": "https://unif-id.ssp.inmobi.com/fetch",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/SignalsConfig.java",
+    "line": 420,
+    "application": false
+  },
+  {
+    "url": "https://log-activity.templates.inmobi.com/api/v1/ingest",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/TelemetryConfig.java",
+    "line": 37,
+    "application": false
+  },
+  {
+    "url": "https://telemetry.sdk.inmobi.com/metrics",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/TelemetryConfig.java",
+    "line": 50,
+    "application": false
+  },
+  {
+    "url": "https://telemetry.sdk.inmobi.com/metrics",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/TelemetryConfig.java",
+    "line": 75,
+    "application": false
+  },
+  {
+    "url": "https://log-activity.templates.inmobi.com/api/v1/ingest",
+    "path": "jadx-export/sources/com/inmobi/media/core/config/models/TelemetryConfig.java",
+    "line": 205,
+    "application": false
+  },
+  {
+    "url": "http://xmlpull.org/v1/doc/features.html#process-docdecl",
+    "path": "jadx-export/sources/com/inmobi/media/Kl.java",
+    "line": 878,
+    "application": false
+  },
+  {
+    "url": "https://www.supersonicads.com/mobile/sdk5/log?method=",
+    "path": "jadx-export/sources/com/ironsource/C3311d4.java",
+    "line": 35,
+    "application": false
+  },
+  {
+    "url": "https://o-sdk.mediation.unity3d.com/mediation?adUnit=3",
+    "path": "jadx-export/sources/com/ironsource/C3356fd.java",
+    "line": 11,
+    "application": false
+  },
+  {
+    "url": "https://o-sdk.mediation.unity3d.com/mediation?adUnit=2",
+    "path": "jadx-export/sources/com/ironsource/C3442ka.java",
+    "line": 16,
+    "application": false
+  },
+  {
+    "url": "https://o-sdk.mediation.unity3d.com/mediation?adUnit=2",
+    "path": "jadx-export/sources/com/ironsource/C3442ka.java",
+    "line": 29,
+    "application": false
+  },
+  {
+    "url": "https://o-crash.mediation.unity3d.com/reporter",
+    "path": "jadx-export/sources/com/ironsource/C3561r4.java",
+    "line": 178,
+    "application": false
+  },
+  {
+    "url": "https://o-sdk.mediation.unity3d.com/mediation?adUnit=3",
+    "path": "jadx-export/sources/com/ironsource/Ne.java",
+    "line": 772,
+    "application": false
+  },
+  {
+    "url": "https://i-sdk.mediation.unity3d.com/sdk/v",
+    "path": "jadx-export/sources/com/ironsource/Pe.java",
+    "line": 38,
+    "application": false
+  },
+  {
+    "url": "https://o-ext.mediation.unity3d.com/aemData",
+    "path": "jadx-export/sources/com/ironsource/T5.java",
+    "line": 46,
+    "application": false
+  },
+  {
+    "url": "https://o-sdk.mediation.unity3d.com/mediation?adUnit=3",
+    "path": "jadx-export/sources/com/ironsource/Uc.java",
+    "line": 13,
+    "application": false
+  },
+  {
+    "url": "https://o-sdk.mediation.unity3d.com/mediation?adUnit=3",
+    "path": "jadx-export/sources/com/ironsource/Uc.java",
+    "line": 16,
+    "application": false
+  },
+  {
+    "url": "https://o-crash.mediation.unity3d.com/reporter",
+    "path": "jadx-export/sources/com/ironsource/Z7.java",
+    "line": 73,
+    "application": false
+  },
+  {
+    "url": "https://5rjmpws5csezv.akamaized.net/livelist.json",
+    "path": "jadx-export/sources/com/kwai/network/a/a7.java",
+    "line": 35,
+    "application": false
+  },
+  {
+    "url": "https://5rjmpws5csezv.akamaized.net/livelist.json",
+    "path": "jadx-export/sources/com/kwai/network/a/a7.java",
+    "line": 152,
+    "application": false
+  },
+  {
+    "url": "https://api.mythad.com",
+    "path": "jadx-export/sources/com/kwai/network/a/r6.java",
+    "line": 36,
+    "application": false
+  },
+  {
+    "url": "https://api.mythad.com/rest/n/adintl/KwaiNetwork/sdk/config",
+    "path": "jadx-export/sources/com/kwai/network/a/r6.java",
+    "line": 39,
+    "application": false
+  },
+  {
+    "url": "https://api.mythad.com/rest/n/adintl/track/eventLog",
+    "path": "jadx-export/sources/com/kwai/network/a/r6.java",
+    "line": 40,
+    "application": false
+  },
+  {
+    "url": "https://api.mythad.com/rest/n/adintl/track/apmLog",
+    "path": "jadx-export/sources/com/kwai/network/a/r6.java",
+    "line": 41,
+    "application": false
+  },
+  {
+    "url": "https://api.mythad.com/rest/n/adintl/track/errorLog",
+    "path": "jadx-export/sources/com/kwai/network/a/r6.java",
+    "line": 42,
+    "application": false
+  },
+  {
+    "url": "https://github.com/lingochamp/FileDownloader/wiki/filedownloader.properties",
+    "path": "jadx-export/sources/com/liulishuo/filedownloader/services/BaseFileServiceUIGuard.java",
+    "line": 74,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/",
+    "path": "jadx-export/sources/com/mbridge/msdk/click/a.java",
+    "line": 740,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/",
+    "path": "jadx-export/sources/com/mbridge/msdk/click/a.java",
+    "line": 1074,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/",
+    "path": "jadx-export/sources/com/mbridge/msdk/foundation/tools/u0.java",
+    "line": 168,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/mbridge/msdk/foundation/tools/u0.java",
+    "line": 169,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/mbridge/msdk/foundation/tools/u0.java",
+    "line": 175,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/mbridge/msdk/foundation/tools/u0.java",
+    "line": 189,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/mbridge/msdk/foundation/tools/u0.java",
+    "line": 244,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/mbridge/msdk/foundation/tools/u0.java",
+    "line": 273,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/mbridge/msdk/foundation/webview/a.java",
+    "line": 389,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com",
+    "path": "jadx-export/sources/com/mbridge/msdk/mbsignalcommon/windvane/WindVaneWebView.java",
+    "line": 204,
+    "application": false
+  },
+  {
+    "url": "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+    "path": "jadx-export/sources/com/mbridge/msdk/playercommon/exoplayer2/drm/HttpMediaDrmCallback.java",
+    "line": 141,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/ns/ttml#parameter",
+    "path": "jadx-export/sources/com/mbridge/msdk/playercommon/exoplayer2/text/ttml/TtmlDecoder.java",
+    "line": 31,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/html/common-microsyntaxes.html#space-character",
+    "path": "jadx-export/sources/com/mbridge/msdk/setting/util/b.java",
+    "line": 130,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/html/webappapis.html#dom-windowbase64-atob",
+    "path": "jadx-export/sources/com/mbridge/msdk/setting/util/b.java",
+    "line": 130,
+    "application": false
+  },
+  {
+    "url": "https://gist.github.com/atk/1020396",
+    "path": "jadx-export/sources/com/mbridge/msdk/setting/util/b.java",
+    "line": 130,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/C#alphanumeric-ascii-characters",
+    "path": "jadx-export/sources/com/mbridge/msdk/setting/util/b.java",
+    "line": 130,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/html/webappapis.html#dom-windowbase64-btoa",
+    "path": "jadx-export/sources/com/mbridge/msdk/setting/util/b.java",
+    "line": 130,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/html/common-microsyntaxes.html#space-character",
+    "path": "jadx-export/sources/com/mbridge/msdk/setting/util/b.java",
+    "line": 132,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/html/webappapis.html#dom-windowbase64-atob",
+    "path": "jadx-export/sources/com/mbridge/msdk/setting/util/b.java",
+    "line": 132,
+    "application": false
+  },
+  {
+    "url": "https://gist.github.com/atk/1020396",
+    "path": "jadx-export/sources/com/mbridge/msdk/setting/util/b.java",
+    "line": 132,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/C#alphanumeric-ascii-characters",
+    "path": "jadx-export/sources/com/mbridge/msdk/setting/util/b.java",
+    "line": 132,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/html/webappapis.html#dom-windowbase64-btoa",
+    "path": "jadx-export/sources/com/mbridge/msdk/setting/util/b.java",
+    "line": 132,
+    "application": false
+  },
+  {
+    "url": "https://{}",
+    "path": "jadx-export/sources/com/mbridge/msdk/tracker/network/toolbox/i.java",
+    "line": 101,
+    "application": false
+  },
+  {
+    "url": "http://{}",
+    "path": "jadx-export/sources/com/mbridge/msdk/tracker/network/toolbox/i.java",
+    "line": 101,
+    "application": false
+  },
+  {
+    "url": "http://purl.org/dc/elements/1.1/",
+    "path": "jadx-export/sources/com/mgs/carparking/adapter/ClingPlayControl.java",
+    "line": 281,
+    "application": true
+  },
+  {
+    "url": "https://velvetreel.7nkznc.com/",
+    "path": "jadx-export/sources/com/mgs/carparking/app/HttpsUtils.java",
+    "line": 67,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/model/DOWNLOADCOMPLETESECONDVIEWMODEL.java",
+    "line": 76,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/model/DOWNLOADCOMPLETEVIEWMODEL.java",
+    "line": 111,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/model/DOWNLOADVIDEOVIEWMODEL.java",
+    "line": 208,
+    "application": true
+  },
+  {
+    "url": "http://dg10.tv",
+    "path": "jadx-export/sources/com/mgs/carparking/model/FEEDBACKVIEWMODEL.java",
+    "line": 97,
+    "application": true
+  },
+  {
+    "url": "http://dg10.tv",
+    "path": "jadx-export/sources/com/mgs/carparking/model/FEEDBACKVIEWMODEL.java",
+    "line": 313,
+    "application": true
+  },
+  {
+    "url": "http://|https://",
+    "path": "jadx-export/sources/com/mgs/carparking/model/ITEMCOMMENTVIDEOVIEWMODEL.java",
+    "line": 177,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/model/ITEMDOWNLOADINGVIEWMODEL.java",
+    "line": 355,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/model/ITEMDOWNLOADINGVIEWMODEL.java",
+    "line": 366,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/model/ITEMDOWNLOADINGVIEWMODEL.java",
+    "line": 374,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/model/ITEMDOWNLOADINGVIEWMODEL.java",
+    "line": 378,
+    "application": true
+  },
+  {
+    "url": "http://sdgc.e6r4r1.com/vod/1/2025/03/20/d6a8f2df6239/index5.m3u8?wsSecret=68a60627f7e0ae99b3d7d9dea55043b3&wsTime=6971e822",
+    "path": "jadx-export/sources/com/mgs/carparking/model/MINEVIEWMODEL.java",
+    "line": 574,
+    "application": true
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.velvetreel.shorttv",
+    "path": "jadx-export/sources/com/mgs/carparking/model/SETTINGVIEWMODEL.java",
+    "line": 131,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/ui/DownloadVideoActivity.java",
+    "line": 158,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/ui/DownloadVideoActivity.java",
+    "line": 245,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/ui/DownloadVideoPlayActivity.java",
+    "line": 404,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/ui/DownloadVideoPlayActivity.java",
+    "line": 406,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/ui/DownloadVideoPlayActivity.java",
+    "line": 442,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/ui/DownloadVideoPlayActivity.java",
+    "line": 444,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/ui/DownloadVideoPlayActivity.java",
+    "line": 571,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/ui/DownloadVideoPlayActivity.java",
+    "line": 573,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/ui/MainActivity.java",
+    "line": 571,
+    "application": true
+  },
+  {
+    "url": "http://|https://",
+    "path": "jadx-export/sources/com/mgs/carparking/ui/UpdateUtil.java",
+    "line": 304,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/ui/VideoPlayDetailActivity.java",
+    "line": 1922,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/util/ApiRequestUtil.java",
+    "line": 481,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/util/AppUtils.java",
+    "line": 82,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/util/AppUtils.java",
+    "line": 84,
+    "application": true
+  },
+  {
+    "url": "https://velvetreel.b7m6.com/error.png",
+    "path": "jadx-export/sources/com/mgs/carparking/util/RetryWithDelay.java",
+    "line": 73,
+    "application": true
+  },
+  {
+    "url": "https://velvetreel.b7m6.com/error.png",
+    "path": "jadx-export/sources/com/mgs/carparking/util/RetryWithDelay.java",
+    "line": 99,
+    "application": true
+  },
+  {
+    "url": "https://velvetreel.b7m6.com/error.png",
+    "path": "jadx-export/sources/com/mgs/carparking/util/RetryWithDelay.java",
+    "line": 157,
+    "application": true
+  },
+  {
+    "url": "https://smartbrowser.g8w6.com/privacy.html",
+    "path": "jadx-export/sources/com/mgs/carparking/util/UserUtils.java",
+    "line": 406,
+    "application": true
+  },
+  {
+    "url": "https://www.facebook.com/sharer/sharer.php?u=",
+    "path": "jadx-export/sources/com/mgs/carparking/widgets/ShareDialog.java",
+    "line": 74,
+    "application": true
+  },
+  {
+    "url": "https://wa.me/?text=",
+    "path": "jadx-export/sources/com/mgs/carparking/widgets/ShareDialog.java",
+    "line": 98,
+    "application": true
+  },
+  {
+    "url": "http://dg10.tv",
+    "path": "jadx-export/sources/com/mgs/carparking/widgets/SimpleShareDialog.java",
+    "line": 158,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/widgets/VideoDetailTvAndComicDownloadPop.java",
+    "line": 239,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/widgets/VideoDetailTvAndComicDownloadPop.java",
+    "line": 502,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/widgets/VideoDetailVarietyDownloadPop.java",
+    "line": 240,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/widgets/VideoDetailVarietyDownloadPop.java",
+    "line": 503,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/widgets/VideoDetailVideoDownloadPop.java",
+    "line": 186,
+    "application": true
+  },
+  {
+    "url": "http://127.0.0.1:",
+    "path": "jadx-export/sources/com/mgs/carparking/widgets/VideoDetailVideoDownloadPop.java",
+    "line": 434,
+    "application": true
+  },
+  {
+    "url": "https://github.com/yyued/SVGAPlayer-Android#cache",
+    "path": "jadx-export/sources/com/opensource/svgaplayer/SVGAParser.java",
+    "line": 112,
+    "application": false
+  },
+  {
+    "url": "https://github.com/yyued/SVGAPlayer-Android#cache",
+    "path": "jadx-export/sources/com/opensource/svgaplayer/SVGAParser.java",
+    "line": 113,
+    "application": false
+  },
+  {
+    "url": "http://schemas.android.com/apk/res/android",
+    "path": "jadx-export/sources/com/ruffian/library/widget/RImageView.java",
+    "line": 156,
+    "application": false
+  },
+  {
+    "url": "http://schemas.android.com/apk/res/android",
+    "path": "jadx-export/sources/com/ruffian/library/widget/RImageView.java",
+    "line": 157,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com/v1/events",
+    "path": "jadx-export/sources/com/safedk/android/analytics/AppLovinBridge.java",
+    "line": 99,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com/v1/events",
+    "path": "jadx-export/sources/com/safedk/android/analytics/AppLovinBridge.java",
+    "line": 100,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com/v1/image_uploaded",
+    "path": "jadx-export/sources/com/safedk/android/analytics/AppLovinBridge.java",
+    "line": 101,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com/v1/image_uploaded",
+    "path": "jadx-export/sources/com/safedk/android/analytics/AppLovinBridge.java",
+    "line": 102,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com/v1/resolved",
+    "path": "jadx-export/sources/com/safedk/android/analytics/AppLovinBridge.java",
+    "line": 103,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com/v1/resolved",
+    "path": "jadx-export/sources/com/safedk/android/analytics/AppLovinBridge.java",
+    "line": 104,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/dbm/ad?dbm_c=",
+    "path": "jadx-export/sources/com/safedk/android/analytics/brandsafety/creatives/discoveries/b.java",
+    "line": 140,
+    "application": false
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/xbbe/pixel?d",
+    "path": "jadx-export/sources/com/safedk/android/analytics/brandsafety/creatives/discoveries/b.java",
+    "line": 140,
+    "application": false
+  },
+  {
+    "url": "http://vastproxy.brand.inmobi.com/g/",
+    "path": "jadx-export/sources/com/safedk/android/analytics/brandsafety/creatives/discoveries/e.java",
+    "line": 756,
+    "application": false
+  },
+  {
+    "url": "https://privacy.vungle.com/",
+    "path": "jadx-export/sources/com/safedk/android/analytics/brandsafety/creatives/discoveries/m.java",
+    "line": 74,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=%s",
+    "path": "jadx-export/sources/com/safedk/android/analytics/brandsafety/i.java",
+    "line": 39,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=%s",
+    "path": "jadx-export/sources/com/safedk/android/analytics/brandsafety/i.java",
+    "line": 158,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com",
+    "path": "jadx-export/sources/com/safedk/android/internal/d.java",
+    "line": 34,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com",
+    "path": "jadx-export/sources/com/safedk/android/internal/d.java",
+    "line": 35,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com",
+    "path": "jadx-export/sources/com/safedk/android/internal/d.java",
+    "line": 177,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com",
+    "path": "jadx-export/sources/com/safedk/android/internal/d.java",
+    "line": 178,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com",
+    "path": "jadx-export/sources/com/safedk/android/internal/d.java",
+    "line": 586,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com",
+    "path": "jadx-export/sources/com/safedk/android/internal/d.java",
+    "line": 590,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com",
+    "path": "jadx-export/sources/com/safedk/android/internal/d.java",
+    "line": 593,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com",
+    "path": "jadx-export/sources/com/safedk/android/internal/d.java",
+    "line": 597,
+    "application": false
+  },
+  {
+    "url": "https://webview.unityads.unity3d.com/webview/",
+    "path": "jadx-export/sources/com/safedk/android/internal/SafeDKWebAppInterface.java",
+    "line": 74,
+    "application": false
+  },
+  {
+    "url": "https://config.safedk.com/",
+    "path": "jadx-export/sources/com/safedk/android/SafeDK.java",
+    "line": 57,
+    "application": false
+  },
+  {
+    "url": "https://edge.safedk.com",
+    "path": "jadx-export/sources/com/safedk/android/SafeDK.java",
+    "line": 269,
+    "application": false
+  },
+  {
+    "url": "https://config.safedk.com/",
+    "path": "jadx-export/sources/com/safedk/android/SafeDK.java",
+    "line": 273,
+    "application": false
+  },
+  {
+    "url": "https://www",
+    "path": "jadx-export/sources/com/safedk/android/utils/f.java",
+    "line": 620,
+    "application": false
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=",
+    "path": "jadx-export/sources/com/safedk/android/utils/k.java",
+    "line": 90,
+    "application": false
+  },
+  {
+    "url": "http://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/safedk/android/utils/k.java",
+    "line": 105,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/safedk/android/utils/k.java",
+    "line": 149,
+    "application": false
+  },
+  {
+    "url": "https://www.amazon.com/gp/mas/dl/android?p=",
+    "path": "jadx-export/sources/com/safedk/android/utils/k.java",
+    "line": 150,
+    "application": false
+  },
+  {
+    "url": "https://www.samsungapps.com/appquery/appDetail.as?appId=",
+    "path": "jadx-export/sources/com/safedk/android/utils/k.java",
+    "line": 151,
+    "application": false
+  },
+  {
+    "url": "http://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/safedk/android/utils/k.java",
+    "line": 152,
+    "application": false
+  },
+  {
+    "url": "http://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/safedk/android/utils/k.java",
+    "line": 152,
+    "application": false
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=",
+    "path": "jadx-export/sources/com/safedk/android/utils/k.java",
+    "line": 484,
+    "application": false
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=%s",
+    "path": "jadx-export/sources/com/safedk/android/utils/k.java",
+    "line": 568,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/basead/mm/mw.java",
+    "line": 96,
+    "application": false
+  },
+  {
+    "url": "https://img.mossturbo.com/gdpr/PrivacyPolicySetting.html",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/mv/nu.java",
+    "line": 125,
+    "application": false
+  },
+  {
+    "url": "https://se.mnbvcxzas.com/v2/open/ns",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/mv/nu.java",
+    "line": 127,
+    "application": false
+  },
+  {
+    "url": "https://se.mnbvcxzas.com/v2/open/api_hb",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/mv/nu.java",
+    "line": 128,
+    "application": false
+  },
+  {
+    "url": "https://se.mnbvcxzas.com/v2/open/ns",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 9,
+    "application": false
+  },
+  {
+    "url": "https://se.mnbvcxzas.com/v2/open/api_hb",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 10,
+    "application": false
+  },
+  {
+    "url": "https://api.mossturbo.com/v2/open/app",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 11,
+    "application": false
+  },
+  {
+    "url": "https://api-sec.mossturbo.com/v2/open/app",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 12,
+    "application": false
+  },
+  {
+    "url": "https://api.mossturbo.com/v2/open/placement",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 13,
+    "application": false
+  },
+  {
+    "url": "https://api-sec.mossturbo.com/v2/open/placement",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 14,
+    "application": false
+  },
+  {
+    "url": "https://ssapi.mossturbo.com/sdk/realtime_waterfall",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 15,
+    "application": false
+  },
+  {
+    "url": "https://api.mossturbo.com/v2/open/pl_wf",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 16,
+    "application": false
+  },
+  {
+    "url": "https://da.mossturbo.com/v1/open/da",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 17,
+    "application": false
+  },
+  {
+    "url": "https://tk.mossturbo.com/v2/open/anr",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 18,
+    "application": false
+  },
+  {
+    "url": "https://tk.mossturbo.com/v1/open/tk",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 19,
+    "application": false
+  },
+  {
+    "url": "https://img.mossturbo.com/gdpr/PrivacyPolicySetting.html",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 30,
+    "application": false
+  },
+  {
+    "url": "https://adx.mossturbo.com/bid",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 68,
+    "application": false
+  },
+  {
+    "url": "https://adx.mossturbo.com/request",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 69,
+    "application": false
+  },
+  {
+    "url": "https://adxtk.mossturbo.com/v1",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 70,
+    "application": false
+  },
+  {
+    "url": "https://adx.mossturbo.com/openapi/req",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 71,
+    "application": false
+  },
+  {
+    "url": "https://tk.mossturbo.com/ss/rrd",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 72,
+    "application": false
+  },
+  {
+    "url": "https://api.mossturbo.com/v2/open/area",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 73,
+    "application": false
+  },
+  {
+    "url": "https://api.mossturbo.com/v2/open/m_adapter",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 74,
+    "application": false
+  },
+  {
+    "url": "https://api.mossturbo.com/v2/open/dna",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nm/mm.java",
+    "line": 75,
+    "application": false
+  },
+  {
+    "url": "https://img.mossturbo.com/gdpr/PrivacyPolicySetting.html",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nu.java",
+    "line": 105,
+    "application": false
+  },
+  {
+    "url": "https://img.mossturbo.com/gdpr/PrivacyPolicySetting.html",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nu.java",
+    "line": 114,
+    "application": false
+  },
+  {
+    "url": "https://se.mnbvcxzas.com/v2/open/ns",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nu.java",
+    "line": 150,
+    "application": false
+  },
+  {
+    "url": "https://se.mnbvcxzas.com/v2/open/api_hb",
+    "path": "jadx-export/sources/com/secmtp/sdk/core/common/nu.java",
+    "line": 221,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/com/smartdigimkt/e3/e.java",
+    "line": 166,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/html/common-microsyntaxes.html#space-character",
+    "path": "jadx-export/sources/com/smartdigimkt/expressad/atsignalcommon/webEnvCheck/WebEnvCheckEntry.java",
+    "line": 25,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/html/webappapis.html#dom-windowbase64-atob",
+    "path": "jadx-export/sources/com/smartdigimkt/expressad/atsignalcommon/webEnvCheck/WebEnvCheckEntry.java",
+    "line": 25,
+    "application": false
+  },
+  {
+    "url": "https://gist.github.com/atk/1020396",
+    "path": "jadx-export/sources/com/smartdigimkt/expressad/atsignalcommon/webEnvCheck/WebEnvCheckEntry.java",
+    "line": 25,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/C#alphanumeric-ascii-characters",
+    "path": "jadx-export/sources/com/smartdigimkt/expressad/atsignalcommon/webEnvCheck/WebEnvCheckEntry.java",
+    "line": 25,
+    "application": false
+  },
+  {
+    "url": "http://whatwg.org/html/webappapis.html#dom-windowbase64-btoa",
+    "path": "jadx-export/sources/com/smartdigimkt/expressad/atsignalcommon/webEnvCheck/WebEnvCheckEntry.java",
+    "line": 25,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com",
+    "path": "jadx-export/sources/com/smartdigimkt/expressad/atsignalcommon/windvane/WindVaneWebView.java",
+    "line": 207,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com",
+    "path": "jadx-export/sources/com/smartdigimkt/sdk/basead/mraid/MraidBaseWebView.java",
+    "line": 183,
+    "application": false
+  },
+  {
+    "url": "https://adx.hookspf.com/request",
+    "path": "jadx-export/sources/com/smartdigimkt/t7/a.java",
+    "line": 74,
+    "application": false
+  },
+  {
+    "url": "https://da.hookspf.com/v1/open/da",
+    "path": "jadx-export/sources/com/smartdigimkt/t7/b.java",
+    "line": 72,
+    "application": false
+  },
+  {
+    "url": "https://adx-strategy-api.hookspf.com/sdk/app_strategy",
+    "path": "jadx-export/sources/com/smartdigimkt/t7/c.java",
+    "line": 82,
+    "application": false
+  },
+  {
+    "url": "https://adx.hookspf.com/bid",
+    "path": "jadx-export/sources/com/smartdigimkt/t7/e.java",
+    "line": 198,
+    "application": false
+  },
+  {
+    "url": "https://adx-tk-sg.hookspf.com/v1",
+    "path": "jadx-export/sources/com/smartdigimkt/t7/k.java",
+    "line": 64,
+    "application": false
+  },
+  {
+    "url": "https://adx-strategy-api.hookspf.com/sdk/pl_strategy",
+    "path": "jadx-export/sources/com/smartdigimkt/t7/l.java",
+    "line": 98,
+    "application": false
+  },
+  {
+    "url": "https://tk.hookspf.com/v2/open/a_tk",
+    "path": "jadx-export/sources/com/smartdigimkt/t7/o.java",
+    "line": 103,
+    "application": false
+  },
+  {
+    "url": "https://img.toponad.com/sdk/app-permissions.html?key=",
+    "path": "jadx-export/sources/com/smartdigimkt/v/b.java",
+    "line": 71,
+    "application": false
+  },
+  {
+    "url": "http://xmlpull.org/v1/doc/features.html#process-namespaces",
+    "path": "jadx-export/sources/com/smartdigimkt/w5/c.java",
+    "line": 233,
+    "application": false
+  },
+  {
+    "url": "https://analytics.us.tiktok.com/api/v1/app_sdk/cache/config",
+    "path": "jadx-export/sources/com/tiktok/util/UrlConst.java",
+    "line": 8,
+    "application": false
+  },
+  {
+    "url": "https://analytics.us.tiktok.com/api/v1/app_sdk/config",
+    "path": "jadx-export/sources/com/tiktok/util/UrlConst.java",
+    "line": 12,
+    "application": false
+  },
+  {
+    "url": "https://aa.unioneeu.com/v1/d_api",
+    "path": "jadx-export/sources/com/tramini/plugin/mm/mn/mm.java",
+    "line": 15,
+    "application": false
+  },
+  {
+    "url": "https://pitk.unioneeu.com/v1/ptk",
+    "path": "jadx-export/sources/com/tramini/plugin/mm/mn/mm.java",
+    "line": 16,
+    "application": false
+  },
+  {
+    "url": "https://rr",
+    "path": "jadx-export/sources/com/tramini/plugin/mm/my/mm.java",
+    "line": 42,
+    "application": false
+  },
+  {
+    "url": "https://rr",
+    "path": "jadx-export/sources/com/tramini/plugin/mm/my/mm.java",
+    "line": 141,
+    "application": false
+  },
+  {
+    "url": "https://scar.unityads.unity3d.com/v1/capture-scar-signals",
+    "path": "jadx-export/sources/com/unity3d/services/ads/gmascar/utils/ScarConstants.java",
+    "line": 9,
+    "application": false
+  },
+  {
+    "url": "https://scar.unityads.unity3d.com/v1/capture-scar-signals",
+    "path": "jadx-export/sources/com/unity3d/services/core/configuration/Configuration.java",
+    "line": 254,
+    "application": false
+  },
+  {
+    "url": "https://gateway.unityads.unity3d.com/v1",
+    "path": "jadx-export/sources/com/unity3d/services/UnityAdsConstants.java",
+    "line": 75,
+    "application": false
+  },
+  {
+    "url": "https://adx.ads.vungle.com/api/ads",
+    "path": "jadx-export/sources/com/vungle/ads/internal/Constants.java",
+    "line": 132,
+    "application": false
+  },
+  {
+    "url": "https://logs.ads.vungle.com/sdk/error_logs",
+    "path": "jadx-export/sources/com/vungle/ads/internal/Constants.java",
+    "line": 136,
+    "application": false
+  },
+  {
+    "url": "https://logs.ads.vungle.com/sdk/metrics",
+    "path": "jadx-export/sources/com/vungle/ads/internal/Constants.java",
+    "line": 140,
+    "application": false
+  },
+  {
+    "url": "https://events.ads.vungle.com/rtadebugging",
+    "path": "jadx-export/sources/com/vungle/ads/internal/load/RTADebugger.java",
+    "line": 13,
+    "application": false
+  },
+  {
+    "url": "https://config.ads.vungle.com/",
+    "path": "jadx-export/sources/com/vungle/ads/internal/network/VungleApiClient.java",
+    "line": 152,
+    "application": false
+  },
+  {
+    "url": "https://config.ads.vungle.com/",
+    "path": "jadx-export/sources/com/vungle/ads/internal/network/VungleApiClient.java",
+    "line": 850,
+    "application": false
+  },
+  {
+    "url": "https://www.oktdata.com/oktdata_privacy.html",
+    "path": "jadx-export/sources/com/yk/e/util/Constant.java",
+    "line": 63,
+    "application": false
+  },
+  {
+    "url": "https://github.com/ReactiveX/RxJava/wiki/Plugins",
+    "path": "jadx-export/sources/io/reactivex/Completable.java",
+    "line": 730,
+    "application": false
+  },
+  {
+    "url": "https://github.com/ReactiveX/RxJava/wiki/Error-Handling",
+    "path": "jadx-export/sources/io/reactivex/exceptions/OnErrorNotImplementedException.java",
+    "line": 14,
+    "application": false
+  },
+  {
+    "url": "https://github.com/ReactiveX/RxJava/wiki/What",
+    "path": "jadx-export/sources/io/reactivex/exceptions/UndeliverableException.java",
+    "line": 8,
+    "application": false
+  },
+  {
+    "url": "https://github.com/ReactiveX/RxJava/wiki/Plugins",
+    "path": "jadx-export/sources/io/reactivex/Flowable.java",
+    "line": 3803,
+    "application": false
+  },
+  {
+    "url": "https://github.com/ReactiveX/RxJava/wiki/Plugins",
+    "path": "jadx-export/sources/io/reactivex/Maybe.java",
+    "line": 1147,
+    "application": false
+  },
+  {
+    "url": "https://github.com/ReactiveX/RxJava/wiki/Plugins",
+    "path": "jadx-export/sources/io/reactivex/Observable.java",
+    "line": 3046,
+    "application": false
+  },
+  {
+    "url": "https://github.com/ReactiveX/RxJava/wiki/Plugins",
+    "path": "jadx-export/sources/io/reactivex/Single.java",
+    "line": 1005,
+    "application": false
+  },
+  {
+    "url": "https://youtrack.jetbrains.com/issue/KT-67202",
+    "path": "jadx-export/sources/kotlin/jvm/ImplicitlyActualizedByJvmDeclaration.java",
+    "line": 21,
+    "application": false
+  },
+  {
+    "url": "https://youtrack.jetbrains.com/issue/KT-55980",
+    "path": "jadx-export/sources/kotlin/jvm/internal/PropertyReference.java",
+    "line": 44,
+    "application": false
+  },
+  {
+    "url": "https://github.com/Kotlin/kotlinx.coroutines/issues,",
+    "path": "jadx-export/sources/kotlinx/coroutines/InternalForInheritanceCoroutinesApi.java",
+    "line": 14,
+    "application": false
+  },
+  {
+    "url": "http://www.sec.co.kr/dlna",
+    "path": "jadx-export/sources/org/fourthline/cling/binding/xml/UDA10DeviceDescriptorBinderImpl.java",
+    "line": 146,
+    "application": false
+  },
+  {
+    "url": "http://www.sec.co.kr/dlna",
+    "path": "jadx-export/sources/org/fourthline/cling/binding/xml/UDA10DeviceDescriptorBinderImpl.java",
+    "line": 147,
+    "application": false
+  },
+  {
+    "url": "http://purl.org/dc/elements/1.1/",
+    "path": "jadx-export/sources/org/fourthline/cling/support/contentdirectory/DIDLParser.java",
+    "line": 95,
+    "application": false
+  },
+  {
+    "url": "http://www.4thline.org/projects/mailinglists-cling.html",
+    "path": "jadx-export/sources/org/fourthline/cling/support/shared/Main.java",
+    "line": 88,
+    "application": false
+  },
+  {
+    "url": "http://schemas.xmlsoap.org/soap/envelope/",
+    "path": "jadx-export/sources/org/fourthline/cling/transport/impl/SOAPActionProcessorImpl.java",
+    "line": 40,
+    "application": false
+  },
+  {
+    "url": "http://schemas.xmlsoap.org/soap/envelope/",
+    "path": "jadx-export/sources/org/fourthline/cling/transport/impl/SOAPActionProcessorImpl.java",
+    "line": 251,
+    "application": false
+  },
+  {
+    "url": "http://schemas.xmlsoap.org/soap/envelope/",
+    "path": "jadx-export/sources/org/fourthline/cling/transport/impl/SOAPActionProcessorImpl.java",
+    "line": 252,
+    "application": false
+  },
+  {
+    "url": "http://schemas.xmlsoap.org/soap/encoding/",
+    "path": "jadx-export/sources/org/fourthline/cling/transport/impl/SOAPActionProcessorImpl.java",
+    "line": 253,
+    "application": false
+  },
+  {
+    "url": "http://schemas.xmlsoap.org/soap/envelope/",
+    "path": "jadx-export/sources/org/fourthline/cling/transport/impl/SOAPActionProcessorImpl.java",
+    "line": 256,
+    "application": false
+  },
+  {
+    "url": "http://www.dbunit.org/properties/datatypeFactory",
+    "path": "jadx-export/sources/org/seamless/util/dbunit/H2DBUnitOperations.java",
+    "line": 21,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/1999/xhtml",
+    "path": "jadx-export/sources/org/seamless/xhtml/XHTML.java",
+    "line": 73,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/1999/xhtml",
+    "path": "jadx-export/sources/org/seamless/xhtml/XHTMLParser.java",
+    "line": 20,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/2001/xml.xsd",
+    "path": "jadx-export/sources/org/seamless/xml/DOM.java",
+    "line": 11,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/2001/XMLSchema",
+    "path": "jadx-export/sources/org/seamless/xml/DOMParser.java",
+    "line": 138,
+    "application": false
+  },
+  {
+    "url": "http://apache.org/xml/features/xinclude/fixup-base-uris",
+    "path": "jadx-export/sources/org/seamless/xml/DOMParser.java",
+    "line": 183,
+    "application": false
+  },
+  {
+    "url": "http://apache.org/xml/features/xinclude/fixup-language",
+    "path": "jadx-export/sources/org/seamless/xml/DOMParser.java",
+    "line": 184,
+    "application": false
+  },
+  {
+    "url": "http://apache.org/xml/features/validation/dynamic",
+    "path": "jadx-export/sources/org/seamless/xml/DOMParser.java",
+    "line": 186,
+    "application": false
+  },
+  {
+    "url": "http://www.oracle.com/xml/is-standalone",
+    "path": "jadx-export/sources/org/seamless/xml/DOMParser.java",
+    "line": 214,
+    "application": false
+  },
+  {
+    "url": "http://xml.apache.org/xslt}indent-amount",
+    "path": "jadx-export/sources/org/seamless/xml/DOMParser.java",
+    "line": 223,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/2001/xml.xsd",
+    "path": "jadx-export/sources/org/seamless/xml/SAXParser.java",
+    "line": 29,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/2001/XMLSchema",
+    "path": "jadx-export/sources/org/seamless/xml/SAXParser.java",
+    "line": 168,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?",
+    "path": "jadx-export/sources/p008llL1ii/L11I.java",
+    "line": 330,
+    "application": false
+  },
+  {
+    "url": "http://play.google.com/store/apps/details?",
+    "path": "jadx-export/sources/p008llL1ii/L11I.java",
+    "line": 330,
+    "application": false
+  },
+  {
+    "url": "http://localhost/",
+    "path": "jadx-export/sources/retrofit2/Response.java",
+    "line": 21,
+    "application": false
+  },
+  {
+    "url": "http://localhost/",
+    "path": "jadx-export/sources/retrofit2/Response.java",
+    "line": 27,
+    "application": false
+  },
+  {
+    "url": "http://localhost/",
+    "path": "jadx-export/sources/retrofit2/Response.java",
+    "line": 72,
+    "application": false
+  },
+  {
+    "url": "http://testhehe.com/test",
+    "path": "jadx-export/sources/sg/bigo/ads/ad/banner/c.java",
+    "line": 704,
+    "application": false
+  },
+  {
+    "url": "http://testhehe.com/test",
+    "path": "jadx-export/sources/sg/bigo/ads/ad/banner/c.java",
+    "line": 704,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=",
+    "path": "jadx-export/sources/sg/bigo/ads/ad/interstitial/q.java",
+    "line": 1291,
+    "application": false
+  },
+  {
+    "url": "http://www.example.com",
+    "path": "jadx-export/sources/sg/bigo/ads/am/b.java",
+    "line": 65,
+    "application": false
+  },
+  {
+    "url": "https://drive.google.com/uc?export=download&id=1ms4F7Cn_aInE9oFMMaZEiwMIuMKt1DZc",
+    "path": "jadx-export/sources/sg/bigo/ads/cd/e.java",
+    "line": 44,
+    "application": false
+  },
+  {
+    "url": "https://ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com/uni/v2/au.pj",
+    "path": "jadx-export/sources/sg/bigo/ads/cd/f.java",
+    "line": 124,
+    "application": false
+  },
+  {
+    "url": "https://ad-host-backup-europe.oss-eu-central-1.aliyuncs.com/uni/v2/au.pj",
+    "path": "jadx-export/sources/sg/bigo/ads/cd/f.java",
+    "line": 125,
+    "application": false
+  },
+  {
+    "url": "https://ad-host-backup-america.oss-us-west-1.aliyuncs.com/uni/v2/au.pj",
+    "path": "jadx-export/sources/sg/bigo/ads/cd/f.java",
+    "line": 126,
+    "application": false
+  },
+  {
+    "url": "http://%s:%d/%s",
+    "path": "jadx-export/sources/sg/bigo/ads/cg/l.java",
+    "line": 482,
+    "application": false
+  },
+  {
+    "url": "https://invalid.url",
+    "path": "jadx-export/sources/sg/bigo/ads/ck/a.java",
+    "line": 85,
+    "application": false
+  },
+  {
+    "url": "https://www.adsbigo.com/privacy.html",
+    "path": "jadx-export/sources/sg/bigo/ads/common/form/render/c.java",
+    "line": 146,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com/d?id=",
+    "path": "jadx-export/sources/sg/bigo/ads/core/landing/a.java",
+    "line": 92,
+    "application": false
+  },
+  {
+    "url": "http://play.google.com",
+    "path": "jadx-export/sources/sg/bigo/ads/core/landing/a.java",
+    "line": 327,
+    "application": false
+  },
+  {
+    "url": "https://play.google.com",
+    "path": "jadx-export/sources/sg/bigo/ads/core/landing/a.java",
+    "line": 327,
+    "application": false
+  },
+  {
+    "url": "https://mraid.bigo.sg",
+    "path": "jadx-export/sources/sg/bigo/ads/core/mraid/c.java",
+    "line": 684,
+    "application": false
+  },
+  {
+    "url": "https://gdl.maxesads.com/as/bigo-ad-creatives/7h5/M09/FD/6B/qvsbAF5g1KaIOSQ7AACyEETvrcoABLLjgDvdTQAALIo1432.js",
+    "path": "jadx-export/sources/sg/bigo/ads/cs/c.java",
+    "line": 50,
+    "application": false
+  },
+  {
+    "url": "https://gdl.maxesads.com/as/bigo-ad-creatives/7h5/M09/FD/6B/qvsbAF5g1KaIOSQ7AACyEETvrcoABLLjgDvdTQAALIo1432.js",
+    "path": "jadx-export/sources/sg/bigo/ads/cs/c.java",
+    "line": 56,
+    "application": false
+  },
+  {
+    "url": "https://gdl.maxesads.com/as/bigo-ad-creatives/7h5/M09/FD/6B/qvsbAF5g1KaIOSQ7AACyEETvrcoABLLjgDvdTQAALIo1432.js",
+    "path": "jadx-export/sources/sg/bigo/ads/cs/c.java",
+    "line": 87,
+    "application": false
+  },
+  {
+    "url": "http://%s:%d/%s",
+    "path": "jadx-export/sources/sg/bigo/ads/ct/h.java",
+    "line": 64,
+    "application": false
+  },
+  {
+    "url": "https://github.com/danikula/AndroidVideoCache/issues/134.",
+    "path": "jadx-export/sources/sg/bigo/ads/ct/h.java",
+    "line": 87,
+    "application": false
+  },
+  {
+    "url": "http://127.0.0.1/",
+    "path": "jadx-export/sources/sg/bigo/ads/dh/b.java",
+    "line": 433,
+    "application": false
+  },
+  {
+    "url": "http://www.w3.org/1999/xhtml",
+    "path": "jadx-export/sources/sg/bigo/ads/dh/b.java",
+    "line": 433,
+    "application": false
+  }
+]

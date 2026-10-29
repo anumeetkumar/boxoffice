@@ -1,0 +1,89 @@
+{
+  "phone": "SM-M536B",
+  "installed_working_build_sha256": "983170b637179f7c83eeeaf7cece6ce2cfb763e7e883c9a674615ad9d400c30f",
+  "signer_sha1": "811126d154f63935b685c4ddd9c80423370e2c1e",
+  "Paradise_video_frame_verified_before_observer": true,
+  "capture": "reports/phone-capture-working-m53.jsonl",
+  "privacy": "Tokens, device identifiers, signatures and media URLs redacted in-process with keyed HMAC",
+  "exchanges": [
+    {
+      "movie": "The Paradise",
+      "catalog_id": "2077341734",
+      "http_status": 200,
+      "response_code": 10000,
+      "native_signature_forwarded_unchanged": true,
+      "native_timestamp_forwarded_unchanged": true,
+      "header_timestamp_delta_ms": 76,
+      "request_header_names": [
+        "androidid",
+        "app_id",
+        "app_language",
+        "channel_code",
+        "cur_time",
+        "device_id",
+        "en_al",
+        "gaid",
+        "is_display",
+        "is_language",
+        "is_vvv",
+        "log-header",
+        "mob_mfr",
+        "mobmodel",
+        "package_name",
+        "sign",
+        "sys_platform",
+        "sysrelease",
+        "token",
+        "version"
+      ],
+      "request_form_names": [
+        "audio_type",
+        "cur_time",
+        "sign",
+        "vod_id"
+      ],
+      "api_host": "moviein.ajfysu.com"
+    },
+    {
+      "movie": "Bigg Boss - Season 20",
+      "catalog_id": "74339693",
+      "http_status": 200,
+      "response_code": 10000,
+      "native_signature_forwarded_unchanged": true,
+      "native_timestamp_forwarded_unchanged": true,
+      "header_timestamp_delta_ms": 38,
+      "request_header_names": [
+        "androidid",
+        "app_id",
+        "app_language",
+        "channel_code",
+        "cur_time",
+        "device_id",
+        "en_al",
+        "gaid",
+        "is_display",
+        "is_language",
+        "is_vvv",
+        "log-header",
+        "mob_mfr",
+        "mobmodel",
+        "package_name",
+        "sign",
+        "sys_platform",
+        "sysrelease",
+        "token",
+        "version"
+      ],
+      "request_form_names": [
+        "audio_type",
+        "cur_time",
+        "sign",
+        "vod_id"
+      ],
+      "api_host": "moviein.ajfysu.com"
+    }
+  ],
+  "remaining": "Capture the failing SM-G998B with the same observer; original non-debuggable APK cannot be captured this way without changing its signing identity",
+  "Bigg_Boss_1080p_playback_after_observer": true,
+  "original_phone_comparison_pending": true
+}

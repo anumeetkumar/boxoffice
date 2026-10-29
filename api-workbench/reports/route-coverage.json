@@ -1,0 +1,1841 @@
+[
+  {
+    "verb": "GET",
+    "route": "/api/v2/site_report",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "setName"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/ad/get_clipbrd",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getClipBoard"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/ad/get_list",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "getAdInfo"
+    ],
+    "deepcine_methods": [
+      "getAdInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/barrage/add",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "w"
+    ],
+    "deepcine_methods": [
+      "requestHomeVideoDetailAddBarrage"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/barrage/get_list",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "I"
+    ],
+    "deepcine_methods": [
+      "requestHomeVideoDetailBarrageList"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/channel/get_info",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "k"
+    ],
+    "deepcine_methods": [
+      "requestHomRecommendeMultipleVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 1,
+      "movie": 1
+    },
+    "coverage": "live read-only cases"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/channel/get_list",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "d"
+    ],
+    "deepcine_methods": [
+      "getHomeTitleList"
+    ],
+    "live_cases": {
+      "deepcine": 1,
+      "movie": 1
+    },
+    "coverage": "live read-only cases"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/data/action",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "y"
+    ],
+    "deepcine_methods": [
+      "getStatisInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/discuss/add",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestHomeVideoDetailAddComment"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/discuss/get_list_new",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "B"
+    ],
+    "deepcine_methods": [
+      "requestHomeVideoDetailCommentList"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/discuss/remove",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "v"
+    ],
+    "deepcine_methods": [
+      "requestHomeVideoDetailDelComment"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/feed",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestTypeEyeList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/feed_info",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getVideoDetailList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/feed_list",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getCategoryDetailList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/img_category",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getCategoryList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/search",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestTypeList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/topic",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getEyeRankList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/user_history",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getMaJiaUserHistroy"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/invited/my_spread",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "M"
+    ],
+    "deepcine_methods": [
+      "netCineFungetExtensionShareInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/invited/vod_share",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "L"
+    ],
+    "deepcine_methods": [
+      "getVideoShare"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/log/ad",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "j"
+    ],
+    "deepcine_methods": [
+      "getAdStatisInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/order/add",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getOrderInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/order/get_list",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "N"
+    ],
+    "deepcine_methods": [
+      "getOrderList"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/payment/get_list",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getVipList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/back_popup",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortRecommend"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/channel_info",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortChannelInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/channel_list",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortHomeTitleList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/collect",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "setShortCollect"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/index_recommend",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "indexRecommend"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/info",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "setShortInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/info_recommend",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortInfoRecommendList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/like",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "setShortLike"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/report_start_play",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "reportStartPlay"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/result",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortSearchList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/screen",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortFilterList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/suggest",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortSearchExtendWord"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/topic_list",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortTopicList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/topic_video_list",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortTopicInfoList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/type",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortFilterTypeList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/feedback",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "t"
+    ],
+    "deepcine_methods": [
+      "getnetCineFunFeedBackSubmit"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/get_sys_conf",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "O",
+      "R",
+      "h"
+    ],
+    "deepcine_methods": [
+      "getPublicSysConf",
+      "getPublicSysConfAd",
+      "getPublicSysConfShortVideo"
+    ],
+    "live_cases": {
+      "deepcine": 1,
+      "movie": 1
+    },
+    "coverage": "live read-only cases"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/init",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "G"
+    ],
+    "deepcine_methods": [
+      "netCineFungetInitUserDevice"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/login",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "s"
+    ],
+    "deepcine_methods": [
+      "getLoginUserSubmit"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/register",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "A"
+    ],
+    "deepcine_methods": [
+      "getRegieterUserAndAutoLogin"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/report_ad_info",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "setAdinfo"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/upload_file",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "z"
+    ],
+    "deepcine_methods": [
+      "getUploadFile"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/search/hot_search",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "F"
+    ],
+    "deepcine_methods": [
+      "getNewHotSearchVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 1,
+      "movie": 1
+    },
+    "coverage": "live read-only cases"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/search/recommend",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "r"
+    ],
+    "deepcine_methods": [
+      "requestHomRecommendeMultipleGussLikeList"
+    ],
+    "live_cases": {
+      "deepcine": 1,
+      "movie": 1
+    },
+    "coverage": "live read-only cases"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/search/result",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "l"
+    ],
+    "deepcine_methods": [
+      "getSearchList"
+    ],
+    "live_cases": {
+      "deepcine": 8,
+      "movie": 8
+    },
+    "coverage": "live read-only cases"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/search/screen",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "C",
+      "m"
+    ],
+    "deepcine_methods": [
+      "getGuessVideoList",
+      "getSearchVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 2,
+      "movie": 2
+    },
+    "coverage": "live read-only cases"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/search/suggest",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "o"
+    ],
+    "deepcine_methods": [
+      "getSearchExtendWord"
+    ],
+    "live_cases": {
+      "deepcine": 1,
+      "movie": 1
+    },
+    "coverage": "live read-only cases"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/short_play/list",
+    "providers": [
+      "movie"
+    ],
+    "shared": false,
+    "movie_methods": [
+      "D"
+    ],
+    "deepcine_methods": [],
+    "live_cases": {
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/topic/change",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "x"
+    ],
+    "deepcine_methods": [
+      "requestHomeModuleChangeVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/topic/like_list",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getSimilarVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/topic/list",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "g"
+    ],
+    "deepcine_methods": [
+      "getSpecialNewList",
+      "getTopicNewList"
+    ],
+    "live_cases": {
+      "deepcine": 1,
+      "movie": 1
+    },
+    "coverage": "live read-only cases"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/topic/vod_list",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "K",
+      "a",
+      "p"
+    ],
+    "deepcine_methods": [
+      "getRankList",
+      "getSpecialDetailNewList",
+      "requestHomeModuleMoreVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/type/get_list",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "n"
+    ],
+    "deepcine_methods": [
+      "getChannelFilter"
+    ],
+    "live_cases": {
+      "deepcine": 1,
+      "movie": 1
+    },
+    "coverage": "live read-only cases"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/active_vip",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "netCineFungetActiveVip"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/down",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "P"
+    ],
+    "deepcine_methods": [
+      "netCineFungetDownloadStatisInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/feedback_list",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "Q"
+    ],
+    "deepcine_methods": [
+      "getFeedBackRecord"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/get_activity",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getLookVideoFree"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/info",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "c"
+    ],
+    "deepcine_methods": [
+      "getMineUserInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/my_invited",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "q"
+    ],
+    "deepcine_methods": [
+      "getExtensionShareRecord"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/update",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "S"
+    ],
+    "deepcine_methods": [
+      "getMinenetCineFunEditUserInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_history/add",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "u"
+    ],
+    "deepcine_methods": [
+      "requestHomeVideoDetailStayTime"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/add",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "f"
+    ],
+    "deepcine_methods": [
+      "requestHomeVideoDetailCollection"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/get_list",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "E",
+      "J",
+      "e"
+    ],
+    "deepcine_methods": [
+      "getCollection",
+      "getCollectionSpecial",
+      "getMineCollectionSpecial",
+      "getVideoCollection"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/remove",
+    "providers": [
+      "movie"
+    ],
+    "shared": false,
+    "movie_methods": [
+      "H"
+    ],
+    "deepcine_methods": [],
+    "live_cases": {
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/remove_new",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestDelCollectionVideo"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/remove_topic",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestHomeVideoDetailDelCollection"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/v1/shoply",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/vod/info",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getHomeVideoDetailList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/vod/info_new",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "b",
+      "i"
+    ],
+    "deepcine_methods": [
+      "getHomeVideoDetailListNew"
+    ],
+    "live_cases": {
+      "deepcine": 9,
+      "movie": 9
+    },
+    "coverage": "live read-only cases"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/vod_info/urge_more",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getUrgeMore"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/vod_short/list",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getSmallVideoList",
+      "getTKList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/api/vod_short/list_new",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getNewSmallVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/cancelFavorite",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestHomeVideoDetailCancelCollection"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/getDefault9headImg",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getHeadImageInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/getFavoriteList",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getMineCollectionList",
+      "getSpecialCollectionList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/getShareInfo",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShareInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/getSuggestTypes",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getFeedBackType"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/getSuggetReplyState",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getFeedbackReplay"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/insertSuggest",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "T"
+    ],
+    "deepcine_methods": [
+      "requestHomeVideoDetailFeedback"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/login",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getMineInfo"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/operModuleToFavorite",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getSpecialDetailNewCollection"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/registerUser",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getRegieterUserSubmit"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/updateDeviceToken",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getDeviceToken"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/addCommentReport",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestHomeVideoDetailReportComment"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/addCopyCodeClickNum",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getVideoCopyClickNum"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/addPlayError",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestHomeVideoDetailAddPlayError"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getHomePageFilterCondition",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestHomeMultipleCategoryList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getHomePageVides",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestHomeMultipleVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getHotSearch",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getHotSearchVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getPorjectVideosById",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getSpecialDetail"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getRankList",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getRankType"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getShortVideoList",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getShortVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getSimpleWordsFilter",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestHomeMultipleSpecialList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getSlideVideos",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "V"
+    ],
+    "deepcine_methods": [
+      "getHomeVideoSlideList"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getUploadVideoList",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getMineUploadVideo"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getVideoByCopyCode",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "netCineFungetVideoByCopyCode"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/newChangeBatch",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestHomeModuleChangeVideo"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/projectList",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "getSpecialList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/showHomePageVideos",
+    "providers": [
+      "deepcine"
+    ],
+    "shared": false,
+    "movie_methods": [],
+    "deepcine_methods": [
+      "requestHomeVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 0
+    },
+    "coverage": "static contract only"
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/showHomePageVideosForPage",
+    "providers": [
+      "deepcine",
+      "movie"
+    ],
+    "shared": true,
+    "movie_methods": [
+      "U"
+    ],
+    "deepcine_methods": [
+      "getHomeVideoList"
+    ],
+    "live_cases": {
+      "deepcine": 0,
+      "movie": 0
+    },
+    "coverage": "static contract only"
+  }
+]

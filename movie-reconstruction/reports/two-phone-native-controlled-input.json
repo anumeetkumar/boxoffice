@@ -1,0 +1,71 @@
+{
+  "input_identity": "Synthetic local diagnostic string, not either phone identity",
+  "server_submission": false,
+  "same_input_across_phones": true,
+  "results": [
+    {
+      "phone": "SM-G998B",
+      "sample": 0,
+      "input_timestamp": "1793013702909",
+      "http_status": 200,
+      "output_length": 32,
+      "output_hmac_sha256": "04c32d225d5ec6c758a19554fc3990363514c411347d14b7865926a5ca379384"
+    },
+    {
+      "phone": "SM-M536B",
+      "sample": 0,
+      "input_timestamp": "1793013702909",
+      "http_status": 200,
+      "output_length": 32,
+      "output_hmac_sha256": "04c32d225d5ec6c758a19554fc3990363514c411347d14b7865926a5ca379384"
+    },
+    {
+      "phone": "SM-G998B",
+      "sample": 1,
+      "input_timestamp": "1793013702909",
+      "http_status": 200,
+      "output_length": 32,
+      "output_hmac_sha256": "04c32d225d5ec6c758a19554fc3990363514c411347d14b7865926a5ca379384"
+    },
+    {
+      "phone": "SM-M536B",
+      "sample": 1,
+      "input_timestamp": "1793013702909",
+      "http_status": 200,
+      "output_length": 32,
+      "output_hmac_sha256": "04c32d225d5ec6c758a19554fc3990363514c411347d14b7865926a5ca379384"
+    },
+    {
+      "phone": "SM-G998B",
+      "sample": 2,
+      "input_timestamp": "1793013702909",
+      "http_status": 200,
+      "output_length": 32,
+      "output_hmac_sha256": "04c32d225d5ec6c758a19554fc3990363514c411347d14b7865926a5ca379384"
+    },
+    {
+      "phone": "SM-M536B",
+      "sample": 2,
+      "input_timestamp": "1793013702909",
+      "http_status": 200,
+      "output_length": 32,
+      "output_hmac_sha256": "04c32d225d5ec6c758a19554fc3990363514c411347d14b7865926a5ca379384"
+    },
+    {
+      "phone": "SM-G998B",
+      "sample": 3,
+      "input_timestamp": "1793013703909",
+      "http_status": 200,
+      "output_length": 32,
+      "output_hmac_sha256": "c35e451295915cf0bf3b9b85672c9432314cfec0bf2dca68db1acc77a6dbed3f"
+    },
+    {
+      "phone": "SM-M536B",
+      "sample": 3,
+      "input_timestamp": "1793013703909",
+      "http_status": 200,
+      "output_length": 32,
+      "output_hmac_sha256": "c35e451295915cf0bf3b9b85672c9432314cfec0bf2dca68db1acc77a6dbed3f"
+    }
+  ]
+}

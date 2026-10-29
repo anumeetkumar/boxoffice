@@ -1,0 +1,200 @@
+{
+  "comparison_scope": "Static extracted code plus observed DeepCine search and sample playback on S21; no API credentials or identities transplanted",
+  "movie": {
+    "host": "https://moviein.ajfysu.com/",
+    "app_id": "moviein",
+    "channel": "moviein_1001",
+    "package": "com.fvvcl.flickverse"
+  },
+  "deepcine": {
+    "host": "https://velvetreel.7nkznc.com/",
+    "app_id": "deepcineph",
+    "channel": "deepcineph_1002",
+    "package": "com.velvetreel.shorttv"
+  },
+  "shared_route_declarations": [
+    {
+      "verb": "POST",
+      "route": "/api/ad/get_list"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/barrage/add"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/barrage/get_list"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/channel/get_info"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/channel/get_list"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/data/action"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/discuss/get_list_new"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/discuss/remove"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/invited/my_spread"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/invited/vod_share"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/log/ad"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/order/get_list"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/public/feedback"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/public/get_sys_conf"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/public/init"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/public/login"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/public/register"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/public/upload_file"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/search/hot_search"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/search/recommend"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/search/result"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/search/screen"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/search/suggest"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/topic/change"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/topic/list"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/topic/vod_list"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/type/get_list"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/user/down"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/user/feedback_list"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/user/info"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/user/my_invited"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/user/update"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/user_history/add"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/user_vod/add"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/user_vod/get_list"
+    },
+    {
+      "verb": "POST",
+      "route": "/api/vod/info_new"
+    },
+    {
+      "verb": "POST",
+      "route": "/sunshine/user/insertSuggest"
+    },
+    {
+      "verb": "POST",
+      "route": "/sunshine/video/getSlideVideos"
+    },
+    {
+      "verb": "POST",
+      "route": "/sunshine/video/showHomePageVideosForPage"
+    }
+  ],
+  "audio_support": {
+    "movie": "Consumes audio_type_option; submits audio_type",
+    "deepcine": "Consumes audio_type_option into language item models; submits audio_type; already implemented",
+    "ui_language_is_audio_selection": false
+  },
+  "deepcine_filters": {
+    "category": "type_id,type,area,year,sort,pn",
+    "audio_category": "type_id,type,audio_lang,year,sort,pn",
+    "search": "kw,optional type_pid,pn,occasional sr; no explicit India/Philippines area filter in this request construction"
+  },
+  "observed_search": {
+    "query": "Bigg Boss",
+    "visible_results": [
+      "Bigg Boss OTT - Season 3",
+      "Bigg Boss Marathi - Season 5"
+    ],
+    "latest_season_in_visible_results": false,
+    "exhaustive_catalog_inventory": false
+  },
+  "verified_new_build_movie_sample": {
+    "title": "The Paradise",
+    "different_frames_observed": true,
+    "progress": "approximately one minute",
+    "replacement_notice_seen": false,
+    "entire_film_or_all_titles_verified": false
+  },
+  "decision": "India-oriented navigation and response-backed language controls are client work. Exact Movie catalog/latest seasons/audio assets require an available authorized content backend; a player/UI patch alone cannot supply absent streams. Switching host/app identity is not a verified solution and may reproduce the unresolved Movie validation response."
+}

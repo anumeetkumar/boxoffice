@@ -1,0 +1,850 @@
+[
+  {
+    "path": "jadx-export/sources/androidx/constraintlayout/core/widgets/ConstraintWidget.java",
+    "bytes": 142733,
+    "sha256": "9445317e9bee93b6856cf2f84f34e4e4c3b3dfef002dfaea486ed121315826a1",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/androidx/constraintlayout/core/widgets/Flow.java",
+    "bytes": 58631,
+    "sha256": "318b807a4cf1891155349740948fcd26dcf3025c1bd05f14588a56438c17e70e",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/androidx/core/view/ViewGroupKt$descendants$1.java",
+    "bytes": 8151,
+    "sha256": "78bd983fdd1b9928636935062f7d34c4fde08dd0645061bc9208f1cf172218c1",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/androidx/datastore/core/DataMigrationInitializer.java",
+    "bytes": 12187,
+    "sha256": "7f37769b486c27ebcdf7bec41af5141c114e03a2f0df8d3645164753f9a3a85d",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/androidx/datastore/core/DataMigrationInitializer$Companion$runMigrations$2.java",
+    "bytes": 7493,
+    "sha256": "fb8c7edf75711c9ab1efc177a8285aebab745dad67ddc15252951fa6c0a76200",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/androidx/datastore/core/SimpleActor.java",
+    "bytes": 13263,
+    "sha256": "f9e07204c6ab2e146dcc64dd4e0d58a9b047621e691f02529d1fc1ea319c248b",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/androidx/datastore/core/SingleProcessDataStore$writeData$1.java",
+    "bytes": 2760,
+    "sha256": "28d1cee2ded4d260ce254695f49afb9dad7ada959ca9149b48ff9d39f0876e29",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/androidx/exifinterface/media/ExifInterface.java",
+    "bytes": 247775,
+    "sha256": "64a56f25c04bc5e0a5ba625e04f233f5d396a1919f7c8098044d027a90c9abf3",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/androidx/media3/extractor/wav/WavExtractor.java",
+    "bytes": 21835,
+    "sha256": "4b64f924eb98dacc5c2e2980ab46aeebef49650ed6254aa4361386018d7e8dfe",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/androidx/recyclerview/widget/GridLayoutManager.java",
+    "bytes": 49958,
+    "sha256": "648b70cdaa38f77a5bba33d4d9a7de1750a00f670f8ce24764474b4eaf9cbbd0",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/androidx/window/layout/WindowInfoTrackerImpl.java",
+    "bytes": 12774,
+    "sha256": "6e32b7eacd44dfd32c65d41feb973ce3327750378dfd0b12346610e686638d01",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/apm/insight/i/a.java",
+    "bytes": 4242,
+    "sha256": "e8de5146b6bb7925be636183a18d313ded7f8745b97db2c1945d4dc387ce54f0",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/applovin/impl/j.java",
+    "bytes": 8704,
+    "sha256": "ece86389bd37761d13fed6ef8e37d97f8b508478a36896192bd3b006a923b57e",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/appsflyer/internal/AFa1wSDK.java",
+    "bytes": 12697,
+    "sha256": "b3772ddb26496d07f3cd2bff49dda4b7e7230a4d791078ff69c424de4cc39405",
+    "application": false,
+    "method_not_decompiled_stubs": 2,
+    "jadx_error_markers": 2
+  },
+  {
+    "path": "jadx-export/sources/com/appsflyer/internal/AFb1pSDK.java",
+    "bytes": 215625,
+    "sha256": "d1e6bf4d31385b33977df14c57666d4df87a042eec5e400d165bfe7de05fd335",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/bytedance/sdk/openadsdk/core/qvs.java",
+    "bytes": 109881,
+    "sha256": "5c575085d2bb95337b914f37e5012b50face54cdca88a1b40e375d7ea4f29d0f",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/facebook/ads/redexgen/core/IC.java",
+    "bytes": 22128,
+    "sha256": "c7754ef21829f20ecaefedec68ecacab6b6d0f017700fa70b1a14997a63b1614",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/player/exoplayer2/audio/r.java",
+    "bytes": 31028,
+    "sha256": "d54564e117f6a75107b921ea2c1b024e3fc0cc2036a1b6f28cff83a5eadba16b",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/player/exoplayer2/extractor/hls/playlist/g.java",
+    "bytes": 22121,
+    "sha256": "92246dc76038e0dd5ca8dd7251f336c38b98ea0f2ac503b5abfe53c38bcfd3b6",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/fyber/inneractive/sdk/protobuf/i2.java",
+    "bytes": 352538,
+    "sha256": "091712ac6a93e5857e99792ea96853c85daba1d6f8ac050870b5d93b53d678c9",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/google/android/exoplayer/audio/DefaultAudioSink.java",
+    "bytes": 43715,
+    "sha256": "7d659ef9e8cc07bd9dd057594bc1a5c4751d7843fd78b45607f9bb307f0a748b",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/google/android/exoplayer/extractor/wav/WavExtractor.java",
+    "bytes": 17639,
+    "sha256": "30be95f84e0022b23b6c55728c9afa5b8b99d45d0245f7a86d1a89a756643027",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzajg.java",
+    "bytes": 15444,
+    "sha256": "9e915168559302452f96b210959045ccdd2d011b873c44a6b0f588a93f4ef640",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzaqg.java",
+    "bytes": 3964,
+    "sha256": "e7de18f52459a9148fca5862cac19242fc4ee91fb7b59d055538db4f994f3349",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzarf.java",
+    "bytes": 5006,
+    "sha256": "02cb167ff3fa04ff28d74c3862cdc56ba546fa6c616485883982d7f30295b35d",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzgxz.java",
+    "bytes": 5710,
+    "sha256": "b3d3197964a1d54fe231279bbfb360b94337e7b63064a6f687f6c72909c11cb3",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zziff.java",
+    "bytes": 350336,
+    "sha256": "c2ea6aca09d935001ca9262b405f115f47dc873312aa7de4ea68f65b9097ea87",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/google/android/gms/internal/ads/zzvl.java",
+    "bytes": 50636,
+    "sha256": "86c4260b5b6d629012d0f97a8bb586b90a00ca7235823c8d80f5017bad0e6969",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/google/android/material/shadow/ShadowDrawableWrapper.java",
+    "bytes": 12268,
+    "sha256": "4d73b774ffd111afb81fdc17f29bc95c8b81634d7984eea9479c672d499fdb14",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/google/zxing/oned/Code128Reader.java",
+    "bytes": 11481,
+    "sha256": "a79720d51900aa4209dc75f529b4413c712926c62da4d66ea69c60856b064373",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/google/zxing/pdf417/decoder/DecodedBitStreamParser.java",
+    "bytes": 21087,
+    "sha256": "4568541165a9a1306941a89917a5d044cf04c9df3f3141b7b3982d463c5c0baf",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/C2747fn.java",
+    "bytes": 5951,
+    "sha256": "ac99f2d2c182e8c94bb26b01cacd8c9f9ae894b5c22a06422279c7cad9a2f59a",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/C2850jn.java",
+    "bytes": 6639,
+    "sha256": "5f42517de6fa463c565c40ceb00f3ab1a96e7a590ff1711bba795fe19a3eb1c4",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/C3159w6.java",
+    "bytes": 10278,
+    "sha256": "19b0228fb927299ae917e999da4db10a55b230396e21eaafb8d10aa9f173275f",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/C3199xl.java",
+    "bytes": 2083,
+    "sha256": "8397c31f5b0dd161a12f72c6697bb467772ccfca66dd8e141727a7ef066bfd42",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/C3203y0.java",
+    "bytes": 3628,
+    "sha256": "50ef7e11d9a36e1250e907b1ae3f9323a2b1a40e1ea4c429d5a151010bb200a1",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/C3244zg.java",
+    "bytes": 5297,
+    "sha256": "061b8e8abc54a60e529958cc51fe3398e3ee676c101e6aed9894e155f2f519e2",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/D3.java",
+    "bytes": 6193,
+    "sha256": "412ca6ea38f557e8bb7e670e73cb4260005440b7c5a0b9d46a85cc2ed20e4840",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/E3.java",
+    "bytes": 6164,
+    "sha256": "0bf6364316cdb447a4990a7033560be9752559ea34ea20ff8debc755e8cb2425",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/Eh.java",
+    "bytes": 11748,
+    "sha256": "c95c165d54e83686fb31452ba5b708c936fdf70934058483576c1dfc44cc6268",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/Kl.java",
+    "bytes": 60609,
+    "sha256": "77955649deb877fd65fc307850cc3744c174c0f5a5c73a8d4e40777d02dedb0a",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/L3.java",
+    "bytes": 3203,
+    "sha256": "b0fbaf4738c151a8562bfccc2a452efcd07bd4482ec3f1665e0ba723c8266961",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/Lb.java",
+    "bytes": 12226,
+    "sha256": "48ee7806d341975cb6f6dc57b4ac65a6f7fef644a07312d3954a43c5151d27e4",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/inmobi/media/Rm.java",
+    "bytes": 10733,
+    "sha256": "9d72cf20197c2abd05a283f37e4428cb0bb7607d44ddfae6e79da068ca4cdd71",
+    "application": false,
+    "method_not_decompiled_stubs": 2,
+    "jadx_error_markers": 2
+  },
+  {
+    "path": "jadx-export/sources/com/ironsource/adqualitysdk/sdk/i/kb.java",
+    "bytes": 26226,
+    "sha256": "69a348d9eaba418d16c024108dc87d5a2f1b7c5ec8efb2101cb171691c00daa2",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/ironsource/C3566r9.java",
+    "bytes": 11796,
+    "sha256": "34475d994e15ea93a004911a7ca4e7dc73696e5a8e316189c15bfe63ae02eb8a",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/kuaishou/weapon/p0/c.java",
+    "bytes": 17058,
+    "sha256": "e00a6f5143eeccb52ce52383a0d237860587e0cc9f5b6fbbbd5af303efaa9a12",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/kuaishou/weapon/p0/r.java",
+    "bytes": 17463,
+    "sha256": "3dd5c207cffa43aff46a7c956907c9987ff94d3fd7fb4ab41d4972428eea9265",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/kwai/network/a/ph.java",
+    "bytes": 42459,
+    "sha256": "ae90f322b9400de2a5bd1757696fb6464fb86eb21d15c2a1ec4cbb9cf67b0325",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/luck/picture/lib/utils/MediaUtils.java",
+    "bytes": 15918,
+    "sha256": "439f8ae6b18f4b0ba4162b7b32158d223817701cbe410aacf9af894fcec2ad0b",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/mbridge/msdk/foundation/tools/v0.java",
+    "bytes": 51930,
+    "sha256": "b9ae620c569d23f56f0f24fb6b29f0424068ed968161965bb67d805d274ee460",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/mbridge/msdk/playercommon/exoplayer2/audio/DefaultAudioSink.java",
+    "bytes": 51747,
+    "sha256": "7965b81212c8412a0097fec9b305d6a4005734fca8546ad4991af4131552ad10",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/smartdigimkt/m3/a0.java",
+    "bytes": 34296,
+    "sha256": "27bb7d05c7291636ccc0397c1fbaab0db448098a35f86bfe163bc6df4b1c5574",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/smartdigimkt/o0/y.java",
+    "bytes": 19901,
+    "sha256": "107fad9ef4e6769f5b4836274523954dccf7ae6255efab7ec98d82caf198c7a2",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/smartdigimkt/v5/a.java",
+    "bytes": 2724,
+    "sha256": "045b39fd80c8d5366d37cbc4e01aeda4c7b187fc39c121710e0762b552a5d7f6",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/unity3d/ads/core/data/manager/TransactionEventManager.java",
+    "bytes": 27449,
+    "sha256": "d57d88601c9c18231543ecef65c1d568714d5206e2a433565fed8fd87c103caa",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/unity3d/ads/core/domain/AndroidCacheWebViewAssets.java",
+    "bytes": 7157,
+    "sha256": "95902d9d03cf91d33444f993fb1e238519b8a477d89c7d7a9a098b39d721c81f",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/unity3d/ads/core/domain/LegacyShowUseCase$invoke$4$emit$1.java",
+    "bytes": 2899,
+    "sha256": "8e5675a5f27508f48c07a7491ddf8490d20f49a0944313344dbc437a108619bb",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/unity3d/ads/gatewayclient/CommonGatewayClient.java",
+    "bytes": 40023,
+    "sha256": "4a609ee7294c0bf066374b3e5192d0bfbd680a07f364908826138e075edffc33",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/unity3d/services/core/cache/CacheThreadHandler.java",
+    "bytes": 5365,
+    "sha256": "b8086bf7755ca000e82006f004f593286f330c9eebde6dc1b66fe8be6db86a70",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/com/unity3d/services/core/extensions/TaskExtensionsKt.java",
+    "bytes": 5850,
+    "sha256": "3f836c5f9953653f9fff647100f0d679adf22daba9a89c5e3b31b599ba3d3f82",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlin/collections/SlidingWindowKt.java",
+    "bytes": 7723,
+    "sha256": "d7a551a197f0d2e27379bfa46d27a12bbdb759891b9c29d4ca2737e89c9b72b6",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlin/io/path/PathTreeWalk.java",
+    "bytes": 20104,
+    "sha256": "7a681f97d0e582290aa8857e2652e74bc130344d65cf16feeb091859588074b6",
+    "application": false,
+    "method_not_decompiled_stubs": 2,
+    "jadx_error_markers": 2
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/AwaitKt.java",
+    "bytes": 9379,
+    "sha256": "bcc7a2cf1a70bcbc11f42a4cad32fd6b236dca4ce5ece2afe7dea6631b9b704d",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/channels/BroadcastChannelImpl.java",
+    "bytes": 33057,
+    "sha256": "704119371284a0a229fc4ecfa6adcc8e4139614c3cae9914ddd88c8c8a1bcaf0",
+    "application": false,
+    "method_not_decompiled_stubs": 2,
+    "jadx_error_markers": 2
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/channels/BroadcastKt.java",
+    "bytes": 13883,
+    "sha256": "b1348aae14001cd245a92be8bd8e481b4c21051bfce28c1b49047fe86168e236",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/channels/ChannelsKt__Channels_commonKt.java",
+    "bytes": 20087,
+    "sha256": "9e291ca9c2b10575938f05209e357b4fe381902bab3e72ee244fcae808a1dbb3",
+    "application": false,
+    "method_not_decompiled_stubs": 2,
+    "jadx_error_markers": 2
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/channels/ChannelsKt__DeprecatedKt.java",
+    "bytes": 242784,
+    "sha256": "4ee324b3b2839d4de271017cbf2eb44fed752512f3bad46cc65bb84ae11ea8d1",
+    "application": false,
+    "method_not_decompiled_stubs": 27,
+    "jadx_error_markers": 27
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/channels/TickerChannelsKt.java",
+    "bytes": 16946,
+    "sha256": "4f20ef107924228bda5c4b7c3e6993d93bb3e5a4a05a13d2645884ac2dc52c3b",
+    "application": false,
+    "method_not_decompiled_stubs": 2,
+    "jadx_error_markers": 2
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/CancellableFlowImpl$collect$2$emit$1.java",
+    "bytes": 2591,
+    "sha256": "779758f6a45e3e8d3cfb079dc5dc13360acd2a6cb71aa150995a144cf7bef598",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/DistinctFlowImpl$collect$2$emit$1.java",
+    "bytes": 2564,
+    "sha256": "991fe3d52325c1a0f8f7a38c0a66b49a19cd0c01c1d49b690d47e5964866a1d4",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__BuildersKt$asFlow$$inlined$unsafeFlow$6.java",
+    "bytes": 6624,
+    "sha256": "0fbaba0b8bf1723acc3fb2c5f18976f400b623ca48a6c78086a5a6418b96156a",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__BuildersKt$asFlow$$inlined$unsafeFlow$7.java",
+    "bytes": 6618,
+    "sha256": "35774157188cd09b119fb1a2f5b137eb51c29ffb47b310cf86695d65f359a7a9",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__BuildersKt$asFlow$$inlined$unsafeFlow$8.java",
+    "bytes": 6631,
+    "sha256": "7d345c238fa8fd2377de72fd353160ed224ae5c2375b15ae496809e89eeffb52",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__BuildersKt$flowOf$$inlined$unsafeFlow$1.java",
+    "bytes": 6534,
+    "sha256": "2d7b3cb6761d148869c163798ddc81684de3a7a9e17668820a85276d4fde1e71",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__ChannelsKt.java",
+    "bytes": 10034,
+    "sha256": "8b087e035208c916e101e6d571711681736bbe09f78fb66f660a4958dc94bf89",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__CountKt$count$4$emit$1.java",
+    "bytes": 2567,
+    "sha256": "9ed3f73d2afede2762c23f15cba6f820487485c389cd4a51ecc86a22609909ed",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__DelayKt.java",
+    "bytes": 19121,
+    "sha256": "6bdddb3a470d98ab615e9e28499f047c4ca6750b3f46f6e3b6b4232f97018525",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__DelayKt$debounceInternal$1.java",
+    "bytes": 4968,
+    "sha256": "eb5122b05172080681703a24c5db0b48a511ffeaad945fa208c6cd49921ca0da",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__DelayKt$debounceInternal$1$values$1$1$emit$1.java",
+    "bytes": 2749,
+    "sha256": "157ff60d3a79f5b0e48378f4bc69e59fab1789c8ba1a3622cfaa775b701087cc",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__DelayKt$sample$2$values$1$1$emit$1.java",
+    "bytes": 2659,
+    "sha256": "5ee6bd07dc9fa8d73d9313ecca9dc8f1301a4f606ba7ae076de25d83cc6815c3",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__DelayKt$timeoutInternal$1.java",
+    "bytes": 7927,
+    "sha256": "220150e9cb3116970e811f8f7fcd7a5ce4a43b5c8009dd902f0e64199fd7e6cb",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__EmittersKt$onEmpty$1$1$emit$1.java",
+    "bytes": 2618,
+    "sha256": "7c4c4e959aa83fbd62b3c8ba3e7048062ff6b91336ff103e91fa2a5621e3caa1",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__EmittersKt$transform$1$1$emit$1.java",
+    "bytes": 2606,
+    "sha256": "c0af5c960379a2276129befd86e9928ae019b656d7c5cf566f9c3196b69f2ed9",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__EmittersKt$unsafeTransform$1$1$emit$1.java",
+    "bytes": 2706,
+    "sha256": "b6f622b638fc3baff1aca0e84cfc1c8511bc40a24437d245165cda405d20d3b0",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__ErrorsKt$retryWhen$$inlined$unsafeFlow$1.java",
+    "bytes": 9101,
+    "sha256": "8f19422b5d6ecf138bc48ad9232e50a116c78a6a310373d50a32a1623526ddf0",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__LimitKt$dropWhile$1$1$emit$1.java",
+    "bytes": 2677,
+    "sha256": "7f4579c1213cf041bd9635afda1a9760e87c6167dd5c160e69b6be6888060626",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__LimitKt$take$2$1$emit$1.java",
+    "bytes": 2553,
+    "sha256": "7766567c3b0e2ca618e3d6b1b0ca6cd3da46d92cfeab0f7541b8a9ab293669ac",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__MergeKt$flattenConcat$1$1$emit$1.java",
+    "bytes": 2648,
+    "sha256": "a49c51548230888bcdd24e80f3cc21331b8a798dd16c885152245ec5fdb7d87c",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__TransformKt$chunked$2$1$emit$1.java",
+    "bytes": 2660,
+    "sha256": "d0948c3cce7a234997eb83a2d030c0317a4f16d1a301e3f9edcfe30829e9e62e",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__TransformKt$runningFold$1$1$emit$1.java",
+    "bytes": 2726,
+    "sha256": "9ff87c59661016d244533a080f2e0fc07236f13b61f0e62fbcb643be0bc4fd79",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__TransformKt$runningReduce$1$1$emit$1.java",
+    "bytes": 2748,
+    "sha256": "be7e3c4bee5acf27c079d4d209d6d5dfbbb99e8978e5f4ccac6e5af235149183",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/FlowKt__TransformKt$withIndex$1$1$emit$1.java",
+    "bytes": 2652,
+    "sha256": "0e87c22182c49e285c5667738593c20d77dccb831cef15de2998a17d8c88f24b",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/internal/ChannelFlowMerge$collectTo$2$emit$1.java",
+    "bytes": 2685,
+    "sha256": "f4ccc4cc2ebf2045272413c04d0428c0f85cf994122f919357d750b96f971764",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/internal/ChannelFlowTransformLatest$flowCollect$3$1$emit$1.java",
+    "bytes": 2852,
+    "sha256": "a52d2668b0e65a609487bdc3e611df664130b18ffde35bcaefe90e402b060e93",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/internal/CombineKt.java",
+    "bytes": 18972,
+    "sha256": "8dbf0dab9d84405f6708384f78961759a2c31d149d89992143b7fd637b3482fc",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/internal/CombineKt$zipImpl$1$1$2$1$emit$1.java",
+    "bytes": 2644,
+    "sha256": "56cc83597b816c12d8f600b73b5d682ae31de7842ecd5b3f8fcb1aa1a64c25bf",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/internal/CombineKt$zipImpl$1$1$second$1$1$emit$1.java",
+    "bytes": 2678,
+    "sha256": "dfde803715b3065dc668c2a8223f1c0f5e6a14fd2328fd1bac6d08758e747f88",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/StartedLazily$command$1$1$emit$1.java",
+    "bytes": 2553,
+    "sha256": "5484308cf2ab13b1ff2e00bc970bbb399e18e683a479144610725fc0591910a1",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/flow/StateFlowImpl.java",
+    "bytes": 15143,
+    "sha256": "3760849cedc3e9a5c7e56c18aa32b83b13c34b0292ca299ec3ad44bb9025c652",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/JobSupport$children$1.java",
+    "bytes": 7366,
+    "sha256": "a07d07c904c694d788164a7232f7e54dc6211cb5e733286d3bd89c9f84790adb",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/coroutines/selects/WhileSelectKt.java",
+    "bytes": 6305,
+    "sha256": "c57484ec98c856f99991c3b07056f5acd66a23628391e8cccdf1f58e2bdc6014",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/kotlinx/serialization/json/internal/JsonTreeReader.java",
+    "bytes": 16053,
+    "sha256": "5723c6a4e0a6599c5bb8abd512fe8dd39778b083f1e0aca45d58f1aead0fae63",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/org/eclipse/jetty/util/Loader.java",
+    "bytes": 7468,
+    "sha256": "ab998b5716b7c04879259d1ed9d2673211af2f3d721ebd5eefb6374a696ff15d",
+    "application": false,
+    "method_not_decompiled_stubs": 2,
+    "jadx_error_markers": 2
+  },
+  {
+    "path": "jadx-export/sources/org/fourthline/cling/binding/xml/RecoveringUDA10DeviceDescriptorBinderImpl.java",
+    "bytes": 6799,
+    "sha256": "4e6b77295b67b654f4f1214db14e2e95b343ef298303fc20234add0a6431a69c",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  },
+  {
+    "path": "jadx-export/sources/sg/bigo/ads/ad/interstitial/q.java",
+    "bytes": 76384,
+    "sha256": "1eee46c703ce01349fb031ee1e8b928bd2a2b87dee57cc3e6441a5698696ef64",
+    "application": false,
+    "method_not_decompiled_stubs": 1,
+    "jadx_error_markers": 1
+  }
+]

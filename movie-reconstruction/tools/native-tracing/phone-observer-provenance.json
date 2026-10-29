@@ -1,0 +1,6 @@
+{
+  "url": "https://github.com/frida/frida/releases/download/17.23.2/frida-gadget-17.23.2-android-arm64.so.xz",
+  "compressed_sha256": "5b4cfb2be40d1a720b39be8b3d9abdcb217c1d26b38bceb2740db9fac150b021",
+  "library_sha256": "73a83a2d33c19d86cb61e11e1ddc7250ee2f79b0f39579c563bff1258ec0b088",
+  "purpose": "temporary user-authorized app request/response observation"
+}

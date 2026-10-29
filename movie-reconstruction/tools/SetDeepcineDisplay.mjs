@@ -1,0 +1,3 @@
+import * as frida from '../../rea/node_modules/frida/build/src/frida.js';
+import {fileURLToPath} from 'node:url';
+const bundle=await new frida.Compiler().build(fileURLToPath(new URL('native-tracing/set-deepcine-display.js',import.meta.url)));const mgr=frida.getDeviceManager(),dev=await mgr.addRemoteDevice('127.0.0.1:27046');let s,script;try{s=await dev.attach('Gadget',{realm:frida.Realm.Native});script=await s.createScript(bundle);await script.load();console.log(JSON.stringify(await script.exports.setenglish()));await new Promise(r=>setTimeout(r,1000));}finally{if(script)await script.unload().catch(()=>{});if(s)await s.detach().catch(()=>{});await mgr.removeRemoteDevice('127.0.0.1:27046');}

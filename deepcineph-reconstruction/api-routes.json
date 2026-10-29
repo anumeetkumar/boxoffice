@@ -1,0 +1,680 @@
+[
+  {
+    "verb": "POST",
+    "route": "/api/ad/get_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 78
+  },
+  {
+    "verb": "POST",
+    "route": "/api/log/ad",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 82
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/feed_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 86
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/img_category",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 90
+  },
+  {
+    "verb": "POST",
+    "route": "/api/type/get_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 93
+  },
+  {
+    "verb": "POST",
+    "route": "/api/ad/get_clipbrd",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 96
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/get_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 100
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/get_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 104
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/updateDeviceToken",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 107
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/my_invited",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 110
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/topic",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 114
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/feedback_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 118
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/getSuggestTypes",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 121
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/getSuggetReplyState",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 124
+  },
+  {
+    "verb": "POST",
+    "route": "/api/search/screen",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 128
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/getDefault9headImg",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 131
+  },
+  {
+    "verb": "POST",
+    "route": "/api/channel/get_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 135
+  },
+  {
+    "verb": "POST",
+    "route": "/api/vod/info",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 139
+  },
+  {
+    "verb": "POST",
+    "route": "/api/vod/info_new",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 143
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/showHomePageVideosForPage",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 146
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getSlideVideos",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 149
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getHotSearch",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 152
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/login",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 156
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/get_activity",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 159
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/user_history",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 163
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/getFavoriteList",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 166
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/get_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 170
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/login",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 173
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getUploadVideoList",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 176
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/info",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 180
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/update",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 184
+  },
+  {
+    "verb": "POST",
+    "route": "/api/search/hot_search",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 187
+  },
+  {
+    "verb": "POST",
+    "route": "/api/vod_short/list_new",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 190
+  },
+  {
+    "verb": "POST",
+    "route": "/api/order/add",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 194
+  },
+  {
+    "verb": "POST",
+    "route": "/api/order/get_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 197
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/get_sys_conf",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 201
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/get_sys_conf",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 205
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/get_sys_conf",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 209
+  },
+  {
+    "verb": "POST",
+    "route": "/api/topic/vod_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 213
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getRankList",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 216
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/register",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 220
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/registerUser",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 223
+  },
+  {
+    "verb": "POST",
+    "route": "/api/search/suggest",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 227
+  },
+  {
+    "verb": "POST",
+    "route": "/api/search/result",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 231
+  },
+  {
+    "verb": "POST",
+    "route": "/api/search/screen",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 235
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/getShareInfo",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 238
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/channel_info",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 242
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/screen",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 246
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/type",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 250
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/channel_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 254
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/info_recommend",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 258
+  },
+  {
+    "verb": "POST",
+    "route": "/api/v1/shoply",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 262
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/back_popup",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 266
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/suggest",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 270
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/result",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 274
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/topic_video_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 278
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/topic_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 282
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getShortVideoList",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 285
+  },
+  {
+    "verb": "POST",
+    "route": "/api/topic/like_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 289
+  },
+  {
+    "verb": "POST",
+    "route": "/api/vod_short/list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 292
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/getFavoriteList",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 295
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getPorjectVideosById",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 298
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/operModuleToFavorite",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 301
+  },
+  {
+    "verb": "POST",
+    "route": "/api/topic/vod_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 305
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/projectList",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 308
+  },
+  {
+    "verb": "POST",
+    "route": "/api/topic/list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 312
+  },
+  {
+    "verb": "POST",
+    "route": "/api/data/action",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 316
+  },
+  {
+    "verb": "POST",
+    "route": "/api/vod_short/list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 319
+  },
+  {
+    "verb": "POST",
+    "route": "/api/topic/list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 323
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/upload_file",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 326
+  },
+  {
+    "verb": "POST",
+    "route": "/api/vod_info/urge_more",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 331
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/get_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 335
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/addCopyCodeClickNum",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 338
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/feed_info",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 342
+  },
+  {
+    "verb": "POST",
+    "route": "/api/invited/vod_share",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 346
+  },
+  {
+    "verb": "POST",
+    "route": "/api/payment/get_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 350
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/feedback",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 354
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/index_recommend",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 357
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/active_vip",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 360
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user/down",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 364
+  },
+  {
+    "verb": "POST",
+    "route": "/api/invited/my_spread",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 367
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/init",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 371
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getVideoByCopyCode",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 374
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/report_start_play",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 378
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/remove_new",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 382
+  },
+  {
+    "verb": "POST",
+    "route": "/api/search/recommend",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 386
+  },
+  {
+    "verb": "POST",
+    "route": "/api/channel/get_info",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 390
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/newChangeBatch",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 393
+  },
+  {
+    "verb": "POST",
+    "route": "/api/topic/change",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 397
+  },
+  {
+    "verb": "POST",
+    "route": "/api/topic/vod_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 401
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getHomePageFilterCondition",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 404
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getSimpleWordsFilter",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 407
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/getHomePageVides",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 410
+  },
+  {
+    "verb": "POST",
+    "route": "/api/barrage/add",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 414
+  },
+  {
+    "verb": "POST",
+    "route": "/api/discuss/add",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 418
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/addPlayError",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 421
+  },
+  {
+    "verb": "POST",
+    "route": "/api/barrage/get_list",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 425
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/cancelFavorite",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 428
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/add",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 432
+  },
+  {
+    "verb": "POST",
+    "route": "/api/discuss/get_list_new",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 436
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_vod/remove_topic",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 440
+  },
+  {
+    "verb": "POST",
+    "route": "/api/discuss/remove",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 444
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/user/insertSuggest",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 447
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/addCommentReport",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 450
+  },
+  {
+    "verb": "POST",
+    "route": "/api/user_history/add",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 454
+  },
+  {
+    "verb": "POST",
+    "route": "/sunshine/video/showHomePageVideos",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 457
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/feed",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 461
+  },
+  {
+    "verb": "POST",
+    "route": "/api/eye/search",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 465
+  },
+  {
+    "verb": "POST",
+    "route": "/api/public/report_ad_info",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 469
+  },
+  {
+    "verb": "GET",
+    "route": "/api/v2/site_report",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 472
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/collect",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 476
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/info",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 480
+  },
+  {
+    "verb": "POST",
+    "route": "/api/playlet/like",
+    "path": "jadx-export/sources/com/mgs/carparking/app/BrowserApiService.java",
+    "line": 484
+  }
+]

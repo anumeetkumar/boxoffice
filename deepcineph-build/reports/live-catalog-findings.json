@@ -1,0 +1,432 @@
+{
+  "live_host": "deepcineph.7nkznc.com",
+  "search_checks": [
+    {
+      "query": "Street Fighter",
+      "page": "1",
+      "titles": [
+        "Street Fighter",
+        "Street Fighter: Assassin's Fist",
+        "Street Fighter II: The Animated Movie",
+        "Street Fighter",
+        "Street Fighter: Assassin's Fist - Season 1",
+        "Street Fighter: The Legend of Chun-Li",
+        "Street Fighter Alpha: Generations",
+        "Street Fighter: The New Challengers",
+        "Street Fighter 6 x Spy x Family Movie: Code: White",
+        "Street Fighter Alpha: The Movie",
+        "Street Fighter: The Animated Series - Season 1",
+        "Street Fighter: Round One - Fight!",
+        "Street Woman Fighter - Season 2",
+        "Street Fighter: The Animated Series - Season 2",
+        "Street Woman Fighter - Season 1",
+        "Lady Street Fighter",
+        "Street Fighter 6 VS SPY×FAMILY CODE: White - Season 1",
+        "Street Woman Fighter Gala Talkshow - Season 1",
+        "Urban Fighter"
+      ]
+    },
+    {
+      "query": "Bigg Boss",
+      "page": "1",
+      "titles": [
+        "Bigg Boss OTT - Season 3",
+        "Bigg Boss Marathi - Season 5"
+      ]
+    },
+    {
+      "query": "Bigg Boss",
+      "page": "2",
+      "titles": []
+    },
+    {
+      "query": "Bigg Boss 21",
+      "page": "1",
+      "titles": []
+    },
+    {
+      "query": "Bigg Boss 20",
+      "page": "1",
+      "titles": []
+    },
+    {
+      "query": "Street Fighter",
+      "page": "1",
+      "titles": [
+        "Street Fighter",
+        "Street Fighter: Assassin's Fist",
+        "Street Fighter II: The Animated Movie",
+        "Street Fighter",
+        "Street Fighter: Assassin's Fist - Season 1",
+        "Street Fighter: The Legend of Chun-Li",
+        "Street Fighter Alpha: Generations",
+        "Street Fighter: The New Challengers",
+        "Street Fighter 6 x Spy x Family Movie: Code: White",
+        "Street Fighter Alpha: The Movie",
+        "Street Fighter: The Animated Series - Season 1",
+        "Street Fighter: Round One - Fight!",
+        "Street Woman Fighter - Season 2",
+        "Street Fighter: The Animated Series - Season 2",
+        "Street Woman Fighter - Season 1",
+        "Lady Street Fighter",
+        "Street Fighter 6 VS SPY×FAMILY CODE: White - Season 1",
+        "Street Woman Fighter Gala Talkshow - Season 1",
+        "Urban Fighter"
+      ]
+    },
+    {
+      "query": "Bigg Boss",
+      "page": "1",
+      "titles": [
+        "Bigg Boss OTT - Season 3",
+        "Bigg Boss Marathi - Season 5"
+      ]
+    },
+    {
+      "query": "Bigg Boss",
+      "page": "2",
+      "titles": []
+    },
+    {
+      "query": "Bigg Boss 21",
+      "page": "1",
+      "titles": []
+    },
+    {
+      "query": "Bigg Boss 20",
+      "page": "1",
+      "titles": []
+    },
+    {
+      "query": "Bigg",
+      "page": "1",
+      "titles": [
+        "American Pie",
+        "American Pie 2",
+        "South Park: Bigger, Longer & Uncut",
+        "Bigg Boss OTT - Season 3",
+        "American Reunion",
+        "Cashback",
+        "American Wedding",
+        "The Forgotten Battle",
+        "Eight Below",
+        "Wedding Daze",
+        "Notorious B.I.G. Bigger Than Life",
+        "Jersey Girl",
+        "A Bigger Splash",
+        "Prozac Nation",
+        "The Cheshire Murders",
+        "Suurin pudottaja - Season 1",
+        "Ali Siddiq: It's Bigger Than These Bars",
+        "Amateur Night",
+        "Outmatched - Season 1",
+        "Babylon 5: In the Beginning"
+      ]
+    },
+    {
+      "query": "Big Boss",
+      "page": "1",
+      "titles": [
+        "Bigg Boss OTT - Season 3"
+      ]
+    },
+    {
+      "query": "बिग बॉस",
+      "page": "1",
+      "titles": []
+    }
+  ],
+  "detail_checks": [
+    {
+      "vod_id": "549547103",
+      "requested_audio_type": "0",
+      "title": [
+        "Street Fighter"
+      ],
+      "returned_audio_type": [
+        1
+      ],
+      "vod_lang": [
+        "en"
+      ],
+      "audio_options": [
+        {
+          "path": "$.result.audio_type_option.0.type",
+          "value": 1
+        },
+        {
+          "path": "$.result.audio_type_option.0.type_name",
+          "value": "Original"
+        }
+      ],
+      "seasons": []
+    },
+    {
+      "vod_id": "549547103",
+      "requested_audio_type": "1",
+      "title": [
+        "Street Fighter"
+      ],
+      "returned_audio_type": [
+        1
+      ],
+      "vod_lang": [
+        "en"
+      ],
+      "audio_options": [
+        {
+          "path": "$.result.audio_type_option.0.type",
+          "value": 1
+        },
+        {
+          "path": "$.result.audio_type_option.0.type_name",
+          "value": "Original"
+        }
+      ],
+      "seasons": []
+    },
+    {
+      "vod_id": "549547103",
+      "requested_audio_type": "2",
+      "title": [
+        "Street Fighter"
+      ],
+      "returned_audio_type": [
+        1
+      ],
+      "vod_lang": [
+        "en"
+      ],
+      "audio_options": [
+        {
+          "path": "$.result.audio_type_option.0.type",
+          "value": 1
+        },
+        {
+          "path": "$.result.audio_type_option.0.type_name",
+          "value": "Original"
+        }
+      ],
+      "seasons": []
+    },
+    {
+      "vod_id": "1086548402",
+      "requested_audio_type": "0",
+      "title": [
+        "Bigg Boss OTT - Season 3"
+      ],
+      "returned_audio_type": [
+        1
+      ],
+      "vod_lang": [
+        "en"
+      ],
+      "audio_options": [
+        {
+          "path": "$.result.audio_type_option.0.type",
+          "value": 1
+        },
+        {
+          "path": "$.result.audio_type_option.0.type_name",
+          "value": "Original"
+        }
+      ],
+      "seasons": [
+        {
+          "path": "$.result.series_info.0.vod_id",
+          "value": 1086548402
+        },
+        {
+          "path": "$.result.series_info.0.series",
+          "value": "Season 3"
+        }
+      ]
+    },
+    {
+      "vod_id": "549547103",
+      "requested_audio_type": "0",
+      "title": [
+        "Street Fighter"
+      ],
+      "returned_audio_type": [
+        1
+      ],
+      "vod_lang": [
+        "en"
+      ],
+      "audio_options": [
+        {
+          "path": "$.result.audio_type_option.0.type",
+          "value": 1
+        },
+        {
+          "path": "$.result.audio_type_option.0.type_name",
+          "value": "Original"
+        }
+      ],
+      "seasons": []
+    },
+    {
+      "vod_id": "549547103",
+      "requested_audio_type": "1",
+      "title": [
+        "Street Fighter"
+      ],
+      "returned_audio_type": [
+        1
+      ],
+      "vod_lang": [
+        "en"
+      ],
+      "audio_options": [
+        {
+          "path": "$.result.audio_type_option.0.type",
+          "value": 1
+        },
+        {
+          "path": "$.result.audio_type_option.0.type_name",
+          "value": "Original"
+        }
+      ],
+      "seasons": []
+    },
+    {
+      "vod_id": "549547103",
+      "requested_audio_type": "2",
+      "title": [
+        "Street Fighter"
+      ],
+      "returned_audio_type": [
+        1
+      ],
+      "vod_lang": [
+        "en"
+      ],
+      "audio_options": [
+        {
+          "path": "$.result.audio_type_option.0.type",
+          "value": 1
+        },
+        {
+          "path": "$.result.audio_type_option.0.type_name",
+          "value": "Original"
+        }
+      ],
+      "seasons": []
+    }
+  ],
+  "advertised_filter_groups": [
+    {
+      "path": "$.result.0.name",
+      "value": "Movies"
+    },
+    {
+      "path": "$.result.0.msg.0.name",
+      "value": "type"
+    },
+    {
+      "path": "$.result.0.msg.1.name",
+      "value": "year"
+    },
+    {
+      "path": "$.result.0.msg.2.name",
+      "value": "sort"
+    },
+    {
+      "path": "$.result.1.name",
+      "value": "TV Shows"
+    },
+    {
+      "path": "$.result.1.msg.0.name",
+      "value": "type"
+    },
+    {
+      "path": "$.result.1.msg.1.name",
+      "value": "year"
+    },
+    {
+      "path": "$.result.1.msg.2.name",
+      "value": "sort"
+    }
+  ],
+  "screen_checks": [
+    {
+      "form": {
+        "year": "",
+        "type_id": "1",
+        "sort": "Latest",
+        "type": "",
+        "pn": "1"
+      },
+      "titles": [
+        "Dot to Dot: Will I Be Single Forever?",
+        "Human",
+        "Ish",
+        "Clayface",
+        "My Face",
+        "Secrets of Mercy Hospital",
+        "The Guard Room",
+        "Forgotten Holiday",
+        "Idiots",
+        "ZombieSluts Stripclub Slaughterhouse",
+        "A Possession in Lincoln County",
+        "Nobody's Son",
+        "Winter Wonderlanes",
+        "Man Across the Street",
+        "Geo-Storm",
+        "Veins",
+        "A Christmas Prayer Tradition",
+        "Love Language",
+        "The 3 Killer Pigs",
+        "The Mephistophiliac"
+      ]
+    },
+    {
+      "form": {
+        "audio_lang": "hi",
+        "year": "",
+        "type_id": "1",
+        "sort": "Latest",
+        "type": "",
+        "pn": "1"
+      },
+      "titles": [
+        "Dot to Dot: Will I Be Single Forever?",
+        "Human",
+        "Ish",
+        "Clayface",
+        "My Face",
+        "Secrets of Mercy Hospital",
+        "The Guard Room",
+        "Forgotten Holiday",
+        "Idiots",
+        "ZombieSluts Stripclub Slaughterhouse",
+        "A Possession in Lincoln County",
+        "Nobody's Son",
+        "Winter Wonderlanes",
+        "Man Across the Street",
+        "Geo-Storm",
+        "Veins",
+        "A Christmas Prayer Tradition",
+        "Love Language",
+        "The 3 Killer Pigs",
+        "The Mephistophiliac"
+      ]
+    },
+    {
+      "form": {
+        "audio_lang": "Hindi",
+        "year": "",
+        "type_id": "1",
+        "sort": "Latest",
+        "type": "",
+        "pn": "1"
+      },
+      "titles": []
+    }
+  ],
+  "area_india_probe": "Failed with an unsummarized response; not established as supported",
+  "manual_audio_menu": "User confirmed visible after update; Street Fighter lists only English",
+  "baseline_and_hi_filter_same_titles": true,
+  "conclusion": "Tested parameter changes did not expose requested seasons or a Hindi source. No supported India-region setting or replacement endpoint was discovered. Client labels cannot supply missing media."
+}

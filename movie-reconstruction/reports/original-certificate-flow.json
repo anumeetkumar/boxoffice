@@ -1,0 +1,23 @@
+{
+  "original_reinstalled": true,
+  "apk_sha256": "cdc0d88ebcd6ad10d04e9e09f8b75fdeabd91369b9a524827cabfcbb9e7ad4f9",
+  "matches_input_movie_apk": true,
+  "signing_certificate_sha1": "d1e6b521a2f7cb72c80c67f962236671632fb13a",
+  "signing_certificate_sha256": "e751b8dcb7f58058b063b6c4aac0ab0977187797923e81858aa6803ab1eb832e",
+  "certificate_rotation_observed": false,
+  "code_path": {
+    "sa.e.l": "Reads fixed installed certificate SHA1",
+    "VideoPlayDetailActivity.getSignInfo": "Obtains current timestamp, asks local SDK /control?msg=verify with app device ID plus movie ID and timestamp",
+    "VideoPlayDetailActivity.s.b": "Passes runtime verify response and timestamp to S0",
+    "VIDEOPLAYDETAILVIEWMODEL.S0": "Submits native runtime sign, timestamp, vod_id, audio_type; sometimes adds fixed certificate fingerprint vi"
+  },
+  "phone_observation": {
+    "native_sdk_port": 7000,
+    "title": "The Paradise",
+    "id": 602122,
+    "language": "Original",
+    "screen_at_capture": "loading; rendered movie frame not yet verified"
+  },
+  "boxoffice_fix_verified": false,
+  "left_installed": "Original Movie.apk as requested"
+}

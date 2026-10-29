@@ -1,0 +1,12 @@
+{
+  "movie": {
+    "wire_language_header": "hi",
+    "same_returned_title_set": true,
+    "request_identity_changed": false
+  },
+  "deepcine": {
+    "wire_language_header": "hi",
+    "same_returned_title_set": false,
+    "request_identity_changed": false
+  }
+}

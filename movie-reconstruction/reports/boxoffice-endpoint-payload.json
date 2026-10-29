@@ -1,0 +1,17 @@
+{
+  "base_sha256": "262cafd73263e8d03a306763a020824f6f597a2bec58df1bd0c657970d2b7a14",
+  "candidate_sha256": "b2bb884656c0f1d7a5aac998cc7cf81693b3b7ca3bc032b5ed0bf1cd18981003",
+  "changed_dex": [
+    "classes10.dex",
+    "classes8.dex",
+    "classes9.dex"
+  ],
+  "unchanged_archive_entries": 3595,
+  "endpoint": "https://deepcineph.7nkznc.com/",
+  "app_language": "hi",
+  "native_libraries_unchanged": true,
+  "ui_resources_unchanged": true,
+  "signing_identity_unchanged": true,
+  "old_movie_token_forwarded": false,
+  "runtime_compatibility_verified": false
+}

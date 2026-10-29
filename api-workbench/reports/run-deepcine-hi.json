@@ -1,0 +1,169 @@
+{
+  "provider": "deepcine",
+  "targets": [
+    {
+      "label": "street-fighter",
+      "id": 1564580325,
+      "title": "Street Fighter"
+    },
+    {
+      "label": "paradise",
+      "id": 2077341734,
+      "title": "The Paradise"
+    },
+    {
+      "label": "bigg-boss-20",
+      "id": 74339693,
+      "title": "Bigg Boss - Season 20"
+    }
+  ],
+  "results": [
+    {
+      "operation": "filters",
+      "case_id": "en-filters",
+      "completed": true,
+      "elapsed_ms": 531
+    },
+    {
+      "operation": "filters",
+      "case_id": "hi-filters",
+      "completed": true,
+      "elapsed_ms": 626
+    },
+    {
+      "operation": "channels",
+      "case_id": "hi-channels",
+      "completed": true,
+      "elapsed_ms": 599
+    },
+    {
+      "operation": "hot",
+      "case_id": "hi-hot",
+      "completed": true,
+      "elapsed_ms": 1331
+    },
+    {
+      "operation": "config",
+      "case_id": "en-p2p-config",
+      "completed": true,
+      "elapsed_ms": 468
+    },
+    {
+      "operation": "config",
+      "case_id": "hi-p2p-config",
+      "completed": true,
+      "elapsed_ms": 462
+    },
+    {
+      "operation": "search",
+      "case_id": "en-bigg-boss-control",
+      "completed": true,
+      "elapsed_ms": 513
+    },
+    {
+      "operation": "search",
+      "case_id": "hi-bigg-boss",
+      "completed": true,
+      "elapsed_ms": 1179
+    },
+    {
+      "operation": "search",
+      "case_id": "hi-bigg-boss-page-2",
+      "completed": true,
+      "elapsed_ms": 738
+    },
+    {
+      "operation": "search",
+      "case_id": "hi-search-street-fighter",
+      "completed": true,
+      "elapsed_ms": 737
+    },
+    {
+      "operation": "search",
+      "case_id": "hi-search-paradise",
+      "completed": true,
+      "elapsed_ms": 575
+    },
+    {
+      "operation": "search",
+      "case_id": "hi-search-bigg-boss-20",
+      "completed": true,
+      "elapsed_ms": 457
+    },
+    {
+      "operation": "search",
+      "case_id": "hi-search-bigg-boss-21",
+      "completed": true,
+      "elapsed_ms": 420
+    },
+    {
+      "operation": "details",
+      "case_id": "hi-detail-street-fighter-audio-0",
+      "completed": true,
+      "elapsed_ms": 605
+    },
+    {
+      "operation": "details",
+      "case_id": "hi-detail-street-fighter-audio-1",
+      "completed": true,
+      "elapsed_ms": 750
+    },
+    {
+      "operation": "details",
+      "case_id": "hi-detail-street-fighter-audio-2",
+      "completed": true,
+      "elapsed_ms": 518
+    },
+    {
+      "operation": "details",
+      "case_id": "hi-detail-paradise-audio-0",
+      "completed": true,
+      "elapsed_ms": 489
+    },
+    {
+      "operation": "details",
+      "case_id": "hi-detail-paradise-audio-1",
+      "completed": true,
+      "elapsed_ms": 520
+    },
+    {
+      "operation": "details",
+      "case_id": "hi-detail-paradise-audio-2",
+      "completed": true,
+      "elapsed_ms": 495
+    },
+    {
+      "operation": "details",
+      "case_id": "hi-detail-bigg-boss-20-audio-0",
+      "completed": true,
+      "elapsed_ms": 1218
+    },
+    {
+      "operation": "details",
+      "case_id": "hi-detail-bigg-boss-20-audio-1",
+      "completed": true,
+      "elapsed_ms": 1134
+    },
+    {
+      "operation": "details",
+      "case_id": "hi-detail-bigg-boss-20-audio-2",
+      "completed": true,
+      "elapsed_ms": 1119
+    },
+    {
+      "operation": "search",
+      "case_id": "en-bigg-boss-after-control",
+      "completed": true,
+      "elapsed_ms": 444
+    },
+    {
+      "operation": "search",
+      "case_id": "search-street-fighter-repeat",
+      "completed": true,
+      "elapsed_ms": 908
+    }
+  ],
+  "exchanges": 24,
+  "read_only": true,
+  "original_publisher_apk_instrumented": false
+}

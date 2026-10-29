@@ -1,0 +1,63 @@
+{
+  "phone": "SM-G998B",
+  "test_scope": "Only mobmodel and sysrelease overridden; native SDK, device identity, credentials, timestamps and signature-generation algorithms preserved",
+  "results": [
+    {
+      "profile": "baseline",
+      "actual_model_header": "SM-G998B",
+      "actual_os_header": "15",
+      "http_status": 200,
+      "returned_title": "-",
+      "returned_year": "2000",
+      "own_authentication_unchanged": true
+    },
+    {
+      "profile": "baseline",
+      "actual_model_header": "SM-G998B",
+      "actual_os_header": "15",
+      "http_status": 200,
+      "returned_title": "-",
+      "returned_year": "2000",
+      "own_authentication_unchanged": true
+    },
+    {
+      "profile": "model-only",
+      "actual_model_header": "SM-M536B",
+      "actual_os_header": "15",
+      "http_status": 200,
+      "returned_title": "-",
+      "returned_year": "2000",
+      "own_authentication_unchanged": true
+    },
+    {
+      "profile": "os-only",
+      "actual_model_header": "SM-G998B",
+      "actual_os_header": "16",
+      "http_status": 200,
+      "returned_title": "-",
+      "returned_year": "2000",
+      "own_authentication_unchanged": true
+    },
+    {
+      "profile": "model-and-os",
+      "actual_model_header": "SM-M536B",
+      "actual_os_header": "16",
+      "http_status": 200,
+      "returned_title": "-",
+      "returned_year": "2000",
+      "own_authentication_unchanged": true
+    },
+    {
+      "profile": "baseline",
+      "actual_model_header": "SM-G998B",
+      "actual_os_header": "15",
+      "http_status": 200,
+      "returned_title": "-",
+      "returned_year": "2000",
+      "own_authentication_unchanged": true
+    }
+  ],
+  "outcome": "No improvement for model-only, OS-only or combined override. All responses contained replacement metadata.",
+  "permanent_apk_changes": false,
+  "playback_fixed": false
+}

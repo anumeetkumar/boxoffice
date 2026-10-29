@@ -1,0 +1,1201 @@
+[
+  {
+    "model": "AdInfoDetailEntry",
+    "shared_key_candidates": [
+      "ad_placement_id",
+      "ad_source_id",
+      "ad_type",
+      "btn_content",
+      "content",
+      "error_codes",
+      "is_allow_close",
+      "jump_type",
+      "jump_url",
+      "new_user_has_ad",
+      "num",
+      "pic_url",
+      "sdk_ad_id",
+      "title"
+    ],
+    "movie_only_key_candidates": [
+      "ad_id"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarAd_id"
+    ]
+  },
+  {
+    "model": "AdInfoEntry",
+    "shared_key_candidates": [
+      "ad_position_1",
+      "ad_position_10",
+      "ad_position_11",
+      "ad_position_12",
+      "ad_position_13",
+      "ad_position_15",
+      "ad_position_16",
+      "ad_position_17",
+      "ad_position_18",
+      "ad_position_19",
+      "ad_position_2",
+      "ad_position_20",
+      "ad_position_21",
+      "ad_position_22",
+      "ad_position_23",
+      "ad_position_24",
+      "ad_position_25",
+      "ad_position_26",
+      "ad_position_3",
+      "ad_position_4",
+      "ad_position_5",
+      "ad_position_6",
+      "ad_position_7",
+      "ad_position_8",
+      "ad_position_9"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": [
+      "ad_position_28",
+      "ad_position_30",
+      "ad_position_31",
+      "ad_position_32",
+      "ad_position_33",
+      "ad_position_34",
+      "ad_position_35",
+      "ad_position_36"
+    ]
+  },
+  {
+    "model": "AdSysConfEntry",
+    "shared_key_candidates": [
+      "sdk_2",
+      "sdk_2_key",
+      "sdk_4"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "ApiconfEntry",
+    "shared_key_candidates": [
+      "api",
+      "is_open"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "AudioTypeEntry",
+    "shared_key_candidates": [
+      "type",
+      "type_name"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "BarrageListEntry",
+    "shared_key_candidates": [
+      "collectionId",
+      "content",
+      "id",
+      "issueContent",
+      "issueTime",
+      "send_time",
+      "textColor",
+      "textSize",
+      "user_id",
+      "vod_id"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "BlockListEntry",
+    "shared_key_candidates": [
+      "banner_pic",
+      "block_name",
+      "content",
+      "data_id",
+      "id",
+      "jump_type",
+      "jump_url",
+      "topic_id",
+      "vod_info",
+      "vod_list"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "CategoryModel",
+    "shared_key_candidates": [
+      "id",
+      "name"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "ChannelTypeItemEntry",
+    "shared_key_candidates": [
+      "data",
+      "name"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "ChannnelFilterEntry",
+    "shared_key_candidates": [
+      "id",
+      "msg",
+      "name"
+    ],
+    "movie_only_key_candidates": [
+      "img"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarImg"
+    ]
+  },
+  {
+    "model": "ClipBoardEntry",
+    "shared_key_candidates": [
+      "channel_code",
+      "invited_by"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "CollectionVideoEntry",
+    "shared_key_candidates": [
+      "app_id",
+      "topic_id",
+      "type_id",
+      "type_pid",
+      "user_id",
+      "vod_id"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "CommentListVideoEntry",
+    "shared_key_candidates": [
+      "content",
+      "create_at",
+      "discuss_count",
+      "discuss_list",
+      "id",
+      "is_up",
+      "user_id",
+      "user_info",
+      "vod_id"
+    ],
+    "movie_only_key_candidates": [
+      "pid"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarPid"
+    ]
+  },
+  {
+    "model": "CommentSuccessEntry",
+    "shared_key_candidates": [
+      "content",
+      "discuss_count",
+      "id",
+      "user_id",
+      "vod_id"
+    ],
+    "movie_only_key_candidates": [
+      "pid"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarPid"
+    ]
+  },
+  {
+    "model": "DailyEntry",
+    "shared_key_candidates": [
+      "bannerList",
+      "categoryModels",
+      "title",
+      "type",
+      "type_id",
+      "videoInfo"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "DetailsetAudioandSubtitleEntry",
+    "shared_key_candidates": [
+      "detailname",
+      "id",
+      "isSelector",
+      "name"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "DiscussListEntry",
+    "shared_key_candidates": [
+      "content",
+      "create_at",
+      "head_img",
+      "id",
+      "nickname",
+      "user_id",
+      "vod_id"
+    ],
+    "movie_only_key_candidates": [
+      "pid"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarPid"
+    ]
+  },
+  {
+    "model": "DownloadAddSuccessEntry",
+    "shared_key_candidates": [
+      "code",
+      "msg",
+      "resource",
+      "status"
+    ],
+    "movie_only_key_candidates": [
+      "order"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarOrder"
+    ]
+  },
+  {
+    "model": "DownloadInfoEntry",
+    "shared_key_candidates": [
+      "download_percent",
+      "download_status",
+      "download_time",
+      "downloading",
+      "resource"
+    ],
+    "movie_only_key_candidates": [
+      "download_rate",
+      "download_size"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarDownload_rate",
+      "netCineVarDownload_size"
+    ]
+  },
+  {
+    "model": "ExtensionRecordEntry",
+    "shared_key_candidates": [
+      "create_at",
+      "head_img",
+      "invited_list",
+      "invited_total_gold_coin",
+      "invited_user_count",
+      "nickname",
+      "user_id"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "ExtensionShareEntry",
+    "shared_key_candidates": [
+      "app_share_url",
+      "download_count",
+      "invited_by",
+      "invited_conf",
+      "invited_count",
+      "invited_qrcode",
+      "invited_reward",
+      "invited_reward_vip",
+      "invited_user",
+      "share_pic_url",
+      "wx_app_url"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "FeedbackNumEntity",
+    "shared_key_candidates": [
+      "isShowHotDot"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "FeedbackRecordEntry",
+    "shared_key_candidates": [
+      "content",
+      "create_at",
+      "head_img",
+      "is_read",
+      "nickname",
+      "reply_at",
+      "reply_content",
+      "tags",
+      "type",
+      "user_id"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "FeedbackTypeEntry",
+    "shared_key_candidates": [
+      "isFlag",
+      "name"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "HomeChangeBatchEntry",
+    "shared_key_candidates": [
+      "startIndex",
+      "videoList"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "HomeMultipleEntry",
+    "shared_key_candidates": [
+      "block_list",
+      "is_change",
+      "is_more",
+      "is_title",
+      "jump_channel_id",
+      "module_id",
+      "module_name",
+      "type"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "HomeMultipleVideoEntry",
+    "shared_key_candidates": [
+      "moduleCoverUrl",
+      "moduleId",
+      "moduleName",
+      "type",
+      "videoList"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "HomeSpecialEntry",
+    "shared_key_candidates": [
+      "block_name",
+      "topic_id"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "HomeTitleEntry",
+    "shared_key_candidates": [
+      "channel_name",
+      "id",
+      "vod_type_id"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": [
+      "title",
+      "type"
+    ]
+  },
+  {
+    "model": "HomeVideoEntity",
+    "shared_key_candidates": [
+      "hotVideos",
+      "recommandVideos"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "HomeVideoPageEntry",
+    "shared_key_candidates": [
+      "isHasNextPage",
+      "list",
+      "pageNum",
+      "total"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "HotNewSearchEntry",
+    "shared_key_candidates": [
+      "content",
+      "hot_type",
+      "name",
+      "pic",
+      "type_pid",
+      "vod_actor",
+      "vod_area",
+      "vod_director",
+      "vod_douban_score",
+      "vod_id",
+      "vod_name",
+      "vod_pic",
+      "vod_tag",
+      "vod_year"
+    ],
+    "movie_only_key_candidates": [
+      "source_id"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarSource_id"
+    ]
+  },
+  {
+    "model": "HotSearchEntry",
+    "shared_key_candidates": [
+      "sort",
+      "word"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "LoginUserEntity",
+    "shared_key_candidates": [
+      "account",
+      "app_id",
+      "head_img",
+      "intro",
+      "is_svip",
+      "login_type",
+      "nickname",
+      "sex",
+      "svip_validity",
+      "token",
+      "user_id",
+      "vip_level"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "MenuList",
+    "shared_key_candidates": [
+      "videoName",
+      "videoType"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "MineInfoEntry",
+    "shared_key_candidates": [
+      "firstName",
+      "menuList",
+      "secondName",
+      "userId",
+      "userName"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "MineUserInfo",
+    "shared_key_candidates": [
+      "account",
+      "age_list",
+      "app_id",
+      "birthday",
+      "has_feedback",
+      "head_img",
+      "intro",
+      "invited_count",
+      "invited_reward",
+      "is_svip",
+      "is_vip",
+      "nickname",
+      "phone",
+      "sex",
+      "svip_validity",
+      "user_id",
+      "vip_validity"
+    ],
+    "movie_only_key_candidates": [
+      "is_update"
+    ],
+    "deepcine_only_key_candidates": [
+      "is_netCineFunupdate"
+    ]
+  },
+  {
+    "model": "OrderEntry",
+    "shared_key_candidates": [
+      "pay_url",
+      "qrcode_raw"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "OrderListEntry",
+    "shared_key_candidates": [
+      "collection",
+      "create_time",
+      "id",
+      "order_number",
+      "pay_status",
+      "payment_id",
+      "price",
+      "title",
+      "user_id",
+      "vod_id"
+    ],
+    "movie_only_key_candidates": [
+      "vip_days"
+    ],
+    "deepcine_only_key_candidates": [
+      "ivip_daysd"
+    ]
+  },
+  {
+    "model": "RankTopicEntry",
+    "shared_key_candidates": [
+      "pid_list",
+      "topic_list"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "RankVideoEntry",
+    "shared_key_candidates": [
+      "content",
+      "icon",
+      "id",
+      "name",
+      "user_num",
+      "vod_list"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "RankVideoTypeEntry",
+    "shared_key_candidates": [
+      "id",
+      "isShow",
+      "rankName",
+      "rankSort",
+      "videoType"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "RecommandVideosEntity",
+    "shared_key_candidates": [
+      "actor",
+      "area",
+      "audio_language_tag",
+      "audio_type",
+      "audio_type_option",
+      "collection_new_title",
+      "comicPosition",
+      "coverUrl",
+      "custom_content",
+      "director",
+      "hide_ad",
+      "icon_type",
+      "id",
+      "is_share",
+      "moduleName",
+      "module_id",
+      "name",
+      "play_position",
+      "remarks",
+      "series_info",
+      "simpleDesc",
+      "tag",
+      "topType",
+      "type_id",
+      "type_pid",
+      "upload_user_head_img",
+      "upload_user_id",
+      "upload_user_name",
+      "videoDesc",
+      "videoId",
+      "videoType",
+      "vod_actor",
+      "vod_area",
+      "vod_blurb",
+      "vod_collection",
+      "vod_director",
+      "vod_douban_score",
+      "vod_duration_free",
+      "vod_from_id",
+      "vod_is_cam",
+      "vod_is_update",
+      "vod_isend",
+      "vod_name",
+      "vod_pic",
+      "vod_serial",
+      "vod_tag",
+      "vod_total",
+      "vod_year"
+    ],
+    "movie_only_key_candidates": [
+      "ad_collection",
+      "ad_freq",
+      "source_id",
+      "vod_url"
+    ],
+    "deepcine_only_key_candidates": [
+      "isSwitch",
+      "netCineVarSource_id",
+      "vod_lang"
+    ]
+  },
+  {
+    "model": "RegisterEntity",
+    "shared_key_candidates": [
+      "account",
+      "app_id",
+      "head_img",
+      "intro",
+      "login_type",
+      "nickname",
+      "sex",
+      "token",
+      "user_id",
+      "vip_level"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "SearchExtendEntry",
+    "shared_key_candidates": [
+      "id",
+      "vod_name"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "SelectorAgeEntry",
+    "shared_key_candidates": [
+      "k",
+      "v"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "SeriesInfoEntry",
+    "shared_key_candidates": [
+      "series",
+      "vod_id"
+    ],
+    "movie_only_key_candidates": [
+      "default"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarDefault"
+    ]
+  },
+  {
+    "model": "SetLanguageEntry",
+    "shared_key_candidates": [
+      "detailname",
+      "isSelector",
+      "name"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "ShareInfoEntity",
+    "shared_key_candidates": [
+      "copyUrl",
+      "qrCodeUrl",
+      "saveAlbumUrl"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "ShortVideoEntry",
+    "shared_key_candidates": [
+      "clickNum",
+      "score",
+      "videoCoverUrl",
+      "videoId",
+      "videoList"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "ShortVideoListEntry",
+    "shared_key_candidates": [
+      "collection",
+      "describe",
+      "id",
+      "name",
+      "pic_url",
+      "play_url",
+      "vod_douban_score",
+      "vod_id",
+      "vod_pic"
+    ],
+    "movie_only_key_candidates": [
+      "click_count"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarClick_count"
+    ]
+  },
+  {
+    "model": "ShortVideoSysConfEntry",
+    "shared_key_candidates": [
+      "channel",
+      "isAudit",
+      "version"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "SpecialDetailEntry",
+    "shared_key_candidates": [
+      "projectCoverUrl",
+      "projectDesc",
+      "projectTitle",
+      "videoList"
+    ],
+    "movie_only_key_candidates": [
+      "favoriteNum",
+      "isFavorited",
+      "moduleCoverUrl",
+      "moduleDesc",
+      "moduleName"
+    ],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "SpecialEntry",
+    "shared_key_candidates": [
+      "list"
+    ],
+    "movie_only_key_candidates": [
+      "isHasNextPage",
+      "pageNum",
+      "total"
+    ],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "SpecialList",
+    "shared_key_candidates": [
+      "content",
+      "icon",
+      "id",
+      "name",
+      "weight"
+    ],
+    "movie_only_key_candidates": [
+      "vod_num"
+    ],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "SpecialListEnntry",
+    "shared_key_candidates": [
+      "content",
+      "icon",
+      "id",
+      "name",
+      "type_id",
+      "user_num",
+      "vod_num"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "SpecialMineCollectionEntry",
+    "shared_key_candidates": [
+      "content",
+      "icon",
+      "id",
+      "name",
+      "user_num",
+      "vod_num"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "TKBean",
+    "shared_key_candidates": [],
+    "movie_only_key_candidates": [
+      "ad_collection",
+      "ad_freq",
+      "netCineVarIsLike",
+      "netCineVarIsShow",
+      "netCineVarIsTrue",
+      "netCineVarListType_id",
+      "netCineVarListType_pid",
+      "netCineVarListVod_actor",
+      "netCineVarListVod_blurb",
+      "netCineVarListVod_director",
+      "netCineVarListVod_id",
+      "netCineVarListVod_pic",
+      "netCineVarListVod_serial",
+      "netCineVarListVod_tag",
+      "netCineVarListVod_total",
+      "netCineVarListVod_url"
+    ],
+    "deepcine_only_key_candidates": [
+      "blurb",
+      "collect_num",
+      "collection",
+      "cover",
+      "id",
+      "is_collect",
+      "is_like",
+      "is_local",
+      "is_lock",
+      "like_num",
+      "lock_begin",
+      "netCineVarShortPos",
+      "serial",
+      "tags",
+      "title",
+      "total",
+      "vod_actor",
+      "vod_url"
+    ]
+  },
+  {
+    "model": "TopicPidList",
+    "shared_key_candidates": [
+      "isSelector"
+    ],
+    "movie_only_key_candidates": [
+      "pid"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarPid"
+    ]
+  },
+  {
+    "model": "UpdateEvent",
+    "shared_key_candidates": [
+      "channel_code",
+      "code",
+      "force_upgrade",
+      "google_id",
+      "message",
+      "packagesize",
+      "result",
+      "sys_platform",
+      "text",
+      "url",
+      "version",
+      "version_name"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "UploadFileEntry",
+    "shared_key_candidates": [],
+    "movie_only_key_candidates": [
+      "file_name"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineVarFile_name"
+    ]
+  },
+  {
+    "model": "UploadVideoEntry",
+    "shared_key_candidates": [
+      "headPhotoUrl",
+      "nickName",
+      "userId",
+      "videoList"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "UrgeMoreEntry",
+    "shared_key_candidates": [
+      "msg"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "UserDeviceEntity",
+    "shared_key_candidates": [
+      "ad_download_num",
+      "ad_view_time",
+      "api_conf",
+      "api_url",
+      "api_url2",
+      "app_conf",
+      "customer_service_url",
+      "ex_tab_name",
+      "external_h5_url",
+      "feedback_tags",
+      "hide_ad",
+      "ios_p_card_list",
+      "is_projection",
+      "max_view_num",
+      "nsl",
+      "share_pic_url",
+      "share_qrcode_url",
+      "show_ad_time",
+      "show_open_screen_ad_time",
+      "sys_conf",
+      "today_view_ad",
+      "user_h5_url",
+      "user_info",
+      "vod_feedback_tags",
+      "website"
+    ],
+    "movie_only_key_candidates": [
+      "netCineVarApp_language_options",
+      "netCineVarShort_play_ad_freq",
+      "privacy_url",
+      "share_content"
+    ],
+    "deepcine_only_key_candidates": [
+      "ad_close_delay_second",
+      "ad_show_interval_second",
+      "app_language_options",
+      "back_popup_watched_num",
+      "browser_mode",
+      "browser_site",
+      "browser_site_name",
+      "ishare_contentd",
+      "menu_show_18",
+      "netCineVarPrivacy_url",
+      "nt_url",
+      "op18",
+      "short_env",
+      "short_video_ad_interval_num",
+      "short_video_ad_interval_second",
+      "short_video_ad_start_num"
+    ]
+  },
+  {
+    "model": "UserInfoEntry",
+    "shared_key_candidates": [
+      "account",
+      "app_id",
+      "create_time",
+      "head_img",
+      "intro",
+      "is_svip",
+      "is_vip",
+      "login_type",
+      "nickname",
+      "sex",
+      "svip_validity",
+      "token",
+      "user_id",
+      "vip_level"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "VideoBean",
+    "shared_key_candidates": [
+      "collection",
+      "down_url",
+      "isCheck",
+      "isDownload",
+      "isSelect",
+      "is_ad",
+      "is_p2p",
+      "orginal_url",
+      "title",
+      "vod_id",
+      "vod_url"
+    ],
+    "movie_only_key_candidates": [
+      "episodeNum",
+      "havInfo",
+      "isCompleteDownload",
+      "is_selected",
+      "source_id"
+    ],
+    "deepcine_only_key_candidates": [
+      "isnetCineFunCompleteDownload"
+    ]
+  },
+  {
+    "model": "VideoCollectionBeanEntry",
+    "shared_key_candidates": [
+      "id",
+      "type_pid",
+      "vod_name",
+      "vod_pic"
+    ],
+    "movie_only_key_candidates": [
+      "collection_new_title",
+      "vod_actor",
+      "vod_area",
+      "vod_director",
+      "vod_douban_score",
+      "vod_isend",
+      "vod_serial",
+      "vod_total",
+      "vod_year"
+    ],
+    "deepcine_only_key_candidates": [
+      "user_vod_id"
+    ]
+  },
+  {
+    "model": "VideoComment1Entry",
+    "shared_key_candidates": [
+      "list",
+      "total_discuss_num"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "VideoFreeEntry",
+    "shared_key_candidates": [
+      "activity_pic",
+      "is_activity"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "VideoInfoModel",
+    "shared_key_candidates": [
+      "author",
+      "category",
+      "cover",
+      "date",
+      "description",
+      "id",
+      "play_url",
+      "title"
+    ],
+    "movie_only_key_candidates": [
+      "author_description",
+      "author_icon"
+    ],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "VideoMoreEntry",
+    "shared_key_candidates": [
+      "icon",
+      "id",
+      "name",
+      "vod_list"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "VideoSetSpeedEntry",
+    "shared_key_candidates": [
+      "id",
+      "isSelector",
+      "name"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "VideoShareDataEntry",
+    "shared_key_candidates": [
+      "app_share_url"
+    ],
+    "movie_only_key_candidates": [
+      "vod_app_share_qrcode",
+      "vod_qrcode",
+      "vod_share_pic",
+      "wx_app_url"
+    ],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "VideoTypeCategoryEntry",
+    "shared_key_candidates": [],
+    "movie_only_key_candidates": [
+      "isSelector",
+      "tagList",
+      "typeName"
+    ],
+    "deepcine_only_key_candidates": [
+      "id"
+    ]
+  },
+  {
+    "model": "VipEntry",
+    "shared_key_candidates": [
+      "payment_guild_enable",
+      "payment_guild_url",
+      "payment_list"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  },
+  {
+    "model": "VipListItemEntry",
+    "shared_key_candidates": [
+      "id",
+      "isCheck",
+      "is_enable",
+      "is_once",
+      "is_recommend",
+      "mark_title",
+      "price",
+      "price_original",
+      "title",
+      "user_type",
+      "vip_days",
+      "weight"
+    ],
+    "movie_only_key_candidates": [
+      "desc",
+      "update_time"
+    ],
+    "deepcine_only_key_candidates": [
+      "netCineFunupdate_time",
+      "netCineVarDesc"
+    ]
+  },
+  {
+    "model": "VodFeedbackEntry",
+    "shared_key_candidates": [
+      "isCheck",
+      "title"
+    ],
+    "movie_only_key_candidates": [],
+    "deepcine_only_key_candidates": []
+  }
+]

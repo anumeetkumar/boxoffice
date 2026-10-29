@@ -1,0 +1,27 @@
+{
+  "serial": "R5CNC1861HF",
+  "model": "SM-G998B",
+  "package": "com.velvetreel.shorttv",
+  "installed": true,
+  "launch_status": "ok",
+  "launch_activity": "com.mgs.carparking.ui.SplashActivity",
+  "launch_total_ms": 498,
+  "home_catalog_loaded": true,
+  "observed_playback_screen": {
+    "title": "Matchbox the Movie 1",
+    "position": "00:05",
+    "duration": "2:06:07"
+  },
+  "sustained_playback_verified": false,
+  "limitation": "Limited movie sample only; newest series and alternate audio are not verified. Separate Movie backend failure remains unresolved.",
+  "boxoffice_replaced": false,
+  "temporary_usb_routes_created": false,
+  "movie_sample_playback_verified": true,
+  "verified_sample": {
+    "title": "The Paradise",
+    "different_frames_observed": true,
+    "progress": "approximately one minute",
+    "replacement_notice_seen": false,
+    "entire_film_or_all_titles_verified": false
+  }
+}

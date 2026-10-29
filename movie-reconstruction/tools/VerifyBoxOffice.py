@@ -25,5 +25,12 @@ badging=subprocess.check_output([str(bt/'aapt2.exe'),'dump','badging',str(apk)],
 if "application-label:'BoxOffice'" not in badging or "package: name='com.fvvcl.flickverse'" not in badging:raise RuntimeError('Brand/package verification failed')
 (root/'reports/boxoffice-badging.txt').write_text(badging,encoding='utf-8')
 report={'apk':str(apk),'sha256':hashlib.file_digest(apk.open('rb'),'sha256').hexdigest(),'label':'BoxOffice','package':'com.fvvcl.flickverse','changed_dex':changed,'unchanged_non_resource_payloads':len(unchanged),'unchanged_native_libraries':native,'ad_placement_getters_disabled':25,'runtime_verified':False}
+audit=(root/'reports/request-flow-audit/comparison.tsv').read_text().splitlines()
+required={'Lsa/b0$a;','Lsa/e;','Lt9/a;','Lp9/a;','Lcom/mgs/carparking/ui/homecontent/videodetail/VideoPlayDetailActivity;','Lcom/mgs/carparking/model/VIDEOPLAYDETAILVIEWMODEL;'}
+classes={line.split('\t',1)[1] for line in audit if line.startswith('IDENTICAL\t')}
+if any(not line.startswith('IDENTICAL\t') for line in audit) or not required.issubset(classes):raise RuntimeError('Original request flow differs; inspect canonical smali audit')
+report['original_request_flow_identical_classes']=len(classes)
+report['request_schema_verified']=True
+report['runtime_dynamic_values_equal']='Not asserted: certificate/device/session/time-dependent values differ legitimately; backend acceptance remains unresolved'
 (root/'reports/boxoffice-verification.json').write_text(json.dumps(report,indent=2))
 print('Verified BoxOffice label, package, original DEX formats/class counts/checksums,',len(unchanged),'unchanged payloads and',len(native),'unchanged native libraries')

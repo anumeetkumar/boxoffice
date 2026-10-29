@@ -10,6 +10,8 @@ bytecode-app/apktool/
 bytecode-app/apktool-smali/
 source-app/src/main/java/
 *.apk
+*.idsig
+.idea/
 .idea/workspace.xml
 tools/native-tracing/image/
 tools/native-tracing/avd/
@@ -23,7 +25,14 @@ tools/native-tracing/sdk-dex/
 tools/native-tracing/*.class
 tools/native-tracing/*.dex
 boxoffice/apktool/
-boxoffice/smali5/
-boxoffice/smali7/
-boxoffice/smali8/
+boxoffice/smali*/
 boxoffice/patched/
+boxoffice/phone-capture/
+boxoffice/endpoint-variant/
+reports/request-flow-audit/
+*.smali
+**/smali*/
+*.log
+**/*.log
+tools/native-tracing/frida-gadget-arm64.so
+tools/native-tracing/*.private

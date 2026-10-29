@@ -1,0 +1,39 @@
+{
+  "apk": "deepcineph.apk",
+  "sha256": "788e45abd4c315e5d2cb51319eae1ba92d8d796e24f4364314df334d636f8600",
+  "package": "com.velvetreel.shorttv",
+  "version": "4.0.0",
+  "min_sdk": "24",
+  "target_sdk": "35",
+  "java_files": 42365,
+  "java_bytes": 206448957,
+  "application_java_files": 1026,
+  "files_with_error_markers": 106,
+  "method_not_decompiled_stubs": 139,
+  "raw_verification": {
+    "apk_sha256": "788e45abd4c315e5d2cb51319eae1ba92d8d796e24f4364314df334d636f8600",
+    "files_verified": 3747,
+    "mismatches": [],
+    "case_collision_remaps": 848
+  },
+  "native_libraries": 32,
+  "api_route_declarations": 113,
+  "bulk_export": {
+    "engine": "JADX dev",
+    "top_level_classes": 42631,
+    "resources": 3747,
+    "errors": 330,
+    "warnings": 3997,
+    "elapsed_ms": 1193365,
+    "threads": 1,
+    "show_inconsistent_code": true,
+    "automatic_deobfuscation": false,
+    "resumed_existing_files": 8,
+    "new_files": 42365,
+    "suppressed_classes": 258,
+    "failed_classes": 0,
+    "initial_bulk_pass_interrupted_for_heap_pressure": false
+  },
+  "runtime_tested": false,
+  "source_build_verified": false
+}

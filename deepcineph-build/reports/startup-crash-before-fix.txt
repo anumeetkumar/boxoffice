@@ -1,0 +1,22 @@
+--------- beginning of crash
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: FATAL EXCEPTION: main
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: Process: com.velvetreel.shorttv, PID: 14659
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: java.lang.RuntimeException: Unable to create application com.mgs.carparking.app.AppApplication: java.lang.NullPointerException: should be initialized in application
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:8383)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at android.app.ActivityThread.-$$Nest$mhandleBindApplication(Unknown Source:0)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2675)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:257)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:342)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:9634)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:619)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: Caused by: java.lang.NullPointerException: should be initialized in application
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at me.goldze.mvvmhabit.utils.VCUtils.b(SourceFile:10)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at com.mgs.carparking.util.UserUtils.n(SourceFile:1)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at com.mgs.carparking.app.AppApplication.safedk_AppApplication_onCreate_bbdf4c402a780e2be10909c2ace6b7a9(Unknown Source:0)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at com.mgs.carparking.app.AppApplication.onCreate(Unknown Source:8)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1386)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:8377)
+10-26 22:20:46.590 14659 14659 E AndroidRuntime: 	... 9 more
