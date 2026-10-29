@@ -46,6 +46,8 @@ deepcineph-reconstruction/raw-file-map.json
 # Binary Packages, Keystores & Archives
 # ==========================================
 *.apk
+!BoxOffice.apk
+!deepcineph.apk
 *.apks
 *.aab
 *.xapk
